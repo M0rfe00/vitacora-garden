@@ -1,9 +1,5 @@
-@use "./base.scss";
-
-// put your custom CSS here!
-
 #principal{                             /*Principal es el main, donde estan las publicaciones y el sidebar */
-    width: 75%;                         /* ancho del 80% del body*/
+    width: 100%;                         /* ancho del 80% del body*/
     height: auto; overflow:hidden;      /* hace que si sobre sale algo se oculte*/
     border: solid rgba(0, 0, 0, 0) 1px;          /* borde de principal de 80%*/
     margin: 10px auto;                  /*margen superior de 10px y centrado*/
@@ -14,7 +10,7 @@
 
 
 .container {
-    width: 80%;
+    width: 100%;
     margin:auto; /* Centrar el contenedor */
     margin-bottom: 20px;
 }
@@ -35,7 +31,7 @@
     box-shadow: 0px 0px 30px #5601c5b6; /*sombra inferior de 10px gris*/
     border-left-style: solid;           /* estilo de borde izquierdo solido*/
     border-left-width: 8px;             /* tamaño del borde izquierdo de 5px*/
-    border-left-color: #C70039;       /*color del borde izquierdo azul*/
+    border-left-color: #03c700;       /*color del borde izquierdo azul*/
     border-radius: 20px;
     width: 90%;
     margin: auto;
