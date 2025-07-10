@@ -29,20 +29,26 @@ const defaultOptions: Options = {
   mapFn: (node) => {
     return node
   },
-  sortFn: (a, b) => {
-    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
-    }
 
-    if (!a.isFolder && b.isFolder) {
-      return 1
-    } else {
-      return -1
-    }
-  },
+
+sortFn: (a, b) => {
+  // Primero mostramos notas (no carpetas)
+  if (!a.isFolder && b.isFolder) {
+    return -1 // a (nota) va antes que b (carpeta)
+  }
+  if (a.isFolder && !b.isFolder) {
+    return 1 // a (carpeta) va después que b (nota)
+  }
+
+  // Si son del mismo tipo, ordenamos alfabéticamente
+  return a.displayName.localeCompare(b.displayName, undefined, {
+    numeric: true,
+    sensitivity: "base",
+  })
+},
+
+
+
   filterFn: (node) => node.slugSegment !== "tags",
   order: ["filter", "map", "sort"],
 }
