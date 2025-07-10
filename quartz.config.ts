@@ -12,11 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    customCss: ["styles/custom.css"],  // 👈 AQUÍ es donde debe ir
     analytics: {
       provider: "plausible",
     },
-    
+
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
