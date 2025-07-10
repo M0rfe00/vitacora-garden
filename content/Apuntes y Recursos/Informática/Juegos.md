@@ -1,6 +1,6 @@
 ---
 title: Juegos
-showInFolderList: "false"
+showInExplorer: "false"
 ---
 <link rel="stylesheet" href="styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->

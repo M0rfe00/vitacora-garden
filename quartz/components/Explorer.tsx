@@ -29,8 +29,7 @@ const defaultOptions: Options = {
   mapFn: (node) => {
     return node
   },
-
-
+  
 sortFn: (a, b) => {
   // Primero mostramos notas (no carpetas)
   if (!a.isFolder && b.isFolder) {
@@ -46,7 +45,6 @@ sortFn: (a, b) => {
     sensitivity: "base",
   })
 },
-
 
 
   filterFn: (node) => node.slugSegment !== "tags",

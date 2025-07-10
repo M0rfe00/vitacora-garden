@@ -1,3 +1,4 @@
+
 #principal{                             /*Principal es el main, donde estan las publicaciones y el sidebar */
     width: 100%;                         /* ancho del 80% del body*/
     height: auto; overflow:hidden;      /* hace que si sobre sale algo se oculte*/
@@ -18,7 +19,7 @@
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 columnas de tamaño igual */
+    grid-template-columns: repeat(3, 1fr); /* 2 columnas de tamaño igual */
     grid-gap: 25px; /* Espaciado entre elementos de la cuadrícula */
     padding: 4%;
     border: solid rgba(0, 0, 0, 0);
@@ -55,3 +56,333 @@ img {
     padding-right: 25%;
     margin: auto;
 }
+
+
+/*Estilos de paginas web!! abajo*/
+
+#publicaciones{                         /*Publicaciones es la parte izquierda donde estan todas las noticias*/
+    width: 80%;                         /* ancho del 70% de principal */
+    height: auto; overflow:hidden;      /* altura centrada y ocultar lo que sobre salga*/
+    border: solid rgba(255, 0, 0, 0) 1px; /*bordes exteriores rojos, hay que ocultarlos*/
+    margin-top: 10px;                   /* margen superior de 10px*/
+    border-radius: 20px;
+    margin: auto;
+                 /* flotar a la izquierda para dejar sitio a la derecha al side bar*/
+}
+
+
+.post {                                 /*Post son los articulos/noticias/cards*/
+    width: 90%;                         /*un ancho del 90% sobre publicaciones*/
+    overflow: hidden;     /*altura centrada y ocultar lo que sobre salga*/
+    padding: 0px;                       /*espaciado interior de 7px*/
+    background: #eee8e8d9;              /*fondo blanco*/
+    border-left-style: solid;           /* estilo de borde izquierdo solido*/
+    border-left-width: 8px;             /* tamaño del borde izquierdo de 5px*/
+    border-left-color: #C70039;       /*color del borde izquierdo azul*/
+    border-radius: 20px;                /*radio del borde de 10px*/
+    box-shadow: 0px 0px 9px #5601c5aa; /*sombra inferior de 10px gris*/
+    margin-bottom: 20px;                /*margen inferior de 20px*/
+    margin-top: 25px;                /*margen inferior de 20px*/
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.enlace-post{                           /*enlace post es el contenedor que hace la etiqueta del titulo*/
+    text-decoration: none;              /*sin decoracion para quitar efecto del href*/
+}
+
+#publicaciones a .titulo-post{          /*titulo post es el titulo de las cards*/
+    color: #000000;                   /*color de texto gris*/
+    font-size: 25px;                    /*tamaño de letra de 22px*/
+    font-family: calibri light;         /*fuente de letra calibri light*/
+    border: solid rgba(0, 0, 0, 0) 1px;
+    max-width: 60%;
+    margin-left: 2%;
+    text-align: left;
+}
+
+
+
+
+
+#publicaciones .img-post{               /*imagenes de las cards*/
+    width: 130px;                       /*ancho de imagen de 150px*/
+    height: 130px;                      /*altura de imagen de 100px*/
+    float: left;                        /*alinear imagen a la izquierda dentro de la card/post*/
+    padding: 5px;                       /*espaciado interior de 5px*/
+    border: 1px solid rgba(0, 0, 0, 0);          /*borde negro, hay que quitarlo*/
+    border-radius: 20px;                /*radio del borde de 10px*/
+    margin-top:10px;
+    margin-bottom: 0.7%;
+    margin-left: 1%;
+    box-shadow: 0px 0px 10px rgba(152, 66, 178, 0.59);
+}
+
+#publicaciones .img-post:hover{
+    box-shadow: 0px 0px 30px rgba(88, 66, 178, 0.834);
+    transform: scale(1.01);
+    transition: 0.3s all ease-in-out;
+
+}
+
+
+
+
+
+
+
+#publicaciones .parrafo-post{           /*parrafo post, es el texto de los post*/
+    font-family: calibri light;         /*fuente de letra calibri light*/            
+    font-size: 20px;                    /*tamaño de letra de 17px*/
+    color: #000000;                   /*color de letra gris*/
+    padding: 6px;
+    padding-left: 10px;                       /*espaciado interior de 5px*/
+    border: solid rgba(0, 0, 0, 0) 1px;       /*borde negro*/
+    float: left;
+    max-height: none;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-right: 1px;
+    max-width: 70%;                     /*tamaño maximo del parrafo de 90% del post/card*/
+}
+
+
+
+.post:hover{
+    box-shadow: 0px 0px 30px rgba(88, 66, 178, 0.913);
+    transform: scale(1.05);
+    transition: 0.4s all ease-in-out;
+    box-shadow: 0px 0px 20px #d400ffeb; /*sombra inferior de 10px gris*/
+} 
+
+/* Categorias de los post */
+.contenedor-categorias{
+    width: 10%;
+    height: 0.5%;
+    border: solid rgba(0, 0, 0, 0) 1px;
+    float: right;
+    margin: 5px;
+}
+
+
+
+
+
+.categoria-otros{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    background: #241dfdc3;
+}
+
+.categoria-programacion{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #008c69c3;
+}
+
+.categoria-redes{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #c60505c3;
+}
+
+.categoria-sistemas{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #15c605c3;
+}
+
+.categoria-seguridad{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #94a202db;
+}
+
+.categoria-sistemas{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #217400db;
+}
+
+
+.categoria-hardware{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #594400de;
+}
+
+.categoria-edicion{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #594400de;
+}
+
+.categoria-videojuegos{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #bc005bde;
+}
+
+.categoria-ia{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #bc005bde;
+}
+.categoria-matematicas{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #0003bcde;
+}
+.categoria-variedad{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #00a0bca3;
+}
+
+.categoria-edicion{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 80%;
+    border-radius: 20px;
+    float:right;
+    padding: 4px;
+    margin-top: 4px;
+    background: #da1a77a3;
+}
+
+
+
+
+
+
+/*         Apartir de aqui voy a hacer los estilos del sistema de filtrado         */
+
+/*-------A partir de aqui son los estilos de otros----------------------------*/
+
+
+
+.container-otros {
+    width: 90%;
+    margin:auto; /* Centrar el contenedor */
+    margin-bottom: 20px;
+}
+
+.grid-otros {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 2 columnas de tamaño igual */
+    grid-gap: 25px; /* Espaciado entre elementos de la cuadrícula */
+    padding: 1%;
+    border: solid rgba(0, 0, 0, 0);
+}
+
+.item-otros {
+    text-align: center;
+    background: #dcf2f163;              /*fondo blanco*/
+    box-shadow: 0px 0px 30px #365486; /*sombra inferior de 10px gris*/
+    border-left-style: solid;           /* estilo de borde izquierdo solido*/
+    border-left-width: 8px;             /* tamaño del borde izquierdo de 5px*/
+    border-left-color: #C70039;       /*color del borde izquierdo azul*/
+    border-radius: 20px;
+    width: 90%;
+    margin: auto;
+    height: 100%;
+}
+
+
+.item-otros:hover{
+    box-shadow: 0px 0px 30px rgba(88, 66, 178, 0.913);
+    transform: scale(1.05);
+    transition: 0.4s all ease-in-out;
+    box-shadow: 0px 0px 40px #0F1035; /*sombra inferior de 10px gris*/
+} 
+
+
+
+
+
+
+.img-otros {
+    width: 30%; /* Imágenes dentro del contenedor */
+    border-radius: 10px; /* Borde redondeado */
+    padding: 5%;
+    padding-left: 12%;
+    padding-right: 20%;
+    margin: auto;
+
+}
+
+
+.item-otros a h3{
+    color: black;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.item-otros a{
+    padding: 2px;
+    margin-bottom: 0px;
+    font-size: 15px;
+}
+
+

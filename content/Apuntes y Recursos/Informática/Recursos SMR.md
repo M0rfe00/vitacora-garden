@@ -1,3 +1,7 @@
+---
+showInFolderList: true
+title: Recursos SMR
+---
 <link rel="stylesheet" href="/styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
     <div class="container">
