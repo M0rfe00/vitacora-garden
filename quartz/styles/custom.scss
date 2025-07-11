@@ -28,6 +28,13 @@
     border: solid rgba(0, 0, 0, 0);
 }
 
+.grid-cine {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 2 columnas de tamaño igual */
+    grid-gap: 25px; /* Espaciado entre elementos de la cuadrícula */
+    padding: 4%;
+    border: solid rgba(0, 0, 0, 0);
+}
 
 .item {
     text-align: center;
@@ -64,10 +71,11 @@ img {
 /*Estilos de paginas web!! abajo*/
 
 #publicaciones{                         /*Publicaciones es la parte izquierda donde estan todas las noticias*/
-    width: 80%;                         /* ancho del 70% de principal */
+    width: 95%;                         /* ancho del 70% de principal */
     height: auto; overflow:hidden;      /* altura centrada y ocultar lo que sobre salga*/
     border: solid rgba(255, 0, 0, 0) 1px; /*bordes exteriores rojos, hay que ocultarlos*/
     margin-top: 10px;                   /* margen superior de 10px*/
+    margin-right: 10%; 
     border-radius: 20px;
     margin: auto;
                  /* flotar a la izquierda para dejar sitio a la derecha al side bar*/
@@ -94,6 +102,7 @@ img {
 
 .enlace-post{                           /*enlace post es el contenedor que hace la etiqueta del titulo*/
     text-decoration: none;              /*sin decoracion para quitar efecto del href*/
+        margin-left: 2%;
 }
 
 #publicaciones a .titulo-post{          /*titulo post es el titulo de las cards*/
@@ -117,7 +126,7 @@ img {
     padding: 5px;                       /*espaciado interior de 5px*/
     border: 1px solid rgba(0, 0, 0, 0);          /*borde negro, hay que quitarlo*/
     border-radius: 20px;                /*radio del borde de 10px*/
-    margin-top:10px;
+    margin-top:4px;
     margin-bottom: 0.7%;
     margin-left: 1%;
     box-shadow: 0px 0px 10px rgba(152, 66, 178, 0.59);
