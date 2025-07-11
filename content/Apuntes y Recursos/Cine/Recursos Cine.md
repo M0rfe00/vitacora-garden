@@ -7,7 +7,7 @@ title: Recursos Cine
     <div class="container">
         <div class="grid-cine">
             <div class="item">
-                <a href="Paginas Web">
+                <a href="Online Cine">
                     <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/webicon.png" alt="Imagen 1">
                     <h3>Online</h3>
                 </a>
