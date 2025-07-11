@@ -1,6 +1,7 @@
 ---
 tags:
   - hideInExplorer
+  - Cine
 ---
 
 Para descargar un Torrent primero necesitamos descargar un cliente de Torrent, el oficial y el cual recomiendo usar es Utorrent web, para ello ve a la página oficial, selecciona descarga y sigue los pasos de instalación.

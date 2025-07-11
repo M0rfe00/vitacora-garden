@@ -1,6 +1,7 @@
 ---
 tags:
   - hideInExplorer
+  - Cine
 ---
 Aquí voy a enseñar como descargar subtítulos en tres paginas diferentes, OpenSubs, MySubs e YTS.
 ![]()
