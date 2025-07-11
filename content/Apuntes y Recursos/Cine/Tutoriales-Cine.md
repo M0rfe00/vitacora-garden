@@ -9,7 +9,7 @@ tags:
 <!-----------Aqui voy a probar a hacer el filtro de busqueda-------------->
 <!----------------Aqui acaba el codigo del filtro------------------->
         <article class="post programacion-post">
-            <a href="https://www10.playdede.link/" class="enlace-post" target="_blank">
+            <a href="Descargar Torrents" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Descargar pelis por Torrent</h2>
             <img src="https://m0rfe00.github.io/GuideMovieLookass/Imagenespelis/torrent.png" class="img-post">
         </a>
@@ -20,7 +20,7 @@ tags:
             </p>
         </article>
         <article class="post otros-post">
-            <a href="https://sflix.to/home" class="enlace-post" target="_blank">
+            <a href="Descargar subtitulos" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Subtitulos</h2>
             <img src="https://m0rfe00.github.io/GuideMovieLookass/Imagenespelis/subs.png" class="img-post">
         </a>
@@ -31,7 +31,7 @@ tags:
             </p>
         </article>
         <article class="post seguridad-post">
-            <a href="https://primeran.eus/" class="enlace-post" target="_blank">
+            <a href="Reproductor de video" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Reproductor de video</h2>
             <img src="https://m0rfe00.github.io/GuideMovieLookass/Imagenespelis/vlc.png" class="img-post">
         </a>
@@ -43,7 +43,7 @@ tags:
             </p>
         </article>
         <article class="post redes-post">
-            <a href="https://ok.ru/video/showcase" class="enlace-post" target="_blank">
+            <a href="Extensiones útiles" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Extensiones utiles</b></h2>
             <img src="https://m0rfe00.github.io/GuideMovieLookass/Imagenespelis/plugin.png" class="img-post">
         </a>
