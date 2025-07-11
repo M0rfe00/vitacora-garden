@@ -1,9 +1,3 @@
----
-dg-publish: true
-dg-home: 
-updated: 
-cssclasses:
----
 # TECNICO SUPERIOR SONIDO
 
 ## <u>0. INTRODUCCION: TERMINOS</u>

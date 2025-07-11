@@ -1,7 +1,5 @@
 ---
 title: VitaCora
-draft: false
-tags:
 ---
 
 # VitaCora:

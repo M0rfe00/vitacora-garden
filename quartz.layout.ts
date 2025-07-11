@@ -42,12 +42,25 @@ export const defaultContentPageLayout: PageLayout = {
 
 Component.Explorer({
   title: "", // title of the explorer component
-  folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-  // omitted but shown later
-  // what order to apply functions in
-  order: ["filter", "map", "sort"],
+  folderClickBehavior: "collapse", // qué pasa al clicar en una carpeta
+  folderDefaultState: "collapsed", // estado inicial de carpetas
+  useSavedState: true, // guardar estado localmente
+filterFn: (node) => {
+  // Ocultar carpetas específicas por nombre
+  const carpetasOcultas = ['Apuntes-SMR', 'Recursos-SMR(fd)', 'carpeta']
+
+  if (node.isFolder) {
+    const folderName = (node as any)?.fileSegmentHint ?? ""
+    if (carpetasOcultas.includes(folderName)) return false
+  }
+
+  // Ocultar notas con la etiqueta 'hideInExplorer'
+  const tags = (node.data as any)?.tags
+  if (Array.isArray(tags) && tags.includes('hideInExplorer')) return false
+
+  return true
+}
+,
 })
 
 
