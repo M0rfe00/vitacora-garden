@@ -73,6 +73,7 @@ filterFn: (node) => {
     depth: 1,
     removeTags: ["hideInExplorer"],
   },
+  
   globalGraph: {
     drag: true,
     zoom: true,
@@ -102,5 +103,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    
+  ],
 }
