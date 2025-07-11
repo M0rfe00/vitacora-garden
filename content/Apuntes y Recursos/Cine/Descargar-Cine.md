@@ -2,6 +2,7 @@
 tags:
   - hideInExplorer
 ---
+En esta pagina recopila algunas de las paginas que recomiendo para descargar pelis/series.
 
 <link rel="stylesheet" href="styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
