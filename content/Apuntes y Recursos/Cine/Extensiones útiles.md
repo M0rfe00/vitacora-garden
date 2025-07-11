@@ -1,6 +1,7 @@
 ---
 tags:
   - hideInExplorer
+  - Cine
 ---
 Existen algunas extensiones del navegador útiles para ver pelis, las principales son:
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - hideInExplorer
+  - Cine
+"":
 ---
 
 VLC en lo personal es la mejor opción en cuanto a reproductor de video, es compatible con prácticamente todos los formatos de video, y te permite configurar los subtítulos y audios fácilmente  

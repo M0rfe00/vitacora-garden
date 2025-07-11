@@ -1,0 +1,210 @@
+---
+tags:
+  - Davinci
+---
+# **<u>Fusion:</u>**
+
+- Shift+space = añadir un nodo
+
+- F2 = renombrar un nodo
+
+- Cada nodo tiene dos círculos bajo el, sirven para previsualizar su salida en el primer o segundo visor superior.
+
+- Se pueden modificar los parámetros de cada nodo teniéndolo seleccionado desde el inspector
+
+- Flechas: Azul=Mascara, Amarilla=fondo,
+
+- Para organizar la red de nodos se puede añadir un underlay
+
+## **\[DIA 17\] Merge y mascaras:** 
+Se quiere modificar el escenario original del clip para expandir el fondo amarillo, tapar el escritorio,
+reemplazar el portátil y añadir plantas.
+
+Para **añadir imágenes** como la tabla de la mesa o las plantas se añade un nodo “MediaIn” y Para **combinar** la imagen del “MediaIn” con el plano original se utiliza un nodo “Merge” (entrada amarilla para el fondo y verde para el elemento superior).
+
+Para **transformar** una imagen en su escala, rotación, posición... se usa el nodo “Transform”
+
+Para **ajustar el método de mezcla** se pueden utilizar los nodos “Divide” y “Multiply” entre otros
+
+Para **modificar la iluminación** se utiliza el nodo “BrightnessContrast”
+
+Para añadir un fondo solido se utiliza el nodo “background” y un “merge” para combinarlo con el anterior, el background se puede combinar conectándole una máscara que podemos crear con diferentes herramientas, la máscara que dibujemos y conectemos al fondo hará que el fondo solo
+sea visible en esa selección.
+
+<img src="./45d0491fc7c1cbe7bc4bb7c81fd2b9d96a76ec0b.png"
+style="width:6.25in;height:3.03125in" alt="Imagen, Imagen" />
+
+## **\[Día 18\] – Los 3 tipos de trackeos**
+
+### **Tracking puntual (Tracker)**
+
+Este tipo de trackeo funciona de forma bidimensional extrayendo las coordenadas X e Y de un objeto y acoplándole otro objeto.
+
+Para ello hay que añadir un nodo “tracker” ajustar el punto de trackeo y la zona de búsqueda al punto deseado, canal de búsqueda (RGB, A...)
+
+Tras tener ajustado el punto de trackeo se inicia el trackeo en el modo “tracking forward to current time” para que trackee del fotograma actual en adelante.
+
+Para aplicar el trackeo a un objeto hay que seleccionar la operación de trackeo “Match move” para aplicar la posición, rotación y escala al nodo conectado al tracker, en la opción merge “FG over GB” para superponer el objeto sobre el fondo.
+
+Para transformar las posición, rotación, escala y desenfoque de movimiento del texto se utiliza un “Transform”
+
+<img src="./5a82e200462521b82b277ad76e267837ea602073.png"
+style="width:6.25in;height:3.28125in" alt="Imagen, Imagen" />
+
+### **Trackeo de area (Planar tracker)**
+
+A diferencia del trackeo puntual este extrae también la información de escala, rotación y perspectiva
+
+En el ejemplo añado una imagen con “MediaIn”, modifico su escala con “Transform” y la combino en un “Merge” con un “Background” para hacer coincidir su resolución con el plano final (1920x1080).
+
+Para trackear un area en vez de un solo punto hay que seleccionar el nodo “planar tracker” conectarlo a nuestro plano original, elegir un frame en el que la superficie este lo más frontal y centrado posible y en el dibujar la zona que queremos trackear.
+
+Desde el inspector hay que seleccionar el tipo de tracker “Hybrid Point/Area” para seleccionar que es un area, en el tipo de movimiento del area “Perspectiva” en la zona en la que queremos que se trackee “background” y el canal sobre el que se sacara la información “Blue” o en el que haya mayor textura para tener mayor contraste y realice mejor el trackeo.
+
+Tras crear los puntos de trackeo se puede crear un “Planar transform” que guardará la información de trackeo y se podrá a aplicar a otro objeto para fusionarlo al plano original con un merge y en modo “Multiply” para eliminar el fondo blanco de la imagen y activando motion blur para añadir realismo.
+
+<img src="./e1585aead73c7bc279d832e57b12db55cb1693dd.png"
+style="width:6.25in;height:4.09375in" alt="Imagen, Imagen" />
+
+### **Trackeo de cámara (Camera tracker):**
+
+El trackeo tridimensional del movimiento de la cámara, crea una cámara virtual que replica el movimiento de la cámara real.
+
+Para realizar este trackeo hay que añadir el nodo “Camera tracker” que a diferencia del “Planar tracker” creara puntos de trackeo por todo el plano a diferentes distancias de la cámara, pudiendo ajustar el umbral de creación de los puntos, el número de puntos, distancia entre ellos...
+
+Al crearse puntos en todo el plano también está utilizando de referencia objetos en movimiento como personas u árboles, para ello podemos enmascarar estos objetos con polígonos en el tiempo y conectarlos a otro polígono en Paint mode “Substract” para que incluya todas las zonas
+enmascaradas y finalmente conectarlos al Camera tracker para que no genere puntos de referencia en esas mascaras.
+
+Tras generar los puntos de trackeo y enmascarar las zonas en movimiento se trackean los puntos pulsando “Auto Track”, En el panel de Cámara hay que rellenar la información de la cámara y en el panel Solve pulsar “solve”, esto calculara la distancia entre puntos para calcular la
+cámara 3D y la precisión de los puntos de trackeo marcándolos de verde a rojo pudiendo eliminar los erroneos.
+
+Para exportar la información de trackeo a una cámara 3D hay que seleccionar el panel “Export” del nodo “Camera tracker” y en “3D scene transform” seleccionar “Unaligned” para alinear manualmente la escena. En “Origin” seleccionar un punto de trackeo que este en el suelo y
+pulsar “Set from selection”. En “Orientation” seleccionar 3 puntos mínimo que se encuentren en el suelo y pulsar “XZ plane (ground) en caso de que los puntos estén en el suelo. Finalmente se pulsa export lo que generara varios nodos que habran creado una escena 3D (cámara, cubo, suelo...).
+
+Cada elemento que queramos añadir a la escena 3D primero habrá que pasarlo a 3D, conectarlo al nodo “Merge3D” para añadirlo a la escena y desde el visor 3D o desde el panel transform en el inspector se podrá transformar su posicion y escala en la escena.
+
+
+### **Resumen del ejemplo:**
+
+En el grupo “Mascaras” esta el camera tracker para generar los puntos de trackeo y dos polígonos para enmascarar las zonas en movimiento.
+
+En el grupo “3D” se encuentra la escena 3D centralizada en un “Merge3D” el cual tiene principalmente conectado una “Camera3D”y un “PointCloud”
+
+Ademas de un texto y una imagen: “Text3D” para el texto y la imagen de una antena en un “MediaIn”, enmascarada con un “rentangle”, un nodo “BightnessContrast” para ajustar su brillo y un nodo “Imageplane3D” para convertir la imagen 2D a 3D.
+
+<img src="./9efde53ffc88cc2d18bfce29f41e268159b73eaf.png"
+style="width:6.25in;height:3.71875in" alt="Imagen, Imagen" />
+
+
+
+## **\[Día\] 19 – Rotoscopias**
+
+**Mascará básica:** crear una máscara según la forma de un objeto y animándola fotograma a fotograma y conectándola a la entrada azul de un merge, logrando que el objeto que se estaba combinando con el fondo únicamente sea visible donde está la máscara y viceversa.
+
+**Mascará estática:** en caso de tener un objeto trackeado en vez de crear la máscara fotograma a fotograma como el objeto sigue el movimiento de la cámara se puede crear una máscara estática y cada vez que pase el objeto sobre ella será visible o no.
+
+<img src="./c8b14b224078967152ad3424078e8710816bd21c.png"
+style="width:6.25in;height:1.98958in" alt="Imagen, Imagen" />**
+
+**Mascará en movimiento:** en vez de trackear un objeto y crear una mascara para que se aplique cuando pasa sobre ella, se puede hacer lo contrario, crear una máscara y rotoscopiarla, en este ejemplo el objeto estará estático y la máscara en movimiento
+
+<img src="./5e8131215bd0dbb7254a0eb527e51f96e8bad17d.png"
+style="width:6.25in;height:1.34375in" alt="Imagen, Imagen" />
+
+**Magic mask Color:** dentro de color hay una opción de crear mascaras inteligentes con “Magic Mask” pese a estar hechas para aislar zonas sobre las que trabajar el color también pueden ser utilizadas para crear rotoscopias.
+
+Para ello hay que ir a color y en “magic mask”, elegir entre persona o característica, seleccionar la herramienta de la pipeta y dibujar una línea sobre la persona, pulsar el icono superior de la varita para visualizar la rotoscopia y en el panel de “magic mask” seleccionar el icono de las flechas para trackear esa rotoscopia, para ajustar la calidad de la rotoscopia hay que jugar con los parámetros de calidad.
+
+Para exportar la rotoscopia hay que sacara la salida azul (mascara) al out, exportar el clip como un video.
+
+Para utilizar la rotoscopia como mascara volvemos a fusión, añadimos el video con un “MediaIn” y se le conecta un nodo “Lumakeyer” para extraer el Alpha con el que ya podremos conectar la rotoscopia al video original para tener el video original, una rotoscopia de la persona por encima y la posibilidad de añadir objetos bajo la rotoscopia.
+
+<img src="./03470f0fb47a511d8e7b64bef29e3dd32b583aa1.png"
+style="width:4.65625in;height:1.6875in" alt="Imagen, Imagen" />
+
+**Magic mask (fusión):** tras varias actualizaciones DaVinci añadió magic mask al módulo de color, para ello hay que ir a fusion, añadir el nodo “magic mask”, conectarle a la entrada amarilla el video de entrada y con la herramienta de cuentagotas dibujar, añadir, restar y seleccionar trazos para crear la máscara y trackear hacia delante o atrás, dentro de las opciones se puede alternar entre el modo más rápido para tener unos resultados optimizados o mejor para obtener una mejor
+calidad.
+
+Dentro del panel de mascara se puede realizar ajustes como desenfocar la máscara, reducirla o ampliarla y modificar la gamma, lo que cambiara el contraste entre zonas blancas y negras aumentando el umbral de detección o reduciéndolo
+
+
+## **\[Día 20\] – Reemplazo de cielo y croma**
+
+#### **Reemplazo de cielo:**
+
+En el grupo **“Fondo”** hay una imagen “MediaIn” combinada con un “background” para adaptar el tamaño de la imagen a la del video (1920x1080), después de pasa por un nodo “BrightnessContrast” para para cuadrar la exposición del fondo al de la imagen y un nodo “Transform” para ajustar la escala del fondo y que ocupe toda la imagen (también se puede modificar el merge del fondo en la opción “edges” para que el fondo se repita a modo de espejo)
+
+y finalmente se conecta a un nodo “Planar transform” para trackear el fondo según el movimiento de la cámara y lograr que no se quede estático mientras se mueve la cámara.
+
+En el grupo **“ImgOriginal”** se pasa el plano original por un nodo “Planar tracker” para trackear el movimiento de la cámara, después por un nodo “Lumakeyer” para transparentar zonas de la imagen en base a su brillo
+
+<img src="./72816b20df172c60854daf0d527b9ba3411851f5.png"
+style="width:6.25in;height:4.28125in" alt="Imagen, Imagen" />
+
+#### **Croma:**
+
+En el grupo **“Transparencia”** está el plano original conectado a un nodo “Ultrakeyer” en el que hay que seleccionar el color del fondo (recomendado verde más oscuro), para mejorar la transparencia hay que jugar con los parámetros del nodo, en concreto desde el panel Image se puede quitar el verde según la supresión y método de spill y modificando los canales.
+
+Para que el efecto del “Ultrakeyer” funcione y deje todo lo demas transparente hay que crear un poligono, conectarlo a la entrada gris (garbage mate) y teniendo seleccionado el “Ultrakeyer”, en el panel “Matte” ir a “Garbage Matte” y marcar “Invert” y “Post Multiply image” y desmarcar “Substract background”.
+
+En el grupo “Fondo” hay una imagen conectada a un nodo “Transform” para modificar su escala y combinada en un “Merge” con un “background” para ajustar la resolución del fondo a la del video (1920x1080).
+
+<img src="./5960acb79b2087a8370acbf6d3ca29cd17b44481.png"
+style="width:6.25in;height:5.03125in" alt="Imagen, Imagen" />
+
+Otra opción mucho más rápida de realizar un croma, es desde el módulo edit, para ello hay que seleccionar el efecto “3D Keyer”, activar los controles Openfx y desde el inspector seleccionar la herramienta de la pipeta para dibujar sobre la zona del fondo que queremos transparentar.
+
+Para mejorar la selección se pueden ajustar parámetros como “despill” para bajar la saturación al verde, en “key adjusment” aunque esto se haya ajustado al hacer la selección y sobre todo en “Refinamiento”.
+
+Para ampliar la zona de transparencia en caso de que el croma no ocupe todo el plano hay que seleccionar “mascara de exclusión” ajustar la máscara a la zona que queremos ver e invertirla para transparentar todo lo demás.
+
+Para añadir un fondo simplemente habría que añadir otro clip por debajo de este.
+
+<img src="./702764015a3b929c98513e2cf01930882b7f9eda.png"
+style="width:6.25in;height:2.77083in" alt="Imagen, Imagen" />**
+
+## \[Actualización Fusion\]**
+
+## **Mapas de profundidad:**
+Este nodo crea un mapa de profundidad, esto es una imagen en blanco y negro que representa la profundidad de campo de la imagen, cuanto más cercano a la cámara en blanco y viceversa.
+
+El mapa se puede ajustar, dentro del panel de controles se puede ajustar;
+
+Modo; más rápido para un resultado sencillo y ligero o mejor para uno optimo, e invertir.
+
+Ajuste de mapa final; indicar al programa donde empieza y acaba el mapa, es decir el punto más lejano y cercano del mapa, la gamma permite suavizar la transición entre blanco y negro.
+
+Aislamiento de profundidad especifica; permite generar el mapa en una zona específica en vez de en toda la imagen
+
+Refinamiento: también llamado postprocesado, permite añadir mas detalle al mapa basado en la imagen, dentro de sus ajustes se puede contraer/expandir los bordes o desenfocarlos.
+
+#### Casos útiles:
+
+- Efecto parallax: uno de los casos para utilizar el DepthMap es el efecto parallax que genera una ilusión óptica en la que los objetos más cercanos más rápidos que los lejanos.
+
+	Para ello se añade el nodo “displace” al que se le conecta la imagen por la entrada amarilla y el mapa de profundidad de esa misma imagen por la entrada verde, en el nodo displace debe estar seleccionado Luminancia en el canal de refracción.
+
+<img src="./232acf1584a47fdffce1220bf4eb639308648e35.png"
+style="width:6.25in;height:1.27083in" alt="Imagen, Imagen" />
+
+- **Crear niebla:** mezclando una imagen con su propio mapa de profundidad en modo “pantalla” permite crear un efecto de niebla.
+
+<img src="./6d2010c09547fc7f4fc0965f57f9d078b724449b.png"
+style="width:6.25in;height:1.34375in" alt="Imagen, Imagen" />
+
+- **Corregir color:** el mapa de profundidad puede utilizarse como mascara para modificar el color de la imagen en zonas especificas
+
+<img src="./0fd0e05b34fa4d7cab2cb23bf830bdd245483a14.png"
+style="width:6.25in;height:1.53125in" alt="Imagen, Imagen" />
+
+- **Desenfoque:** el mapa de profundidad puede ser utilizado en caso de que todo el plano este enfocado para desenfocar las zonas cercanas de la imagen y viceversa, también se puede ajustar el contraste con un nodo de ”curvas”
+
+<img src="./a4ab59605f9b7a1c5e1777888c3bcff100c2c0da.png"
+style="width:6.25in;height:1.21875in" alt="Imagen, Imagen" />
+
+- **Reiluminación:** Este nodo generara un mapa de normales que indicaran hacía qué dirección apunta cada cara, los parámetros de este modo son: el tipo de fuente de luz, la dirección, propiedades de la luz (brillo, contraste, alcance), propiedades de la superficie (brillantez, especularidad, atenuación de sombras)...
+
+	En caso de tener una composición formada por un fondo y una imagen con diferente iluminación, se puede utilizar el nodo “reiluminación” para ajustarlo, para ello se utilizaría el nodo “reiluminación” para indicar desde que dirección recibe la luz el objeto que se conectaría al nodo “color corrector” para modificar la iluminación y color de esas zonas basado en el canal luminancia.
+
+<img src="./abe4d5497072e3b76aab0300ab36e82764c3dbd7.png"
+style="width:6.25in;height:1.5in" alt="Imagen, Imagen" />

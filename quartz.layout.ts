@@ -47,7 +47,7 @@ Component.Explorer({
   useSavedState: true, // guardar estado localmente
 filterFn: (node) => {
   // Ocultar carpetas específicas por nombre
-  const carpetasOcultas = ['Apuntes-SMR', 'Recursos-SMR(fd)', 'carpeta']
+  const carpetasOcultas = ['Carpeta', 'Recursos-SMR(fd)', 'carpeta']
 
   if (node.isFolder) {
     const folderName = (node as any)?.fileSegmentHint ?? ""
@@ -66,7 +66,20 @@ filterFn: (node) => {
 
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+  localGraph: {
+    drag: true,
+    zoom: true,
+    depth: 1,
+    removeTags: ["hideInExplorer"],
+  },
+  globalGraph: {
+    drag: true,
+    zoom: true,
+    depth: -1,
+    removeTags: ["hideInExplorer"],
+  },
+}),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
