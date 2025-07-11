@@ -22,7 +22,7 @@
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 2 columnas de tamaño igual */
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas de tamaño igual */
     grid-gap: 25px; /* Espaciado entre elementos de la cuadrícula */
     padding: 4%;
     border: solid rgba(0, 0, 0, 0);

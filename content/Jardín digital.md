@@ -1,6 +1,4 @@
----
-showInFolderList: "false"
----
+
 # Jardín digital:
 El diseño y filosofía de esta pagina esta basado en la idea de jardín digital, citando el video ensayo de Alba Lafarga "Contra el algoritmo: cultivar jardines digitales en vez de likes":
 

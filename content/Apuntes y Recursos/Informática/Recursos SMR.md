@@ -24,5 +24,11 @@ title: Recursos SMR
                     <h3>Videojuegos</h3>
                 </a>
             </div>
+                        <div class="item">
+                <a href="/Apuntes y Recursos/Informática/Apuntes-SMR">
+                    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/gameicon.png" alt="Imagen 4">
+                    <h3>Apuntes</h3>
+                </a>
+            </div>
     </div>
 </section>

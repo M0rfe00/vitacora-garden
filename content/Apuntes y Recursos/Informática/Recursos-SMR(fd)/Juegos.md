@@ -1,7 +1,8 @@
 ---
-title: Juegos
-showInExplorer: "false"
+tags:
+  - hideInExplorer
 ---
+
 <link rel="stylesheet" href="styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->

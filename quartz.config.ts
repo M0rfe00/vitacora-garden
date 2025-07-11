@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { DraftsAndExplorerControl } from "./quartz/plugins/filters/DraftsAndExplorerControl"
 
 /**
  * Quartz 4 Configuration
@@ -21,7 +22,7 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    
+
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -77,7 +78,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [DraftsAndExplorerControl()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
