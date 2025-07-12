@@ -403,3 +403,26 @@ img {
 }
 
 
+.diario {
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  border-left: 4px solid var(--accent);
+  box-shadow: 0 2px 6px rgba(74, 74, 74, 0.1);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Tema claro */
+body.light .diario {
+  background-color: #fefefe;
+  color: #111;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Tema oscuro */
+body.dark .diario {
+  background-color: #2a2a2a;
+  color: #eee;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
