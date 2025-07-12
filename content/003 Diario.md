@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="/styles/custom.css">
 
-
-
 <div class="diario">
   <strong>📅 12/07/2025</strong> — ⏱️ <em>1 min</em><br><br>
   O acabo pronto el diseño de esta web o ella va acabar conmigo...
