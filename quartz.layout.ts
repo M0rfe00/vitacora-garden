@@ -17,6 +17,23 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    // Mostrar notas del diario solo en la página "diario.md"
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Diario",
+        limit: undefined, // sin límite
+        showTags: false,
+        linkToMore: undefined,
+        filter: (f) => f.frontmatter?.tags?.includes("diario") ?? false,
+        sort: (f1, f2) => {
+          const dateA = new Date(f1.dates?.created ?? f1.dates?.modified ?? 0).getTime()
+          const dateB = new Date(f2.dates?.created ?? f2.dates?.modified ?? 0).getTime()
+          return dateB - dateA
+        },
+      }),
+      condition: (page) => page.fileData.slug === "diario",
+    }),
+    // Para el resto de páginas
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
@@ -25,6 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -38,57 +56,50 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-
-
-Component.Explorer({
-  title: "", // title of the explorer component
-  folderClickBehavior: "collapse", // qué pasa al clicar en una carpeta
-  folderDefaultState: "collapsed", // estado inicial de carpetas
-  useSavedState: true, // guardar estado localmente
-filterFn: (node) => {
-  // Ocultar carpetas específicas por nombre
-  const carpetasOcultas = ['Carpeta', 'Recursos-SMR(fd)', 'carpeta']
-
-  if (node.isFolder) {
-    const folderName = (node as any)?.fileSegmentHint ?? ""
-    if (carpetasOcultas.includes(folderName)) return false
-  }
-
-  // Ocultar notas con la etiqueta 'hideInExplorer'
-  const tags = (node.data as any)?.tags
-  if (Array.isArray(tags) && tags.includes('hideInExplorer')) return false
-
-  return true
-}
-,
-})
-
-
+    Component.Explorer({
+      title: "",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+      filterFn: (node) => {
+        const carpetasOcultas = ['Carpeta', 'Recursos-SMR(fd)', 'carpeta']
+        if (node.isFolder) {
+          const folderName = (node as any)?.fileSegmentHint ?? ""
+          if (carpetasOcultas.includes(folderName)) return false
+        }
+        const tags = (node.data as any)?.tags
+        if (Array.isArray(tags) && tags.includes('hideInExplorer')) return false
+        return true
+      },
+    }),
   ],
   right: [
     Component.Graph({
-  localGraph: {
-    drag: true,
-    zoom: true,
-    depth: 1,
-    removeTags: ["hideInExplorer"],
-  },
-  
-  globalGraph: {
-    drag: true,
-    zoom: true,
-    depth: -1,
-    removeTags: ["hideInExplorer"],
-  },
-}),
+      localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
+        removeTags: ["hideInExplorer"],
+      },
+      globalGraph: {
+        drag: true,
+        zoom: true,
+        depth: -1,
+        removeTags: ["hideInExplorer"],
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -103,7 +114,5 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [
-    
-  ],
+  right: [],
 }
