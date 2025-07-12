@@ -1,6 +1,7 @@
 
 Contenido de la entrada...
 ___________
+Fecha: 12/07/2025
 *Aquí irían notas publicaciones al uso, pensamientos, reflexiones etc...*
 ______________________
 
