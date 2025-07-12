@@ -12,7 +12,10 @@ ___
 
 # 2024
 ___
-
+<div class="galeria">
+<img src="../media-content/1746134794270.jpg" alt="">
+<img src="../media-content/GiQgIvSWsAAJEga.jpg" alt="">
+</div>
 
 
 # 2023
