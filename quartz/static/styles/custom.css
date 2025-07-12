@@ -385,4 +385,27 @@ img {
     font-size: 15px;
 }
 
+.diario {
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  border-left: 4px solid var(--accent);
+  transition: background-color 0.3s, color 0.3s;
+}
 
+/* Modo claro */
+@media (prefers-color-scheme: light) {
+  .diario {
+    background-color: #f9f9f9;
+    color: #111;
+  }
+}
+
+/* Modo oscuro */
+@media (prefers-color-scheme: dark) {
+  .diario {
+    background-color: #1e1e1e;
+    color: #eee;
+  }
+}
