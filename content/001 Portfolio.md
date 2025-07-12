@@ -4,6 +4,8 @@ Breve presentación, proyectos y enlaces a redes...
 ___
 Presentación
 
+
+
 # Proyectos
 ___
 - Moda
@@ -12,9 +14,12 @@ ___
 - Edición de Imagen y video
 - Audiovisuales generativos
 
+
+
 # Mis Redes
 ___
 - Twitter
+- Discord
 - Instagram
 - Youtube
 - Sketch Fab
