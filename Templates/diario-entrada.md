@@ -11,12 +11,12 @@ const formattedTags = tags
   ? tags.split(",").map(tag => `#${tag.trim().replace(/^#/, "")}`).join(" ")
   : ""
 
-const displayTitle = title ? `📝 <strong>${title}</strong><br>` : ""
+const displayTitle = title ? `<strong><h3>📝${title}</h3></strong>` : ""
 const displayTags = formattedTags ? `<br><small>🏷️ ${formattedTags}</small>` : ""
 
 tR += `
 <div class="diario">
-  <strong>📅 ${date}</strong> — ⏱️ <em>${readingTime} min</em><br>${displayTitle}<br>
+  <strong>📅 ${date}</strong> — ⏱️ <em>${readingTime} min</em>${displayTitle}
   ${content}
   ${displayTags}
 </div>
