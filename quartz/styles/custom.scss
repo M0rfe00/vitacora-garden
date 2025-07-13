@@ -436,16 +436,13 @@ body.dark .diario {
   column-gap: 15px; /* antes 20px */
   row-gap: 15px;    /* antes 0px */
   padding: 0 6px;
-  margin-right: 15%;
+  margin-right: 0%;
   margin-bottom: 100px;
 }
 
-.galeria a {
-  display: block;
-  line-height: 0;         /* elimina espacio vertical interno */
-  margin: 0;
-  padding: 0;
-}
+/*.galeria a {
+
+}*/
 
 .galeria img {
   width: 100%;
@@ -456,6 +453,10 @@ body.dark .diario {
   cursor: pointer;
   display: block;
   transition: transform 0.2s ease;
+display: block;
+  line-height: 0;         /* elimina espacio vertical interno */
+  margin: 0;
+  padding: 0;
 }
 
 .galeria img:hover {
