@@ -5,7 +5,7 @@ title: 000 VitaCora
 ---
 El nombre de esta pagina surge del concepto de **cuaderno de bitácora**, un libro que utilizaban los marinos durante sus guardias a modo de diario en un viaje para registrar lo acontecido, también es un juego entre las palabras "Vita" del latín que significa vida, en referencia a lo vital, lo que pasa en el día a día, y la raíz de "Corazón", "Cor" en referencia a hacer las cosas de corazón, algo íntimo, vivir el momento, en resumen, seguir tus pasiones y no perder la cordura.
 
-VitaCora sigue la filosofía de los [**jardines digitales**](Jardines digitales) y su arquitectura esta basada en el sistema [**zettelkasten**](https://es.wikipedia.org/wiki/Zettelkasten#:~:text=El%20Zettelkasten%20(en%20alem%C3%A1n%2C%20%22,a%20otras%20notas%20(rojo).). Este espacio es muy amplio y puede ser confuso navegar por el, lo principal es:
+VitaCora sigue la filosofía de los **[[jardines digitales]]** y su arquitectura esta basada en el sistema **[zettelkasten](https://es.wikipedia.org/wiki/Zettelkasten#:~:text=El%20Zettelkasten%20(en%20alem%C3%A1n%2C%20%22,a%20otras%20notas%20(rojo).)**. Este espacio es muy amplio y puede ser confuso navegar por el, lo principal es:
 
 1. [**Portfolio:**](001-Portfolio.md) Información sobre mí, mis proyectos y redes sociales.
 2. [**Galería:**](002-Galería) aquí encontraras mis fotografías y diseños.
