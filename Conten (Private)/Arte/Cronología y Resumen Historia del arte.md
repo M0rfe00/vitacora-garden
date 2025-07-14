@@ -1,0 +1,100 @@
+## Cronología y Resumen historia del arte – Belén Montilla
+___
+# Prehistoria (500.000 a.c. – 2000 a.c.)
+
+### **Paleolítico (500.000 a.c. – 8000 a.c.)**
+- Se producen las primeras manifestaciones artísticas, pese a no existir todavía el concepto de arte, en este periodo el humano representa aquello que le rodea, el cuerpo humano, animales, la naturaleza…, 
+
+### **Neolítico (8000 a.c. – 2000 a.c.)**
+- En este periodo se produce principalmente arquitectura megalítica, menhires y crómlechs
+
+# Arte antiguo (3000 a.c. – 500 D.C.)
+
+### **Edad de los metales (3000 a.c. – 2500 a.c.)**
+- Durante la edad de los metales surgen cuatro civilizaciones Mesopotamia, Antiguo Egipto y las culturas micénicas y minoicas.
+
+- En Mesopotamia se encuentra el origen de la civilización, los primeros escritos, es un arte muy complejo que abarca muchos años y culturas, se caracteriza por estar muy ligado al poder y la religión, algunas obras destacadas son el Zigurat y el Lamassu.
+
+- En el antiguo Egipto igual que en Mesopotamia el arte estaba ligado al poder, la religión y la política, por ejemplo, las pirámides que servían de tumba para los faraones y los templos dedicados a sus dioses.
+
+- Tanto los micénicos como los minoicos son culturas pre helénicas, la cultura minoica de la micénica se diferencia fácilmente en que los minoicos habitaron la isla de creta, por eso también es llamado arte cretense, algunas de sus obras principales son, el palacio de Cnosos y su simbología de mujeres con peinados de serpientes
+
+### **Edad antigua (3000 a.c. –  500 a.c.)**
+- Aproximadamente en el 1200 a.c. nace la civilización griega y aproximadamente en el 800 a.c. nacen los orígenes del arte etrusco.
+
+- El arte de la Grecia clásica es conocido por obras como, el Partenón de Atenas, la acrópolis de Atenas, los ordenes clásicos, algunas de las obras del arte etrusco, mal dicho previo a la civilización romana, son la quimera de Arezzo y el sarcófago de los esposos.
+
+- En el 600 a.c. se encuentran las primeras manifestaciones del arte persa, el cual es bastante complicado ya que abarca muchas civilizaciones, culturas y países, la época mas famosa es la del imperio aqueménida y el conjunto arqueológico de Persépolis.
+
+- En el 500 a.c. se encuentran los inicios del arte romano, estaba enormemente influenciado por la cultura griega, fueron una civilización muy práctica, crearon acueductos, arcos de triunfo, coliseos, fue un arte muy relacionado a la política, lo público, el ocio.
+
+- En el 30 d.c. se dan los inicios del arte paleocristiano, el de los primeros cristianos, antes de ser la religión oficial de los romanos, antes de esto fue perseguido, por ello se encuentran muchas catacumbas, sarcófagos y el origen de la basílica cristiana
+
+# Arte medieval (500-1400)
+Alrededor del año 500 surgen el arte prerrománico y al bizantino, el arte prerrománico es por asi decirlo el primer arte medieval, asienta las bases del románico, pero todavía de una forma muy primitiva, algunos ejemplos son el arte lombardo, otoniano.
+
+Tras la división del imperio romano en 395 surge el arte bizantino, es decir el del imperio romano de oriente, se caracteriza por ser un arte muy oriental, donde predominan los dorados, mosaicos, vírgenes con el niño, representaciones de cristo.
+
+Aproximadamente en el año 1000 surge el arte románico, el cual es una evolución del arte prerrománico en el que también se asientan las bases del arte gótico, en la arquitectura se encuentran principalmente construcciones robustas y en artes decorativos como la pintura y la escultura se encuentran beatos, códices, manuscritos, capiteles y simbología e iconografía cristiana por la cual es fuertemente caracterizada.
+
+Alrededor del 1200 se desarrolla el arte gótico clásico, en el que la arquitectura tiene grandes avances como los arbotantes y contrafuertes, lo que les permite hacer construcciones mas altas algunos de los elementos destacados de sus catedrales eran los arcos apuntados, las vidrieras, los rosetones y una de las obras mas importantes de este periodo es la catedral de notredam
+
+### **Arte moderno (1400-1780)**
+A partir del 1400 se inicia la pintura flamenca y el renacimiento italiano, que se ira expandiendo por toda Europa.
+
+El arte flamenco es principalmente pintura, la pintura gótica de Flandes los autores mas importantes de este movimiento son El Bosco, Hans Memling y Jan Van Eyck.
+
+El renacimiento surge en Italia, es el primer gran arte de la época moderna, es común inspirarse en épocas pasadas, como la Grecia clásica y la roma imperial, no solo se expandió por toda Italia sino también por Europa en países como Francia y España.
+
+En 1550 se inicia el arte manierista, este movimiento sirve de nexo entre el renacimiento y el barroco, surge como reacción a lo clásico del renacimiento y sus canones.
+
+En el 1600 se inicia el arte barroco como reacción al renacimiento, esta muy caracterizado por el concepto de horror vacui, es decir miedo a los espacios vacíos, las obras de este movimiento son muy sobrecargadas pese a estar presente en muchos países sus principales temas a representar son la muerte, la vanidad, tópicos latinos y mucha mitología y afán por sorprender al ojo humano y la visión humana.
+
+En el 1700 se origina el arte rococó, movimiento que al contrario que muchos anteriores no se basa ni en la religión ni el poder, representando principalmente la parte banal de la vida, lo exótico, oriental, refinado, sensual…, estilo que pese a ser sobrecargado no deja de ser elegante, una obra que mejor representa este movimiento es “El columpio, de Fragonard”
+
+En el 1780 surgen el Neoclasicismo y el Romanticismo como reacción al Rococó y el romanticismo a su vez al neoclasicismo 
+
+El Neoclasicismo tiene como referencia los valores de la ilustración y entienden como bello todo el arte que se asemeja a lo clásico de la antigua Grecia y roma.
+
+El romanticismo al contrario que en el neoclasicismo se le da importancia al individuo, al yo, a la creatividad, los sentimientos las emociones, la nostalgia, en resumen todo lo relacionado con lo romántico, rompiendo con los cánones de proporción, perspectiva del neoclasicismo, a su vez se inspira en épocas pasadas idealizadas como la edad media. 
+
+# Arte Contemporáneo (1800-Actualidad)
+
+Alrededor del 1800 se dan los estilos historicista y realista, el historicista es un movimiento principalmente arquitectónico que pretende recrear la arquitectura de tiempos pasados, lo cual puede dar lugar a confusiones al confundir una construcción de este periodo con una mas antigua.
+
+En el realismo destacan obras como Oliver twist u obras de David Copperfield, el realismo destaca por ser un movimiento de carácter social, que muestra la vida de los mas pobres y sobre todo refleja como el ser humano esta condicionado por su clase social.
+
+En 1850 surge la hermandad Prerrafaelita y también se desarrolla la arquitectura del hierro, los prerrafaelitas fueron un grupo de pintores en la Inglaterra del siglo 19 deciden pintar como lo hacían los pintores flamencos, la pintura anterior a Rafael, de ahí el nombre, sus temas son principalmente, la mitología y la naturaleza.
+
+A raíz de la revolución industrial se dan cuenta de las posibilidades del hierro y se da un auge de este material en la arquitectura destacando principalmente la torre Eiffel, pero también se puede ver en otros muchos edificios como estaciones de tren y puentes.
+
+1870 nacen el impresionismo y el modernismo, en el impresionismo se pretende reflejar principalmente el impacto que tiene la luz sobre los materiales, destacando las pinceladas muy marcadas con mucho pigmento, color y luz.
+
+El modernismo o Art Noveu se caracteriza por combinar las formas que surgen en la naturaleza y los nuevos materiales surgidos en la revolución industrial, movimiento presente en todas las artes, arquitectura, escultura, pintura, pero sobre todo artes decorativas.
+
+Entre 1900 y 1910 surgen las primeras vanguardias, expresionismo, cubismo, futurismo y el nacimiento del arte abstracto, resumidamente se podría decir que Picasso fue el mayor exponente del arte abstracto, desde finales del siglo pasado al 20 se iniciaron procesos de deconstrucción del arte figurativo dando lugar a estos movimientos.
+
+Entre 1914 y 1920 surgen movimiento como el dadaísmo, constructivismo, neoplasticismo, y gana gran importancia la escuela de la Bauhaus, en estos movimientos predomina ante todo las formas geométricas y el color, algunos ejemplos son Kandinsky, Malevich y Mondrian.
+
+Ente 1920 y 1930 nacen el surrealismo y la arquitectura racionalista, el gran representante del arte surrealista es Dalí, sin embargo, ya había antecedentes que se adelantaron al movimiento durante el arte medieval, tanto románica como gótica, un ejemplo de esto es El Bosco.
+
+La arquitectura racionalista pretende construir edificios simples, con diseños claros, espacios diáfanos, llenos de luz y sin demasiada ornamentación, haciendo uso de los materiales surgidos de la revolución industrial, hierro, hormigón, cristal.
+
+Aproximadamente en 1940 surge el expresionismo abstracto y el informalismo europeo, uno de los principales referentes del expresionismo abstracto fue Jackson pollock, este movimiento consistía en expresar de forma no figurativa, para entender el informalismo europeo también no figurativo sirve de referencia la obra de Eduardo Chillida.
+
+Entre  1950 y 1960 nacen movimientos artísticos como el arte conceptual, arte pop, pop art, hiperrealismo, el arte pop trataba de reflejar principalmente el capitalismo y el consumismo de estados unidos, pretendía convertir objetos cotidianos de la cultura de masas en arte, el gran referente de esta época fue Andy Warhol. 
+
+El Hiperrealismo pretendía reflejar la realidad al milímetro.
+
+Entre 1970 y 1980 se desarrollaron las transvanguardias, grafiti, instalaciones, videoarte, performance, el arte de la performance combinaba varias artes en función de los nuevos recursos de los que se disponen, predominando absolutamente la libertad, una de los mayores exponentes de la performance fue Marina Abramovic.
+
+En el año 1980 inicia el postmodernismo y tardomodernismo arquitectónico,
+
+
+
+# Índice visual
+___
+![[1Arte medieval_.jpg]]
+![[2Arte moderno.jpg]]
+![[3Arte contemporáneo 1.jpg]]
+![[4Arte contemporáneo 2.jpg]]
