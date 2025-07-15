@@ -1,6 +1,3 @@
-2023/2024
-___
-
 <div class="galeria">
 <img src="../media-content/cartas/Exit303.jpg" alt="">
 <img src="../media-content/cartas/stickyverde.jpg" alt="">
@@ -23,3 +20,6 @@ ___
 <img src="../media-content/cartas/3.jpg" alt="">
 <img src="../media-content/cartas/4.jpg" alt="">
 </div>
+
+
+#Proyectos 
