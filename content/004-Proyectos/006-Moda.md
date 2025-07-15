@@ -106,8 +106,8 @@ ___
 # Final Fantasy VIII Inspiration
 ___
 <div class="galeria">
-<img src="../media-content/Moda/2.squall/OutfitSquall.png" alt="">
 <img src="../media-content/Moda/2.squall/IMG Squall.jpg" alt="">
+<img src="../media-content/Moda/2.squall/474897813_17935815656978531_2406148417940838682_n..jpg" alt="">
 </div>
 
 
@@ -119,4 +119,7 @@ ___
 <img src="../media-content/Moda/1.underg/chaqueta.gif" alt="">
 <img src="../media-content/Moda/1.underg/chaleco.gif" alt="">
 <img src="../media-content/Moda/1.underg/jean1.gif" alt="">
+<img src="../media-content/Moda/1.underg/chaqueta.gif" alt="">
+<img src="../media-content/Moda/1.underg/chaleco3.jpg" alt="">
+<img src="../media-content/Moda/1.underg/jean1.jpg" alt="">
 </div>
