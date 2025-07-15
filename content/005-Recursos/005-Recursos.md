@@ -1,1 +1,5 @@
+---
+tags:
+  - hideInExplorer
+---
 Índice Recursos
