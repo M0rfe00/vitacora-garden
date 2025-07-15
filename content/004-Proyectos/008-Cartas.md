@@ -1,4 +1,3 @@
-#Proyectos 
 <div class="galeria">
 <img src="../media-content/cartas/Exit303.jpg" alt="">
 <img src="../media-content/cartas/stickyverde.jpg" alt="">
