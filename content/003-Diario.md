@@ -3,7 +3,7 @@
 
 <div class="diario">
   <strong>📅 2025-07-17</strong> — ⏱️ <em>1 min</em><strong><h3>📝Beta 1.0 VitaCora-Garden</h3></strong>
-  Exausto pero porfin estoy agusto con como ha quedado la pagina, quedan por solucionar pequeñas cosas como la optimización de las imágenes pero ya esta lista para publicarse, cualquier error, duda o sugerencia por mis redes
+  Exhausto pero por fin estoy a gusto con como ha quedado la pagina, quedan por solucionar pequeñas cosas como la optimización de las imágenes, documentar los proyectos y transcribir algunos documentos, pero ya esta lista para publicarse, cualquier error, duda o sugerencia por mis redes
   
 </div>
 
