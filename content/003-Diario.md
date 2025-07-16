@@ -1,5 +1,14 @@
 <link rel="stylesheet" href="/styles/custom.css">
 
+
+<div class="diario">
+  <strong>📅 2025-07-17</strong> — ⏱️ <em>1 min</em><strong><h3>📝Beta 1.0 VitaCora-Garden</h3></strong>
+  Exausto pero porfin estoy agusto con como ha quedado la pagina, quedan por solucionar pequeñas cosas como la optimización de las imágenes pero ya esta lista para publicarse, cualquier error, duda o sugerencia por mis redes
+  
+</div>
+
+
+
 <div class="diario">
   <strong>📅 12/07/2025</strong> — ⏱️ <em>1 min</em><br><br>
   O acabo pronto el diseño de esta web o ella va acabar conmigo...
