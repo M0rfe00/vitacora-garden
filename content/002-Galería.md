@@ -73,7 +73,7 @@ ___
 <img loading= "lazy" src="../media-content/galeria/2023/1752579737785.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2023/1752580153835.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2023/1752582566671-3.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2023/1752582832532.jpg" alt="">
+<!-- <img loading= "lazy" src="../media-content/galeria/2023/1752582832532.jpg" alt=""> -->
 <img loading= "lazy" src="../media-content/galeria/2023/1752586130330.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2023/1752586130450.jpg" alt="">
 </div>
