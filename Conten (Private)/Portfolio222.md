@@ -1,9 +1,11 @@
-<img src="../media-content/galeria/2025/1752587539864.jpg" alt="Yo" style="display: block; margin: 0 auto 0.4rem auto; padding: 1%; width: 250px; height: 250px; border-radius: 50%; object-fit: cover;" />
-<p style="margin-top: 0;">Siempre me ha interesado tanto la tecnología como el arte, de la misma forma que aprendía mecánicas en videojuegos me interesé por algunos softwares cautivado por sus interfaces y complejidad técnica, empecé y sigo aprendiendo casi de forma obsesiva con la misma mentalidad que cuando juego ya que disfruto de la misma forma y me permite dejar de ser un espectador, crear y expresarme.</p>
 
 
+# Sobre Mi
+___
+Siempre me ha interesado tanto la tecnología como el arte, de la misma forma que aprendía mecánicas en videojuegos me interesé por algunos softwares cautivado por sus interfaces y complejidad técnica, empecé y sigo aprendiendo casi de forma obsesiva con la misma mentalidad que cuando juego ya que disfruto de la misma forma y me permite dejar de ser un espectador, crear y expresarme.
 
->[!info] Estoy abierto a propuestas y proyectos, podéis contactarme por mis redes.
+>[!info]
+>Estoy abierto a propuestas y proyectos, podéis contactarme por mis redes
 
 # Proyecto
 ___
@@ -19,50 +21,51 @@ ___
 <link rel="stylesheet" href="/styles/custom.css">
 
 <div class="social-links">
-  <a href="https://twitter.com/Lookass333" target="_blank" class="social-card">
+  <a href="https://twitter.com/tuusuario" target="_blank" class="social-card">
     <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" />
     <div>
       <strong>Twitter</strong>
     </div>
   </a>
 
-  <a href="https://instagram.com/lookass333" target="_blank" class="social-card">
+  <a href="https://instagram.com/tuusuario" target="_blank" class="social-card">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
     <div>
       <strong>Instagram</strong>
     </div>
   </a>
- <a href="https://sketchfab.com/luckass333" target="_blank" class="social-card">
-    <img src="https://cdn.simpleicons.org/sketchfab/1CAAD9" alt="Sketchfab" />
-    <div>
-      <strong>Sketchfab</strong>
-    </div>
-  </a>
-    <a href="https://discord.com/users/662030397118480407" target="_blank" class="social-card">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" />
-    <div>
-      <strong>Discord</strong>
-    </div>
-  </a>
-  <a href="https://letterboxd.com/Lukas333/" target="_blank" class="social-card">
+
+  <a href="https://letterboxd.com/tuusuario" target="_blank" class="social-card">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/letterboxd.svg" alt="Letterboxd" />
     <div>
       <strong>Letterboxd</strong>
     </div>
   </a>
-  <a href="https://myanimelist.net/animelist/Lukass333" target="_blank" class="social-card">
+  <a href="https://myanimelist.net/profile/tuusuario" target="_blank" class="social-card">
     <img src="https://cdn.simpleicons.org/myanimelist/2E51A2" alt="MyAnimeList" />
     <div>
       <strong>MyAnimeList</strong>
     </div>
   </a>
-  <a href="https://www.goodreads.com/user/show/181359667-lukas" target="_blank" class="social-card">
+  <a href="https://goodreads.com/tuusuario" target="_blank" class="social-card">
     <img src="https://cdn.simpleicons.org/goodreads/372213" alt="Goodreads" />
     <div>
       <strong>Goodreads</strong>
     </div>
   </a>
-  <a href="https://open.spotify.com/user/ev7rpkxx6s0letsk6zbo8qymt" target="_blank" class="social-card">
+  <a href="https://discord.com/users/tuusuario" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" />
+    <div>
+      <strong>Discord</strong>
+    </div>
+  </a>
+  <a href="https://sketchfab.com/tuusuario" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/sketchfab/1CAAD9" alt="Sketchfab" />
+    <div>
+      <strong>Sketchfab</strong>
+    </div>
+  </a>
+  <a href="https://open.spotify.com/user/tuusuario" target="_blank" class="social-card">
     <img src="https://cdn.simpleicons.org/spotify/1DB954" alt="Spotify" />
     <div>
       <strong>Spotify</strong>

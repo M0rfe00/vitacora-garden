@@ -466,4 +466,45 @@ display: block;
 
 // Prueba modal imagenes configuración expansion imagenes// 
 
-/* Modal y estilos básicos */
+/* Estilos links a redes sociales */
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  color: #222;
+  font-family: sans-serif;
+}
+
+.social-card {
+  flex: 1 1 45%;
+  padding: 1rem;
+  background: #f0f0f0;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  color: inherit;
+
+  display: grid;
+  grid-template-columns: 24px 1fr; /* ancho fijo para icono, resto para texto */
+  column-gap: 0.5rem;
+  align-items: center; /* centra verticalmente */
+  transition: background 0.2s ease;
+}
+
+.social-card:hover {
+  background: #e0e0e0;
+  transform: scale(1.03);
+}
+
+.social-card img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  filter: grayscale(0%) contrast(100%);
+  margin: 2;
+}
+
+.social-card div {
+  margin: 0;
+  padding: 0;
+}
