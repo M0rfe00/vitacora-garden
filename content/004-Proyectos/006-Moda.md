@@ -14,9 +14,11 @@ ___
 <!--<img loading= "lazy" src="../media-content/Moda/segunda-coleccion/fem2/4.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/fem2/5.jpg" alt="">
 <!--<img loading= "lazy" src="../media-content/Moda/segunda-coleccion/fem2/6.jpg" alt="">-->
+
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/oriental/1.jpg" alt="">
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/oriental/2.jpg" alt="">
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/oriental/3.jpg" alt="">
+
 <!--<img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Oriental/4.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/1.jpg" alt="">
 <!--<img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/2.jpg" alt="">-->

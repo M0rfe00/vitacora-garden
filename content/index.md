@@ -29,7 +29,7 @@ VitaCora sigue la filosofía de los **[[jardines digitales]]** y su arquitectura
     </div>
   </a>
 
-<a href="004-Proyectos" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/004-Proyectos/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        ⚒️ <strong>Proyectos</strong>
     </div>
