@@ -52,7 +52,7 @@ VitaCora sigue la filosofía de los **[[jardines digitales]]** y su arquitectura
 
 >[!info]Sobre esta web:
 > Con este jardín digital pretendo desarrollar un ecosistema para organizar y compartir mis proyectos, ideas y reflexiones en un palacio mental-digital y aportar a otros usuarios compartiendo lo que voy aprendiendo mientras documento mis proyectos, ya sea con los conocimientos teóricos: (softwares útiles, plataformas, recursos gratuitos, creadores de contenido...) o prácticos: (conocimientos en softwares de diseño audiovisual, sobre todo).<br><br>
-> Para la creación de esta pagina web he utilizado Obsidian para desarrollar el contenido, Quartz 4 para convertir el código Markdown a formato web y plugins de la comunidad para adaptarla a mis necesidades además de modificar todo ese código gracias a tener conocimientos sobre HTML, CSS, Github y servidores web para adaptarlo a mis necesidades.
+> Para la creación de esta pagina web he utilizado Obsidian para desarrollar el contenido, Quartz4 para convertir el código Markdown a formato web, plugins de la comunidad para adaptarla a mis necesidades además de modificar todo ese código gracias a tener conocimientos sobre HTML, CSS, Github y servidores web para adaptarlo a mis necesidades, todo con herramientas open source y gratuitas.
 
 
 
