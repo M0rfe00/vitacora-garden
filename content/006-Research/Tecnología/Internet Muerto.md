@@ -1,0 +1,14 @@
+#Research
+# Teoría del Internet muerto
+
+Desde la creación de la primera página web hasta la actualidad internet ha evolucionado muchísimo, transformando todos los ámbitos de la vida, generando nuevas industrias, facilitando la comunicación global instantánea, democratizando el acceso a la información y surgiendo empresas multimillonarias en el proceso.
+
+Aproximadamente a principios de los 2000s empezó a circular la teoría conspiranoica llamada “Teoría del internet muerto”, inicialmente no tuvo mucha repercusión, pero con el paso de los años ha ido ganando cada vez más popularidad y repercusión, el blog del que surgió esta teoría fue “Angora Road´s Macintosh Café” en 2001.
+
+La teoría esta plantea el escenario en el que en comparación con el internet de inicios de los 2000 el actual se encuentra vacío de contenido humano orgánico y está dominado por contenido artificial, bots, deepfakes, fakenews, inteligencias artificiales y contenido generado automáticamente por algoritmos, señalando a las corporaciones y entidades gubernamentales de esta decadencia.
+
+Algunas ficciones que se han adelantado a este escenario han sido el videojuego MGS2, en las que la inteligencias artificiales decían estar a merced de la humanidad bajo el ideal de igualdad y libertad norteamericano, o en Matrix en la que al contrario, las maquinas desarrollan inteligencia y deciden sublevarse a los humanos esclavizándolos, la realidad dista de estas dos propuestas siendo así que la inteligencia artificial, bots y algoritmos están a merced de grandes empresas y por consecuencia de los ideales capitalistas.
+
+Para argumentar y ejemplificar la idea del que internet esta muerto, es decir que cada vez hay menos contenido generado por humanos y poco a poco será peor, se pueden señalar cosas como; La existencia de sitios web creados con inteligencia artificial, El auge de bots en redes sociales, utilizados muchas veces para simular personalidades reales y difundir desinformación, videojuegos que incluyen bots para rellenar las partidas y condicionar a los jugadores reales, Peliculas que dejan a un lado la visión artística para ser hechas en función de algoritmos que predicen el éxito que tendrán para contentar al mayor número de personas posibles, creando asi estándares y castigando a aquello que se sale de la norma, redes sociales con algoritmos diseñados para atraparte el mayor tiempo posible, entre otros muchos ejemplos.
+
+El experto en IA´s y Big Data Fredi Vivas escribió en su libro “Invisible” los llamados diez principios de la IA´s, uno de ellos, el principio de la calidad, defiende que todo contenido sintético producido artificialmente debe alimentarse por humanos para garantizar sus estándares en el tiempo, ya que si todos las inteligencias artificiales aprendiesen de contenido producido por otras inteligencias artificiales de la misma forma que el principio de consanguinidad, la endogamia hará que la calidad sea cada vez peor.
