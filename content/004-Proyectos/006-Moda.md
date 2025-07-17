@@ -1,3 +1,7 @@
+---
+tags:
+  - Proyectos
+---
 # Segunda colección: ¿?
 ___
 <div class="galeria">
