@@ -26,12 +26,4 @@
 
 
 
-<div class="diario">
-  <strong>📅 2025-07-12</strong> — ⏱️ <em>1 min</em><strong><h3>📝Segunda prueba</h3></strong>
-  Una foto realizada con un teleobjetivo captara las formas sin deformidades, pero modificara la distancia con el fondo acercándolo, esto hace que el cerebro interprete que la fotografía ha sido tomada desde lejos.
-  <small>  🏷️ #dev-log #Fotografía</small>
-</div>
-
-
-
 
