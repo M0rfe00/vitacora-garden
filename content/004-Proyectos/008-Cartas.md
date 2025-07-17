@@ -1,3 +1,7 @@
+---
+tags:
+  - Proyectos
+---
 <div class="galeria">
 <img loading= "lazy" src="../media-content/cartas/Exit303.jpg" alt="">
 <img loading= "lazy" src="../media-content/cartas/stickyverde.jpg" alt="">
