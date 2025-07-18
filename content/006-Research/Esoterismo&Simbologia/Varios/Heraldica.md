@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos-Símbolos
+---
 **Escudos de armas, uso simbólico, emblemático y reglamentación estética de la heráldica.**
 
 # **Definición, origines y evolución de la heráldica como sistema de comunicación**
