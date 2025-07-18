@@ -1,18 +1,3 @@
-# Quartz v4
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+# VitaCora
+<img src="../media-content/Heart.png" alt="Yo" style="display: block; margin: 0 auto 0.4rem auto; padding: 1%; width: 250px; height: 250px; border-radius: 50%; object-fit: cover;" />
+El nombre de esta pagina surge del concepto de cuaderno de bitácora, un libro que utilizaban los marinos durante sus guardias a modo de diario en un viaje para registrar lo acontecido, también es un juego entre las palabras "Vita" del latín que significa vida, en referencia a lo vital, lo que pasa en el día a día, y la raíz de "Corazón", "Cor" en referencia a hacer las cosas de corazón, algo íntimo, vivir el momento, en resumen, seguir tus pasiones y no perder la cordura.
