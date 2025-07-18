@@ -1,3 +1,7 @@
+---
+tags:
+  - Astrología
+---
 # **Horóscoño milénial: La astrología con perspectiva de género y degeneración**
 ___
 Horóscoño milénial, es el título de una conferencia del congreso de Valladolid piensa, celebrado en la facultad de filosofía de la universidad Valladolid, a cargo de Ernesto Castro, en ella comenta muchas cosas pero principalmente voy a resumir tres puntos en los que quiero centrarme, el prejuicio sexista de las pseudociencias, el origen y desarrollo de la astrología su posterior  desaparición y la peligrosidad de la ironía facilitando el resurgimiento de creencias que inicialmente fueron ridiculizadas.

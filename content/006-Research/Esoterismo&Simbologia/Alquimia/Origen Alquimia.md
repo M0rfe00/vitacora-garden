@@ -1,3 +1,7 @@
+---
+tags:
+  - Alquimia
+---
 # ORIGENES
 ___
 Sabemos que en tierras mesopotámicas se han podido identificar ciertas creencias babilónicas como doctrinas protoalquímicas, por ejemplo, el historiador y erudito bíblico Robert Eisler, en la década de 1930, tradujo una tablilla del siglo séptimo antes de Cristo, en la que se detallaba que en la biblioteca del rey Asurbanipal en Nínive había más de 22 mil tablillas únicamente dedicadas a tratados científicos y metalúrgicos, y mezclados con ciertos conceptos metafísicos que los aproximaban a la alquimia.

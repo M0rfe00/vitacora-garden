@@ -1,3 +1,7 @@
+---
+tags:
+  - Mitología
+---
 # MITOLOGIA EGIPCIA
 ___
 Egipto nació de una paradoja, el agua y el desierto, es el resultado de un rio que cruza el desierto, el Nilo, cada año el rio se desbordaba y traía la fertilizad al país, para os egipcios esto no era un fenómeno natural no que era algo sagrado y mágico, esto determino su concepción del tiempo, el cual no era lineal sino cíclico de la misma manera que el rio se desbordaba y luego se iba.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Alquimia
+  - Jung
+---
 # Carl Jung: Alquimia y Psicología
 ___
 Comprender la influencia de la tradición alquímica en la obra de Jung, permite una comprensión más asertiva del Libro Rojo.

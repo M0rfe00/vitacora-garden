@@ -1,3 +1,10 @@
+---
+tags:
+  - Arquetipos
+  - Jung
+  - Narrativa
+  - Tarot
+---
 # **El Viaje del Héroe escondido en el Tarot**
 ___
 El mitólogo Joseph Campbell presenta una serie de conceptos en su obra “El héroe de las mil caras” que posteriormente relaciona con el Tarot en su libro “Revelaciones del Tarot” donde explica la forma en la que el Tarot narra un viaje interno en búsqueda del autoconocimiento, alegando que los patrones inherentes a los mitos antiguos también viven en diversas corrientes de la filosofía oculta, como resultado muchos expertos han sostenido que es factible establecer una conexión entre el simbolismo del Tarot y el viaje del héroe.

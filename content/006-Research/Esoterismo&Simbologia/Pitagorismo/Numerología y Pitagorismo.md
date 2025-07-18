@@ -1,3 +1,7 @@
+---
+tags:
+  - Pitagorismo
+---
 La numerología no era de griego sin embargo ellos la implementaron y desarrollaron nutriéndola y perfeccionándola de una manera notable
 
 ### **Contexto histórico**

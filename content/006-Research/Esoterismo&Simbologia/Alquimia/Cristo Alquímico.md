@@ -1,3 +1,7 @@
+---
+tags:
+  - Alquimia
+---
 # **El Cristo alquímico**
 ___
  En Occidente, durante la Edad Media, el mito cristiano encontró un lugar en las prácticas y especulaciones alquímicas, algo natural ya que casi todos los alquimistas europeos se formaron en un ambiente cristiano, poso posiblemente existan raíces aún más profundas y ocultas.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Pitagorismo
+---
 ## **MUSICA MATEMATICA Y MEDICINAL**
 ___
 Un aspecto interesante es que los pitagóricos afirmaban que la armonía no se debía determinar por la percepción de los sentidos, sino mediante la razón y las matemáticas, por esto se llamaban a sí mismos canónicos, para diferenciarse de los músicos de la escuela armónica que sostenían que el gusto y el instinto eran los auténticos principios normativos de la armonía.

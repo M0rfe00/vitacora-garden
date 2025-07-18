@@ -1,3 +1,7 @@
+---
+tags:
+  - Alquimia
+---
 ___
 Aunque la iconografía y la estética cristiana en la alquimia medieval occidental puede asociarse a un intento de armonización con el entorno además existieron otras causas, no se sabe que tan antigua puede ser la tradición, pero documentalmente puede restearse hasta el Egipto helenístico, el gobernado por los griegos durante la dinastia ptolemaica.
 

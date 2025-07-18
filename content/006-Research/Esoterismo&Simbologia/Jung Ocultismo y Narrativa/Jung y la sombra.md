@@ -1,3 +1,8 @@
+---
+tags:
+  - Jung
+  - Arquetipos
+---
 ## **LA SOMBRA**
 ___
 La sombra en la psicología junguiana es un término que describe aquellos elementos de la personalidad que son o conscientemente rechazados o directamente permanecen inconscientes, este elemento psíquico abarca miedos, pensamientos inaceptables, impulsos reprimidos, deseos, defectos y otros rasgos o actitudes que el yo consciente no quiere reconocer como propios, estas cuestiones rechazadas no desaparecen y se almacenan en las zonas más recónditas de la psique.

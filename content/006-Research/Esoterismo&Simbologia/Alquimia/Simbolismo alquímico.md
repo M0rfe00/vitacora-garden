@@ -1,3 +1,7 @@
+---
+tags:
+  - Alquimia
+---
 En el libro "las enseñanzas secretas" de Manly Palmer Hall, se presenta una lamina pensada para la contemplación y familiarización con los principios de la alquimia medieval, llamada gran formula alquímica medieval rosacruz.
 
 ## Lamina de la gran formula alquímica:

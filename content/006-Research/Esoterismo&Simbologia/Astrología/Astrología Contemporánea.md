@@ -1,3 +1,7 @@
+---
+tags:
+  - Astrología
+---
 # ASTROLOGIA CONTEMPORANEA
 ___
 ## **Horóscopo**

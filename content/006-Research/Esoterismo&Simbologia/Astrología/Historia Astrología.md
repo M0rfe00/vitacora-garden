@@ -1,3 +1,7 @@
+---
+tags:
+  - Astrología
+---
 # **ASTROLOGÍA BABILONICA**
 ___
 Magos caldeos: desarrolladores de la astrología y la numerología

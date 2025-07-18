@@ -1,3 +1,9 @@
+---
+tags:
+  - Jung
+  - Tarot
+  - Narrativa
+---
 # **JUNG Y EL TAROT**
 ___
 Jung fue el primer psiquiatra en descubrir e investigar el inconsciente colectivo y darle una importancia y un significado relevante, ya que estableció la existencia de la paradoja final: que el yo consciente y el inconsciente existen de forma interdependiente. O sea, el bienestar de uno depende del bienestar del otro.
