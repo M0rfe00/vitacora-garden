@@ -1,3 +1,7 @@
+---
+tags:
+  - Color
+---
 El tema de los colores es bastante complejo, sobre todo por lo amplio, ya que más allá de ciertas generalidades su simbología y uso varía según la corriente, logia, o escuela, pero a pesar de ello hay conceptos comunes.
 
 # 7 COLORES PRIMARIOS

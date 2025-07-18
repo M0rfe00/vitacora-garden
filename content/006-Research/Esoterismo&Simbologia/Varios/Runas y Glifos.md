@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos-Símbolos
+---
 # **RUNAS**
 Las runas en primera instancia aparecieron como un sistema alfabético, entre los siglos I y II, el sistema rúnico más antiguo que se conoce es el futhark antiguo, que fue utilizado entre los siglos III al VIII por los pueblos germánicos y escandinavos.
 

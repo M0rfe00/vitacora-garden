@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos-Símbolos
+---
 # Sigilismo
 Se refiere al uso de sigilos, símbolos gráficos diseñados con el propósito de influir en la mente subconsciente, generalmente en contextos mágicos o esotéricos.
 

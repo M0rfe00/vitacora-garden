@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos-Símbolos
+---
 # INTRODUCCIÓN MERCURIO
 El Mercurio desempeña un papel central y enigmático en la tradición alquímica y hermética en general, es un principio multifacético al que se le atribuyen diversas propiedades encriptadas en un código simbólico oculto, los antiguos alquimistas reconocían en él una fuerza universal capaz de unir los extremos de la existencia, la “coincidentia oppositorum” o unión de los opuestos, es una de las figuras simbólicas más ambiguas, ya que es metálica y a la vez líquida, es veneno y es remedio, es materia pero también espíritu, en definitiva, es un símbolo que une todos los opuestos porque esa es su función última.
 
