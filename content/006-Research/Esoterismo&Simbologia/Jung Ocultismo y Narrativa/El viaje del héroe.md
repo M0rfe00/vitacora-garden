@@ -1,3 +1,9 @@
+---
+tags:
+  - Arquetipos
+  - Jung
+  - Narrativa
+---
 # El Viaje del Héroe - Una Obra Alquímica
 ___
 El héroe de las mil caras es una obra de Joseph Campbell, uno de los mitógrafos más conocidos del siglo XX, profesor universitario que examino cientos de mitos y leyendas, desde la cultura griega hasta la inca, pasando por las sagas islandesas, las epopeyas de la india y varias más, buscando en ellas los puntos comunes entre todas estas historias, desde un punto de vista antropológico y psicológico centrándose en su estructura arquetípica, “el viaje del héroe” al que denomino académicamente como “monomio, en su análisis encontró patrones muy claros que se repetían en todas, por lo que lo ordeno y clasifico en su libro.

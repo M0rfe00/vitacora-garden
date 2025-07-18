@@ -1,3 +1,9 @@
+---
+tags:
+  - Arquetipos
+  - Jung
+  - Narrativa
+---
 ___
 Los arquetipos son patrones universales e innatos de comportamiento, ideas o símbolos que se encuentran en el inconsciente colectivo de la humanidad, según la teoría de Carl Jung.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Mitología
+---
 La idea actual de la mitología griega se basa en varias fuentes principales que abarcan literatura, arte, arqueología e historia. A continuación, te detallo las más importantes:
 
 **1.Textos literarios antiguos y trágicos griegos:** son las fuentes más fundamentales y directas:

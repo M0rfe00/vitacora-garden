@@ -1,3 +1,8 @@
+---
+tags:
+  - Jung
+  - Arquetipos
+---
 # **Jung y el Ocultismo: Arquetipos, Sombra y Proceso de Individuación.**
 ___
 Constantemente, en las artes gráficas, la literatura, la mitología, la religión, la filosofía y muchos otros campos y actividades, solemos encontrarnos con modelos o patrones repetitivos y aunque tengan distintas caras, en caso de ser personas, o diferentes formas, si son objetos y se hallen en situaciones variadas, dan la impresión de representar las mismas ideas y conceptos, estos modelos se definen como **arquetipos**.

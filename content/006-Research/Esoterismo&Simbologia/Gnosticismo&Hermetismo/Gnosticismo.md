@@ -1,3 +1,7 @@
+---
+tags:
+  - Gnosticismo
+---
 # **Platonismo**
 ___
 #### **Dualismo**

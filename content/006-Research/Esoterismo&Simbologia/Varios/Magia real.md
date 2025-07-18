@@ -1,4 +1,5 @@
 # Magia – Rodrigo Taramona
+___
 El termino proviene del latín que a su vez del griego y podría remontarse a femenino _magikós,_ utilizado para referirse magos (miembros de la clase sacerdotal erudita)
 
 La magia entendida como arte o ciencia oculta, es la creencia y practicas que buscan **reproducir resultados sobre naturales mediante actos, palabras o rituales**, es decir la creencia del poder sobrenatural para producir **efectos que van más allá de las leyes cotidianas** de la naturaleza, lo que implica situaciones inexplicables por la ciencia o la razón.
@@ -8,6 +9,7 @@ Al contrario que la teología, la filosofía y las ciencias ortodoxas las cuales
 Un **hechizo** se entiende como un conjunto de símbolos y palabras que al ser dichas, leídas o cantadas en un orden especifico alteran la realidad, el comportamiento y el destino de las personas.
 
 ## **Des-esoterización de los rituales**
+___
 La magia no es algo esotérico/inexplicable como es representada en la fantasia, si no que al contrario, a diario realizamos multitud de rituales mágicos que no consideramos como tal al no estar envueltas en un aura mística y ser cosas cotidianas sin embargo cambian de igual forma el destino, el comportamiento y la realidad.
 
 Cuando un juez golpea la mesa con su mazo, ese ritual y la sentencia bendicen o maldicen a un acusado, cuando un artista como un cantante en concierto realiza su ritual (baila, canta o actúa) y el público pierde el control y entran en éxtasis han sido hechizados, si alguien te provoca insultándote o te susurra unas palabras que te seducen modificando tu comportamiento, tu estado de animo y tus sentimientos has sido hechizado, cuando un notario firma un documento y un bien pasa a ser propiedad de alguien o crea una entidad de la nada, la propia realidad ha sido alterada por un contrato y sus letras, firmas y formalismos, lo que no deja de ser un conjunto de símbolos o una especie de conjuro.
@@ -21,6 +23,7 @@ Las lenguas de la misma forma que los lenguajes de programación, las palabras, 
 El **origen** de la palabra **grimorio** (libro de conjuros)**, proviene del término** francés “grimoire” que a su vez es una alteración de “grammaire” **gramática**, esto se debe a que en la edad media las gramáticas latinas (libros sobre dicción y sintaxis del latín) eran fundamentales para la formación académica, mientras que la mayoría iletrada sospechaba que los libros no eclesiásticos eran mágicos, dentro de un grimorio lo que se encuentra son únicamente un conjunto de palabras y símbolos.
 
 ## **Magia y el entretenimiento actual**
+___
 Alan Moore defiende que el arte es magia ya que tiene el poder de transformar la cultura, según el, la escultura, la poesía, la literatura… tienen el poder de cambiar nuestra conciencia.
 
 El problema según el la magia ahora no esta en manos de artistas si no de publicistas o creadores que lo único que quieren es extraer tu atención para que te sientes a ver cosas en las que te anuncian productos que puedas comprar cuando salgas de verlas, utilizando según Moore el poder de la magia para adormecernos en lugar de despertarnos, degenerando en entretenimiento barato y manipulación.

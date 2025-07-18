@@ -1,3 +1,7 @@
+---
+tags:
+  - Tarot
+---
 # **INTRODUCCIÓN / ORIGEN DEL TAROT**
 ___
 

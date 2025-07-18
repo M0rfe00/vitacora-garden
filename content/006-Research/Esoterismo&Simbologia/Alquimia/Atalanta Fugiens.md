@@ -1,3 +1,7 @@
+---
+tags:
+  - Alquimia
+---
 # Atalanta Fugiens: La Edad de Oro de la Alquimia
 ___
 Atalanta Fugiens o fuga de atalanta es un libro de 1917 diseñado con la idea de estimular simultáneamente los sentidos, intelecto y espíritu a través de la música, el texto y la catarsis simbólica, siendo considerado la primera obra multimedia de la historia fue compuesto para conducir al lector por un camino de autoiniciación a través de los secretos del conocimiento alquímico, fue creado por un maestro de la iconografía hermética, Michael Mayer.

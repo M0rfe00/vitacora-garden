@@ -1,3 +1,7 @@
+---
+tags:
+  - Gnosticismo
+---
 # Antigua tradición secreta #4 – Las sectas gnósticas
 
 ## **GNOSTICISMO Y CRISTIANISMO**

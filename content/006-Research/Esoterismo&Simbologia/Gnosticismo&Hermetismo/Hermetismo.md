@@ -1,3 +1,7 @@
+---
+tags:
+  - Gnosticismo
+---
 # La tradición hermética: revelación antigua y recepciones de Hermes Trismegistos
 
 ## **Evolución de Toth a Hermes/Mercurio a Hermes Trismegistus**

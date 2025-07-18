@@ -1,3 +1,8 @@
+---
+tags:
+  - Mitología
+  - Narrativa
+---
 MITOLOGIA DE LOS RPG
 # **HEROES**
 Es algo común que los RPG nos den a elegir la clase de nuestro héroe, siendo las más comunes guerrero o luchador, pícaro o ladrón, clérigo o mago blanco, paladín, arquero o cazador, bárbaro, hechicero o brujo, druida, bardo o nigromante.

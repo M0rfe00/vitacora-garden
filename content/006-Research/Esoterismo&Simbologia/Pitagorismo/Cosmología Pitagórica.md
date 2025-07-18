@@ -1,3 +1,7 @@
+---
+tags:
+  - Pitagorismo
+---
 # COSMOLOGIA PITAGORICA
 ___
 En la doctrina pitagórica, las ideas simbolizadas dentro de la Tetractys, comenzando por el punto, 1 o monada, representaban la consumación del proceso de creación y, por ende, de la música.
