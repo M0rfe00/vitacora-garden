@@ -21,21 +21,21 @@
 
 - **Active** **viewer:** inferior derecha, al pulsarlo muestra las opciones de visualización del nodo (Color, Alpha, R, G, B)
 
-- **<u>Viewer:</u>** (Eye Icon) alterna la vista previa del operador.
+- **Viewer:** (Eye Icon) alterna la vista previa del operador.
 
-- **<u>Clone</u>** **<u>isolate:</u>** permite que el clon de un operador no se vea afectado por el máster.
+- **Clone isolate:** permite que el clon de un operador no se vea afectado por el máster.
 
-- **<u>Bypass:</u>** (Yellow Arrow) pasa la entrada al siguiente operador sin procesarla.
+- **Bypass:** (Yellow Arrow) pasa la entrada al siguiente operador sin procesarla.
 
-- **<u>Lock:</u>** (Snowflake Icon) congela el parámetro actual del operador.
+- **Lock:** (Snowflake Icon) congela el parámetro actual del operador.
 
-- <u>Display:</u> (Blue Square) expande la vista del operador para verlo con detalle \[TOP, CHOP, SOP\]
+- **Display**:** (Blue Square) expande la vista del operador para verlo con detalle \[TOP, CHOP, SOP\]
 
-- <u>**Render:**</u> (Purple Sphere - Geo COMP) determina si la geometría contenida en un Geometry COMP se incluirá en la salida de un Render TOP
+- **Render:** (Purple Sphere - Geo COMP) determina si la geometría contenida en un Geometry COMP se incluirá en la salida de un Render TOP
 
-- **<u>Template:</u>** (Purple Wireframe - SOPs) muestra la geometría de la SOP como una estructura alámbrica gris no interactiva en visores 3D, útil como referencia visual sin saturar la escena.
+- **Template:** (Purple Wireframe - SOPs) muestra la geometría de la SOP como una estructura alámbrica gris no interactiva en visores 3D, útil como referencia visual sin saturar la escena.
 
-- **<u>SOP viewer</u>** **<u>options:</u>** muestra diferentes modos de visualización de la geometría 3D (puntos, normales, ejes...)
+- **SOP viewer** **<u>options:</u>** muestra diferentes modos de visualización de la geometría 3D (puntos, normales, ejes...)
 
 # **Operadores:**
 
@@ -43,33 +43,33 @@ Un operador es una unidad de procesamiento que recibe entradas realiza una funci
 
 ## **Tipos de operadores:**
 
-- **<u>TOPs:</u>** (Texture operator): manejan datos de imágenes y videos 2D.
+- **TOPs:** (Texture operator): manejan datos de imágenes y videos 2D.
 
-- **<u>SOPs:</u>** (Surface operators) generan y manipulan geometría 3D
+- **SOPs:** (Surface operators) generan y manipulan geometría 3D
 
-- **<u>MATs:</u>** (Material operators) definen la apariencia de los objetos 3D.
+- **MATs:** (Material operators) definen la apariencia de los objetos 3D.
 
-- **<u>CHOPs:</u>** (Channel operator): procesan flujos de datos numéricos (movimiento, audio, entradas de sensores...)
+- **CHOPs:** (Channel operator): procesan flujos de datos numéricos (movimiento, audio, entradas de sensores...)
 
-- **<u>COMPs:</u>** (component operators) actúan como contenedores para organizar la red, crear sistemas modulares o interfaces.
+- **COMPs:** (component operators) actúan como contenedores para organizar la red, crear sistemas modulares o interfaces.
 
-- **<u>DATs:</u>** (Dara operators) manejan y procesan información basada en texto (tablas, scripts...)
+- **DATs:** (Dara operators) manejan y procesan información basada en texto (tablas, scripts...)
 
 # **Referencia de parámetros:**
 
-- <u>Export CHOP:</u> (Flecha verde) envía el valor de un canal chop a un parámetro, si se cambia el nombre solicita actualizarlo.
+- Export CHOP: (Flecha verde) envía el valor de un canal chop a un parámetro, si se cambia el nombre solicita actualizarlo.
 
-- **<u>Reference CHOP:</u>** (Expresión azul) el valor de un canal chop es enviado a un parámetro mediante una expresión de Python, permitiendo realizar operaciones sobre el, si se cambia el nombre del operador de origen hay que actualizar la referencia manualmente.
+- **Reference CHOP:** (Expresión azul) el valor de un canal chop es enviado a un parámetro mediante una expresión de Python, permitiendo realizar operaciones sobre el, si se cambia el nombre del operador de origen hay que actualizar la referencia manualmente.
 
-- **<u>Binding:</u>** (Triángulo Morado) Crea un enlace bidireccional entre un parámetro dentro de un componente y un parámetro personalizado fuera de él, los cambios se sincronizan en ambos sentidos.
+- **Binding:** (Triángulo Morado) Crea un enlace bidireccional entre un parámetro dentro de un componente y un parámetro personalizado fuera de él, los cambios se sincronizan en ambos sentidos.
 
-- **<u>Select TOP/CHOP...:</u>** se utiliza para referenciar u TOP desde otro lugar sin cables.
+- **Select TOP/CHOP...:** se utiliza para referenciar u TOP desde otro lugar sin cables.
 
 # **Interoperabilidad:**
 
 Cada familia de operadores gestiona tipos de datos específicos, por lo que las conexiones han de ser compatibles, para ello existen operadores de conversión de un tipo de dato a otro, **\[TOP to CHOP\]**, **\[CHOP to TOP\]**, **\[CHOP to DAT\]**, **\[DAT to CHOP\]**...
 
-### **<u>NOISE</u>**
+### **NOISE**
 
 Herramienta fundamental desarrollada para simular fenómenos naturales, nubes, terrenos, agua, texturas... El ruido de Perlin es una función matemática que genera valores pseudoaleatorios.
 
@@ -98,9 +98,8 @@ Herramienta fundamental desarrollada para simular fenómenos naturales, nubes, t
 - **Corrección de aspecto:** mantiene la proporción del ruido cuando se cambia la resolución, previniendo la distorsión en la textura.
 
 
-# **<u>4.1 Gradient Parametric Effects – Remap & Luma Blur
-Processing</u>**
-
+# **4.1 Gradient Parametric Effects – Remap & Luma Blur Processing**
+___
 **Luma blur:** aplica desenfoque basado en la luminancia (brillo) de otra imagen.
 
 **Ramp:** genera gradientes con diferentes parámetros ajustables (color, fase y periodo).
@@ -114,8 +113,8 @@ Processing</u>**
 **Select TOP:** se una para referenciar operadores remotamente sin
 cables.
 
-# **<u>4.2 Noise and Feedback – Glass Textures and Infinite Tunne</u>**
-
+# **4.2 Noise and Feedback – Glass Textures and Infinite Tunne**
+___
 **Noise:** genera patrones pseudoaleatorios, útil para texturas y arte generativo.
 
 **Feedback:** Consiste en reconectar un operador a su propio proceso tras aplicarle una modificación, lo que genera un bucle infinito en el que se aplica está dando lugar a efectos como rastros, ecos o repeticiones infinitas.
@@ -128,8 +127,8 @@ cables.
 
 **Animación:** los parámetros pueden ser animados a lo largo del tiempo utilizando la expresión “absTime.seconds” y dividiendo o multiplicando el valor para controlar la velocidad.
 
-# **<u>4.3 Video Manipulation – Time Warping</u>**
-
+# **4.3 Video Manipulation – Time Warping**
+___
 **Text3D:** almacena en cache un numero especifico de fotogramas de entrada “ chache size” como textura 3D. Usa “Pre-fill” para capturar los fotogramas.
 
 **Time machine:** Selecciona frames de la cache de un Text3D,
@@ -146,8 +145,8 @@ de grises del segundo input “control map”
 
 **Displace:** Desplaza una imagen segun los valores de color de otra
 
-# **<u>5.1 Procedural Geometry – Mandala Patterns</u>**
-
+# **5.1 Procedural Geometry – Mandala Patterns**
+___
 **Instances:** Una instancia es una copia de una geometría basada en su información (Posición, color, escala...), pero puede ser modificada de forma independiente por fuentes externas como TOPs o CHOPs. Se configuran en el “Geomtetry COMP”.
 
 Cualquier operador puede ser interpretado como info. Pero renderizado de diferentes formas como los TOPs en imágenes, pero fundamentalmente son valores RGB, o los CHOPs que permiten ver valores numéricos pero pueden ser interpretados como imágenes.
@@ -178,8 +177,8 @@ Cada color tiene valores entre un rango de 0 a 1 y la intensidad corresponde a l
 **Post-Processing:** Los efectos TOP estándar (Feedback, Mirror, Edge, Level) se pueden utilizar tras el “Render TOP” para mejorar o modificar el render final.
 
 
-# **<u>5.2 Displacement Mapping – Noise Instancing</u>**
-
+# **5.2 Displacement Mapping – Noise Instancing**
+___
 **Sincronización y centralización de datos:** el nº de muestras combinadas en un conjunto de datos de un “Merge” <u>deben coincidir;</u> *(Grid Points = TOP pixels)* para que las coordenadas XY coincidan, eso se logra referenciando los valores de resolución y dimensiones grid al mismo “Constant CHOP” consiguiendo que coincidan y puedan controlados simultamente de forma modular.
 
 **Mapeo de instancias:** los datos de un Merge CHOP (tx/y, scale_x/y, scale_transform_z) se mapea a los parámetros correspondientes del “GEO COMP”; “Translate”, “Scale”, el canal “scale_transform_z” se utiliza para ambos, translate z y scale z.
@@ -209,8 +208,8 @@ ej: rampas.
 
 **Enviorment Light COMP:** Simula una iluminación global y reflejos realistas usando una imagen HDRI proporcionada a través de un “Moviefilein” conectado a su parámetro “Enviorment map”.
 
-# **<u>5.3 Vector Field Instances – Rotation Manipulation</u>**
-
+# **5.3 Vector Field Instances – Rotation Manipulation**
+___
 #### **Nodos útiles**
 
 - **Base:** Nodo COMP que permite encapsular diferentes partes de la red para mejorar la organización y modularidad.
@@ -249,16 +248,16 @@ La primera red es una versión simplificada sin efectos o posprocesamiento para 
 La segunda red aplica varias técnicas usadas anteriormente para complementar la composición.
 
 
-# **<u>5.4 Practice: Recreate the following visual results.</u>**
-
+# **5.4 Practice: Recreate the following visual results.**
+___
 Análisis: Mouse interactivity, particles per point, colors blue and purple, position of the grid horizontal
 
 <img src="./43cfeb8848a42cf82eb0b6ab9e06d3a95f72d813.png"
 style="width:6.26042in;height:3.8125in" /><img src="./7b6f5baf912a057be7d5a498b368e23a36b72a6b.png"
 style="width:6.26042in;height:3.48958in" />
 
-# **<u>6.1 Blob instancing: Lets combine everything we've learned</u>**
-
+# **6.1 Blob instancing: Lets combine everything we've learned**
+___
 **Blob tracking:** implica utilizar una imagen de color y un fondo de referencia para aislar elementos en movimiento
 
 **Blob track OP:** Operador que proporciona información en formato de tabla, incluyendo coordenadas UV, anchura, altura y tiempo de seguimiento.
