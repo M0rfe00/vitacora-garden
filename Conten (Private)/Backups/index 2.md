@@ -57,10 +57,10 @@ VitaCora sigue la filosofía de los **[[jardines digitales]]** y su arquitectura
 
  >[!info] [**⚒️Proyectos:**](004-Proyectos) Aquí es donde publicare y documentare mis proyectos.
  
- >[!info] [**📝Recursos:**](005-Recursos) Información útil que voy recopilando.
+ >[!info] [**📝Recursos:**](005-Recursos.md) Información útil que voy recopilando.
  >
  
- >[!info] [📚**Research:**](006-Research) Conceptos e investigaciones que me han sido útiles para diferentes proyectos.
+ >[!info] [📚**Research:**](006-Research.md) Conceptos e investigaciones que me han sido útiles para diferentes proyectos.
 
 # Sobre esta web:
 ___

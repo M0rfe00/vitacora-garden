@@ -1,7 +1,7 @@
 ## Cronología y Resumen historia del arte – Belén Montilla
 ___
 # Prehistoria (500.000 a.c. – 2000 a.c.)
-
+___
 ### **Paleolítico (500.000 a.c. – 8000 a.c.)**
 - Se producen las primeras manifestaciones artísticas, pese a no existir todavía el concepto de arte, en este periodo el humano representa aquello que le rodea, el cuerpo humano, animales, la naturaleza…, 
 
@@ -9,7 +9,7 @@ ___
 - En este periodo se produce principalmente arquitectura megalítica, menhires y crómlechs
 
 # Arte antiguo (3000 a.c. – 500 D.C.)
-
+___
 ### **Edad de los metales (3000 a.c. – 2500 a.c.)**
 - Durante la edad de los metales surgen cuatro civilizaciones Mesopotamia, Antiguo Egipto y las culturas micénicas y minoicas.
 
@@ -31,6 +31,7 @@ ___
 - En el 30 d.c. se dan los inicios del arte paleocristiano, el de los primeros cristianos, antes de ser la religión oficial de los romanos, antes de esto fue perseguido, por ello se encuentran muchas catacumbas, sarcófagos y el origen de la basílica cristiana
 
 # Arte medieval (500-1400)
+___
 Alrededor del año 500 surgen el arte prerrománico y al bizantino, el arte prerrománico es por asi decirlo el primer arte medieval, asienta las bases del románico, pero todavía de una forma muy primitiva, algunos ejemplos son el arte lombardo, otoniano.
 
 Tras la división del imperio romano en 395 surge el arte bizantino, es decir el del imperio romano de oriente, se caracteriza por ser un arte muy oriental, donde predominan los dorados, mosaicos, vírgenes con el niño, representaciones de cristo.
@@ -39,7 +40,8 @@ Aproximadamente en el año 1000 surge el arte románico, el cual es una evoluci�
 
 Alrededor del 1200 se desarrolla el arte gótico clásico, en el que la arquitectura tiene grandes avances como los arbotantes y contrafuertes, lo que les permite hacer construcciones mas altas algunos de los elementos destacados de sus catedrales eran los arcos apuntados, las vidrieras, los rosetones y una de las obras mas importantes de este periodo es la catedral de notredam
 
-### **Arte moderno (1400-1780)**
+# **Arte moderno (1400-1780)**
+___
 A partir del 1400 se inicia la pintura flamenca y el renacimiento italiano, que se ira expandiendo por toda Europa.
 
 El arte flamenco es principalmente pintura, la pintura gótica de Flandes los autores mas importantes de este movimiento son El Bosco, Hans Memling y Jan Van Eyck.
@@ -59,7 +61,7 @@ El Neoclasicismo tiene como referencia los valores de la ilustración y entiende
 El romanticismo al contrario que en el neoclasicismo se le da importancia al individuo, al yo, a la creatividad, los sentimientos las emociones, la nostalgia, en resumen todo lo relacionado con lo romántico, rompiendo con los cánones de proporción, perspectiva del neoclasicismo, a su vez se inspira en épocas pasadas idealizadas como la edad media. 
 
 # Arte Contemporáneo (1800-Actualidad)
-
+___
 Alrededor del 1800 se dan los estilos historicista y realista, el historicista es un movimiento principalmente arquitectónico que pretende recrear la arquitectura de tiempos pasados, lo cual puede dar lugar a confusiones al confundir una construcción de este periodo con una mas antigua.
 
 En el realismo destacan obras como Oliver twist u obras de David Copperfield, el realismo destaca por ser un movimiento de carácter social, que muestra la vida de los mas pobres y sobre todo refleja como el ser humano esta condicionado por su clase social.
