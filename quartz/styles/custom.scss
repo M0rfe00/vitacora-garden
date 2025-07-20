@@ -433,8 +433,8 @@ body.dark .diario {
 .galeria {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  column-gap: 6px; /* antes 20px */
-  row-gap: 6px;    /* antes 0px */
+  column-gap: 4px; /* antes 20px */
+  row-gap: 4px;    /* antes 0px */
   padding: 0 6px;
   margin-right: 0%;
   margin-bottom: 100px;
