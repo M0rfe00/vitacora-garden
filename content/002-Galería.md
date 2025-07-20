@@ -8,7 +8,7 @@ ___
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250703154553_0734_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC01995.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250625214402_0598_D.JPG" alt="">
-<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250622132611_0530_D.JPG" alt="">
+<!--<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250622132611_0530_D.JPG" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250622132334_0520_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250621212808_0476_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250621195027_0440_D.JPG" alt="">
@@ -18,8 +18,8 @@ ___
 <img loading= "lazy" src="../media-content/galeria/2025/1752587884732.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587884951.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587885229.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2025/1752587539864.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2025/1752587539778.jpg" alt="">
+<!--<img loading= "lazy" src="../media-content/galeria/2025/1752587539864.jpg" alt="">-->
+<!--<img loading= "lazy" src="../media-content/galeria/2025/1752587539778.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2025/1752587539514.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752588371615.jpg" alt="">
   <!-- Añade más imágenes igual -->  
@@ -30,23 +30,23 @@ ___
 # 2024
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/galeria/2024/1752587004373.jpg" alt="">
+<!--<img loading= "lazy" src="../media-content/galeria/2024/1752587004373.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2024/1752586650824.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752586650459.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2024/1752586556299.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752586276085.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2024/1752586192864.jpg" alt="">
+<!--<img loading= "lazy" src="../media-content/galeria/2024/1752586192864.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2024/1752586156817.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752585910370.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752585909970.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752585909836.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2024/1752584872342.jpg" alt="">
+<!--<img loading= "lazy" src="../media-content/galeria/2024/1752584872342.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2024/1752583389046.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752583388701.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752583388420.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752583150011.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752583149902.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752583149073.jpg" alt="">
+<img loading= "lazy" src="../media-content/galeria/2024/1752586556299.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2024/1752582951015.jpg" alt="">
 </div>
 
