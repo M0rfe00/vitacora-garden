@@ -108,9 +108,8 @@ ___
 <!--<img loading= "lazy" src="../media-content/Moda/primera-coleccion/FemTopB.gif" alt="">-->
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/FemTopW.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Prototipo-V22.gif" alt="">
-
 </div>
-
+>[!info] Aquí ira la documentación de esta colección 
 # Final Fantasy VIII Inspiration
 ___
 <div class="galeria">
