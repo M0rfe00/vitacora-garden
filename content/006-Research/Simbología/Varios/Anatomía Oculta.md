@@ -32,7 +32,14 @@ Se dividía verticalmente en dos mitades, la derecha se consideraba luz y la izq
 Entre todos estos usos simbólicos de las partes del cuerpo humano, la columna vertebral merece una mención aparte,  una cadena de 33 segmentos,  número interesante, que protege en su interior a la médula espinal, esta escalera de huesos jugaba un rol muy importante en el simbolismo religioso de los antiguos, a menudo se la menciona como la escalera en espiral, otras como la serpiente y otras como el cetro, los hindúes por ejemplo enseñaban que hay tres canales en el sistema espinal, los Sushumna, Ida pingla, estos canales conectan los centros inferiores generativos del cuerpo con el cerebro.
 
 Los griegos lo simbolizaban por el caduceo o báculo alado de Hermes, éste consistía en un bastón largo en Sushumma, que iba en el centro, terminaba en una perilla o bolita que representaba el centro del bulbo raquídeo, a cada lado de esta perilla están las alas arqueadas, que se utilizaban para representar los dos hemisferios cerebrales, arriba de este báculo suben alternativamente y en forma de espiral dos serpientes, una negra y otra blanca que representan el Ida y pingala.
-![[Pasted image 20250713204925.png]]Por esto la espina dorsal es utilizada de manera simbólica como la unión entre dos mundos, arriba y abajo ya que la conexión entre el sistema generativo inferior y el cerebro en la parte superior se debe a la médula espinal que los conecta, estos dos canales simbolizados como serpientes, a medida que se van enrollando y elevando se van entrecruzando con siete puntos especiales a lo largo de toda la columna hasta la corona de la cabeza, cada uno de estos siete vértices son denominados chakras y se los puede imaginar tanto como puntos energéticos o como centros de conciencia, según la antigua literatura hindú están conectados propiedades y comportamientos muy específicos del desarrollo del potencial humano, este camino haría que el enfoque de la energía kundalini sea dirigida siempre hacia arriba, en sentido de evolución y ascensión desde la base de la columna hasta la cabeza, convirtiendo al cuerpo humano en un circuito psico físico, estos puntos serían:
+
+<img
+  src="../../../media-content/Research/Simbologia/Anatmonia-oculta/20250713204925.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
+Por esto la espina dorsal es utilizada de manera simbólica como la unión entre dos mundos, arriba y abajo ya que la conexión entre el sistema generativo inferior y el cerebro en la parte superior se debe a la médula espinal que los conecta, estos dos canales simbolizados como serpientes, a medida que se van enrollando y elevando se van entrecruzando con siete puntos especiales a lo largo de toda la columna hasta la corona de la cabeza, cada uno de estos siete vértices son denominados chakras y se los puede imaginar tanto como puntos energéticos o como centros de conciencia, según la antigua literatura hindú están conectados propiedades y comportamientos muy específicos del desarrollo del potencial humano, este camino haría que el enfoque de la energía kundalini sea dirigida siempre hacia arriba, en sentido de evolución y ascensión desde la base de la columna hasta la cabeza, convirtiendo al cuerpo humano en un circuito psico físico, estos puntos serían:
 
 - El chakra de la raíz localizado en la base de la columna que se relaciona con el potencial humano como energía primitiva junto a las necesidades básicas de sobrevivencia.
 
@@ -47,8 +54,12 @@ Los griegos lo simbolizaban por el caduceo o báculo alado de Hermes, éste cons
 - El chakra del entrecejo que se localiza en el espacio entre los ojos y se relaciona a los poderes de la mente, la intuición y que también se denomina como el tercer ojo.
 
 - El chakra de la corona localizado en la coronilla de la cabeza que se relaciona con la experiencia de comprensión y entendimiento tanto de sí mismo como del universo y por supuesto entonces con la iluminación.
-
-![[Pasted image 20250713204951.png]]
+- 
+<img
+  src="../../../media-content/Research/Simbologia/Anatmonia-oculta/20250713204951.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # CONCLUSIÓN
 Conceptos muy similares a estos pueden encontrarse en otras culturas, por ejemplo en la tradición milenaria de la medicina china se supone que el chi recorre todo el cuerpo como una energía fluida y vital a través de los meridianos, el concepto de meridianos se basa en la idea de la existencia dentro del cuerpo de una vasta red interconectada de canales, por donde el chi se desplazaría, relacionando y creando balance en las estructuras sustancias órganos y hasta en las esferas psico físicas que supuestamente compondrían al ser humano.

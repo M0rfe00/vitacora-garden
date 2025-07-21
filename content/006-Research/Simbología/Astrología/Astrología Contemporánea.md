@@ -37,12 +37,36 @@ Los astrólogos dividen la ecléctica en 12 casas, la posición de las constelac
 
 Al factor de la casa se añaden los aspectos, estos son la posición relativa de los cuerpos celestes entre ellos, pudiendo estar en conjunción, oposición, triada/trino, cuadratura, todo esto codifica información extra.
 
-![[Pasted image 20250714005624.png]]
-![[Pasted image 20250714005632.png]]
-![[Pasted image 20250714005641.png]]
-![[Pasted image 20250714005648.png]]
-![[Pasted image 20250714005654.png]]
-![[Pasted image 20250714005659.png]]
+<img
+  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005624.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005632.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005641.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005648.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005654.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005659.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 https://www.cosmograma.com/ciencia-astrologia.php
 

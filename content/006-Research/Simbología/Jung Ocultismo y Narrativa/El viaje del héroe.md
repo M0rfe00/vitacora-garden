@@ -54,7 +54,11 @@ Campbell organiza el viaje dividiéndolo en tres partes, **la partida, la inicia
 - **Iniciación:** donde tienen lugar el exilio y las pruebas en el desierto simbólico.
 - Regreso:** la vuelta a la comunidad como un individuo renacido y reformulado.
 
-![[Pasted image 20250714015939.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015939.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 En el viaje, el héroe o la heroína deben cruzar el umbral hacia un territorio inhóspito, encontrar a los aliados adecuados, enfrentar y vencer a los monstruos o dragones, vencer es transformar, Por ejemplo:
  - Perseo derrota a Medusa y la transforma en la égida que luce Atenea en su pecho.

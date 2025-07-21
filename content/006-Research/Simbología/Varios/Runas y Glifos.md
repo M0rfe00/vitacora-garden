@@ -8,7 +8,17 @@ Las runas en primera instancia aparecieron como un sistema alfabético, entre lo
 Lo realmente interesante de este alfabeto es que es algo más que un grupo de símbolos para escribir tuvo en su momento y sigue teniendo una fuerte connotación esotérica, de hecho, la palabra “runa” cree que deriva de la raíz “run” cuyo significado es misterio, secreto.
 
 El futhark antiguo está compuesto por 24 runas, cada una de ellas con un nombre propio y significado concreto, a diferencia de nuestro alfabeto que las letras tienen nombres abstractos, por ejemplo, la runa “Feoh” quiere decir riqueza y la “Rad” viaje.
-![[Pasted image 20250713202654.png]]![[Pasted image 20250713202658.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Runas-Glifos/20250713202654.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Runas-Glifos/20250713202658.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 [https://www.simboloteca.com/alfabeto-runico/](https://www.simboloteca.com/alfabeto-runico/)
 
 Se conoce con bastante certeza que las runas además de ser usadas como un sistema alfabético, eran utilizadas de forma esotérica por los pueblos nórdicos y vikingos, en la Edda poética hay referencias a ello, en fuentes como esta se sabe que se utilizaban como profecías, adivinación, consejeras, sellos mágicos como protección y sanación.
@@ -108,4 +118,7 @@ En la cultura maya, un glifo se refiere a un símbolo o signo utilizado en la es
 En la cultura zapoteca, un glifo se refiere a un símbolo utilizado en la escritura zapoteca, un sistema de escritura antiguo utilizado por los zapotecos en el sur de México. Los glifos zapotecas representaban tanto palabras como sílabas y eran utilizados para registrar información histórica, genealógica y otros aspectos de la cultura zapoteca.
 
  **Glifos astrológicos más usados en la astrología occidental.**
- ![[Pasted image 20250713203120.png]]
+ <img
+  src="../../../media-content/Research/Simbologia/Runas-Glifos/20250713203120.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"

@@ -251,10 +251,16 @@ La segunda red aplica varias técnicas usadas anteriormente para complementar la
 # **5.4 Practice: Recreate the following visual results.**
 ___
 Análisis: Mouse interactivity, particles per point, colors blue and purple, position of the grid horizontal
-
-<img src="./43cfeb8848a42cf82eb0b6ab9e06d3a95f72d813.png"
-style="width:6.26042in;height:3.8125in" /><img src="./7b6f5baf912a057be7d5a498b368e23a36b72a6b.png"
-style="width:6.26042in;height:3.48958in" />
+<img
+  src="../../../media-content/Apuntes/media-foto/43cfeb8848a42cf82eb0b6ab9e06d3a95f72d813.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-foto/7b6f5baf912a057be7d5a498b368e23a36b72a6b.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # **6.1 Blob instancing: Lets combine everything we've learned**
 ___

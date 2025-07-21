@@ -9,7 +9,13 @@ Para crear formas o trazos vectoriales principalmente se utiliza la forma pluma.
 Los trazados vectoriales aparecen en un panel independiente como las capas, dentro de los ajustes se puede seleccionar añadir y sustraer de la selección.
 
 Para utilizar un trazado como mascara: cargar selección, selección\>selecc aplicar mascara.
-![[content/005-Recursos/Fotografia/Media/43b4412e7118046ff142df3b72e0a8c4eb0eca30.png]]
+
+<img
+  src="../../../media-content/Apuntes/media-foto/43b4412e7118046ff142df3b72e0a8c4eb0eca30.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 ### **Objetos inteligentes:**
 Los objetos inteligentes protegen la información las capas de píxel para poder transformarlos sin perder su información original como las vectoriales.
 

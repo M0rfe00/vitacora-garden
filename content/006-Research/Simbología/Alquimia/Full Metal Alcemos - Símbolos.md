@@ -63,10 +63,41 @@ Los alquimistas trabajaban con **tres principios filosóficos** (triaprima) que 
 - **Representa:** la materia, la estructura, la cristalización de lo espiritual en lo físico.
 - **En el cuerpo humano:** la forma física, el esqueleto, lo estable.
 
-![[Pasted image 20250714024712.png]]![[Pasted image 20250714024717.png]]
-![[Pasted image 20250714024722.png]]![[Pasted image 20250714024728.png]]
-![[Pasted image 20250714024734.png]]![[Pasted image 20250714024742.png]]
-![[Pasted image 20250714024747.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024712.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024717.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024722.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024728.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024734.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024742.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024747.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 
 # **CUERPO, ALMA Y ESPÍRITU**
@@ -95,7 +126,11 @@ En muchas tradiciones filosóficas, religiosas y alquímicas, el ser humano est�
 - **En nosotros:** el sí-mismo profundo, la conexión con lo eterno, lo divino, el arquetipo del "centro".
 - **Es inmortal e inmutable.**
 
-![[Pasted image 20250714024916.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714024916.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # **EN LA PSICOLOGÍA DE JUNG**
 ___
@@ -117,8 +152,16 @@ Carl Jung interpretó los textos alquímicos como **mapas simbólicos del proces
 - 
 - Es el equivalente psicológico del espíritu alquímico: el Mercurio que todo lo une.
 
-![[Pasted image 20250714025100.png]]
-![[Pasted image 20250714025109.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714025100.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714025109.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # **FULL METAL ALCHEMIST B:**
 ___

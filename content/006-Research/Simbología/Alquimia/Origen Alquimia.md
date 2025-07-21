@@ -22,8 +22,16 @@ Las evidencias que podemos recolectar a través de distintos tratados nos hacen 
 ___
 En el esquema triaprima de Paracelso, el azufre, el mercurio y la sal no están representando sustancias químicas, sino espirituales, de las que se sirve el operador modificando las relaciones entre ellas para intentar crear condiciones tanto materiales como inmateriales.
 
-![[Pasted image 20250714013235.png]]
-![[Pasted image 20250714013241.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714013235.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714013241.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Se suponía, además, que la transmutación no sólo implicaba un efecto personal o local para el alquimista, sino que era global y universal, lo que incluía la naturaleza del tiempo.
 
@@ -35,11 +43,19 @@ Uno de los secretos mejor guardados fue siempre el relacionado con el tiempo. Se
 ___
 Parte del concepto gnóstico-alquímico consistía en que, para llegar a su realización, el adepto debía atravesar las siete esferas planetarias. La última de éstas, la más externa, era el anillo ofídico de Saturno, muchas veces representado con el Uroboros, que separaba al alma de su paraíso u hogar espiritual, ahí se suponía que reinaba Saturno, el dios proscripto, la serpiente que guardaba el paraíso, que no es otro que el Crono griego y el Zurvan persa.
 
-![[Pasted image 20250714013313.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714013313.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 En muchas sectas gnósticas, aunque no en todas, el último guardián planetario o arconte era Abraxas, por lo que podemos asumir que en muchas corrientes son todos el mismo o, para decirlo sin simbolismos, encarnaban principios análogos, por lo tanto, la superación de este, atravesar el círculo ofídico, no significaría más que una interrupción en el transcurso del tiempo, o mejor dicho, el corte del ciclo del tiempo, de la cadena de reencarnación en la que creían éstos.
 
-![[Pasted image 20250714013330.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Alquimia/20250714013330.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Un supuesto retorno a la Edad de Oro, a la eterna juventud y a la simultaneidad divina. Recordemos que en el gnosticismo, la existencia terrenal era considerada un lugar de confinación tenebrosa, donde el ser humano se encontraba atado a los designios astrológicos. Paracelso, por ejemplo, la definía sencillamente como el lugar donde fue arrojado él, o sea, el mismo infierno.
 

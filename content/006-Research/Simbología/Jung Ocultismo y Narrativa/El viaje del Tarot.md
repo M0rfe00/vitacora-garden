@@ -55,7 +55,11 @@ ___
 
 	Este camino lo subdividió en dos partes, siendo la primera mitad la solar, la del desarrolló personal y el crecimiento exterior y la segunda la lunar, un viaje a nuestro interior para tomar contacto con la sombra.
 
-![[Pasted image 20250714024009.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714024009.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Como la interpretación se basa en el viaje del sol se lee de derecha a izquierda, de este a oeste, de oriente a occidente, el arco diurno representa la conciencia y la dimensión física mientras que el arco nocturno marca el camino por las profundidades y el inconsciente previo a la resurrección.
 
