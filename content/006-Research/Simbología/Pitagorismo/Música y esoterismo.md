@@ -23,7 +23,11 @@ Sin embargo, aquella tradición desapareció, quizás ocultada por quienes quisi
 #### **COSMOLOGIA PIGAGORICA:**
 Pitágoras concebía al universo como un monocordio inmenso, con su única cuerda conectada por el extremo superior con un espíritu puro y por el inferior con la materia pura: una cuerda extendida entre el cielo y la tierra. Pitágoras, según algunos expertos, dividía el universo en doce esferas, y según otros, en nueve.
 
-![[Pasted image 20250713234849.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234849.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 La explicación de este último sistema, el sistema de la octava, que quizás sea el que más influencia tuvo en las corrientes herméticas, es la siguiente:
 
@@ -33,33 +37,67 @@ De la segunda a la última, en el orden correspondiente, eran las esferas de Sat
 
 Es decir, nos encontramos con la esfera de la Tierra y la esfera empírea exterior, separadas por los siete planetas clásicos.
 
-![[Pasted image 20250713234909.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234909.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Esta distribución de los siete planetas, (en la astronomía antigua, y por lo tanto en el esoterismo, el Sol y la Luna se consideraban planetas) es lisa y llanamente una escala musical diatónica, es decir, una escala que tiene siete intervalos por octava, siendo la octava nota una repetición de la primera, solo que un poco más grave o aguda.
-![[Pasted image 20250713234927.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234927.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Se suponía que esta era la forma de la armonía cósmica, la armonía mundi, y que manifestaba una ley de orden universal que podía aplicarse a todo.
-![[Pasted image 20250713234944.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234944.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 También se creía que cada una de las esferas producía un tono determinado, provocado por su desplazamiento constante en la difusión etérea, como aquellos tonos eran una manifestación del orden y el movimiento divinos, se suponía que participaban de una armonía de su propia fuente.
 
 En los cultos mistéricos griegos se afirmaba que estos sonidos diferían en función de su respectiva magnitud, celeridad y/o distancia, por ejemplo, decían que Saturno, el planeta más lejano, producía la nota más grave, mientras que la Luna, el más próximo, daba la más aguda.
-![[Pasted image 20250713235003.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235003.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Los sonidos de los siete planetas, más la esfera de las estrellas fijas, más la Tierra, eran las nueve musas que componían el séquito de Apolo: Calíope, Clío, Erato, Euterpe, Melpómene, Polinia, Talía, Terpsícore y Urania, y su sinfonía conjunta se llamaba como su madre: Mnemosine.
-![[Pasted image 20250713235021.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235021.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Los iniciados griegos también afirmaban que existía una relación entre cada una de las esferas de los siete planetas y las siete vocales sagradas griegas.
 
 El primer cielo emitía el sonido de la vocal sagrada alfa; el segundo cielo, la vocal sagrada épsilon, el tercero; la eta, el cuarto; la iota, el quinto; la ómicron, el sexto; la ípsilon, y el séptimo cielo, la vocal sagrada omega, suponían que cuando estos siete cielos sonaban juntos, producían una armonía perfecta que se elevaba hacia el trono del Creador.
-![[Pasted image 20250713235036.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235036.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Muchos instrumentos primitivos tenían siete cuerdas, y se dice que las siete cuerdas siempre se relacionaban tanto con sus correspondencias con el cuerpo humano como con los planetas.
 
 También se pensaba que los nombres de Dios se formaban a partir de combinaciones de las siete armonías planetarias, creían que todo lo que existía tenía un sonido, y que todas las criaturas estaban alabando constantemente al Creador, pero que el hombre no podía oír estas melodías divinas porque su alma estaba enredada en la ilusión de la existencia material.
 
 Pero que cuando se liberara de la esclavitud del mundo inferior y de sus limitaciones sensoriales, la música de las esferas volvería a ser audible como lo fue en la era dorada, por esto también se afirma que lo más cercano a la música de las esferas que puede llegar a percibir el hombre común es el silencio.
-![[Pasted image 20250713235050.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235050.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 ## **RELACIÓN ENTRE MUSICA Y FORMA**
 ___
@@ -68,7 +106,12 @@ Los misterios griegos incluían en sus doctrinas el concepto de que existía una
 Consciente de esta analogía entre el sonido y la forma, el iniciado Goethe decía que la arquitectura es música cristalizada.
 
 En la construcción de sus templos, los sacerdotes antiguos con frecuencia demostraron su preocupación por un principio que conocían como vibración. Una parte considerable de los rituales mistéricos consistía en himnos y salmodias, para lo cual se construían cámaras acústicas especiales.
-![[Pasted image 20250713235109.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235109.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Una palabra que se susurrase en alguna de aquellas salas se intensificaba tanto que las reverberaciones hacían vibrar nuevamente a todo el edificio. Se decía que hasta la madera y la piedra utilizadas en la construcción de aquellos templos acababan por impregnarse tanto de las vibraciones sonoras de las ceremonias religiosas que, cuando las golpeaban, reproducían los tonos que los rituales les habían impreso.
 

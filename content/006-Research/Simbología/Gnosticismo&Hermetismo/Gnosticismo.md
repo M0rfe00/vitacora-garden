@@ -67,13 +67,28 @@ La tercera fase se representa por la escuela de Atenas en el siglo V y la escuel
 Según las ideas generales neoplatónicas, se encuentran una pluralidad de esferas de ser que se ordenan en la existencia jerárquicamente, la derivación de cada esfera procede de una implicación mental lógica y no de una relación causa efecto, la idea de la importancia de lo mental y lógico era fundamental dentro de la filosofía.
 
 El principio del que procede todo, no tiene límites y que lo abarca todo, esta realidad que lo abarca todo se proyecta en la esfera, el espacio tiempo, nuestra dimensión con la pluralidad, es decir que la pluralidad que observamos en nuestro mundo procede de una unidad mayor que lo abarca todo.
-![[Pasted image 20250713231431.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231431.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 La complejidad lógico-filosófica de este pensamiento residida en cómo y porque se verifica la transición entre la unidad y la pluralidad, aunque la unidad abarque la pluralidad.
-![[Pasted image 20250713231456.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231456.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Las ideas de Plotino recopiladas por Porfirio son, la división de la existencia en dos ámbitos, el invisible y el sensible, perceptible, aquella que vemos en nuestra realidad diaria y que procede de lo invisible, Plotino trataba de explicar los fundamentos de lo invisible y de lo sensible, teniendo en cuenta en su pensamiento que lo sensible forma parte de lo invisible.
-![[Pasted image 20250713231535.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231535.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Esta transición de una esfera a otra, de lo invisible a lo sensible, inmaterial a lo material, la explicaba con la idea del uno que no se piensa a sí mismo y simplemente es la existencia, que luego se puede encontrase en una esfera inferior como la inteligencia, lo que, si se piensa a sí mismo, el mundo de las ideas, lo inteligible.
 
@@ -82,7 +97,12 @@ Mostrando una dualidad entre lo pensante y lo pensado, habiendo una unidad que s
 Los pensamientos son inteligibles, no se pueden tocar, pero un pensamiento puede convertirse, manifestarse en algo real, a esta transición de lo inteligible a lo tangible Plotino lo denominaba alma.
 
 Plotino explicaba que el ser humano es un microcosmos, es decir, que la realidad dual formaba parte del ser humano, el cual teoría una parte material, física, sensible y una parte inteligible, invisible.
-![[Pasted image 20250713231554.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231554.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 #### **Objetivo de los neoplatónicos**
 Para el, el objetivo del alma tiene que regresar a su origen, a la unidad la cual es el estado más perfecto, dándose casos como el de Hipatia de Alejandría la cual se oponía al matrimonio y las relaciones sexuales ya que según este pensamiento el amor es algo sublime que tiene que trascender el cuerpo.
@@ -90,8 +110,12 @@ Para el, el objetivo del alma tiene que regresar a su origen, a la unidad la cua
 Para alcanzar este objetivo, el alma, es decir la persona, no debe guiarse por lo externo ya que este es una manifestación de lo que está dentro, por lo que debe ir hacia el interior, ya que en el interior del ser humano se puede encontrar el centro del universo a nivel invisible, intangible, metafísico.
 
 El proceso consiste en, la razón discursiva/dianética, que es que el alma se recoge en si misma desentendiéndose de todos los objetos exteriores y también del cuerpo, que no es el alma, para contemplar lo que en ella hay de intelectual, en el sentido entre lo material y lo trascendental, lo invisible. Y También volverse hacia la inteligencia a través del objetivo de la noesis, que es el acto intencional de pensar, punto en el que solo cabe esperar la manifestación del uno.
-![[Pasted image 20250713231621.png]]
 
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231621.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # Gnósticos - Laura egiptología
 ___
@@ -115,7 +139,12 @@ En la antigüedad las corrientes neoplatonisticas, el gnosticismo y hermetismo e
 Los textos gnósticos más importantes podrían dividirse en dos grupos, aquellos conocidos antes de 1945 y los conocidos después ya que en esta fecha se descubren los textos de “Nag Hammadi” en Egipto, 13 códices que amplían el conocimiento de las ideas gnósticas.
 
 Antes de 1945 se encuentran una gran cantidad de códices, dentro de estos códices se pueden encontrar textos destacados son fragmentos griegos, el evangelio de Tomas, el evangelio de María y la sabiduría de Jesucristo, dentro del códice de Bruce se pueden encontrar “El libro de Jeu” y “La gnosis de la luz”, en el códice Askew “Pistis Sophia”, en el códice Berlín “El evangelio de María”, “El apócrifo de juan” y “epitomia de los evangelios de pedro” y “la sabiduría de Jesús”.
-![[Pasted image 20250713231752.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231752.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 La hipóstasis de los arcontes, texto que presenta una reinterpretación gnóstica de la creación y el diluvio en la que Sophia juega un papel importante en la creación del mundo y la caída de la humanidad.
 
@@ -141,8 +170,12 @@ Hans Jonas en su publicación “The gnostic religion” habal de la importancia
 Dentro de las 7 esferas planetarias se encuentran los arcontes, palabra que significa gobernador en griego, estos son siete entidades que tienen tronos en cada una de estas esferas y gobiernan el mundo caótico y material intentado separar a los humanos del mundo de dios, en los textos gnósticos se habla que cuando nuestras almas mueren intentan alcanzar el mundo dios al que pertenecían originalmente, pero los arcontes intentan evitarlo, separándonos de nuestra esencia divina, estos arcontes tienen un líder llamado Demiurgo, este es el creador del mundo material, el de la oscuridad.
 
 La esfera de las estrellas fijas era conocida como pleroma conformada por 30 eoenes, cada uno correspondiente a los días del mes y dentro de estos estaban los signos del zodiaco cuyos equivalentes terrenales eran los 12 apóstoles.
-![[Pasted image 20250713232010.png]]
 
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232010.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 **Demiurgo:** Para ellos, el mundo visible, material, en el que vivimos no es de origen divino, sino que es malévolo, este mundo material no había sido creado por dios, el verdadero, sino que había sido el Demiurgo, una entidad que se hace pasar por la divinidad y nos ha encerrado como espíritus que somos, en un mundo material del que no podemos salir, para lograrlo deberíamos alcanzar más allá de lo mutable, la idea divina de lo inmutable,
 
@@ -179,9 +212,22 @@ En la tradición gnóstica, Sofia del griego sabiduría, se refiere a la emanaci
 
 También existieron otras sectas gnósticas como los Valentinianos, Manideistas, Basilideanos, Setianos, Eclesiastas, gnósticos persas, sirio-egipcios y judeo-israelitas.
 
-![[Pasted image 20250713232444.png]]
-![[Pasted image 20250713232456.png]]
-![[Pasted image 20250713232504.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232444.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232456.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232504.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 #### **Sophia en el gnosticismo**
 Sophia es una figura que encarna temas como la sabiduría divina, la ida el arrepentimiento y la redención, para los primeros grupos gnósticos fue una advertencia de los peligros del olvido espiritual y una promesa de que el conocimiento y la iluminación son posibles.
 
@@ -201,5 +247,13 @@ Sophia siempre aparece como una emanación del pleroma aunque su historia varie 
 
 En su mito a veces descrito como un acto de voluntad autónoma y otras como un deseo de conocer a su creador Sophia se extiende más allá de su reino y cae, acto conocido como la caída de Sophia y considerado por algunas corrientes como el origen del sufrimiento y la imperfección en el mundo material, ya que tras su caída da a luz al demiurgo, artesano ignorante del mundo material, siendo considerado en esta versión del mito una entidad malévola o incompetente que crea el plano material y a los arcontes para mantener su dominio sobre ese plano, sin embargo como su madre lo engendro sin consorte por lo que es imperfecto y por ello su creación también, simbolizando la ignorancia espiritual y contraponiéndose con la verdadera divinidad, trascendente y superior a la realidad que el gobierna, en esta creencia la liberación espiritual implica trascender la creación del demiurgo y alcanzar la gnosis, el conocimiento interior de la naturaleza divina, siendo ayudados por Sophia la cual pretende redimirse por su caída y intentando restaurar todo incluida ella al pleroma, a la divinidad, a la fuente.
 
-![[Pasted image 20250713232617.png]]
-![[Pasted image 20250713232626.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232617.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232626.png"
+  alt="Astrologia"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>

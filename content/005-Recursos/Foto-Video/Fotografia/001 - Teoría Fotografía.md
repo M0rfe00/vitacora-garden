@@ -43,11 +43,26 @@ entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, 
 
 - **3Arroyo:** para hacer una foto de larga exposición la velocidad de obturación deberá ser lenta, lo que hará que este sobreexpuesta, se bajara el ISO para balancear lo máximo posible y compensara con cerrando el diafragma utilizando una “f” alta.
 
-<img src="./7fb09e6351f505a444ec8fdc8f039caf19525b4c.png"
-style="width:6.37657in;height:3.22542in" /><img src="./a17f2ab35392e54a328f3ce26a0039d1d8ed1d35.png"
-style="width:4.70685in;height:2.81158in" /><img src="./9684c9232c24287939ee86ae8fe7a336c7418865.png"
-style="width:4.71875in;height:2.83439in" /><img src="./c4e8b88063d6abe0feefc3ab2a7d63332230c0ee.png"
-style="width:4.70309in;height:2.86412in" />
+<img
+  src="../../../media-content/Apuntes/media-foto/7fb09e6351f505a444ec8fdc8f039caf19525b4c.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-foto/a17f2ab35392e54a328f3ce26a0039d1d8ed1d35.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-foto/9684c9232c24287939ee86ae8fe7a336c7418865.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-foto/c4e8b88063d6abe0feefc3ab2a7d63332230c0ee.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # Conceptos
 
@@ -128,8 +143,12 @@ Distribución de los elementos visuales de una imagen para transmitir una idea c
 
 - Balance visual compensando la presencia de elementos en tercios diagonales.
 
-<img src="./e103e212692d8fe1983c5d79215d6a90e2c56281.png"
-style="width:4.09974in;height:2.3125in" />
+<img
+  src="../../../media-content/Apuntes/media-foto/e103e212692d8fe1983c5d79215d6a90e2c56281.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 
 ## **Composición fotográfica: \[De viaje con la cámara\]**
 
@@ -154,11 +173,22 @@ style="width:4.09974in;height:2.3125in" />
 ### **Reglas de Composición aparte de 3/3: \[Pedro Vidal\]**
 
 Existen otras muchas más reglas de composición además de los tres tercios que permiten muchas más posibilidades; algunas son; triángulos dorados, Lineas diagonales
+<img
+  src="../../../media-content/Apuntes/media-foto/5b93d113225c88f236ed9d1bf8a7a06d6afe90d1.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-foto/529cc34edbf472829ee62c50db50ba4d11c0a902.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-foto/08e662310c5f76da8c24a20016b83348d7b59468.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
-<img src="./5b93d113225c88f236ed9d1bf8a7a06d6afe90d1.png"
-style="width:6.26042in;height:5.90625in" /><img src="./529cc34edbf472829ee62c50db50ba4d11c0a902.png"
-style="width:6.26042in;height:5.8125in" /><img src="./08e662310c5f76da8c24a20016b83348d7b59468.png"
-style="width:6.26042in;height:5.94792in" />
 
 ### **Jerarquía visual:**
 
@@ -213,8 +243,12 @@ Los planos pueden dividirse principalmente en generales, medios y cortos y son:
 
 - **Detalle:** Capta un detalle concreto del personaje o la escena.
 
-<img src="./e87f6839283c42c89b28b2f8348c8964c00c2532.png"
-style="width:6.26042in;height:3.54167in" />
+<img
+  src="../../../media-content/Apuntes/media-foto/e87f6839283c42c89b28b2f8348c8964c00c2532.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 
 #### **Según la posición de la cámara:**
 
@@ -234,8 +268,11 @@ style="width:6.26042in;height:3.54167in" />
 
 - **Holandés:** o aberrante, girada ligeramente unos 45º
 
-<img src="./994724073ca49e8a66c8115b48a4b2c2ddb8e32b.png"
-style="width:3.63656in;height:3.29166in" />
+<img
+  src="../../../media-content/Apuntes/media-foto/994724073ca49e8a66c8115b48a4b2c2ddb8e32b.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 ###### Según el movimiento de la cámara, también puede ser un travelling, zoom, grúa, giro...
 

@@ -5,35 +5,75 @@ tags:
 # COSMOLOGIA PITAGORICA
 ___
 En la doctrina pitagórica, las ideas simbolizadas dentro de la Tetractys, comenzando por el punto, 1 o monada, representaban la consumación del proceso de creación y, por ende, de la música.
-![[Pasted image 20250713234106.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234106.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Muchas religiones y doctrinas esotéricas de distintas culturas coinciden en que el mundo deriva de una unidad divina, como lo demuestran diferentes mitos en diferentes culturas., en muchas corrientes del pensamiento místico se afirma que el mundo fue creado por la palabra, un primer sonido divino creativo que correspondía a la voluntad del creador. Es decir, los misterios antiguos enseñaban que en el principio la fuerza creativa habló y ese sonido, esta vibración, esta palabra, se convirtió en la unidad de toda la existencia.
-![[Pasted image 20250713234119.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234119.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Por ejemplo, en la traducción de Isaac Newton de la Tabla Esmeralda atribuida a Hermes Trismegistos se puede leer:
 	“Así como las cosas provinieron del Uno, por mediación del Uno, todas las cosas nacieron del Uno por adaptación”.
-![[Pasted image 20250713234148.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234148.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Los pitagóricos decían que todo el universo se generaba a partir de la mónada divina y atribuían cualidades divinas a los números inmediatamente posteriores, que son 2, 3 y 4, y también a su suma (1+2+3+4=10).
 
 Para ellos, los números eran fuerzas vivientes, lo que también coincide con otros puntos de vista, entre ellos los cabalísticos, que atribuyen esencias activas a las letras y los números.
-![[Pasted image 20250713234205.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234205.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Finalmente, la Tetractys, como la suma de estos cuatro, era el símbolo supremo de la perfección: el 10. Entonces intentaron aplicar esta fórmula universal a todo el mundo perceptible, y la música no fue una excepción; de hecho, fue uno de los medios donde mejor pudo trasladarse.
-![[Pasted image 20250713234235.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234235.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Curiosamente, encontramos otra vez una coincidencia con la Cábala, ya que el número de sefirot en el Árbol Cabalístico también es 10. Según muchos estudiosos del tema, esta coincidencia tendría un punto en común y sería la estadía de Pitágoras en Babilonia.
-![[Pasted image 20250713234250.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234250.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 ## **PITAGORICOS Y LA MUSICA**
 ___
 Finalmente, la hermandad pitagórica, que había revolucionado la música, la filosofía, la ciencia y la religión en Grecia, se volvió muy poderosa y formó un grupo de mucha influencia política: la Liga Pitagórica.
-![[Pasted image 20250713234325.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234325.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Esta liga tenía una tendencia contraria a las familias aristocráticas, y como consecuencia de esto se produjo una violenta reacción en Crotona, donde tenían su casa central, Luego de algunas idas y venidas, los pitagóricos fueron perseguidos, muchos de ellos muertos, y las sedes tanto de la liga como de la hermandad fueron incendiadas.
 
 Pitágoras escapó a Metaponto y, según se dice, murió un tiempo después, pero la filosofía pitagórica, gracias a su estructura iniciática y sus fuertes convicciones, sobrevivió bajo tierra e inclusive tuvo un nuevo florecimiento en el siglo I a.C.: el neopitagorismo, el historiador Robert Parker, orfismo temprano, señaló que los puntos de vista y las prácticas órficas también presentaron paralelismos con elementos del pitagorismo.
-![[Pasted image 20250713234340.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234340.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Con respecto a esto se puede agregar que varias tradiciones sostienen que los pitagóricos, o inclusive el propio Pitágoras, escribieron las primeras obras órficas, pero alternativamente, algunos otros filósofos posteriores creyeron que en realidad era al revés, y Pitágoras era un iniciado del orfismo, la medida en que un movimiento puede haber influido con el otro sigue siendo controvertida. Pero sí es cierto que existen coincidencias innegables entre ambos.
 
@@ -48,16 +88,39 @@ Esa teoría iba a influir muchos siglos después en figuras clave de la revoluci
 
 ### AFINACIÓN PITAGORICA
 La afinación pitagórica se fundamenta en la quinta perfecta o quinta justa, y fue el método principal de afinación durante la Edad Media, se obtenía mediante la división geométrica de una cuerda de un instrumento musical en dos, tres y cuatro partes iguales, es decir, la clave encerrada en el triángulo de la Tetractys: uno, dos, tres y cuatro, la proporción que parte de la unidad o mónada o punto, y continúa con la díada o línea, la tríada o armonía o figura, y la tétrada o cosmos o sólido.
-![[Pasted image 20250713234426.png]]
-![[Pasted image 20250713234432.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234426.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234432.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 ### CIRCULO DE QUINTAS
 Para componer, armonizar melodías, construir acordes y desplazarse a diferentes tonalidades dentro de una composición, los músicos y compositores utilizaban el esquema del círculo de quintas, que no es otra cosa que una representación geométrica de las relaciones entre los doce semitonos de la escala cromática en el espacio entre tonos, y que contiene las relaciones matemáticas clásicas de la geometría sagrada y la numerología.
-![[Pasted image 20250713234457.png]]
-![[Pasted image 20250713234503.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234457.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234503.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Un claro ejemplo de su utilización en la Edad Media fueron los cantos gregorianos y la música litúrgica, cuyas características monofónicas, monódicas y diatónicas son claramente pitagóricas.
-![[Pasted image 20250713234521.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234521.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 ### IMPORTANCIA DEL NUMERO 3
 En el laberinto de significados esotéricos incluidos en el triángulo pitagórico, el número tres, es decir los lados del triángulo, también son absolutamente importantes para la teoría y la práctica musical, David Huff Bale, en su libro Las artes ocultas de la música, escribió:
@@ -67,14 +130,28 @@ En el laberinto de significados esotéricos incluidos en el triángulo pitagóri
 Por eso, el número tres era tan importante para Pitágoras, porque es un número generativo para la música.
 
 También sabemos que el 3 era el número de las Caritas o Gracias de la mitología griega. La lista de sus responsabilidades como diosas las vinculaba con la música y la creatividad, y se sabe que tenían un significado arcano muy importante en los misterios eleusinos. Al mismo tiempo, el número de las musas, 9, se deriva de 3 al cuadrado, es decir, 3 x 3.
-![[Pasted image 20250713234606.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234606.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Para el especialista en mitología Joseph Campbell, el número 9 era el de las musas, que se manifiestan en el campo del espacio-tiempo, en el de la energía y en el de la mente apolínea, mediada por las Gracias.
-![[Pasted image 20250713234619.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234619.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Siguiendo con el 3, en una ilustración de un período muy posterior del libro Musurgia Universalis del jesuita Athanasius Kircher, podemos ver todo el universo musical impregnado por la luz del principio trinitario: el triángulo que simboliza la omnipresencia de Dios y también personifica la Trinidad. Kircher compartía la idea medieval de que la música es un reflejo de las matemáticas esenciales y las proporciones inherentes a toda creación, y la Trinidad era para él no sólo un símbolo, sino también un dogma.
 
-![[Pasted image 20250713234632.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713234632.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 El triángulo de la deidad Trinidad, en este grabado alegórico, emana una luz inspiradora y dadora de vida, afinando el universo para moverse y sonar en un modo armonioso. Incluso podemos vislumbrar el sonido de esta armonía divina en la partitura del Canon de los Ángeles, un canon de 36 partes (3 + 6 = 9) del músico romano Mischel, compuesto para ser cantado por nueve coros de cuatro voces. En este canon solo hay una palabra repetida tres veces que forman un triángulo: el llamado Sanctus de la visión del Señor del profeta Isaías, que era “Santo, santo, santo”.
 

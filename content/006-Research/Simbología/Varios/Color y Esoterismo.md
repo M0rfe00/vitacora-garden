@@ -10,18 +10,34 @@ En 1667 Isaac newton descubrió que la luz solar se descomponía en siete colore
 En realidad hay otra verdad y es que el 7 es un número muy especial, que no mágico, porque en los misterios, todos los números son mágicos, pero el tema es que los astrónomos de la antigüedad, con sus primitivos medios, observaron que entre todos los cuerpos celestes había siete de ellos que mantenían entre sí una posición relativa y aunque sus cálculos no fueron exactos se los concedió como los siete planetas clásicos, que tanta importancia adquieren en los cultos astrológicos de la antigüedad de los que devendrían los misterios esotéricos, mercurio venus marte júpiter y saturno además del sol y la luna claro.
 
 Así es que los siete planetas clásicos serían representados de muchas formas, por ejemplo con los días, el lunes es el día de la luna, el martes el del dios martes, el miércoles el del dios mercurio o Hermes, el jueves de júpiter y el viernes de venus, el nombre del sábado proviene de la fiesta hebrea del shabat y curiosamente o no, el talmud babilónico se refiere a saturno como “sabetay”, la estrella del sábado y el domingo proviene de la palabra latina “dominus” el señor, en inglés tienen para estos dos últimos días palabras todavía más explícitas como saturday el día de saturno y sunday el día del sol el día del señor.
-![[Pasted image 20250713205431.png]]Entonces, de aquellos siete planetas clásicos, la importancia e influencia del número siete, que se ha utilizado y se utiliza en muchos ámbitos de la vida, junto claro, con otros números preferidos, ya que todos los números simbolizan algo o mejor dicho para los ocultistas tienen determinado poder, hay muchos ejemplos en distintas culturas y religiones ya que todas tienen ancestros comunes, los siete dones del espíritu santo, los siete arcángeles, las siete plagas de Egipto, los siete pecados capitales, los siete sacramentos, los siete días de la creación del mundo, los siete palacios celestiales o esferas, los siete chakras, los siete metales al químicos, los siete mares, los siete arcontes, las siete notas musicales, las siete maravillas del mundo antiguo, los siete sabios de Grecia, las siete edades del hombre etcétera hay muchos ejemplos.
+
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205431.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
+Entonces, de aquellos siete planetas clásicos, la importancia e influencia del número siete, que se ha utilizado y se utiliza en muchos ámbitos de la vida, junto claro, con otros números preferidos, ya que todos los números simbolizan algo o mejor dicho para los ocultistas tienen determinado poder, hay muchos ejemplos en distintas culturas y religiones ya que todas tienen ancestros comunes, los siete dones del espíritu santo, los siete arcángeles, las siete plagas de Egipto, los siete pecados capitales, los siete sacramentos, los siete días de la creación del mundo, los siete palacios celestiales o esferas, los siete chakras, los siete metales al químicos, los siete mares, los siete arcontes, las siete notas musicales, las siete maravillas del mundo antiguo, los siete sabios de Grecia, las siete edades del hombre etcétera hay muchos ejemplos.
 
 # CONTEXTO DE NEWTON
 Newton quien era rosacruz, alquimista, presidente de la real sociedad de ciencias de Londres, que era y es una orden esotérica de científicos y masón aunque todavía esta sociedad no había salido a la luz pública, entonces lógicamente sólo podía dividir a los colores del espectro o sea a los colores que formaban a la luz misma con todo lo que significa la luz, en un número y ese número era el siete y más porque sabía que en su experimento estaba reproduciendo artificialmente al arco iris, que tiene también un valor importantísimo en la filosofía oculta desde tiempos inmemoriales.
-![[Pasted image 20250713205458.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205458.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # HISTORIA DEL ARCOIRIS
 En la época de Gilgamesh, la historia más antigua escrita en el planeta tierra, el arcoíris se describía como el collar de joyas de la gran madre, la diosa Ishtar, para los griegos, el arcoíris era la diosa mensajera entre el cielo y la tierra, llamada iris, en el antiguo testamento el arcoíris fue creado por dios tras el diluvio universal como muestra de la voluntad divina y para recordarle a los hombres la promesa de que jamás volvería a destruir la tierra con un diluvio, para los vikingos el arco iris era un puente que unía a Midgard y Asgard o sea, el mundo de los hombres con el mundo de los dioses.
 
 Resumiendo, en la mayoría de los casos, el arco iris representa una unión del cielo con la tierra y debido a esto colores del arco iris se han utilizado en variedad de sistemas esotéricos, un caso muy notorio es el arqueometro, que se supone encierra los 72 nombres de los ángeles o genios cabalísticos y se utiliza mayormente con fines oraculares, este presenta una escala de colores supuestamente análoga a la escala musical, a las fuerzas del sistema planetario, los números y el alfabeto hebreo, asirio ciriaco y caldeo, es decir, los colores del arcoíris, siempre, desde tiempos ya olvidados, han tenido un significado importantísimo en los misterios aunque claro puedan variar depende la corriente la cultura y la época, estos colores son rojo, naranja, amarillo, verde, azul, índigo/añil/azul marino y violeta.
-![[Pasted image 20250713205531.png]]
 
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205531.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 # Simbolismo
 Generalmente, teniendo en cuenta los usos generales y no los particulares de las distintas culturas y épocas, se le asignan los siguientes usos simbólicos:
@@ -50,23 +66,50 @@ La visión espiritual de Runge sobre las bellas artes, originalmente se basó en
 Por lo cual en esta visión mística, específicamente cabalística, aunque también gnóstica, recuperar esta unidad con dios dejando atrás el mundo de la materia sería el objeto principal de toda vida, la comprensión del " Fiat lux " que sería algo así como, la revelación de la luz o el que se haga la luz, tal como se describe en el libro del génesis, es un conocimiento oculto o esotérico fundamental y la clave más importante para completar este proceso, por lo tanto, no era sólo responsabilidad de las ciencias sino también de las artes llevar la creación a su salvación, el retorno a la llamada edad de oro.
 
 A esta visión mística del arte fue a lo que Runge denominó arte verdadero, teniendo en cuenta esta cosmogonía esotérica no es de extrañar que el propio range señalará a Böhme como una influencia, así que tomando prestada la imagen del globo terráqueo de una edición de los escritos de Jakob Böhme, creo su esfera de color que ilustraba tanto su comprensión teórica como religiosa de los colores.
-![[Pasted image 20250713205800.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205800.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 La esfera de color consta de 12 colores 3 colores primarios, azul, rojo y amarillo, tres colores mixtos, violeta, naranja y verde y seis colores intermedios.
-![[Pasted image 20250713205824.png]]
 
-El blanco y el negro se colocan en los dos polos, mientras que el blanco simbolizaba esotéricamente la luz y el bien el negro representaba el mal y la ausencia de la luz, la idea era que como el mundo material está basado en la dualidad y situado entre el bien y el mal, los colores se organizarían entre los extremos de la esfera de color, sin embargo, como se suponía que dios había dado colores a su creación para revelar el camino a la unidad original, los colores se podían tomar como referencias o indicaciones relacionar a Dios y a la luz, es decir, un contenido simbólico trascendental.![[Pasted image 20250713205846.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205824.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
+El blanco y el negro se colocan en los dos polos, mientras que el blanco simbolizaba esotéricamente la luz y el bien el negro representaba el mal y la ausencia de la luz, la idea era que como el mundo material está basado en la dualidad y situado entre el bien y el mal, los colores se organizarían entre los extremos de la esfera de color, sin embargo, como se suponía que dios había dado colores a su creación para revelar el camino a la unidad original, los colores se podían tomar como referencias o indicaciones relacionar a Dios y a la luz, es decir, un contenido simbólico trascendental.
+
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205846.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Debido a la caída de la creación en la materia, cuando el aspecto divino se encerró en el mundo dualista blanco y negro, sólo puede mostrar su origen divino a través de los colores y dado que el aspecto divino está atrapado en el mundo material, todos los seres permanecerán más cerca de una u otra de las fuerzas polares, pero nunca serán totalmente buenos o malvados ya que el color nunca alcanzará el brillo del blanco o la oscuridad del negro.
 
 Esta condición es fundamental para la visión de Runge de la armonía de los colores, donde va a equiparar a la santísima trinidad con los colores primarios de su esfera, señalando que el azul indica al padre, el rojo simboliza al hijo y el amarillo al espíritu santo.
-![[Pasted image 20250713205908.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205908.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 
 Con la ayuda de los cinco elementos originales, azul, rojo y amarillo, más blanco y negro y su aplicación específica el arte sería capaz de crear un mundo completamente nuevo según sus ideas y sobre todo el contenido alegórico que desea se manifestar, es decir, intento hacer lo que los pitagóricos hicieron con la música pero en el entorno plástico.
 
 Su pintura “The Morning” es un claro ejemplo de que las ideas de Runge no eran mera teoría, en esta pintura ilustra tanto su perspectiva mística religiosa como su teoría de los colores, el contenido esotérico en esta pintura puede ser aplicado para interpretar a muchas otras y es un ejemplo muy claro de cómo se utilizan los colores en el simbolismo esotérico.
-![[Pasted image 20250713205929.png]]
+
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205929.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 La pintura consta de dos partes separadas una interior y una exterior o marco, pero están conectadas entre sí, la sección interior está dominada por una figura femenina que lógicamente es interpretada como Venus, Sophia o María, aunque claro se le pueden dar infinidad de nombres, pero el concepto que representan es el mismo, mientras que el niño ha sido visto como Eros, Adan o Jesucristo aunque como en el caso anterior representa un concepto, no a un personaje en particular.
 
 La pintura interior ilustra la edad de oro antes de la caída en la materia, la idea de la luz o el Fiat lux es fundamental para la pintura, la parte superior se mantiene en colores primarios transparentes, mientras que el primer plano ya muestra características no transparentes.
@@ -92,4 +135,13 @@ El concepto ocultista del arte de Otto Runge continuó, especialmente en el arte
 
 
 Recursos:
-![[Pasted image 20250713210020.png]]![[Pasted image 20250713210023.png]]
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713210020.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713210023.png"
+  alt="Arquetipos-Horoscopo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>

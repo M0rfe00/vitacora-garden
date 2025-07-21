@@ -348,8 +348,12 @@ La red de nodos está dividida en 3 secciones:
 
 - **Scene Trim:** Mientras que “Balance” y “Teaks” están dedicadas a tomas individuales, los cambios en “Scene Trim” afectan a toda la escena y hay que extenderlos a todo el grupo, estos son ajustes como la temperatura, iluminación...
 
-<img src="./d74c9c55b8ea0a31ee7166719142ef826613e460.png"
-style="width:6.26042in;height:3.30208in" />
+<img
+  src="../../../media-content/Apuntes/media-davinci/d74c9c55b8ea0a31ee7166719142ef826613e460.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
+
 
 #### **Practical grading:**
 
@@ -358,16 +362,34 @@ Aunque la gradación de color se ha retratado como el arte de ajustar hasta la m
 Para esto, en cada escena se erigirá un frame en el que aparezca un elemento principal que represente mejor la escena, se balanceará esa escena en caso de ser necesario y si también fuese necesario se modificaría el nodo “Scene” para modificar el aspecto y sensación de la escena, usando solo la rueda “offset”.
 
 Después hay que igualar el nodo “Scene” en todo el grupo y balancear cada escena para igualar el elemento con la primera escena ajustada.
-<img src="./4d33877f4ae2b96dbdb8c82c3e2f36e28f003a94.png"
-style="width:6.26042in;height:2.80208in" /><img src="./6e01a94a01f5579d4bd2ac86ebca2dc251c32844.png"
-style="width:6.26042in;height:2.96875in" /><img src="./3603ef8e15d1255a41d28c4fe796fcd85ae0030f.png"
-style="width:6.26042in;height:3.22919in" /><img src="./666bd74fcb77ea601d414905e2b91f973a98e27a.png"
-style="width:6.26042in;height:2.57292in" />
+<img
+  src="../../../media-content/Apuntes/media-davinci/4d33877f4ae2b96dbdb8c82c3e2f36e28f003a94.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-davinci/6e01a94a01f5579d4bd2ac86ebca2dc251c32844.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-davinci/3603ef8e15d1255a41d28c4fe796fcd85ae0030f.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
+<img
+  src="../../../media-content/Apuntes/media-davinci/666bd74fcb77ea601d414905e2b91f973a98e27a.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
 
 tras realizar los balances se puede pasar a ajustar detalles concretos de cada escena como resaltar un personaje, por ejemplo
 
-<img src="./d7be9c5f840ba0078b5156d5daece98946ea4760.png"
-style="width:6.26042in;height:2.58333in" />
+<img
+  src="../../../media-content/Apuntes/media-davinci/d7be9c5f840ba0078b5156d5daece98946ea4760.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
 
 # **Color grading VS Look development \[Jimmy on film\]**
 
@@ -377,15 +399,22 @@ Estas transformaciones pueden ser pueden ir desde un LUT de conversión del espa
 
 Pensar que la gradación de color y el desarrollo del look son lo mismo es un error, aunque con herramientas de gradación puedas desarrollar un look no son lo mismo.
 
-<img src="./047048103e905db0b5ce9fd5ddf0e740ddd2a1c1.png"
-style="width:6.26042in;height:2.4375in" />LUTs
+<img
+  src="../../../media-content/Apuntes/media-davinci/047048103e905db0b5ce9fd5ddf0e740ddd2a1c1.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
 
 Los LUTs originalmente se crearon por compañías como Kodak o Fuji ya que los negativos de pelicula se escaneaban para manipularlos digitalmente y en este proceso necesitaban una vista previa de cómo se verían imprimirse de nuevo para proyectarse, por lo que midieron la densidad de millones de rollos de pelicula para convertirlo en un modelo matemático.
 
 Un LUT de impresión de pelicula da forma a la respuesta tonal y de color, mientras que una herramienta de corrección de color trabaja los valores de forma lineal.
 
-<img src="./fc2c5efb918e7e35b523131e261b80fa9ac85aa1.png"
-style="width:6.26042in;height:3.52083in" />
+<img
+  src="../../../media-content/Apuntes/media-davinci/fc2c5efb918e7e35b523131e261b80fa9ac85aa1.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
+
 
 # **Estructura de nodos \[Alex mufasa\]**
 
@@ -395,12 +424,19 @@ Ajustes iniciales
 
 Como utiliza los nodos de entrada y salida de la gestion de color en la estructura utiliza la Ciencia de color “YRGB”, Espacio de color de la timeline “DaVinci/Intermediate”, espacio de color de salida “Rec709”
 
-<img src="./24412aa5fe459cde13c91a677de8fedd3145cec0.png"
-style="width:4.68815in;height:1.33352in" />
+<img
+  src="../../../media-content/Apuntes/media-davinci/24412aa5fe459cde13c91a677de8fedd3145cec0.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
 
 Tetrahedral hace una interpolación de los espacios de colores de los LUTs mas precisa que el antiguo método “Trilinear”
 
-<img src="./73433a67bd7c71362068f26e72db03baae05b26a.png"
-style="width:4.00035in;height:1.43346in" />
+<img
+  src="../../../media-content/Apuntes/media-davinci/73433a67bd7c71362068f26e72db03baae05b26a.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
 
-Estructura
+
+Estructura...
