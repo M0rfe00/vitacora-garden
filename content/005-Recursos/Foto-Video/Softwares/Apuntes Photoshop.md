@@ -1,4 +1,5 @@
 ## **Píxel y vector**
+___
 Las capas de píxel están formadas por pixeles de diferentes colores formado una con mucho detalle, pero pierden detalle al ser transformadas.
 
 Las capas vectoriales están formadas por vectores, tienen menos detalle ya que solo pueden ser de un color plano o degradado, pero pueden ser transformadas sin perder detalle.
@@ -17,6 +18,7 @@ Para utilizar un trazado como mascara: cargar selección, selección\>selecc apl
 />
 
 ### **Objetos inteligentes:**
+___
 Los objetos inteligentes protegen la información las capas de píxel para poder transformarlos sin perder su información original como las vectoriales.
 
 Para editar el contenido de un objeto inteligente hay que hacer doble clic sobre la miniatura, lo que abrirá un nuevo proyecto en el que podremos realizar modificaciones y al guardar se actualizara en el anterior proyecto.
@@ -33,6 +35,7 @@ Arrastrar: permite utilizar un formato de imagen que inicialmente no utiliza cap
 Independizar instancias: se puede hacer clicando sobre el objeto y seleccionando “convertir en capas” lo que separara las capas del objeto, o seleccionando “nuevo objeto inteligente” lo que creara un nuevo proyecto de origen de ese objeto para modificarlo independiente al resto.
 
 ## **Selecciones:**
+___
 Seleccionar sujeto permite automatizar la selección de la imagen de una persona, se puede corregir con la herramienta selección rápida añadiendo o quitando zonas, para aplicarla se puede utilizar la herramienta seleccionar y aplicar mascara.
 
 Seleccionar objeto funciona de forma similar, pero hay que establecer en que zona de la imagen se encuentra con la varita y tras aplicar la máscara se puede mejorar la selección.
@@ -40,16 +43,19 @@ Seleccionar objeto funciona de forma similar, pero hay que establecer en que zon
 Gama de colores sirve para seleccionar las zonas con un color determinado en una imagen.
 
 ## Mascaras
+___
 Permiten ocultar o mostrar zonas determinadas de una imagen, siendo las blancas visibles y otras blancas, para modificarlas se pueden utilizar el pincel, degradados, selecciones entre otras.
 
 Están vinculadas a la imagen, se pueden transformarlas independientemente desvinculándolas, haciendo clic sobre el icono del clip entre ambas
 
 ## Canales RGB y Alpha
+___
 Trabajando en RGB la imagen estará compuesta por varios canales rojo, verde y azul que componen la imagen, al hacer clic sobre ellas se muestra en blanco y negro la información de color del canal, funcionan como una mascara.
 
 Los canales son útiles para duplicar y separar elementos complejos, para ello hay que seleccionar el canal que mejor contrasta la información de color del elemento y llevarlo al icono “canal copia” para realizar una copia de ese canal, la selección del canal se puede invertir, añadir selección, seleccionar automáticamente el objeto, igualar con sub/sobrexponiendo... y pintar de negro con el pincel en el canal y finalmente cargar como selección y copiando, seleccionando el canal RGB.
 
 ## Modos de fusión:
+___
 Determinan como se mezclan las capas con las otras capas que tienen por debajo.
 
 **Normal:** no hay mezcla se superponen una encima de la otra sin modificación.
@@ -61,6 +67,7 @@ Determinan como se mezclan las capas con las otras capas que tienen por debajo.
 **Modos de contraste:** mientras que los de luz transparentan el negro y los de sombra los blancos los contraste transparentan los grises permitiendo texturizar respetando los colores de la imagen inferior
 
 ## Textos:
+___
 Los textos se comportan de forma vectorial, por lo que pueden ser transformados sin perder calidad.
 
 Se puede crear un texto simplemente haciendo clic, para crear un te dentro de una caja para que se ajuste a ese tamaño hay que arrastrar.
@@ -70,6 +77,7 @@ Como en cualquier editor de texto se puede editar los estilos del texto.
 2 clics = palabra, 3 clics = línea, 4 clics = párrafo, 5 clics = todo el texto
 
 ## Estilos y efectos:
+___
 Los estilos permiten aplicar una serie de efectos modificables a las capas.
 
 Un estilo es un conjunto de efectos que se puede aplicar a diferentes capas y proyectos.

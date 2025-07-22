@@ -2,8 +2,8 @@
 tags:
   - Davinci
 ---
-# **<u>Fusion:</u>**
-
+# **Fusion:**
+___
 - Shift+space = añadir un nodo
 
 - F2 = renombrar un nodo
@@ -17,6 +17,7 @@ tags:
 - Para organizar la red de nodos se puede añadir un underlay
 
 ## **\[DIA 17\] Merge y mascaras:** 
+___
 Se quiere modificar el escenario original del clip para expandir el fondo amarillo, tapar el escritorio,
 reemplazar el portátil y añadir plantas.
 
@@ -38,7 +39,7 @@ sea visible en esa selección.
 />
 
 ## **\[Día 18\] – Los 3 tipos de trackeos**
-
+___
 ### **Tracking puntual (Tracker)**
 
 Este tipo de trackeo funciona de forma bidimensional extrayendo las coordenadas X e Y de un objeto y acoplándole otro objeto.
@@ -111,7 +112,7 @@ Ademas de un texto y una imagen: “Text3D” para el texto y la imagen de una a
 
 
 ## **\[Día\] 19 – Rotoscopias**
-
+___
 **Mascará básica:** crear una máscara según la forma de un objeto y animándola fotograma a fotograma y conectándola a la entrada azul de un merge, logrando que el objeto que se estaba combinando con el fondo únicamente sea visible donde está la máscara y viceversa.
 
 **Mascará estática:** en caso de tener un objeto trackeado en vez de crear la máscara fotograma a fotograma como el objeto sigue el movimiento de la cámara se puede crear una máscara estática y cada vez que pase el objeto sobre ella será visible o no.
@@ -154,7 +155,7 @@ Dentro del panel de mascara se puede realizar ajustes como desenfocar la máscar
 
 
 ## **\[Día 20\] – Reemplazo de cielo y croma**
-
+___
 #### **Reemplazo de cielo:**
 
 En el grupo **“Fondo”** hay una imagen “MediaIn” combinada con un “background” para adaptar el tamaño de la imagen a la del video (1920x1080), después de pasa por un nodo “BrightnessContrast” para para cuadrar la exposición del fondo al de la imagen y un nodo “Transform” para ajustar la escala del fondo y que ocupe toda la imagen (también se puede modificar el merge del fondo en la opción “edges” para que el fondo se repita a modo de espejo)

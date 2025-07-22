@@ -2,8 +2,8 @@
 tags:
   - Davinci
 ---
-## **<u>SONIDO EN DAVINCI - \[AURAPRODS\]:</u>**
-
+## **SONIDO EN DAVINCI - \[AURAPRODS\]:**
+___
 # **Fairlight:**
 
 Igual que en el resto de módulos está el **panel multimedia** para añadir los clips de audio a la línea de tiempo, **efectos** para añadir efectos de sonido como reverb, stereo..., **registro** para ver las

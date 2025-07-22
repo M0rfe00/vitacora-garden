@@ -22,7 +22,7 @@ tags:
 	Con aperturas cerradas puede haber problemas de difracción y con más abiertas aberración.
 
 # **Triangulo de exposición**
-
+___
 El triángulo de exposición es un método para **<u>balancear la luz que
 entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, para ello se ajustan el ISO, velocidad de obturación y la apertura del diafragma
 
@@ -61,7 +61,7 @@ entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, 
 />
 
 # Conceptos
-
+___
 - **ISO nativo:** Nivel de ISO el sensor que menos ruido genera, depende del sensor
 
 - **Sweet spot:** Apertura de diafragma con mayor nitidez, depende del objetivo
@@ -73,7 +73,7 @@ entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, 
 - Ópticas esféricas y anamórficas: a
 
 # **BALANCE DE BLANCOS**
-
+___
 Según la temperatura el color puede variar, esta se mide en escala kelvin, cuanto menor sea el valor más cálido será la luz y viceversa \[2500K-Atardecer, 5500K-Mediodia, 10000K-Cielo azul\], alrededor de los 4/5K más neutra será la luz. (temperatura baja = añadir calidez)
 
 Como la temperatura puede variar el color de la imagen, hay que equilibrar la cámara indicando que es blanco para contrarrestar el exceso de tonos azules de la luz fría y de tonos rojos de la luz cálida balanceando la imagen a un tono neutro, o jugar con la temperatura real.
@@ -94,13 +94,13 @@ En video hay que evitar el modo automático ya que dentro de una misma toma pued
 | Sombra       | 9000 – 10000K |
 
 # **Exposing to the right (ETTR)**
-
+___
 Exponer a la derecha es una técnica que consiste en aumentar la luz que llega al sensor de la cámara aumentando la exposición, obteniendo gran información en altas luces, pero sin que los blancos lleguen a clippear/quemarse/sobreexponerse, reduciendo el ruido y obteniendo un mayor rango dinámico en el revelado.
 
 - EJ; Teniendo negativos de ISO 500 normalmente medirías la luz y ajustarías la exposición de la cámara para ISO 500, pero con ETTR decides medir la luz como si estuvieses usando ISO 250 lo que hará que necesites más luz, para ello se puede compensar abriendo el diafragma/bajando la velocidad de obturación/aumentando la iluminación de la escena
 
 # **Filtros:** **CPL, ND** (solo los básicos) UV, IR, FX, nocturnos, color...
-
+___
 - **CPL:** polariza el sensor eliminando reflejos y destellos no deseados, ej; para grabar un interior de un coche, eliminar reflejos de superficies o contrastar nubes del cielo.
 
 - **ND:** densidad neutra, controla la cantidad de luz para que entrara al sensor.
@@ -114,7 +114,7 @@ Exponer a la derecha es una técnica que consiste en aumentar la luz que llega a
 
 
 # TIPOS DE PLANO Y COMPOSICION:
-
+___
 ## **Composición: \[Ini. foto y video\]**
 
 Distribución de los elementos visuales de una imagen para transmitir una idea concreta o dirigir la atención a un elemento concreto, para ello se suele utilizar la **regla de los tercios:** cuadricula que divide la imagen en un 3x3 para aplicar otras reglas:
@@ -282,8 +282,8 @@ Los planos pueden dividirse principalmente en generales, medios y cortos y son:
 
 - **Indirecto:** muestra el punto de vista de un reflejo como un espejo, agua, metal...
 
-## **Relación de aspecto y formatos:**
-
+# **Relación de aspecto y formatos:**
+___
 (8mm, Super 8mm, 16mm, super 16mm, 35mm, 65/70mm)
 
 La relación de aspecto es la relación entre el ancho y alto expresado en forma de fracción o ratio (16:9 = 1.777) siendo el primer valor el ancho y el segundo el alto, ej; un ratio de 16:9 significa que por cada 16 uds horizontales hay 9 uds verticales.

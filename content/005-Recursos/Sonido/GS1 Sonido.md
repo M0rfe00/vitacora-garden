@@ -1,7 +1,7 @@
 # TECNICO SUPERIOR SONIDO
 
-## <u>0. INTRODUCCION: TERMINOS</u>
-
+## 0. INTRODUCCION: TERMINOS**
+___
 **DAW:** Software de edición/ procesamiento de audio.
 
 **Bus:** Canal de envió de una señan de audio.
@@ -60,8 +60,8 @@
 
 **XLR/XLR-3:** External Line Return, conector de tres polos conocido como cannon.
 
-## <u>1. EL SONIDO:</u>
-
+## **<1. EL SONIDO:**
+___
 **Sonido:** Onda mecánica longitudinal propagada por un medio físico (aire, agua, metal...) y producido por una fuente sonora al hacer vibrar las partículas del ambiente.
 
 **Acústica:** Física del sonido que estudia las vibraciones sonoras, su producción, propagación y detección.
@@ -83,7 +83,7 @@ Es un medio no disperso, no las ondas se transmiten a la misma posibilidad indep
 
 Es un medio homogéneo e isótropo, el sonido se propaga a la misma velocidad en todos los puntos y direcciones.
 
-### <u>VELOCIDAD DEL SONIDO</u>
+### **VELOCIDAD DEL SONIDO**
 
 La velocidad del sonido en el aire es de 340 m/s = 1200KM/h.
 
@@ -95,8 +95,8 @@ Tiempo = Distancia / Velocidad
 
 Velocidad = Distancia / Tiempo
 
-### <u>ONDAS SONORAS</u>
-
+### **ONDAS SONORAS**
+___
 En función de los movimientos de sus partículas;
 
 **Transversales;** el movimiento se produce perpendicularmente a la dirección de propagación.
@@ -133,8 +133,8 @@ Valores fundamentales de la amplitud:
 
 **V. Medio:** Representa la medida aritmética de todos los valores instantáneos que toma la onda sinusoidal entre un periodo tiempo.
 
-### <u>COMPORTAMIENTO FISICO DEL SONIDO:</u>
-
+### **COMPORTAMIENTO FISICO DEL SONIDO:**
+___
 Cuando se produce una onda sonora, no existe ningún desplazamiento de las moléculas del aire, sino que una vibración se comunica entre ellas.
 
 Las ondas experimentan alteraciones en su recorrido por el medio de propagación, pueden ser reflejadas, difractadas o absorbidas.
@@ -149,8 +149,8 @@ La reflexión depende de; porosidad y capacidad y absorción del material, tama�
 
 **Difracción:** cuando un haz de ondas encuentra un obstáculo agujereado o un cuerpo aislado, a su paso, experimentando la difracción, la rendija u obstáculo se convierten en fuentes de una nueva onda.
 
-### <u>ECO Y REVERBERACIÓN:</u>
-
+### **ECO Y REVERBERACIÓN:**
+___
 En todo sistema de sonorización pueden encontrarse dos **tipos de onda**:
 
 **Directas:** llegan directamente desde la fuente sonora al oyente.
@@ -171,8 +171,8 @@ Si los sonidos llegan de diferentes fuentes con un retardo inferior a 50 m/s, el
 
 **Efecto Doppler: L**a frecuencia de una fuente sonora en movimiento será percibida por el oyente es diferente a la emitida, percibiéndose más alta al acercarse y viceversa.
 
-### <u>DECIBELIOS:</u>
-
+### **DECIBELIOS:**
+___
 Es una unidad relativa que sirve para definir la relación común valor referencial como porcentaje. Ej; 5% (Cinco % de un valor X) / 5db (cinco decibelios de un valor x).
 
 **Dependiendo de la magnitud de la magnitud que midamos serán:**
@@ -204,8 +204,8 @@ La suma en escala logarítmica no es lineal (0dB + 0dB ≠ 0dB) (10dB + 20dB ≠
 
 Sumar 2 valores iguales/ multiplicar el valor por 2 equivale a (+6,02dB<sup>Gº1 y</sup> +3,01dB<sup>Gº2</sup>).
 
-### <u>MAGNITUDES DEL SONIDO:</u>
-
+### **MAGNITUDES DEL SONIDO:**
+___
 Al cuantificar el sonido se utilizan distintas magnitudes para expresar distintas propiedades:
 
 **Presión sonora:** hace referencia a las variaciones de la presión del aire, medida en pascales.
@@ -216,8 +216,8 @@ Al cuantificar el sonido se utilizan distintas magnitudes para expresar distinta
 
 Para expresar estas magnitudes se utiliza una escala logarítmica, “el decibelio” ya que nuestra percepción del sonido se asemeja más a esta escala.
 
-### <u>SUMA DE NIVELES SONOROS:</u>
-
+### **SUMA DE NIVELES SONOROS:**
+___
 Para calcular la suma del nivel de presión sonora que emiten dos fuentes, no puede sumarse simplemente ya que no es una unidad lineal.
 
 Primero hay que transformar la aportación de cada fuente a una magnitud lineal (presión), sumarlas y posteriormente volver a calcular el valor
@@ -245,8 +245,8 @@ Incremento de presiones sonoras: \[AL = Ltotal – L<sub>1\]</sub>
 
 Nivel total de presión con varias fuentes emitiendo la misma presión: \[Ltotal = 10 log (N) + L<sub>0</sub>\]
 
-### <u>LOGARITMOS BANDAS Y FRECUENCIAS:</u>
-
+### **LOGARITMOS BANDAS Y FRECUENCIAS:**
+___
 Década: \[f<sup>1</sup>/f<sub>2</sub> = 10\], Dos frecuencias distan una década cuando una es diez veces la otra.
 
 Octava: \[f1/f2 = 2\], Dos frecuencias distan una octava cuando una es dos veces la otra.
@@ -261,6 +261,7 @@ El espectro audible de frecuencias ha sido dividido en octavas y a su vez cada o
 |----|----|----|----|----|----|----|----|----|----|----|----|
 | **261,63** | **277,18** | **293,66** | **311,13** | **329,63** | **349,23** | **369,99** | **392** | **415,3** | **440** | **466,16** | **493,88** |
 
-<u>ANEXO3: MICROFONIA Y MEZCLA:</u>
-
+## **ANEXO3: MICROFONIA Y MEZCLA:**
+___
 A
+...
