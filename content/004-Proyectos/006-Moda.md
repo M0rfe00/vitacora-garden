@@ -23,7 +23,7 @@ ___
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/3.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/4.webp" alt="">
 <!--<img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/5.jpg" alt="">-->
-</div>
+</div><br><br><br>
 
 
 
@@ -71,8 +71,7 @@ ___
 
 <!--<img loading= "lazy" src="../media-content/Moda/knights/Armor compo back.jpg" alt="">-->
 <!--<img loading= "lazy" src="../media-content/Moda/knights/Armor compo.jpg" alt="">-->
-
-</div>
+</div><br><br><br>
 
 
 # Primera colección: ¿?
@@ -110,15 +109,14 @@ ___
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Prototipo-V22.gif" alt="">
 </div>
 
->[!info] Aquí ira la documentación de esta colección 
+>[!info] Aquí ira la documentación de esta colección <br><br><br>
 
 # Final Fantasy VIII Inspiration
 ___
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Moda/2.squall/IMG Squall.jpg" alt="">
 <img loading= "lazy" src="../media-content/Moda/2.squall/474897813_17935815656978531_2406148417940838682_n..jpg" alt="">
-</div>
-
+</div><br><br><br>
 
 
 
