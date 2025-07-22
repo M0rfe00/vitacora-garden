@@ -109,7 +109,8 @@ ___
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Prototipo-V22.gif" alt="">
 </div>
 
->[!info] Aquí ira la documentación de esta colección <br><br><br>
+>[!info] Aquí ira la documentación de esta colección 
+<br><br><br>
 
 # Final Fantasy VIII Inspiration
 ___
