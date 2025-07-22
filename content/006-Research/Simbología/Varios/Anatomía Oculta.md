@@ -34,7 +34,7 @@ Entre todos estos usos simbólicos de las partes del cuerpo humano, la columna v
 Los griegos lo simbolizaban por el caduceo o báculo alado de Hermes, éste consistía en un bastón largo en Sushumma, que iba en el centro, terminaba en una perilla o bolita que representaba el centro del bulbo raquídeo, a cada lado de esta perilla están las alas arqueadas, que se utilizaban para representar los dos hemisferios cerebrales, arriba de este báculo suben alternativamente y en forma de espiral dos serpientes, una negra y otra blanca que representan el Ida y pingala.
 
 <img
-  src="../../../media-content/Research/Simbologia/Anatmonia-oculta/20250713204925.png"
+  src="/media-content/Research/Simbologia/Anatmonia-oculta/20250713204925.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -56,7 +56,7 @@ Por esto la espina dorsal es utilizada de manera simbólica como la unión entre
 - El chakra de la corona localizado en la coronilla de la cabeza que se relaciona con la experiencia de comprensión y entendimiento tanto de sí mismo como del universo y por supuesto entonces con la iluminación.
 - 
 <img
-  src="../../../media-content/Research/Simbologia/Anatmonia-oculta/20250713204951.png"
+  src="/media-content/Research/Simbologia/Anatmonia-oculta/20250713204951.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

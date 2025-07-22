@@ -56,7 +56,7 @@ ___
 	Este camino lo subdividió en dos partes, siendo la primera mitad la solar, la del desarrolló personal y el crecimiento exterior y la segunda la lunar, un viaje a nuestro interior para tomar contacto con la sombra.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714024009.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714024009.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

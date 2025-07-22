@@ -48,7 +48,7 @@ Aunque creía que existían muchísimos arquetipos e incluso que su apreciación
 Los cuatro arquetipos principales descritos por Jung de los que derivan muchos otros, son; la persona, la sombra, el anima/animus y el ser.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714014448.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714014448.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

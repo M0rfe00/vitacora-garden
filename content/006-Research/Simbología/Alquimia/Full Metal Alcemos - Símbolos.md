@@ -64,37 +64,37 @@ Los alquimistas trabajaban con **tres principios filosóficos** (triaprima) que 
 - **En el cuerpo humano:** la forma física, el esqueleto, lo estable.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024712.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024712.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024717.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024717.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024722.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024722.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024728.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024728.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024734.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024734.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024742.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024742.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024747.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024747.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

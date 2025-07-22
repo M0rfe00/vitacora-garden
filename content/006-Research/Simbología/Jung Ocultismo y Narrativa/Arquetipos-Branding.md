@@ -19,7 +19,7 @@ Los rasgos asociados cada arquetipo al igual la psicología del color estos arra
 El horóscopo es una forma de representar diferentes arquetipos de personalidad con rasgos específicos (12 signos).
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015119.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714015119.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -29,7 +29,7 @@ Los eneatipos son arquetipos de personalidad estudiados en psicología, son muy 
 A diferencia del horóscopo los eneatipos permiten tener matices de personalidad de otro tipo, además de si una persona esta descentrada pasa a otro tipo de personalidad.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015134.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714015134.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />      
@@ -42,7 +42,7 @@ Los Arquetipos además de aplicarse en la psicología, psiquiatría y horóscopo
 Los arquetipos de marcas de estructuran en cuatro bloques principales; los que proporcionan estructura, los que conectan con otros, y los del viaje espiritual.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015159.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714015159.png"
   alt="Eneatipos-Arquetipos"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -77,12 +77,12 @@ Los arquetipos de marcas de estructuran en cuatro bloques principales; los que p
 - **Forajido:** Ama la libertad, rompe normas y desafía al sistema, innovador y orientado a ideas poco convencionales que desafían al sistema (Investigador/Entusiasta/Sagitario) (Negro y rojo oscuro / Odio)
 - 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015547.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714015547.png"
   alt="Arquetipos-Color"
   style="display: flex; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015552.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714015552.png"
   alt="Arquetipos-Marcas"
   style="display: flex; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

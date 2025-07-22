@@ -47,7 +47,7 @@ En esta creencia existía una relación oculta o secreta entre los números, lo 
 Uno de los usos que se podía hacer de la numerología haciendo uso del sistema de esferas celestes es que cada una de las diez esferas y sus respectivos números asociados se podían asignar a una construcción matemática especial llamada cuadrado mágico donde la suma de los números de cada fila, columna y diagonal son las mismas, habiendo una única combinación para cada cuadrado mágico con determinadas características especiales, cada cuadrado y su deidad asociada con el número que escondían se consideraron de gran importancia ya que ejemplificaban el misterio de lo divino y la perfección matemática de la creación y por eso se utilizaban para fabricar talismanes.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235355.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235355.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -55,7 +55,7 @@ Uno de los usos que se podía hacer de la numerología haciendo uso del sistema 
 Uno de los ejemplos de estos talismanes es el llamado cuadrado mágico del sol, el cual representa el número 6, la esfera del sol es un cuadrado de 6x6 en donde las 36 posiciones se llenan con números del 1 al 36 sin repetirse y cada columna, fila o diagonal suma 111, numero considerado sagrado en la tradición numérica, además el total de todas las cifras sumadas da 666.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235424.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235424.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -71,7 +71,7 @@ En hebreo o griego las primeras 10 letras del alfabeto representan los numero de
 En este tipo de alfabeto numerológico, las palabras o frases pueden recibir valores numéricos sumando las letras de una palabra o frase especifica permitiendo codificarlas en valores matemáticos, geométricos o incluso conceptos esotéricos incrustados en un texto o en el lenguaje.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235443.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235443.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -79,17 +79,17 @@ En este tipo de alfabeto numerológico, las palabras o frases pueden recibir val
 En la tradición teológica griega y la tradición cristiana que estuvo fuertemente influenciada por los griegos, , existe evidencia significativa del uso de gematría, ejemplo de ello los valores de algunos nombre y lugares de culto, muchos de los cuales están asociado a los valores numéricos relativos a el sol y derivados del modelo astrológico caldeo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235457.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235457.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235503.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235503.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235508.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235508.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -103,7 +103,7 @@ El punto central del pitagorismo eran los números, los cuales no veían con la 
 Los pitagóricos no utilizaban caracteres numéricos para representar los números si no que lo hacían gráficamente, disponiendo puntos ubicados en forma de triangulo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235529.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235529.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -119,7 +119,7 @@ El número tres representa la triada, un tercer factor que media sobre la dualid
 El número diez, es el mas importante, trascendental y fundamental para los pitagóricos, la Tetraktys, la cual consideraban debido a conocimientos desconocidos que era la clave de todas las armonías que gobiernan al mundo, simbolizando la totalidad final, el retorno a la unidad, finalizando el ciclo de los nueve primero números, concepto posiblemente asociado a la reencarnación, además la Tetraktys era la suma de los cuatro primeros números naturales (1,2,3,4), siendo la suma de la unidad, dualidad, triada y los cuatro elementos, pudiendo establecer una relación con los diez sephirots del árbol de la vida cabalístico.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235559.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235559.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -135,7 +135,7 @@ Es una idea que se atribuye a Pitágoras, aunque podría haber sido de un miembr
 Por lo que la música de las esferas es la mezcla de todos los sonidos celestiales, música que no era otra cosa que los que los humanos percibimos como el silencio, ya que aseguraban que todos estos sonidos habían estado ahí desde el origen de todo y los humanos al haberlo escuchado de forma constante desde siempre lo registraban como silencio, la manifestación más elemental del orden y para poder escuchar el silencio el indicado debía conocer el sonido de los números y la relación entre ellos, por lo cual escuchar el silencio era la prueba final y quizá por ello la música era muy importante en su liturgia e inclusive era una manera de encriptar sus ideas, donde cada tono representaba un número, siendo pioneros en el estudio matemático y experimental de la música y señalaban que existían cualidades casi magicas inherentes en la armonía musical.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235631.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235631.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -149,7 +149,7 @@ En la geometría los ángulos, lados, longitudes... se presentan en números y c
 Utilizaban el pentagrama como un símbolo secreto para reconocerse los unos a los otros, ya que representa el numero 5, con el que simbolizaban la vida.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713235658.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713235658.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

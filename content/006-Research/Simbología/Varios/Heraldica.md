@@ -8,7 +8,7 @@ tags:
 La heráldica es la es la ciencia del blasón, y el blasón es el arte de explicar y describir los escudos de armas, de cada linaje ciudad o persona.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204205.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204205.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -17,7 +17,7 @@ La heráldica es la es la ciencia del blasón, y el blasón es el arte de explic
 Tiene su propio lenguaje que es la lengua vernácula y puede ser oral o escrito, esto es un sistema de comunicación visual que se desarrolló durante la edad media en toda Europa occidental para convertirse en un código de identificación de personas.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204224.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204224.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -25,7 +25,7 @@ Tiene su propio lenguaje que es la lengua vernácula y puede ser oral o escrito,
 La investigación histórica concluye que su origen comienza en el siglo 11 cuando se vuelve necesario pintar los escudos de los caballeros para identificar en batalla a qué bando pertenecían también en torneos y justas ya que la evolución del equipamiento militar ocultaba sus cuerpos completamente y esto hacía imposible el reconocimiento.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204241.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204241.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -33,7 +33,7 @@ La investigación histórica concluye que su origen comienza en el siglo 11 cuan
 Este lenguaje nacido en el seno de una clase social militar progresivamente se fue incorporando dentro de la nobleza y la iglesia católica para identificación de linajes y miembros de la jerarquía más tarde se expande de tal manera que toda familia persona noble o no noble territorios ciudades y más poseían un escudo de armas.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204253.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204253.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -43,7 +43,7 @@ podríamos definir al escudo de armas como una representación gráfica con form
 Este escudo cumplía la función de búsqueda afirmación y proclamación de la identidad de individual familiar o feudal.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204309.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204309.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -52,7 +52,7 @@ Este escudo cumplía la función de búsqueda afirmación y proclamación de la 
 El blasónamiento es la descripción de los escudos de armas, estaba a cargo de los heraldos, quienes inicialmente actuaban de mensajeros e identificadores de los emblemas de las caballerías en batalla y eran también los encargados de anunciar en torneos y justas a los caballeros describiendo las imágenes que portaban en sus escudos.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204330.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204330.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -62,7 +62,7 @@ Con el pasar de los siglos su rol se volvió fundamental y se posicionarán dent
 como expertos lectores constructores y recopiladores de los escudos de armas establecieron una estricta reglamentación para la simbología heráldica.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204346.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204346.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -72,7 +72,7 @@ como expertos lectores constructores y recopiladores de los escudos de armas est
 Si bien no todos los escudos tienen figuras si tienen colores y se dividen en dos grupos, el primer grupo para los colores rojo verde azul negro y el púrpura que era utilizado sólo por la nobleza, el segundo grupo representa metales siendo el amarillo para el oro y el blanco para la plata era una severa condición no superponer ni yuxtaponer colores del mismo grupo ni mezclar oro y plata el escudo de la iglesia católica es la única excepción a la regla de los metales.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204410.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204410.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -80,7 +80,7 @@ Si bien no todos los escudos tienen figuras si tienen colores y se dividen en do
 Respecto de las figuras se observan simples vegetales de construcciones objetos armas animales imaginarias y menos frecuentemente humanas.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204428.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204428.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -88,7 +88,7 @@ Respecto de las figuras se observan simples vegetales de construcciones objetos 
 Otro rasgo de los escudos es la presencia de la geometría que tiene que ver con las piezas honorables estas son las insignias de la orden de caballería.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204439.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204439.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -96,7 +96,7 @@ Otro rasgo de los escudos es la presencia de la geometría que tiene que ver con
 Cada región adopto también su propia morfología en sus escudos.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204453.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204453.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -108,7 +108,7 @@ En un inicio lo hacían en rollos de pergamino y luego en libros llamados códic
 Los escudos originales eran hereditarios solo al primogénito e hijas mujeres que al contraer matrimonio se fusionaban con el del esposo, los siguientes hijos y familiares debían hacerle una grisura es decir una modificación.
 
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204505.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204505.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -124,7 +124,7 @@ El tercero de campo azul con cruz patada para representar el espíritu de resist
 
 El último con cruz latina sobre la labor de encina representa a los habitantes pirenaicos, orientales y occidentales que fueron aliados contra los musulmanes
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204532.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204532.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -141,19 +141,19 @@ tercero sobre campo de plata una cruz de san Jorge de gules cantonada de cuatro 
 
 cuarto sobre campo de oro, cuatro para los goles iguales entre sí y a los espacios del campo todo el escudo timbrado de corona real abierta de ocho florones cuatro de ellos visibles con perlas y ocho flores de lis cinco visibles con rubíes y esmeraldas en el aro en proporción con el escudo medio de dos y medio a seis.
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204550.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204550.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 este complejo sistema de comunicación continúo desarrollándose con el correr de los siglos hasta la actualidad donde podemos encontrarlo y reconocerlo en escudos de fútbol banderas nacionales, banderas de universidades entre otros tantos.
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204606.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204606.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Heraldica/20250713204610.png"
+  src="/media-content/Research/Simbologia/Heraldica/20250713204610.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

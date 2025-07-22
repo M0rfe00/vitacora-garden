@@ -69,7 +69,7 @@ Según las ideas generales neoplatónicas, se encuentran una pluralidad de esfer
 El principio del que procede todo, no tiene límites y que lo abarca todo, esta realidad que lo abarca todo se proyecta en la esfera, el espacio tiempo, nuestra dimensión con la pluralidad, es decir que la pluralidad que observamos en nuestro mundo procede de una unidad mayor que lo abarca todo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231431.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713231431.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -77,7 +77,7 @@ El principio del que procede todo, no tiene límites y que lo abarca todo, esta 
 La complejidad lógico-filosófica de este pensamiento residida en cómo y porque se verifica la transición entre la unidad y la pluralidad, aunque la unidad abarque la pluralidad.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231456.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713231456.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -85,7 +85,7 @@ La complejidad lógico-filosófica de este pensamiento residida en cómo y porqu
 Las ideas de Plotino recopiladas por Porfirio son, la división de la existencia en dos ámbitos, el invisible y el sensible, perceptible, aquella que vemos en nuestra realidad diaria y que procede de lo invisible, Plotino trataba de explicar los fundamentos de lo invisible y de lo sensible, teniendo en cuenta en su pensamiento que lo sensible forma parte de lo invisible.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231535.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713231535.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -99,7 +99,7 @@ Los pensamientos son inteligibles, no se pueden tocar, pero un pensamiento puede
 Plotino explicaba que el ser humano es un microcosmos, es decir, que la realidad dual formaba parte del ser humano, el cual teoría una parte material, física, sensible y una parte inteligible, invisible.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231554.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713231554.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -112,7 +112,7 @@ Para alcanzar este objetivo, el alma, es decir la persona, no debe guiarse por l
 El proceso consiste en, la razón discursiva/dianética, que es que el alma se recoge en si misma desentendiéndose de todos los objetos exteriores y también del cuerpo, que no es el alma, para contemplar lo que en ella hay de intelectual, en el sentido entre lo material y lo trascendental, lo invisible. Y También volverse hacia la inteligencia a través del objetivo de la noesis, que es el acto intencional de pensar, punto en el que solo cabe esperar la manifestación del uno.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231621.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713231621.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -141,7 +141,7 @@ Los textos gnósticos más importantes podrían dividirse en dos grupos, aquello
 Antes de 1945 se encuentran una gran cantidad de códices, dentro de estos códices se pueden encontrar textos destacados son fragmentos griegos, el evangelio de Tomas, el evangelio de María y la sabiduría de Jesucristo, dentro del códice de Bruce se pueden encontrar “El libro de Jeu” y “La gnosis de la luz”, en el códice Askew “Pistis Sophia”, en el códice Berlín “El evangelio de María”, “El apócrifo de juan” y “epitomia de los evangelios de pedro” y “la sabiduría de Jesús”.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713231752.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713231752.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -172,7 +172,7 @@ Dentro de las 7 esferas planetarias se encuentran los arcontes, palabra que sign
 La esfera de las estrellas fijas era conocida como pleroma conformada por 30 eoenes, cada uno correspondiente a los días del mes y dentro de estos estaban los signos del zodiaco cuyos equivalentes terrenales eran los 12 apóstoles.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232010.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713232010.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -213,17 +213,17 @@ En la tradición gnóstica, Sofia del griego sabiduría, se refiere a la emanaci
 También existieron otras sectas gnósticas como los Valentinianos, Manideistas, Basilideanos, Setianos, Eclesiastas, gnósticos persas, sirio-egipcios y judeo-israelitas.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232444.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713232444.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232456.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713232456.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232504.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713232504.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -248,12 +248,12 @@ Sophia siempre aparece como una emanación del pleroma aunque su historia varie 
 En su mito a veces descrito como un acto de voluntad autónoma y otras como un deseo de conocer a su creador Sophia se extiende más allá de su reino y cae, acto conocido como la caída de Sophia y considerado por algunas corrientes como el origen del sufrimiento y la imperfección en el mundo material, ya que tras su caída da a luz al demiurgo, artesano ignorante del mundo material, siendo considerado en esta versión del mito una entidad malévola o incompetente que crea el plano material y a los arcontes para mantener su dominio sobre ese plano, sin embargo como su madre lo engendro sin consorte por lo que es imperfecto y por ello su creación también, simbolizando la ignorancia espiritual y contraponiéndose con la verdadera divinidad, trascendente y superior a la realidad que el gobierna, en esta creencia la liberación espiritual implica trascender la creación del demiurgo y alcanzar la gnosis, el conocimiento interior de la naturaleza divina, siendo ayudados por Sophia la cual pretende redimirse por su caída y intentando restaurar todo incluida ella al pleroma, a la divinidad, a la fuente.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232617.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713232617.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713232626.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713232626.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
