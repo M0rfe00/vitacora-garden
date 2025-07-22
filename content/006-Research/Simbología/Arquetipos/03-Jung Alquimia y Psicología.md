@@ -7,7 +7,7 @@ tags:
 ___
 Comprender la influencia de la tradición alquímica en la obra de Jung, permite una comprensión más asertiva del Libro Rojo.
 
-## ACERCAMIENTO A LA ALQUIMIA
+## **ACERCAMIENTO A LA ALQUIMIA**
 ___
 El mismo Jung señaló que el acercamiento con la alquimia influyó para que sus estudios y experimentaciones pudieran integrarse y tomar forma, en su autobiografía “_Recuerdos, sueños y pensamientos”_ de 1961, Jung indica su sorpresa al darse cuenta cómo misteriosamente muchos aspectos de la alquimia coincidían con sus investigaciones e hipótesis, en ese libro escribe lo siguiente:
 
