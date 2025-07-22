@@ -3,7 +3,7 @@
 - **Palette:** panel situado a la izq. con componentes, tools y ejemplos ready-to-use.
 
 # **Atajos de teclado:**
-
+___
 - **Tab/2ble clic:** ambas opciones sirven para añadir un operator.
 - Clic dcho. en el out de un operador lo conecta automáticamente.
 - **Ctrl+G:** muestra una lista con todos los grupos de operadores de la red.
@@ -18,7 +18,7 @@
 - **Tecla 'I':** navega *al* siguiente nivel (componente seleccionado).
 
 # **Casillas/flags de los operadores:**
-
+___
 - **Active** **viewer:** inferior derecha, al pulsarlo muestra las opciones de visualización del nodo (Color, Alpha, R, G, B)
 
 - **Viewer:** (Eye Icon) alterna la vista previa del operador.
@@ -38,7 +38,7 @@
 - **SOP viewer** **<u>options:</u>** muestra diferentes modos de visualización de la geometría 3D (puntos, normales, ejes...)
 
 # **Operadores:**
-
+___
 Un operador es una unidad de procesamiento que recibe entradas realiza una función específica y genera una salida, lo que permite construir un sistema complejo mediante la conexión de operadores, (efectos visuales, animaciones interacciones, procesamiento de datos)
 
 ## **Tipos de operadores:**
@@ -56,7 +56,7 @@ Un operador es una unidad de procesamiento que recibe entradas realiza una funci
 - **DATs:** (Dara operators) manejan y procesan información basada en texto (tablas, scripts...)
 
 # **Referencia de parámetros:**
-
+___
 - Export CHOP: (Flecha verde) envía el valor de un canal chop a un parámetro, si se cambia el nombre solicita actualizarlo.
 
 - **Reference CHOP:** (Expresión azul) el valor de un canal chop es enviado a un parámetro mediante una expresión de Python, permitiendo realizar operaciones sobre el, si se cambia el nombre del operador de origen hay que actualizar la referencia manualmente.
@@ -66,7 +66,7 @@ Un operador es una unidad de procesamiento que recibe entradas realiza una funci
 - **Select TOP/CHOP...:** se utiliza para referenciar u TOP desde otro lugar sin cables.
 
 # **Interoperabilidad:**
-
+___
 Cada familia de operadores gestiona tipos de datos específicos, por lo que las conexiones han de ser compatibles, para ello existen operadores de conversión de un tipo de dato a otro, **\[TOP to CHOP\]**, **\[CHOP to TOP\]**, **\[CHOP to DAT\]**, **\[DAT to CHOP\]**...
 
 ### **NOISE**

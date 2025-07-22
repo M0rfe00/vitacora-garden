@@ -2,8 +2,8 @@
 tags:
   - Davinci
 ---
-# **<u>Entrega:</u>**
-
+# **Entrega:**
+___
 Para renderizar el video final debemos seleccionar el (IN) inicio y (OUT) final, esto se puede hacer manualmente seleccionando un rango de salida/entrada o renderizar toda la línea de tiempo, lo que hará la selección automáticamente desde el primer elemento al último.
 
 ### **Los principales elementos de la interfaz de entrega son:**
@@ -16,7 +16,7 @@ Para renderizar el video final debemos seleccionar el (IN) inicio y (OUT) final,
 
 
 ## **\[Creación de contenido\]**
-
+___
 #### **Organización**
 
 - **Establecer los metadatos de los archivos** (video, imagen, audio...)
