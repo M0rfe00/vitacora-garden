@@ -403,7 +403,7 @@ img {
 }
 
 
-/** ESTILOS DEL DIARIO!!!!! **/
+/********** ESTILOS DEL DIARIO BASE!!!!! ***********/
 
 .diario {
   padding: 1em;
@@ -429,7 +429,129 @@ body.dark .diario {
 }
 
 
-/** ESTILOS DE LA GALERIA!!!!!!!!! **/
+/****** ESTILOS DE LETTERBOXD DIARIO ***********/
+/* Estilo personalizado para los callouts de Letterboxd */
+
+/* Base */
+/* Estilo base del callout Letterboxd */
+.callout[data-callout="letterboxd"] {
+  padding: 0;
+  margin: 1.5em 0;
+  border-radius: 12px;
+  background-color: var(--background-secondary) !important;
+  color: #111 !important;
+  box-shadow: 0 25px 80px rgba(0, 0, 0, 0.9) !important;
+}
+
+/* Tema claro con sombra más suave */
+body.theme-light .callout[data-callout="letterboxd"] {
+  background-color: #fefefe;
+  color: #111;
+  box-shadow: 0 12px 40px rgba(187, 187, 187, 0.704);
+}
+
+/* Tema oscuro con sombra más fuerte */
+body.theme-dark .callout[data-callout="letterboxd"] {
+  background-color: #2a2a2a;
+  color: #eee;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.704);
+}
+/* Estilo para la imagen del póster */
+.callout[data-callout="letterboxd"] img {
+  float: left;
+  max-width: 125px;
+  height: auto;
+  margin-right: 2%;
+  padding: 0;
+  border-radius: 6px;
+  border: 0.5px solid #ccc;
+  box-shadow: inset 0 0 1px 1px rgba(20,24,28,0.25);
+}
+
+/** Padding del titulo letterboxd**/
+.callout[data-callout="letterboxd"] .callout-title {
+  padding-top: 2px !important;
+  padding-bottom: 5px !important;
+}
+
+.callout[data-callout="letterboxd"] .callout-title-inner p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+
+/* Callout personalizado para "diario" */
+.callout[data-callout="diario"] {
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  border-left: 4px solid var(--color-blue);
+  background-color: var(--background-secondary);
+  color: inherit;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+body.theme-light .callout[data-callout="diario"] {
+  background-color: #fefefe;
+  color: #111;
+}
+
+body.theme-dark .callout[data-callout="diario"] {
+  background-color: #2a2a2a;
+  color: #eee;
+}
+
+/*************ESTILOS DE CADA TIPO DE NOTA DEL DIARIO*****************/
+/* NOTA: Estilos base para todos los callouts personalizados */
+.callout[data-callout] {
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  color: inherit;
+}
+
+/* --- NOTA --- */
+.callout[data-callout="nota"] {
+  border-left: 4px solid #4a90e2;
+  background-color: rgba(74, 144, 226, 0.1);
+}
+
+/* --- DEVLOG --- */
+.callout[data-callout="devlog"] {
+  border-left: 4px solid #7ed6df;
+  background-color: rgba(126, 214, 223, 0.08);
+}
+
+/* --- REFLEXIÓN --- */
+.callout[data-callout="reflexión"] {
+  border-left: 4px solid #f39c12;
+  background-color: rgba(243, 156, 18, 0.08);
+}
+
+/* --- IDEA --- */
+.callout[data-callout="idea"] {
+  border-left: 4px solid #9b59b6;
+  background-color: rgba(155, 89, 182, 0.08);
+}
+
+/* --- TAREA --- */
+.callout[data-callout="tarea"] {
+  border-left: 4px solid #e74c3c;
+  background-color: rgba(231, 76, 60, 0.08);
+}
+
+/* --- DEFAULT (fallback) --- */
+.callout[data-callout="entrada"] {
+  border-left: 4px solid var(--accent);
+  background-color: var(--background-secondary);
+}
+
+
+
+
+/********************** ESTILOS DE LA GALERIA!!!!!!!!! **********************/
 .galeria {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -462,11 +584,11 @@ display: block;
 .galeria img:hover {
   transform: scale(1.03);
 }
-
-
 // Prueba modal imagenes configuración expansion imagenes// 
 
-/* Estilos links a redes sociales */
+
+
+/***************** Estilos links a redes sociales *********************/
 
 .social-links {
   display: flex;
@@ -508,3 +630,44 @@ display: block;
   margin: 0;
   padding: 0;
 }
+
+
+/***********DIARIO TWEET*****************/
+.callout[data-callout="tweet"] {
+  padding: 0px 4px 0px 4px !important;
+}
+
+.callout[data-callout="tweet"] a {
+  text-decoration: none !important;
+  background: none !important;
+}
+
+/* Oculta el icono de enlace externo */
+.callout[data-callout="tweet"] a > .external-icon {
+  display: none !important;
+  margin: 0%
+}
+
+.callout[data-callout="tweet"] img {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  border-radius: 12px !important;
+  display: block;
+}
+
+.callout[data-callout="tweet"] .callout-content-inner > p {
+  margin: 0 !important;
+  padding-bottom: 4px !important;
+}
+/** Padding del titulo del tweet**/
+.callout[data-callout="tweet"] .callout-title {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+.callout[data-callout="tweet"] .callout-title-inner p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
