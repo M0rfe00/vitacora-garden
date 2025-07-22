@@ -349,7 +349,7 @@ La red de nodos está dividida en 3 secciones:
 - **Scene Trim:** Mientras que “Balance” y “Teaks” están dedicadas a tomas individuales, los cambios en “Scene Trim” afectan a toda la escena y hay que extenderlos a todo el grupo, estos son ajustes como la temperatura, iluminación...
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/d74c9c55b8ea0a31ee7166719142ef826613e460.png"
+  src="/media-content/Apuntes/media-davinci/d74c9c55b8ea0a31ee7166719142ef826613e460.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -363,22 +363,22 @@ Para esto, en cada escena se erigirá un frame en el que aparezca un elemento pr
 
 Después hay que igualar el nodo “Scene” en todo el grupo y balancear cada escena para igualar el elemento con la primera escena ajustada.
 <img
-  src="../../../media-content/Apuntes/media-davinci/4d33877f4ae2b96dbdb8c82c3e2f36e28f003a94.png"
+  src="/media-content/Apuntes/media-davinci/4d33877f4ae2b96dbdb8c82c3e2f36e28f003a94.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 <img
-  src="../../../media-content/Apuntes/media-davinci/6e01a94a01f5579d4bd2ac86ebca2dc251c32844.png"
+  src="/media-content/Apuntes/media-davinci/6e01a94a01f5579d4bd2ac86ebca2dc251c32844.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 <img
-  src="../../../media-content/Apuntes/media-davinci/3603ef8e15d1255a41d28c4fe796fcd85ae0030f.png"
+  src="/media-content/Apuntes/media-davinci/3603ef8e15d1255a41d28c4fe796fcd85ae0030f.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 <img
-  src="../../../media-content/Apuntes/media-davinci/666bd74fcb77ea601d414905e2b91f973a98e27a.png"
+  src="/media-content/Apuntes/media-davinci/666bd74fcb77ea601d414905e2b91f973a98e27a.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -386,7 +386,7 @@ Después hay que igualar el nodo “Scene” en todo el grupo y balancear cada e
 tras realizar los balances se puede pasar a ajustar detalles concretos de cada escena como resaltar un personaje, por ejemplo
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/d7be9c5f840ba0078b5156d5daece98946ea4760.png"
+  src="/media-content/Apuntes/media-davinci/d7be9c5f840ba0078b5156d5daece98946ea4760.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -400,7 +400,7 @@ Estas transformaciones pueden ser pueden ir desde un LUT de conversión del espa
 Pensar que la gradación de color y el desarrollo del look son lo mismo es un error, aunque con herramientas de gradación puedas desarrollar un look no son lo mismo.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/047048103e905db0b5ce9fd5ddf0e740ddd2a1c1.png"
+  src="/media-content/Apuntes/media-davinci/047048103e905db0b5ce9fd5ddf0e740ddd2a1c1.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -410,7 +410,7 @@ Los LUTs originalmente se crearon por compañías como Kodak o Fuji ya que los n
 Un LUT de impresión de pelicula da forma a la respuesta tonal y de color, mientras que una herramienta de corrección de color trabaja los valores de forma lineal.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/fc2c5efb918e7e35b523131e261b80fa9ac85aa1.png"
+  src="/media-content/Apuntes/media-davinci/fc2c5efb918e7e35b523131e261b80fa9ac85aa1.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -425,7 +425,7 @@ Ajustes iniciales
 Como utiliza los nodos de entrada y salida de la gestion de color en la estructura utiliza la Ciencia de color “YRGB”, Espacio de color de la timeline “DaVinci/Intermediate”, espacio de color de salida “Rec709”
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/24412aa5fe459cde13c91a677de8fedd3145cec0.png"
+  src="/media-content/Apuntes/media-davinci/24412aa5fe459cde13c91a677de8fedd3145cec0.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -433,7 +433,7 @@ Como utiliza los nodos de entrada y salida de la gestion de color en la estructu
 Tetrahedral hace una interpolación de los espacios de colores de los LUTs mas precisa que el antiguo método “Trilinear”
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/73433a67bd7c71362068f26e72db03baae05b26a.png"
+  src="/media-content/Apuntes/media-davinci/73433a67bd7c71362068f26e72db03baae05b26a.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
