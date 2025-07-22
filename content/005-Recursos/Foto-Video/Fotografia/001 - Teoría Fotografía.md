@@ -43,21 +43,21 @@ entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, 
 
 - **3Arroyo:** para hacer una foto de larga exposición la velocidad de obturación deberá ser lenta, lo que hará que este sobreexpuesta, se bajara el ISO para balancear lo máximo posible y compensara con cerrando el diafragma utilizando una “f” alta.
 
-<img src="/media-content/Apuntes/media-foto/7fb09e6351f505a444ec8fdc8f039caf19525b4c.png" alt="foto" style="margin: 0 auto; padding: 0; width: 80%; height: auto;"/>
+<img src="/media-content/Apuntes/media-foto/7fb09e6351f505a444ec8fdc8f039caf19525b4c.png" alt="foto" style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"/>
 <img
   src="/media-content/Apuntes/media-foto/a17f2ab35392e54a328f3ce26a0039d1d8ed1d35.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
   src="/media-content/Apuntes/media-foto/9684c9232c24287939ee86ae8fe7a336c7418865.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
   src="/media-content/Apuntes/media-foto/c4e8b88063d6abe0feefc3ab2a7d63332230c0ee.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 # Conceptos
@@ -140,9 +140,9 @@ Distribución de los elementos visuales de una imagen para transmitir una idea c
 - Balance visual compensando la presencia de elementos en tercios diagonales.
 
 <img
-  src="../../../media-content/Apuntes/media-foto/e103e212692d8fe1983c5d79215d6a90e2c56281.png"
+  src="/media-content/Apuntes/media-foto/e103e212692d8fe1983c5d79215d6a90e2c56281.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -170,19 +170,19 @@ Distribución de los elementos visuales de una imagen para transmitir una idea c
 
 Existen otras muchas más reglas de composición además de los tres tercios que permiten muchas más posibilidades; algunas son; triángulos dorados, Lineas diagonales
 <img
-  src="../../../media-content/Apuntes/media-foto/5b93d113225c88f236ed9d1bf8a7a06d6afe90d1.png"
+  src="/media-content/Apuntes/media-foto/5b93d113225c88f236ed9d1bf8a7a06d6afe90d1.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Apuntes/media-foto/529cc34edbf472829ee62c50db50ba4d11c0a902.png"
+  src="/media-content/Apuntes/media-foto/529cc34edbf472829ee62c50db50ba4d11c0a902.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Apuntes/media-foto/08e662310c5f76da8c24a20016b83348d7b59468.png"
+  src="/media-content/Apuntes/media-foto/08e662310c5f76da8c24a20016b83348d7b59468.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -240,9 +240,9 @@ Los planos pueden dividirse principalmente en generales, medios y cortos y son:
 - **Detalle:** Capta un detalle concreto del personaje o la escena.
 
 <img
-  src="../../../media-content/Apuntes/media-foto/e87f6839283c42c89b28b2f8348c8964c00c2532.png"
+  src="/media-content/Apuntes/media-foto/e87f6839283c42c89b28b2f8348c8964c00c2532.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -265,9 +265,9 @@ Los planos pueden dividirse principalmente en generales, medios y cortos y son:
 - **Holandés:** o aberrante, girada ligeramente unos 45º
 
 <img
-  src="../../../media-content/Apuntes/media-foto/994724073ca49e8a66c8115b48a4b2c2ddb8e32b.png"
+  src="/media-content/Apuntes/media-foto/994724073ca49e8a66c8115b48a4b2c2ddb8e32b.png"
   alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ###### Según el movimiento de la cámara, también puede ser un travelling, zoom, grúa, giro...

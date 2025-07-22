@@ -252,12 +252,12 @@ La segunda red aplica varias técnicas usadas anteriormente para complementar la
 ___
 Análisis: Mouse interactivity, particles per point, colors blue and purple, position of the grid horizontal
 <img
-  src="../../../media-content/Apuntes/media-foto/43cfeb8848a42cf82eb0b6ab9e06d3a95f72d813.png"
+  src="/media-content/Apuntes/media-foto/43cfeb8848a42cf82eb0b6ab9e06d3a95f72d813.png"
   alt="foto"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Apuntes/media-foto/7b6f5baf912a057be7d5a498b368e23a36b72a6b.png"
+  src="/media-content/Apuntes/media-foto/7b6f5baf912a057be7d5a498b368e23a36b72a6b.png"
   alt="foto"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
