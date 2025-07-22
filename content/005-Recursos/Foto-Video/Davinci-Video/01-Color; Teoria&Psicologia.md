@@ -4,7 +4,7 @@ tags:
   - Color
 ---
 # **\[Teoría del color\] - SizeMatters**
-
+___
 #### **Ciencia del color**
 
 **Luz/color:** La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
@@ -139,7 +139,7 @@ Combinar colores contrastantes y desagradables al ojo puede ser útil para gener
 
 
 # **\[Psicología del color\] - Eva Heller - (JWibel)**
-
+___
 A raíz de la teoría del color de Goethe que proponía que el color dependía de nuestra percepción y la teoría de J. Itten, Eva Heller realizo una investigación sobre la que publico el libro “Psicología del color” en el que explicaba como actuaban los colores sobre los sentimientos y la razón.
 
 En la rueda de color rojo y verde son opuestos, pero sin embargo el opuesto al rojo es percibido como el azul debido a que son opuestos psicológicos, por ello es importante la psicología además de la teoría.
@@ -178,7 +178,7 @@ Usar las diferentes paletas de colores, análogas, complementarias, triadas pued
 />
 
 # **\[Teoría del color en fotografía\] - PARVEC**
-
+___
 Para sacar partido a la teoría del color en fotografía, manipulando y utilizando el color como herramienta compositiva, es imprescindible una buena planificación y preconcepción de la foto que se quiero tomar para lograr una gran obra.
 
 En foto de paisaje o callejera es vital conocer el comportamiento de la luz a lo largo del día y como influyen en ella factores como las condiciones meteorológicas o la localización entre otras.
@@ -197,7 +197,7 @@ La postproducción es el último paso, y aunque sería deseable lograr el mejor 
 
 
 # **Evolución del color**
-
+___
 - Pelicula a blanco y negro,
 
 - Coloreado de pelicula a mano 1902
