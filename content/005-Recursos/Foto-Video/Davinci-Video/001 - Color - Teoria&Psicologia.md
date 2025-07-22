@@ -42,7 +42,7 @@ Las personas con daltonismo tienen defectuoso o les faltan alguno de estos conos
 Los perros solo tienen dos conos que absorben principalmente los tonos azules y amarillos mientras que otros animales tienen incluso más conos y caen en zonas del espectro no visibles para el humano como la luz ultravioleta.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/2e4ec234464b9071074bce4407b529cc4f0f5710.png"
+  src="/media-content/Apuntes/media-davinci/2e4ec234464b9071074bce4407b529cc4f0f5710.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -70,7 +70,7 @@ Los perros solo tienen dos conos que absorben principalmente los tonos azules y 
 Herramienta formada por tres colores distribuidos en un círculo con una separación de 180º y la suma de sus valores en las posiciones intermedias, logrando asi todas las combinaciones de matices. A la rueda también puede añadirse la posibilidad modificar el del brillo y saturación.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/0c15db386cf13374e9260bd00419640056a0f9b1.png"
+  src="/media-content/Apuntes/media-davinci/0c15db386cf13374e9260bd00419640056a0f9b1.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -78,7 +78,7 @@ Herramienta formada por tres colores distribuidos en un círculo con una separac
 ##### **Armonías de color:**
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/7e211b4fe5db1db461982d705b962e395acafb3d.png"
+  src="/media-content/Apuntes/media-davinci/7e211b4fe5db1db461982d705b962e395acafb3d.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -172,7 +172,7 @@ El circulo cromático básico de 12 colores se compone de; los 3 colores primari
 Usar las diferentes paletas de colores, análogas, complementarias, triadas puede ser útil para transmitir determinadas sensaciones o estilos.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/66689c764bbe7f169340599effa2cba6d7fa6b77.png"
+  src="/media-content/Apuntes/media-davinci/66689c764bbe7f169340599effa2cba6d7fa6b77.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -190,7 +190,7 @@ También es útil el uso de filtros o elementos iluminativos suplementarios, aun
 La postproducción es el último paso, y aunque sería deseable lograr el mejor acabado cromático mediante las condiciones ambientales, gracias al formato RAW y el revelado digital en programas como Lightroom existen una gama de recursos artísticos que brindan una capa mayor de interpretación de la fotografía.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/902e9073841cd158c981d9ce22a866cffb8ebcbf.png"
+  src="/media-content/Apuntes/media-davinci/902e9073841cd158c981d9ce22a866cffb8ebcbf.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />

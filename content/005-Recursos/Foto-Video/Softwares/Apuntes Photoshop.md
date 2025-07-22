@@ -11,7 +11,7 @@ Los trazados vectoriales aparecen en un panel independiente como las capas, dent
 Para utilizar un trazado como mascara: cargar selección, selección\>selecc aplicar mascara.
 
 <img
-  src="../../../media-content/Apuntes/media-foto/43b4412e7118046ff142df3b72e0a8c4eb0eca30.png"
+  src="/media-content/Apuntes/media-foto/43b4412e7118046ff142df3b72e0a8c4eb0eca30.png"
   alt="foto"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

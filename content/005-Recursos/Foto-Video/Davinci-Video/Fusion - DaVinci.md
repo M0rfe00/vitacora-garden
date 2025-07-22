@@ -32,7 +32,7 @@ Para añadir un fondo solido se utiliza el nodo “background” y un “merge�
 sea visible en esa selección.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/45d0491fc7c1cbe7bc4bb7c81fd2b9d96a76ec0b.png"
+  src="/media-content/Apuntes/media-davinci/45d0491fc7c1cbe7bc4bb7c81fd2b9d96a76ec0b.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -52,7 +52,7 @@ Para aplicar el trackeo a un objeto hay que seleccionar la operación de trackeo
 Para transformar las posición, rotación, escala y desenfoque de movimiento del texto se utiliza un “Transform”
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/5a82e200462521b82b277ad76e267837ea602073.png"
+  src="/media-content/Apuntes/media-davinci/5a82e200462521b82b277ad76e267837ea602073.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -70,7 +70,7 @@ Desde el inspector hay que seleccionar el tipo de tracker “Hybrid Point/Area�
 Tras crear los puntos de trackeo se puede crear un “Planar transform” que guardará la información de trackeo y se podrá a aplicar a otro objeto para fusionarlo al plano original con un merge y en modo “Multiply” para eliminar el fondo blanco de la imagen y activando motion blur para añadir realismo.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/e1585aead73c7bc279d832e57b12db55cb1693dd.png"
+  src="/media-content/Apuntes/media-davinci/e1585aead73c7bc279d832e57b12db55cb1693dd.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -103,7 +103,7 @@ En el grupo “3D” se encuentra la escena 3D centralizada en un “Merge3D” 
 Ademas de un texto y una imagen: “Text3D” para el texto y la imagen de una antena en un “MediaIn”, enmascarada con un “rentangle”, un nodo “BightnessContrast” para ajustar su brillo y un nodo “Imageplane3D” para convertir la imagen 2D a 3D.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/9efde53ffc88cc2d18bfce29f41e268159b73eaf.png"
+  src="/media-content/Apuntes/media-davinci/9efde53ffc88cc2d18bfce29f41e268159b73eaf.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -117,7 +117,7 @@ Ademas de un texto y una imagen: “Text3D” para el texto y la imagen de una a
 **Mascará estática:** en caso de tener un objeto trackeado en vez de crear la máscara fotograma a fotograma como el objeto sigue el movimiento de la cámara se puede crear una máscara estática y cada vez que pase el objeto sobre ella será visible o no.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/c8b14b224078967152ad3424078e8710816bd21c.png"
+  src="/media-content/Apuntes/media-davinci/c8b14b224078967152ad3424078e8710816bd21c.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -126,7 +126,7 @@ Ademas de un texto y una imagen: “Text3D” para el texto y la imagen de una a
 **Mascará en movimiento:** en vez de trackear un objeto y crear una mascara para que se aplique cuando pasa sobre ella, se puede hacer lo contrario, crear una máscara y rotoscopiarla, en este ejemplo el objeto estará estático y la máscara en movimiento
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/5e8131215bd0dbb7254a0eb527e51f96e8bad17d.png"
+  src="/media-content/Apuntes/media-davinci/5e8131215bd0dbb7254a0eb527e51f96e8bad17d.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -141,7 +141,7 @@ Para exportar la rotoscopia hay que sacara la salida azul (mascara) al out, expo
 Para utilizar la rotoscopia como mascara volvemos a fusión, añadimos el video con un “MediaIn” y se le conecta un nodo “Lumakeyer” para extraer el Alpha con el que ya podremos conectar la rotoscopia al video original para tener el video original, una rotoscopia de la persona por encima y la posibilidad de añadir objetos bajo la rotoscopia.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/03470f0fb47a511d8e7b64bef29e3dd32b583aa1.png"
+  src="/media-content/Apuntes/media-davinci/03470f0fb47a511d8e7b64bef29e3dd32b583aa1.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -164,7 +164,7 @@ y finalmente se conecta a un nodo “Planar transform” para trackear el fondo 
 En el grupo **“ImgOriginal”** se pasa el plano original por un nodo “Planar tracker” para trackear el movimiento de la cámara, después por un nodo “Lumakeyer” para transparentar zonas de la imagen en base a su brillo
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/72816b20df172c60854daf0d527b9ba3411851f5.png"
+  src="/media-content/Apuntes/media-davinci/72816b20df172c60854daf0d527b9ba3411851f5.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -179,7 +179,7 @@ Para que el efecto del “Ultrakeyer” funcione y deje todo lo demas transparen
 En el grupo “Fondo” hay una imagen conectada a un nodo “Transform” para modificar su escala y combinada en un “Merge” con un “background” para ajustar la resolución del fondo a la del video (1920x1080).
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/5960acb79b2087a8370acbf6d3ca29cd17b44481.png"
+  src="/media-content/Apuntes/media-davinci/5960acb79b2087a8370acbf6d3ca29cd17b44481.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -193,7 +193,7 @@ Para ampliar la zona de transparencia en caso de que el croma no ocupe todo el p
 Para añadir un fondo simplemente habría que añadir otro clip por debajo de este.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/702764015a3b929c98513e2cf01930882b7f9eda.png"
+  src="/media-content/Apuntes/media-davinci/702764015a3b929c98513e2cf01930882b7f9eda.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -220,7 +220,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
 	Para ello se añade el nodo “displace” al que se le conecta la imagen por la entrada amarilla y el mapa de profundidad de esa misma imagen por la entrada verde, en el nodo displace debe estar seleccionado Luminancia en el canal de refracción.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/232acf1584a47fdffce1220bf4eb639308648e35.png"
+  src="/media-content/Apuntes/media-davinci/232acf1584a47fdffce1220bf4eb639308648e35.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -228,7 +228,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
 - **Crear niebla:** mezclando una imagen con su propio mapa de profundidad en modo “pantalla” permite crear un efecto de niebla.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/6d2010c09547fc7f4fc0965f57f9d078b724449b.png"
+  src="/media-content/Apuntes/media-davinci/6d2010c09547fc7f4fc0965f57f9d078b724449b.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -236,7 +236,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
 - **Corregir color:** el mapa de profundidad puede utilizarse como mascara para modificar el color de la imagen en zonas especificas
 - 
 <img
-  src="../../../media-content/Apuntes/media-davinci/0fd0e05b34fa4d7cab2cb23bf830bdd245483a14.png"
+  src="/media-content/Apuntes/media-davinci/0fd0e05b34fa4d7cab2cb23bf830bdd245483a14.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -244,7 +244,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
 - **Desenfoque:** el mapa de profundidad puede ser utilizado en caso de que todo el plano este enfocado para desenfocar las zonas cercanas de la imagen y viceversa, también se puede ajustar el contraste con un nodo de ”curvas”
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/a4ab59605f9b7a1c5e1777888c3bcff100c2c0da.png"
+  src="/media-content/Apuntes/media-davinci/a4ab59605f9b7a1c5e1777888c3bcff100c2c0da.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
@@ -254,7 +254,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
 	En caso de tener una composición formada por un fondo y una imagen con diferente iluminación, se puede utilizar el nodo “reiluminación” para ajustarlo, para ello se utilizaría el nodo “reiluminación” para indicar desde que dirección recibe la luz el objeto que se conectaría al nodo “color corrector” para modificar la iluminación y color de esas zonas basado en el canal luminancia.
 
 <img
-  src="../../../media-content/Apuntes/media-davinci/abe4d5497072e3b76aab0300ab36e82764c3dbd7.png"
+  src="/media-content/Apuntes/media-davinci/abe4d5497072e3b76aab0300ab36e82764c3dbd7.png"
   alt="video"
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
