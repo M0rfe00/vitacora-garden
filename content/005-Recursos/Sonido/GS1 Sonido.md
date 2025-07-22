@@ -60,7 +60,7 @@ ___
 
 **XLR/XLR-3:** External Line Return, conector de tres polos conocido como cannon.
 
-## **<1. EL SONIDO:**
+## **1. EL SONIDO:**
 ___
 **Sonido:** Onda mecánica longitudinal propagada por un medio físico (aire, agua, metal...) y producido por una fuente sonora al hacer vibrar las partículas del ambiente.
 
