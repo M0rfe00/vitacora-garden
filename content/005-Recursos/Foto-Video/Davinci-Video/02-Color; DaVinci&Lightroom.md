@@ -3,8 +3,8 @@ tags:
   - Davinci
   - Color
 ---
-# **<u>Introducción al color - \[AURAPRODS\]</u>**
-
+# **Introducción al color - \[AURAPRODS\]**
+___
 **Luz/color:** La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
 
 ## **Captación de la imagen Ojos y Cámaras:**
@@ -27,8 +27,8 @@ A la hora capturar una imagen el sensor de la cámara capta la luz y se llevan a
 
 Debido que pese a existir los colores puros cada pantalla lo representa de diferente forma (tono, saturación, luminancia) y cada persona los percibe de diferente forma, existen herramientas para representar e identificar los colores independientemente de la pantalla para monitorear la señal de color.
 
-# **<u>COLOR EN DAVINCI - \[AURAPRODS\]:</u>**
-
+# **COLOR EN DAVINCI - \[AURAPRODS\]:**
+___
 **Espacios cromáticos:** Son gamas de colores capaces de representar diferentes paletes colores (RGB, CMYK, SRGB), el espacio de color más común es el Rec. 709 (igual al sRGB), el estándar para cine es ACES (AP1) es mucho más amplio que el Rec. 709,
 
 Dentro de DaVinci es útil utilizar el espacio DaVinci WG ya que su espacio es mucho mayor a los anteriores facilitando trabajar el color, aunque luego se exporte solo lo que hay en Rec. 709. Para ajustarlo hay que modificar los ajustes de gestión cromática y seleccionar Colorimetría\>DaVinci YRGB Color managed, en Color processing mode\>HDR DaVinci Wide Gamut Intermediate y en Espacio cromático final\>Rec.709 (=Colorimetría y procesamiento del color en el espacio cromático de DaVinci pero el espacio cromático final en Rec.709)
@@ -154,8 +154,8 @@ De la misma forma que en fusión, touchdesigner, geometry nodes y shaders en ble
 
 
 
-# **<u>Iluminación y balance de blancos:</u>**
-
+# **Iluminación y balance de blancos:**
+___
 ## **<u>BALANCE DE BLANCOS Preproducción - \[Sam Holland\]:</u>**
 
 A lo largo del día la iluminación va cambiando, cuando el sol sale comienza cálido y a medida que se acerca al medio día para al espectro más frio o neutro, pero cuando se pone vuelve a bajar al más cálido y cuando se ha ido completamente vuelve azul.
@@ -176,8 +176,8 @@ Para una iluminación balanceada en un entorno controlado hay que hacer coincidi
 
 En una escena con predominancia de un color este puede causar reflejos y tintar la imagen, esto se puede compensar añadiendo el color opuesto en la cámara.
 
-## **<u>BALANCE DE BLANCOS Postproducción - \[Sam Holland\]:</u>**
-
+## **BALANCE DE BLANCOS Postproducción - \[Sam Holland\]:**
+___
 Generalmente cuando se empieza a corregir el color se realizan ajustes sin pensar en lo que se está haciendo hasta que se vea bien, el problema de esto es que los ojos nos engañan ya que tienden a acostumbrarse a una corrección entorpeciendo el proceso.
 
 Una forma de realizar el balance es; si es video grabado en LOG convertir el espacio cromático a rec709, utilizar el vectorscopio para ver los niveles de luz y saturación, seleccionar una zona blanca de la imagen con una máscara y modificar los valores del vectorscopio hasta situar el blanco en el centro.
