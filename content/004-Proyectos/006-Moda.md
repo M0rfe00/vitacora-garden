@@ -85,8 +85,8 @@ ___
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Fotos TechFits/5.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Fotos TechFits/6.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Fotos TechFits/7.webp" alt="">
-<img loading= "lazy" src="../media-content/Moda/primera-coleccion/POST/Fem1.webp" alt="">
-<img loading= "lazy" src="../media-content/Moda/primera-coleccion/POST/Fem2.webp" alt="">
+<img loading= "lazy" src="../media-content/Moda/primera-coleccion/POST/Fem1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Moda/primera-coleccion/POST/Fem2.jpg" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/POST/Fem3.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Femvv1/1.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Femvv1/2.webp" alt="">
