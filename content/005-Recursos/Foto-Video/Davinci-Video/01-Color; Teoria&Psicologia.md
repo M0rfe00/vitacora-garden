@@ -5,7 +5,7 @@ tags:
 ---
 # **\[Teoría del color\] - SizeMatters**
 ___
-#### **Ciencia del color**
+## **Ciencia del color**
 
 **Luz/color:** La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
 
@@ -21,7 +21,7 @@ La luz neón funciona gracias a la fluorescencia, que consiste en la absorción 
 
 El Day Glo es una pintura fluorescente capaz de brillar al suministrar radiación ultravioleta gracias a la mezcla de pintura con minerales capaces de emitir luz por fluorescencia.
 
-#### **Captación de los colores por el Ojos:**
+## **Captación de los colores por el Ojos:**
 
 El ojo es capaz de percibir estas ondas gracias a dos tipos de celular, los bastones y los conos.
 
@@ -44,10 +44,10 @@ Los perros solo tienen dos conos que absorben principalmente los tonos azules y 
 <img
   src="/media-content/Apuntes/media-davinci/2e4ec234464b9071074bce4407b529cc4f0f5710.png"
   alt="video"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
 
-#### **Sistemas de color**
+## **Sistemas de color**
 
 **Espacios de color:** Son gamas de colores capaces de representar diferentes paletas colores.
 
@@ -57,7 +57,7 @@ Los perros solo tienen dos conos que absorben principalmente los tonos azules y 
 
 - **RYB:** Sistema de colores primarios que usa (Amarillo rojo y azul) que combinados dan lugar a otros utilizado sobre todo en pintura.
 
-#### **Características del color:**
+## **Características del color:**
 
 - **Matiz/Tono:** (HUE): determina el color / longitud de onda dentro del espacio de color.
 
@@ -65,22 +65,22 @@ Los perros solo tienen dos conos que absorben principalmente los tonos azules y 
 
 - **Brillo (Value):** Determina cuanto se acerca el color al blanco o al negro.
 
-#### **Rueda del color:**
+## **Rueda del color:**
 
 Herramienta formada por tres colores distribuidos en un círculo con una separación de 180º y la suma de sus valores en las posiciones intermedias, logrando asi todas las combinaciones de matices. A la rueda también puede añadirse la posibilidad modificar el del brillo y saturación.
 
 <img
   src="/media-content/Apuntes/media-davinci/0c15db386cf13374e9260bd00419640056a0f9b1.png"
   alt="video"
-  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-##### **Armonías de color:**
+### **Armonías de color:**
 
 <img
   src="/media-content/Apuntes/media-davinci/7e211b4fe5db1db461982d705b962e395acafb3d.png"
   alt="video"
-  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -102,7 +102,7 @@ Herramienta formada por tres colores distribuidos en un círculo con una separac
 
 	(utilizar proporciones y establecer color dominante, tónico y de mediación para mayor armonía)...
 
-#### **Asociaciones del color:**
+## **Asociaciones del color:**
 
 Dependiendo de la cultura e incluso de la persona cada color suele tener una asociación u otra, sin embargo, si se pueden tomar unas líneas generales más asociadas a rasgos comunes de forma global, como el verde a la salud y naturaleza, el azul al cielo, la calma y serenidad, el rojo suele estar asociado a la sangre y la pasión.
 
@@ -114,15 +114,15 @@ Tergiversar asociaciones de colores para jugar con las expectativas, como elegir
 
 Combinar colores contrastantes y desagradables al ojo puede ser útil para generar rechazo, angustia e inestabilidad
 
-#### **Utilidades Narrativas del color:**
+## **Utilidades Narrativas del color:**
 
 - Representar un cambio como el estado anímico de un personaje o etapas vitales..
 
 - Asociar un color a una idea, como una realidad, idea, estado mental, personas..
 
 
-#### **Leyes de color de Johannes Itten:**
-
+# **Leyes de color de Johannes Itten:**
+___
 - **Contraste tono/color:** contraste que se da entre colores saturados puros, utilizado en ilustraciones infantiles y logotipos al ser de sencillos y no saturar al cerebro.
 
 - **Contraste claros y oscuros:** también conocido por luminosidad, depende de cuanta luz u oscuridad, asociado a la elegancia, lujo, atemporalidad...
@@ -174,7 +174,7 @@ Usar las diferentes paletas de colores, análogas, complementarias, triadas pued
 <img
   src="/media-content/Apuntes/media-davinci/66689c764bbe7f169340599effa2cba6d7fa6b77.png"
   alt="video"
-  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
 
 # **\[Teoría del color en fotografía\] - PARVEC**
