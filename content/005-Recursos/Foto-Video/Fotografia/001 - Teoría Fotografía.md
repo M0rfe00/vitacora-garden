@@ -43,11 +43,7 @@ entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, 
 
 - **3Arroyo:** para hacer una foto de larga exposición la velocidad de obturación deberá ser lenta, lo que hará que este sobreexpuesta, se bajara el ISO para balancear lo máximo posible y compensara con cerrando el diafragma utilizando una “f” alta.
 
-<img
-  src="../../../media-content/Apuntes/media-foto/7fb09e6351f505a444ec8fdc8f039caf19525b4c.png"
-  alt="foto"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
-/>
+<img src="../../../media-content/Apuntes/media-foto/7fb09e6351f505a444ec8fdc8f039caf19525b4c.png" alt="foto" style="margin: 0 auto; padding: 0; width: 80%; height: auto;"/>
 <img
   src="../../../media-content/Apuntes/media-foto/a17f2ab35392e54a328f3ce26a0039d1d8ed1d35.png"
   alt="foto"
