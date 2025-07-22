@@ -23,12 +23,12 @@ ___
 En el esquema triaprima de Paracelso, el azufre, el mercurio y la sal no están representando sustancias químicas, sino espirituales, de las que se sirve el operador modificando las relaciones entre ellas para intentar crear condiciones tanto materiales como inmateriales.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013235.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013235.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013241.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013241.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -44,7 +44,7 @@ ___
 Parte del concepto gnóstico-alquímico consistía en que, para llegar a su realización, el adepto debía atravesar las siete esferas planetarias. La última de éstas, la más externa, era el anillo ofídico de Saturno, muchas veces representado con el Uroboros, que separaba al alma de su paraíso u hogar espiritual, ahí se suponía que reinaba Saturno, el dios proscripto, la serpiente que guardaba el paraíso, que no es otro que el Crono griego y el Zurvan persa.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013313.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013313.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -52,7 +52,7 @@ Parte del concepto gnóstico-alquímico consistía en que, para llegar a su real
 En muchas sectas gnósticas, aunque no en todas, el último guardián planetario o arconte era Abraxas, por lo que podemos asumir que en muchas corrientes son todos el mismo o, para decirlo sin simbolismos, encarnaban principios análogos, por lo tanto, la superación de este, atravesar el círculo ofídico, no significaría más que una interrupción en el transcurso del tiempo, o mejor dicho, el corte del ciclo del tiempo, de la cadena de reencarnación en la que creían éstos.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013330.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013330.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

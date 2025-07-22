@@ -55,7 +55,7 @@ Campbell organiza el viaje dividiéndolo en tres partes, **la partida, la inicia
 - Regreso:** la vuelta a la comunidad como un individuo renacido y reformulado.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714015939.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714015939.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

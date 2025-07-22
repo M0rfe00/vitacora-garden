@@ -385,7 +385,7 @@ la mayoría de aquellos grupos cristianos alternativos suelen designarse de form
 Cada uno de estos grupos tenía su propia identidad, pero mayormente ellos mismos se consideraban cristianos, el nombre de gnósticos le fue atribuido desde fuera porque en sus textos siempre se hacía referencia a un conocimiento o gnosis, su creencia era que ese conocimiento servía para liberar al ser humano de las cadenas del destino y de la existencia corporal.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250714003748.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250714003748.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -395,7 +395,7 @@ Esos grupos estuvieron muy influenciados por la filosofía y la espiritualidad h
 La base del culto de estos grupos tan diversos generalmente coincidía en un diagnóstico negativo del presente, la idea más o menos era que el ser humano había sido arrojado de la divinidad y de la luz a los enredos de la materia, a un destino Inevitable y a la pecaminosidad y que si bien una chispa divina seguía vinculada a la luz original era preciso realizar un tremendo esfuerzo y desprenderse de los enredos de la materia para liberar esa chispa divina y guiarla nuevamente hacia la luz.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250714003825.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250714003825.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -503,7 +503,7 @@ Tampoco hay que olvidar que ese avance técnico fue posible gracias a la cuidado
 Todo este proceso se vería reflejado en una de las piezas documentales arqueológicas más importantes que se conocen una que redefiniría tanto a la astrología como a la astronomía, la serie “Mul Apin” un paso definitivo en la astronomía babilónica, esta compilación de datos y cálculos consiste en dos tablas cuya copia más antigua data del año 688 a.c. se cree que la serie “Mul Apin” tiene que haber sido compilada más o menos entre los años 800 y 686 a.c. utilizando material de la antigua babilonia y agregando elementos de cálculo más recientes.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250714004045.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250714004045.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -521,7 +521,7 @@ Con el resumen sistemático del saber pasado y el dominio que habían logrado ha
 En Mul Apin se mencionan 18 constelaciones que se encuentran en la trayectoria de la luna, si se tachan de esa lista las últimas seis, las doce primeras son exactamente los doce nombres babilonios de los posteriores signos del zodíaco.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250714004121.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250714004121.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -543,7 +543,7 @@ El método que se utilizaba hasta el momento consistía en definir el lugar de u
 Es entonces en este problema astronómico que se encuentra el origen del zodiaco que todos conocemos, en siglo V a.c. se pasó a dividir la eclíptica o sea la franja dentro de la cual se desplaza el sol a lo largo del año en 12 segmentos de igual tamaño y cada uno de ellos de 30 grados con lo que la eclíptica pasó a tener una amplitud de 360.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004157.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004157.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -611,12 +611,12 @@ Se cree que la astrología ya existía desde hace más de 4000 años, en el segu
 La primera astrología conocida más o menos la practicaban durante la primera Dinastía mesopotámica allá por el 1950 al 1650 a.c. y en China también empezaron a desarrollar su propia versión durante la dinastía Zou entre el 1046 y el 256 a.c.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004331.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004331.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004338.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004338.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -631,7 +631,7 @@ Cuando Alejandro Magno llegó a Asia menor en el año 332 a.c.  astrología gri
 Posteriormte sobre el 525 a.c. cuando Egipto fue conquistado por los persa, y poco después tras Alejandro Magno la cultura egipcia empieza a mezclarse con la helenística y la astrología de la región se fusiona, la ciudad de Alejandría fundada por Alejandro, no fue solo un punto de encuentro de culturas sino que se convirtió en el epicentro de la astrología, es aquí donde la astrología babilónica se combina con la astrología egipcia surgiendo los horóscopos, siguiendo con Alejandro Magno la conquista de Asia menor, al meterse en Siria, Babilonia, Persia y en Asia central los griegos empezaron a empaparse de ideas que no tenían nada que ver con lo que conocían hasta el momento. Beroso el caldeo, sacerdote del dios Bel en Babilonia decidió mudarse a la isla griega de Cos alrededor del 280 a.c. para enseñar a los griegos la astrología babilónica.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004422.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004422.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -643,7 +643,7 @@ En el siglo I a.c. en Roma existían dos tipos de astrología, por un lado la as
 En todo este proceso la influencia griega fue clave para que la astrología llegara a Roma, los griegos fueron los que pasaron el conocimiento a los romanos y esto tuvo mucho impacto, sin embargo, no todo era respeto hacia los astrólogos, el poeta Juvenal se quejaba de la enorme influencia de los caldeos, nombre que recibían los astrónomos, decía que la gente creía tanto en los astrólogos, que todo lo que decían lo tomaban como si viniera de una fuente divina.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004447.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004447.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -651,7 +651,7 @@ En todo este proceso la influencia griega fue clave para que la astrología lleg
 Trasilo de Mendas, un astrólogo egipcio que fue el primero en ser astrólogo en la corte Imperial romana, fue el astrólogo de Tiberio el emperador y jugó un papel crucial en la incorporación de la astrología en la política romana.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004459.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004459.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -659,7 +659,7 @@ Trasilo de Mendas, un astrólogo egipcio que fue el primero en ser astrólogo en
 César Augusto también utilizaba la astrología para legitimar su poder Imperial, las estrellas no solo guiaban su destino personal, sino que al parecer también guiaban el destino del Imperio Romano, pero seguía viendo objeciones a todo esto.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004519.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004519.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -668,7 +668,7 @@ César Augusto también utilizaba la astrología para legitimar su poder Imperia
 Cicerón era jurista, político, filósofo, escritor y orador, tenía una visión bastante interesante de la astrología, se le ocurrió lo que más tarde se conocería como la “objeción de los gemelos” señalaba que dos gemelos nacidos en un tiempo muy cercano pueden tener personalidades muy diferentes, para él esto desmentía un poco la idea de que todo estuviera determinado por las estrella, decía que la influencia de los planetas más allá de la luna, era algo muy pequeño en comparación con la enorme influencia de la propia luna en la tierra y no solo, también argumentaba que si la astrología realmente pudiera explicarlo todo sobre el destino de una persona entonces se estaría ignorando todo lo que tiene que ver con las capacidades heredadas, cómo se crían, como la medicina afecta a tu salud, como el clima influye en el comportamiento de las personas, es como si todo lo que te pasara en la vida se pudiera atribuir a la estrella y te olvidarás de cosas mucho más tangibles.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004545.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004545.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -676,7 +676,7 @@ Cicerón era jurista, político, filósofo, escritor y orador, tenía una visió
 Cicerón no fue el único que tenía dudas, por ejemplo Favorino, un filósofo griego también pensaba que esto de que los planetas pudieran influir en los cuerpos humanos era una locura, él decía que es absurdo imaginar que las estrellas y los planetas afectaran a los humanos de la misma manera que afectan a las mareas, también pensaba que pequeños movimientos en los cielos no iban a cambiar el destino de una persona de una manera tan radical.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004601.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004601.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -684,7 +684,7 @@ Cicerón no fue el único que tenía dudas, por ejemplo Favorino, un filósofo g
 Carnéades, otro filósofo griego que tenía una postura muy interesante, él decía que creer en el destino era como negar el libre albedrío o la moral, o sea que si todo estaba escrito qué sentido tendría que una persona nacida en un momento distinto a otra y con todo un destino diferente pudiera morir en el mismo accidente o en la misma batalla, esto no podía ser una coincidencia.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004616.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004616.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -698,12 +698,12 @@ Luego después de la conquista de Alejandría por los musulmanes en el siglo VI 
 La astrología entonces dejó de ser solo Una curiosidad y pasó a ser parte de la sabiduría caldea, la sabiduría de los babilonios, culturalmente la astrología también estaba en la literatura de la época, poetas como Dante o Chaucer o dramaturgos como Lope de vega o Shakespeare y Calderón de la barca hacían referencias astrológicas en su obra.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004655.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004655.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004749.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004749.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -715,7 +715,7 @@ La astrología durante siglos fue muy respetada tanto en el ámbito académico c
 En el medievo también se encuentran diferentes prácticas y avances en la astrología según la región, en el mundo musulmán después de que los árabes conquistaran Alejandría, hubo cambios en la astrología, en el siglo VIII, con la fundación del califato abasí, los eruditos árabes comenzaron a Estudiar y desarrollar esta práctica Con mucha pasión el segundo califa Abasí, Al-Mansur, fundó Bagdad y la convirtió en un epicentro del aprendizaje, incluso planeó la ciudad con una biblioteca que se llamó “la casa de la sabiduría” que no solo se dedicaba a traducir y a preservar conocimiento sino que también promovió activamente la traducción de los textos astrológicos griegos y persas al árabe y al persa medio.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004816.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004816.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -726,12 +726,12 @@ El conocimiento que se cultivó en el mundo árabe llegó a Europa gracias a las
 En Europa el primer libro astrológico que se publicó fue todo un hito, se llamaba “Liber Mundi Plantis Et Climatibus” y apareció entre el 1010 y el 1027 d.c. se que podría haber sido escrito por el papa Silvestre II quien no solo era papa, sino que también era un un prodigio en ciencia y en matemáticas.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004848.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004848.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004855.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004855.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -739,7 +739,7 @@ En Europa el primer libro astrológico que se publicó fue todo un hito, se llam
 Después, en el siglo XII, el famoso “Tetrabiblos” de Claudio Ptolomeo una obra que realmente es la Biblia de la astrología fue traducida al latín por Platón de Tiboli en el 1138, esto no solo hizo accesible eh la astrología para los estudiosos de la época sino que permitió que la astrología se integrara de una manera más sólida en Europa.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004911.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004911.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -747,7 +747,7 @@ Después, en el siglo XII, el famoso “Tetrabiblos” de Claudio Ptolomeo una o
 En su intento de hacer que todo encajara, Tomás de Aquino, teólogo dominico, unificó la astrología con el cristianismo siguiendo a Aristóteles, que decía que las estrellas influían sobre el cuerpo sublunar o sea sobre el mundo material, pero que el alma era gobernada solo por Dios.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714004926.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714004926.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -755,7 +755,7 @@ En su intento de hacer que todo encajara, Tomás de Aquino, teólogo dominico, u
 Campanus de novara, matemático y astrónomo italiano del siglo XIII, quien se dice ideó el sistema de las casas astrológicas, la visión de 12 segmentos que vemos hoy cuando hablamos de las cartas astrales, con cada casa representando diferentes áreas de la vida, aunque no fue una idea completamente nueva ya que en Oriente ya se había usado algo parecido antes, pero por supuesto fue un gran aporte a la astrología occidental.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005004.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005004.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -763,7 +763,7 @@ Campanus de novara, matemático y astrónomo italiano del siglo XIII, quien se d
 En el siglo XIII también tenemos a Guido Bonatti, astrónomo y astrólogo que escribió “Liber astronomicus” una especie de manual de referencia y a finales del siglo XV incluso Enrique VII de Inglaterra tenía una copia de este libro, siendo así un libro de gran importancia.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005031.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005031.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -783,7 +783,7 @@ En el renacimiento los astrólogos eran bastante populares entre los reyes y los
 Por ejemplo, Gerolamo Cardano, personaje bastante famoso levantó el horóscopo del Rey Eduardo VI de Inglaterra allá por el siglo 16 y si hablamos de astrología Real.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005101.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005101.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -791,7 +791,7 @@ Por ejemplo, Gerolamo Cardano, personaje bastante famoso levantó el horóscopo 
 Otro astrologo importante Fue John Dee, quien era el astrólogo personal de la Reina Isabel I, tenía tanta influencia que se metió en todo tipo de asuntos, no solo en las estrellas sino también en la política e incluso en la magia.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005117.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005117.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -799,7 +799,7 @@ Otro astrologo importante Fue John Dee, quien era el astrólogo personal de la R
 Nostradamus, fue un famoso vidente quien en 1566 fue contratado por Catalina de Medicci para verificar una predicción sobre sobre la muerte de su esposo el rey Enrique II de Francia.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005131.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005131.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -807,12 +807,12 @@ Nostradamus, fue un famoso vidente quien en 1566 fue contratado por Catalina de 
 En las Cortes reales los astrónomos eran realmente importantes, Johan Kepler hizo lo mismo con los Habsburgo o Galileo Galilei que se movía por la corte de los Medicci en Italia.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005154.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005154.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005159.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005159.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -820,7 +820,7 @@ En las Cortes reales los astrónomos eran realmente importantes, Johan Kepler hi
 El astrónomo y astrólogo Giordano Bruno, conocido por sus ideas revolucionarias fue quemado en la hoguera en Roma el 1600 por herejía, entre sus acusaciones estaban sus opiniones sobre los mundos múltiples, la metempsicosis, que era la idea de que las almas pueden reencarnar en otros seres y sus trabajos relacionados con la magia y con la adivinación, metiéndole en el saco de los locos que no seguían la doctrina oficial.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005212.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005212.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -830,12 +830,12 @@ En cuanto a la ciencia en sí la línea entre astrología y astronomía no estab
 En la época isabelina en Inglaterra, por ejemplo, se pusieron muy de moda las efemérides, eran como guías del cielo llenas de cálculos astrológicos y astronómicos y ni hablar de los almanaques que no solo te decían cuándo era el mejor momento para sembrar sino que también te daban pistas sobre cómo esos eventos celestes influían en la medicina.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005225.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005225.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005232.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005232.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -860,7 +860,7 @@ En el siglo XX la astrología tuvo un gran regreso pero ya no fue como antes, ah
 Lo más curioso es que la astrología también dio un giro hacia lo científico o al menos hacia la psicología a principios del siglo, Carl jung el famoso psicólogo, se metió en el tema de los símbolos antiguos y cuando empezó a investigar se dio cuenta de algo muy interesante, dijo que a pesar de todo encontraba una evidencia sorprendente entre lo que decía la astrología y los hechos psicológicos de las personas.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005314.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005314.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -881,7 +881,7 @@ Al hablar del horóscopo moderno la imagen que la mayoría tiene de él, es bast
 El horóscopo real es como un mapa circular del cielo con la tierra en el centro y muestra todas las relaciones entre los planetas, los signos las casas y todo eso para un momento específico, pero no todo se reduce solo a los planetas en los signos y en las casas, sino que también entran en juego los aspectos de otros planetas que son muy importantes, siendo un campo bastante complejo, a  fin de cuentas, es una especie de lenguaje, el cielo tiene su propio modo de comunicarse y los astrólogos lo interpretan.
 
 <img
-  src="../../../media-content/Research/Simbologia/img-astrologia/20250714005347.png"
+  src="/media-content/Research/Simbologia/img-astrologia/20250714005347.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

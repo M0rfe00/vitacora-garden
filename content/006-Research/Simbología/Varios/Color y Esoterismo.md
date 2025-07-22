@@ -12,7 +12,7 @@ En realidad hay otra verdad y es que el 7 es un número muy especial, que no má
 Así es que los siete planetas clásicos serían representados de muchas formas, por ejemplo con los días, el lunes es el día de la luna, el martes el del dios martes, el miércoles el del dios mercurio o Hermes, el jueves de júpiter y el viernes de venus, el nombre del sábado proviene de la fiesta hebrea del shabat y curiosamente o no, el talmud babilónico se refiere a saturno como “sabetay”, la estrella del sábado y el domingo proviene de la palabra latina “dominus” el señor, en inglés tienen para estos dos últimos días palabras todavía más explícitas como saturday el día de saturno y sunday el día del sol el día del señor.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205431.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205431.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -23,7 +23,7 @@ Entonces, de aquellos siete planetas clásicos, la importancia e influencia del 
 Newton quien era rosacruz, alquimista, presidente de la real sociedad de ciencias de Londres, que era y es una orden esotérica de científicos y masón aunque todavía esta sociedad no había salido a la luz pública, entonces lógicamente sólo podía dividir a los colores del espectro o sea a los colores que formaban a la luz misma con todo lo que significa la luz, en un número y ese número era el siete y más porque sabía que en su experimento estaba reproduciendo artificialmente al arco iris, que tiene también un valor importantísimo en la filosofía oculta desde tiempos inmemoriales.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205458.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205458.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -34,7 +34,7 @@ En la época de Gilgamesh, la historia más antigua escrita en el planeta tierra
 Resumiendo, en la mayoría de los casos, el arco iris representa una unión del cielo con la tierra y debido a esto colores del arco iris se han utilizado en variedad de sistemas esotéricos, un caso muy notorio es el arqueometro, que se supone encierra los 72 nombres de los ángeles o genios cabalísticos y se utiliza mayormente con fines oraculares, este presenta una escala de colores supuestamente análoga a la escala musical, a las fuerzas del sistema planetario, los números y el alfabeto hebreo, asirio ciriaco y caldeo, es decir, los colores del arcoíris, siempre, desde tiempos ya olvidados, han tenido un significado importantísimo en los misterios aunque claro puedan variar depende la corriente la cultura y la época, estos colores son rojo, naranja, amarillo, verde, azul, índigo/añil/azul marino y violeta.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205531.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205531.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -68,7 +68,7 @@ Por lo cual en esta visión mística, específicamente cabalística, aunque tamb
 A esta visión mística del arte fue a lo que Runge denominó arte verdadero, teniendo en cuenta esta cosmogonía esotérica no es de extrañar que el propio range señalará a Böhme como una influencia, así que tomando prestada la imagen del globo terráqueo de una edición de los escritos de Jakob Böhme, creo su esfera de color que ilustraba tanto su comprensión teórica como religiosa de los colores.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205800.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205800.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -76,7 +76,7 @@ A esta visión mística del arte fue a lo que Runge denominó arte verdadero, te
 La esfera de color consta de 12 colores 3 colores primarios, azul, rojo y amarillo, tres colores mixtos, violeta, naranja y verde y seis colores intermedios.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205824.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205824.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -84,7 +84,7 @@ La esfera de color consta de 12 colores 3 colores primarios, azul, rojo y amaril
 El blanco y el negro se colocan en los dos polos, mientras que el blanco simbolizaba esotéricamente la luz y el bien el negro representaba el mal y la ausencia de la luz, la idea era que como el mundo material está basado en la dualidad y situado entre el bien y el mal, los colores se organizarían entre los extremos de la esfera de color, sin embargo, como se suponía que dios había dado colores a su creación para revelar el camino a la unidad original, los colores se podían tomar como referencias o indicaciones relacionar a Dios y a la luz, es decir, un contenido simbólico trascendental.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205846.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205846.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -94,7 +94,7 @@ Debido a la caída de la creación en la materia, cuando el aspecto divino se en
 Esta condición es fundamental para la visión de Runge de la armonía de los colores, donde va a equiparar a la santísima trinidad con los colores primarios de su esfera, señalando que el azul indica al padre, el rojo simboliza al hijo y el amarillo al espíritu santo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205908.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205908.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -105,7 +105,7 @@ Con la ayuda de los cinco elementos originales, azul, rojo y amarillo, más blan
 Su pintura “The Morning” es un claro ejemplo de que las ideas de Runge no eran mera teoría, en esta pintura ilustra tanto su perspectiva mística religiosa como su teoría de los colores, el contenido esotérico en esta pintura puede ser aplicado para interpretar a muchas otras y es un ejemplo muy claro de cómo se utilizan los colores en el simbolismo esotérico.
 
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713205929.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713205929.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -136,12 +136,12 @@ El concepto ocultista del arte de Otto Runge continuó, especialmente en el arte
 
 Recursos:
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713210020.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713210020.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Color-esoterismo/20250713210023.png"
+  src="/media-content/Research/Simbologia/Color-esoterismo/20250713210023.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

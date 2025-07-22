@@ -13,7 +13,7 @@ En el siglo V a.c. el historiador Heródoto, cuenta que los griegos que había e
 Tras ser conocido como el dios egipcio representado con la cabeza de ibis, el dios grecorromano mercurio con un casco y sandalias aladas pasaría a ser racionalizado y dejado de ser conocido como un dios de la sabiduría que revela un mensaje de salvación y saber cósmico y se convertirá en un antiguo profeta de remota antigüedad que en época antigüedad habría recibido la revelación divina.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233109.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233109.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -35,7 +35,7 @@ Tras un periodo en el que el hermetismo se atribuía únicamente a Grecia se fue
 En la década de 1960 Frances Yates, historiadora en el Warburg institute de Londres, publico la obra “Giordano Bruno y la tradición hermética” que fue una revolución para los estudiosos del siglo XVI, siglo en el  el hermetismo como elemento fundamental de la tradición neoplatónica, sin embargo, hasta la publicación de Yates, sé que consideraba un fenómeno marginal para interesados en la magia, ya que demostraba que los grandes descubrimientos científicos de la época como el heliocentrismo de Copérnico estaban influenciados por el neoplatonismo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233158.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233158.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -59,40 +59,40 @@ Finalmente hay gran cantidad de textos mágicos, alquímicos, astrológicos, bot
 El elemento común en ambas corrientes, teórica y práctica es la misma idea de una salvación del hombre que depende de un saber intelectual revelado, habiendo un componente intelectual del que participa el hombre y un componente revelatorio del que participa lo divino, permitiendo la posibilidad de la corriente esotérica.
 
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233349.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233349.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Presenta incongruencias como un dios hermafrodita que crea mediante la palabra, elemento contradictorio al no crear a otros dioses y ser monoteísta:
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233417.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233417.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 El hombre creado a su vez es creador, también es el relato típicamente gnóstico de la caída primigenia como en la biblia, pero para los herméticos el pecado reside en el mito de narciso al verse reflejado en el agua uniéndose a la naturaleza y por ello siendo dual:
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233442.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233442.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Contrariamente a la mayoría de textos gnósticos o al propio Génesis, el estatus dual del hombre en el hermetismo lo sitúa en un nivel intermedio entre lo divino y terrestre, siendo el hombre casi divino y por ello pudiendo incluso crear dioses similar a la idea de que los dioses antiguos eran creados por los hombre como la deificación de los faraones, ptolomeos y emperadores:
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233525.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233525.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Hay conflicto a la hora de explicar coincidencias entre Hermes y futuras corrientes como la sabiduría griega, el cristianismo ya que cuando el sabio era posterior a moisés simplemente lo atribuían a influencia o plagio, pero según las cronologías que manejan los antiguos, Hermes es anterior a los faraones o contemporáneo de los primeros, por lo que la explicación dada es que Hermes y algunos otros sabios antiguos recibieron chispas de la revelación de la verdad recibidas por dios:
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233542.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233542.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Pitagorismo/20250713233548.png"
+  src="/media-content/Research/Simbologia/Pitagorismo/20250713233548.png"
   alt="Astrologia"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

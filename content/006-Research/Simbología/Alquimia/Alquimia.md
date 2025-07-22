@@ -21,7 +21,7 @@ La alquimia occidental tiene sus raíces en la egipcia, periodo en el que estaba
 La alquimia se configura como una nueva forma de conocimiento, más que una ciencia, se basaba fundamentalmente en tres factores, religión egipcia, varias escuelas filosóficas/religiosas (Neoplatonismo, Estoicismo, Hermetismo, cristianismo) y las artes técnicas egipcias.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013647.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013647.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -40,7 +40,7 @@ ___
 Pese a generalmente ser percibida como una forma de conocimiento arcaica o medieval, sin embargo, pese a haberse desarrollado enormemente en Europa, la época de esplendor de la alquimia fue el siglo XVII.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013717.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013717.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -54,7 +54,7 @@ ___
 Este texto de un hermetista y estudioso de la alquimia francés sirve de introducción a las preguntas de que hacia un alquimista y por qué, indirectamente reconoce que la alquimia tiene que ver con el mundo mineral, metálico y espiritual, pero sin embargo no es solo eso, la alquimia aúna trabajos materiales, pero también tiene implicaciones espirituales, y es este hecho el que la ha hecho ser tan incomprendida.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013745.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013745.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -67,7 +67,7 @@ El objetivo del artista/alquimista busca realizar una obra/magisterio que logre 
 La alquimia se propone recrear el proceso de la creación perfeccionando y purificando la materia terrestre.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013758.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013758.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -80,17 +80,17 @@ La semejanza establecida entre la creación y las operaciones alquímicas es con
 Según el Genesis y la alquimia la creación inicio siendo una materia sin forma y oscura que fue perfeccionada y purificada hasta dar lugar a la creación, siendo lo realizado en la tierra un espejo del cielo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013825.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013825.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013833.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013833.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013840.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013840.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -98,7 +98,7 @@ Según el Genesis y la alquimia la creación inicio siendo una materia sin forma
 Según los alquimistas el factor esencial para que la creación pueda funcionar es un factor inmaterial, al que denominaban “alma del mundo/espíritu universal”, idea tomada del concepto de pneuma de la filosofía estoica, el cual representa el espíritu vital que impregna todo el cosmos y hace que vida exista. La cual penetraba en la materia inerte y la vitalizaba.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013857.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013857.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -107,7 +107,7 @@ Según los alquimistas el factor esencial para que la creación pueda funcionar 
 En este grabado se representa la tierra tal como se concebía en el siglo XVI, estando la tierra en el centro, las esferas de los planetas, del sol y la luna, de las estrellas, de ángeles y arcángeles y arriba del todo Yahvé, el creador y una mujer representando el alma del mundo unida tanto al creador y a la tierra.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013910.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013910.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -115,7 +115,7 @@ En este grabado se representa la tierra tal como se concebía en el siglo XVI, e
 Newton se refería a la alquimia como la química vegetativa, pues era una forma de tratar la materia de tal manera que adquiría propiedades vitales, por eso rehusó a publicar sus estudios al distar tanto de la química convencional.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013929.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013929.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -125,7 +125,7 @@ La naturaleza siempre es la guía de los trabajos alquímicos, no pretenden forz
 Por ello la alquimia también es llamada agricultura celeste ya que de la misma manera que un agricultor siembra una semilla y la cuida esperando a que crezca la planta de la semilla, el alquimista hace lo mismo en vez de esperar otra cosa de la semilla.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013945.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013945.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -140,7 +140,7 @@ Ellos creían que el alma del mundo se podía concretar, concentrar en ciertas s
 En este grabado se observa a una pareja de alquimistas recogiendo el rocío para posteriormente trabajar con él, además se ven un carnero y un toro, animales que representan la constelación de aries y tauro, y a su vez representan la primavera, estación en la que consideraban que el planeta revivía del letargo invernal y por ello el espíritu universal se presentaba en su mayor esplendor en la tierra y ello se concentraba en el roció y podrían utilizarlo para otorgar vida a sus creaciones.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714014005.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714014005.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -153,12 +153,12 @@ Los alquimistas en la época consideraban que los metales eran como embriones qu
  La alquimia consiste en la reproducción de fenómenos naturales, de la misma forma que un agricultor siembra una semilla replicando un proceso natural, creían que, emulando el entorno de una mina, donde crecían los metales serían capaces de replicar el proceso natural de forma artificial, siendo un proceso natural pero acelerado.
  
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714014034.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714014034.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714014050.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714014050.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -170,7 +170,7 @@ La piedra filosofal según los textos era una sustancia capaz de transmutar los 
 La piedra filosofal era representada con el fénix y cristo ya que de la misma forma que la sustancia tras la operación alquímica era un ser que renacía de sus cenizas.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714014109.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714014109.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -178,7 +178,7 @@ La piedra filosofal era representada con el fénix y cristo ya que de la misma f
 Otra de las capacidades asociadas a la piedra filosofal por el ámbito cultural cristiano era la creencia de que permitía a su poseedor la capacidad de ponerse en contacto con los ángeles, también lo asociaban al árbol de la vida bíblico, y estas eran las preocupaciones y objetivos de los alquimistas durante tanto tiempo.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714014129.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714014129.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -202,7 +202,7 @@ La teoría de la quinta esencia sostenía que ese quinto elemento también estab
 Para extraer la sustancia partido del alcohol del vino, ya que se consideraba que tenía propiedades medicinales, destilaban el vino para obtener el alcohol la cual era una sustancia pura pero no lo suficiente por lo que diseño un sistema para destilarlo repetidas veces en una vasija circulatoria que emulaba la órbita de los cuerpos celestes formados por el elemento incorruptible, todo bajo analogía de que lo que se haga en la tierra si imita el movimiento celeste se convierte en algo celeste.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714014203.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714014203.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

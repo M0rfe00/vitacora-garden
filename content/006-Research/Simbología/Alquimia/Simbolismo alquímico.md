@@ -7,7 +7,7 @@ En el libro "las enseñanzas secretas" de Manly Palmer Hall, se presenta una lam
 ## Lamina de la gran formula alquímica:
 ___
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714012415.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714012415.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -56,7 +56,7 @@ Weigel trata de resolver el problema de la dualidad viendo al mundo, y, de hecho
 El verdadero objetivo debe ser participar en un estudio universal, tal como indica el título del libro, un conocimiento que conduzca a la compresión integral de la experiencia humana, este está simbolizado en el ojo de la sabiduría interior que nos mira desde el lugar exacto en que convergen las tres esferas.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714012857.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714012857.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -68,7 +68,7 @@ En el cuadro de 1516, “queja de la naturaleza al alquimista errante” del pin
 La gran obra de la naturaleza contrasta con la lucha física del alquimista en su torre a la derecha, en el umbral están las palabras “Opus Mecanicae” indicando que su lucha con los metales, los matraces y los tornos se encuentran en un nivel mecánico externo, limitado y material, el alquimista se obsesiona con las fórmulas y el trabajo de laboratorio en vez de observar y aprender de la naturaleza, el único maestro de la obra es el fuego, por ello la naturaleza le reprocha lo que se lee en el pie del cuadro “tu derrites metales, rompes vasijas y construyes hornos, en verdad me avergüenzo de tu locura”
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714012919.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714012919.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -82,7 +82,7 @@ Dentro de la sección inferior se observa el fuego primordial, el único maestro
 Del matraz surge un caduceo, en el cual, los padres de la piedra, el sol y la luna proyectan sus rayos, el filósofo organiza con la naturaleza dual de las cosas y se manifiesta el mercurio filosófico, este éxito se representa con dos coronas, sobre las cuales hay in gran símbolo del azufre filosófico y desde dentro de este surge un fénix, que simboliza la piedra filosofal y a la regeneración del alma, esta fase es señalada con una triple corona simbolizando el logro del triple magisterio, la obra del que es tres veces grande.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714012955.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714012955.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -100,7 +100,7 @@ Por fuera del mándala aparece el cielo de las estrellas físicas que divide a e
 En el mundo terral aparece una figura femenina al pie del árbol de la vida diciendo “el sabio se rige por las estrellas” mientras que el texto sobre el cetro indica “lo que esta abajo debe ser como lo que está arriba” en la otra mano sostiene un libro titulado “sabiduría"
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714013019.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714013019.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

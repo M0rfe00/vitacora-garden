@@ -46,7 +46,7 @@ Jung afirma que la dualidad en el campo psicológico se manifiesta entre el yo c
 Y que, por lo tanto, esta relación conflictiva termina, o por lo menos hipotéticamente, con la unión de los opuestos, esto mediante la creación de un diálogo, de un puente entre consciente e inconsciente mediante lo que él llama proceso de individuación, que no es otra cosa que traer al yo consciente conflictos, paz, miedos o cualquier carga dañina acumulada en la sombra inconsciente, es decir, solucionar temas internos.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714020435.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714020435.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -54,7 +54,7 @@ Y que, por lo tanto, esta relación conflictiva termina, o por lo menos hipotét
 Este acercamiento de los opuestos crea un tercer elemento que trae el balance, lo que Jung denomina “la función trascendente”, así, afirma que esta potencia surge de la asimilación de lo inconsciente por lo consciente e inicia lo que los alquimistas llamaban transmutación, y que Jung describe como una transformación cualitativa de la totalidad psíquica, el centro de gravedad de un nuevo equilibrio psíquico, de una nueva personalidad global que mejora y supera al individuo, posibilitando llevar su potencia mental a niveles muy superiores.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714020501.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714020501.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -62,7 +62,7 @@ Este acercamiento de los opuestos crea un tercer elemento que trae el balance, l
 Jung, además, afirma que este matrimonio alquímico se expresa de modo paradójico, de tal manera que es la máxima contradicción u oposición la que garantiza la conciliación de opuestos, y es por esto que el matrimonio alquímico opuestos muchas veces toman la forma de una cuaternidad a través de una cruz de opuestos.
 
 <img
-  src="../../../media-content/Research/Simbologia/Jung-Narrativa/20250714020523.png"
+  src="/media-content/Research/Simbologia/Jung-Narrativa/20250714020523.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />

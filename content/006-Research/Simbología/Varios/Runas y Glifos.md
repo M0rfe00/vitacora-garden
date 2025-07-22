@@ -9,12 +9,12 @@ Lo realmente interesante de este alfabeto es que es algo más que un grupo de s�
 
 El futhark antiguo está compuesto por 24 runas, cada una de ellas con un nombre propio y significado concreto, a diferencia de nuestro alfabeto que las letras tienen nombres abstractos, por ejemplo, la runa “Feoh” quiere decir riqueza y la “Rad” viaje.
 <img
-  src="../../../media-content/Research/Simbologia/Runas-Glifos/20250713202654.png"
+  src="/media-content/Research/Simbologia/Runas-Glifos/20250713202654.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Runas-Glifos/20250713202658.png"
+  src="/media-content/Research/Simbologia/Runas-Glifos/20250713202658.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -119,6 +119,6 @@ En la cultura zapoteca, un glifo se refiere a un símbolo utilizado en la escrit
 
  **Glifos astrológicos más usados en la astrología occidental.**
  <img
-  src="../../../media-content/Research/Simbologia/Runas-Glifos/20250713203120.png"
+  src="/media-content/Research/Simbologia/Runas-Glifos/20250713203120.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
