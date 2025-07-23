@@ -8,7 +8,7 @@ tags:
 <link rel="stylesheet" href="/styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
     <div class="container">
-        <div class="grid">
+        <div class="grid-smr">
             <div class="item">
                 <a href="Paginas Web">
                     <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/webicon.png" alt="Imagen 1">
