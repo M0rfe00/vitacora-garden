@@ -1,6 +1,6 @@
 > [!nota]+ 📝 Nota: **Oversharing 📅** 2025-07-23 · ⏱️ 1 min
 >
-> Pensandolo bien creo que se lo estoy poniendo demasiado facil para recopilar mi información al Mossad o cualquier loca
+> Pensandolo bien creo que se lo estoy poniendo demasiado facil para recopilar mi información al Mossad o cualquier stalker
 
 > [!nota]+ 📝 Nota: **Nota2 📅** 2025-07-23 · ⏱️ 1 min
 >
