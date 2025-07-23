@@ -1,9 +1,9 @@
-> [!tweet]+ Tweet - [[2024-12-28]]
-> <a href="https://x.com/Lookass333/status/1872807108191896061"><img src="../media-content/Diario/Tweets/tweet-1872807108191896061.png" alt="Tweet" style="border-radius: 12px; margin: 4px 0; display: block; max-width: 100%;"></a>
+> [!tweet]+ Tweet - 2024-12-28
+> <a href="https://x.com/Lookass333/status/1872807108191896061" role="presentation" aria-hidden="true"><img src="../media-content/Diario/Tweets/tweet-1872807108191896061.png" alt="Tweet" style="border-radius: 12px; margin: 0; padding: 0; display: block; max-width: 100%;"></a>
 
 > [!nota]+ 📝 Nota: **Nota2 📅** 2025-07-23 · ⏱️ 1 min
 >
-> Algún dia aprecera 
+> Algún dia aprecera aquí un manifiesto a lo Ted Kaczynski
 
 > [!letterboxd]+ Review:  [Daniela Forever](https://letterboxd.com/lukas333/film/daniela-forever/)  - 2025-07-19 
 > ![Daniela Forever](https://a.ltrbxd.com/resized/film-poster/9/7/7/6/2/3/977623-daniela-forever-0-600-0-900-crop.jpg?v=82a91b101b) 
