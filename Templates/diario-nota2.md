@@ -24,5 +24,5 @@ const formattedTags = tags
 const emoji = iconMap[type.toLowerCase()] || "📌"  // icono por defecto
 const displayTags = formattedTags ? `\n> 🏷️ ${formattedTags}` : ""
 
-tR += `> [!${type.toLowerCase()}]+ ${emoji} ${type}: **${title}** —**📅** ${date} · ⏱️ ${readingTime} min\n>\n> ${content}${displayTags}`
+tR += `> [!${type.toLowerCase()}]+ ${emoji} ${type}: **${title} 📅** ${date} · ⏱️ ${readingTime} min\n>\n> ${content}${displayTags}`
 %>

@@ -446,7 +446,7 @@ body.dark .diario {
 /* Tema claro con sombra más suave */
 body.theme-light .callout[data-callout="letterboxd"] {
   background-color: #fefefe;
-  color: #111;
+  color: #111111b1;
   box-shadow: 0 12px 40px rgba(187, 187, 187, 0.704);
 }
 
@@ -471,17 +471,29 @@ body.theme-dark .callout[data-callout="letterboxd"] {
 /** Padding del titulo letterboxd**/
 .callout[data-callout="letterboxd"] .callout-title {
   padding-top: 2px !important;
-  padding-bottom: 5px !important;
+  padding-bottom: 8px !important;
+  font-size: 1.4em;         /* Cambia el tamaño */
+  font-weight: bold;        /* Negrita opcional */
+  color: #d1d1d1;
 }
 
 .callout[data-callout="letterboxd"] .callout-title-inner p {
   margin: 0 !important;
   padding: 0 !important;
 }
+.callout a > .external-icon {
+  display: none !important;
+  margin: 0%;
+}
+
+.callout[data-callout="letterboxd"] .callout-title a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: bold;
+}
 
 
-
-/* Callout personalizado para "diario" */
+/*******Callout personalizado para "diario" *****/
 .callout[data-callout="diario"] {
   padding: 1em;
   margin: 1.5em 0;
@@ -501,6 +513,52 @@ body.theme-dark .callout[data-callout="diario"] {
   background-color: #2a2a2a;
   color: #eee;
 }
+
+
+/*********************ESTILOS NOTA**************************/
+/***********DIARIO TWEET*****************/
+.callout[data-callout="nota"] {
+  padding: 0;
+  margin: 1.5em 0;
+  border-radius: 12px;
+  background-color: var(--background-secondary) !important;
+  color: #111 !important;
+  box-shadow: 0 25px 80px rgba(0, 0, 0, 0.9) !important;
+}
+
+/* Oculta el icono de enlace externo */
+.callout[data-callout="nota"] a > .external-icon {
+  display: none !important;
+  margin: 0%
+}
+
+/** Padding del titulo letterboxd**/
+.callout[data-callout="nota"] .callout-title {
+  font-size: 1.4em;         /* Cambia el tamaño */
+  font-weight: bold;        /* Negrita opcional */
+  padding-top: 3px !important;
+  padding-bottom: 5px !important;
+}
+
+.callout[data-callout="nota"] .callout-content-inner {
+  padding-top: 5px !important;
+  padding-left: 15px !important; /* margen al texto */
+}
+
+/* Tema claro con sombra más suave */
+body.theme-light .callout[data-callout="nota"] {
+  background-color: #fefefe;
+  color: #111111b7;
+  box-shadow: 0 12px 15px rgba(187, 187, 187, 0.704);
+}
+
+/* Tema oscuro con sombra más fuerte */
+body.theme-dark .callout[data-callout="nota"] {
+  background-color: #2a2a2abc;
+  color: #eee;
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.704);
+}
+
 
 /*************ESTILOS DE CADA TIPO DE NOTA DEL DIARIO*****************/
 /* NOTA: Estilos base para todos los callouts personalizados */
@@ -548,8 +606,44 @@ body.theme-dark .callout[data-callout="diario"] {
   background-color: var(--background-secondary);
 }
 
+/***********DIARIO TWEET*****************/
+.callout[data-callout="tweet"] {
+  padding: 0px 4px 0px 4px !important;
+}
 
+.callout[data-callout="tweet"] a {
+  text-decoration: none !important;
+  background: none !important;
+}
 
+/* Oculta el icono de enlace externo */
+.callout[data-callout="tweet"] a > .external-icon {
+  display: none !important;
+  margin: 0%
+}
+
+.callout[data-callout="tweet"] img {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  border-radius: 12px !important;
+  display: block;
+}
+
+.callout[data-callout="tweet"] .callout-content-inner > p {
+  margin: 0 !important;
+  padding-bottom: 4px !important;
+}
+/** Padding del titulo del tweet**/
+.callout[data-callout="tweet"] .callout-title {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+.callout[data-callout="tweet"] .callout-title-inner p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
 
 /********************** ESTILOS DE LA GALERIA!!!!!!!!! **********************/
 .galeria {
@@ -630,44 +724,3 @@ display: block;
   margin: 0;
   padding: 0;
 }
-
-
-/***********DIARIO TWEET*****************/
-.callout[data-callout="tweet"] {
-  padding: 0px 4px 0px 4px !important;
-}
-
-.callout[data-callout="tweet"] a {
-  text-decoration: none !important;
-  background: none !important;
-}
-
-/* Oculta el icono de enlace externo */
-.callout[data-callout="tweet"] a > .external-icon {
-  display: none !important;
-  margin: 0%
-}
-
-.callout[data-callout="tweet"] img {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 !important;
-  border-radius: 12px !important;
-  display: block;
-}
-
-.callout[data-callout="tweet"] .callout-content-inner > p {
-  margin: 0 !important;
-  padding-bottom: 4px !important;
-}
-/** Padding del titulo del tweet**/
-.callout[data-callout="tweet"] .callout-title {
-  padding-top: 5px !important;
-  padding-bottom: 5px !important;
-}
-
-.callout[data-callout="tweet"] .callout-title-inner p {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
