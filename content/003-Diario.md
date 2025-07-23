@@ -1,3 +1,10 @@
+> [!tweet]+ Tweet - [[2024-12-28]]
+> <a href="https://x.com/Lookass333/status/1872807108191896061"><img src="../media-content/Diario/Tweets/tweet-1872807108191896061.png" alt="Tweet" style="border-radius: 12px; margin: 4px 0; display: block; max-width: 100%;"></a>
+
+> [!nota]+ 📝 Nota: **Nota2 📅** 2025-07-23 · ⏱️ 1 min
+>
+> Algún dia aprecera 
+
 > [!letterboxd]+ Review:  [Daniela Forever](https://letterboxd.com/lukas333/film/daniela-forever/)  - 2025-07-19 
 > ![Daniela Forever](https://a.ltrbxd.com/resized/film-poster/9/7/7/6/2/3/977623-daniela-forever-0-600-0-900-crop.jpg?v=82a91b101b) 
 > Tiene mérito hacer una peli con tantas cosas buenas y que aún así sea mala, de romance/perdida, similar a eternal sunshine, sobre sueños, con unos efectos muy wapos y encima en localizaciones que conozco y nada, lo tenía todo pero lo desaprovechó, hay cero química entre los personajes y es imposible conectar con ellos, no me ha logrado absorber en su mundo ni transmitir nada en ningún momento, se me ha hecho pesada la vd.
@@ -6,7 +13,7 @@
 > ![Her](https://a.ltrbxd.com/resized/sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-600-0-900-crop.jpg?v=16789732be) 
 > Ojala poder quedarme únicamente con el mensaje, el amor y no con el elemento mas destacable, la IA. 
  > 
- > #Sobre el mensaje, el amor.Me da miedo, me da miedo la soledad, no encontrar amor, mi lugar, no aprender a amar, el rumbo que esta tomando la sociedad siendo cada vez mas individualista, siendo incapaz y rechazando el vinculo, siendo mas comunes las relaciones líquidas, la soledad me parece la peor prisión del humano, lo que mas me preocupa es que actualmente no me parece distópica la cinta y que el sistema no permita encontrar nada sano, que este normalizándose preferir relacionarse con máquinas por no querer afrontar las emociones y responsabilidad que conlleva las relaciones interpersonales, es abrumador, pero hay aprender a convivir con emociones negativas de la misma forma que con las positivas, aprender a estar triste y no negar la sombra pues eso solo la hará mas grande.
+ >Sobre el mensaje, el amor. Me da miedo, me da miedo la soledad, no encontrar amor, mi lugar, no aprender a amar, el rumbo que esta tomando la sociedad siendo cada vez mas individualista, siendo incapaz y rechazando el vinculo, siendo mas comunes las relaciones líquidas, la soledad me parece la peor prisión del humano, lo que mas me preocupa es que actualmente no me parece distópica la cinta y que el sistema no permita encontrar nada sano, que este normalizándose preferir relacionarse con máquinas por no querer afrontar las emociones y responsabilidad que conlleva las relaciones interpersonales, es abrumador, pero hay aprender a convivir con emociones negativas de la misma forma que con las positivas, aprender a estar triste y no negar la sombra pues eso solo la hará mas grande.
  > 
  > A mi entender solo hay dos grandes miedos que dirigen a las personas, el miedo a la soledad y a la muerte y siendo reduccionista, la soledad es la muerte en vida; "La vida solo sirve pa 2 dos cosas para enamorarse y para morirse y os dan miedo las dos."
  > 
@@ -14,7 +21,7 @@
  > 
  > Tanto Lost in traslation como Her son preciosas, me conmueve el dialogo entre ambos de la forma que mejor saben, el cine y no por indirectas en tuite.
  > 
- > #Ragetext:Me gustaría quedarme más con el mensaje sobre la soledad, la incapacidad de afrontar emociones y tal más que con el hecho de que sea con una inteligencia artificial pero desde que la vi por primera vez hasta hoy no puedo evitar acordarme de ella cada vez que salen cosas nuevas de IA, el japo q hace años se casó con Hatsune Miku, un Tomodachi o algo así, antes era el loquillo ese de Japón y se quedaba en algo gracioso. 
+ > **Ragetext:** Me gustaría quedarme más con el mensaje sobre la soledad, la incapacidad de afrontar emociones y tal más que con el hecho de que sea con una inteligencia artificial pero desde que la vi por primera vez hasta hoy no puedo evitar acordarme de ella cada vez que salen cosas nuevas de IA, el japo q hace años se casó con Hatsune Miku, un Tomodachi o algo así, antes era el loquillo ese de Japón y se quedaba en algo gracioso. 
  > 
  > Cuando la vi se la puse a mi madre y me dijo "es un tío un poco raro no?" y lo juzgaba, al par de días dice "bueno en realidad ojalá tener una IA que te reciba cuando llegues a casa, no te juzgue, te conozca y tal, la gente es muy complicada.." el mensaje original dio la vuelta completamente, ahora hay peña que es "amigo" de chatgpt o lo usa como psicólogo, que realmente creo que son más parte del resultado de algo mas grande que del problema, pero honestamente quiero llorar con el panorama y me desahogo con esto, me han pasado una reinterpretación de un poema de Borges hecha por chatgpt y se supone que me lo tengo que leer?, peña que es incapaz de hacer el mínimo research a la hora de buscar algo o tiene nulas capacidades de redacción ni intención de desarrollarlas, que no soy yo aquí nadie, pero como leí en un tw "si chatgpt te tiene que decir cómo freírte un huevo quizá los siguiente que debas hacer sea suic.." Cada vez menos pensamiento crítico, no estoy en contra de la herramienta sino de su uso, todó es cada vez mas individualista y se es menos de tener relaciones sociales que supongan una mínima implicación emocional. 
  > 
@@ -112,7 +119,7 @@
 
 > [!letterboxd]+ Review:  [Under the Silver Lake](https://letterboxd.com/lukas333/film/under-the-silver-lake/)  - 2025-06-06 
 > ![Under the Silver Lake](https://a.ltrbxd.com/resized/film-poster/3/3/0/8/1/0/330810-under-the-silver-lake-0-600-0-900-crop.jpg?v=28f0cabef3) 
-> La primera vez que la vi la impresión fue; un loquillo conspiranoico que termina de perder la cabeza cuando una tia que conoce de una noche le hace ghosting, por el camino va descubriendo sectas new age y al final acaba con una milf, funny, #unemploymentcore.
+> La primera vez que la vi la impresión fue; un loquillo conspiranoico que termina de perder la cabeza cuando una tia que conoce de una noche le hace ghosting, por el camino va descubriendo sectas new age y al final acaba con una milf, funny, "#unemploymentcore".
  > 
  > Sin embargo, tiene mucho mas trasfondo y me voy a explayar pq la metanarrativa que he visto en análisis le suma muchísimo a la peli y me ha encantao.
  > 
