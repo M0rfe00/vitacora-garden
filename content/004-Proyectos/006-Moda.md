@@ -26,7 +26,7 @@ ___
 </div>
 
 > [!info]- Sobre la segunda colección
-> En esta colección no seguí una estética general y unificada, sino que me enfoqué en desarrollar varios conjuntos completos e independientes, mis inspiraciones fueron conjuntos tradicionales orientales, conjuntos cortesanos europeos y la reinterpretación de algunos de mis diseños anteriores.<br><br>Pese a ser una colección heterogénea creo haber conseguido cierta cohesión en ella y estoy bastante orgulloso de los diseños. 
+> En esta colección no seguí una estética general y unificada, sino que me enfoqué en desarrollar varios conjuntos completos e independientes, mis inspiraciones fueron conjuntos tradicionales orientales, conjuntos cortesanos europeos y la reinterpretación de algunos de mis diseños anteriores.<br><br>Pese a ser una colección heterogénea creo haber conseguido cierta cohesión en ella y estoy bastante orgulloso de los diseños y patrones. 
 <br><br>
 
 
