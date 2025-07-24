@@ -29,6 +29,17 @@ ___
 > En esta colección no seguí una estética general y unificada, sino que me enfoqué en desarrollar varios conjuntos completos e independientes, mis inspiraciones fueron conjuntos tradicionales orientales, conjuntos cortesanos europeos y la reinterpretación de algunos de mis diseños anteriores.<br><br>Pese a ser una colección heterogénea creo haber conseguido cierta cohesión en ella y estoy bastante orgulloso de los diseños y patrones. 
 <br><br>
 
+# Mockups 1st collection/medieval collection
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Moda/varios/Mockups-primera-coleccion2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Moda/varios/imagdfghe.jpg" alt="">
+<img loading= "lazy" src="../media-content/Moda/varios/MockupsKinghts.png" alt="">
+</div>
+
+> [!info]- Sobre estos Mockups
+> Hasta el momento todos los diseños que habia realizado partian de conceptos clave que tenia en la cabeza y luego trataba de recrear por drafting hasta conseguir el prototipo definitivo, por ello quise explorar otras formas y decidi practicar el diseño de mockups para utilizarlos como referencia.
+<br><br>
 
 # Mini-Collection: Medieval-wear
 ___
@@ -118,6 +129,19 @@ ___
 > [!info]- Sobre la primera colección
 > A estas alturas ya me desenvolvía bastante bien con el programa y tenía ganas de diseñar mis primeras prendas, al ser mi primera colección tenía muchas ideas en la cabeza por explorar, finalmente opte por siluetas ceñidas a la forma del cuerpo para crear una silueta estilizada, una ligera caída en la parte trasera inspirado en la cola de un cisne y los trajes de cola.<br><br>También quería añadir cierta complejidad y un tono futurista a las prendas, para ello dividí los patrones base en varias piezas, lo que me permitió jugar aún más con la silueta, para el color elegí una gama monocromática para destacar los detalles de costuras y pespuntes que surgían al dividir el patrón en multitud de piezas. 
 <br><br>
+
+# Adidas original recreation
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Moda/varios/Chandal_mijailov.gif" alt="">
+<img loading= "lazy" src="../media-content/Moda/varios/ChaquetaMijailovindepent.jpg" alt="">
+<img loading= "lazy" src="../media-content/3D/Xbulgarin/Mijailov.jpg" alt="">
+</div>
+
+> [!info]- Sobre este diseño
+> Recrear el mitico Adidas original classic consistio en una prueba para testear el fotorealismo de los renders, finalmente este modelo lo utilice con @Opiumbulgaria para el vestuario de una colaboración entre ambos.
+<br><br>
+
 
 # Final Fantasy VIII Inspiration
 ___
