@@ -1,10 +1,4 @@
-> [!nota]+ 📝 Nota: **Oversharing 📅** 2025-07-23 · ⏱️ 1 min
->
-> Pensandolo bien creo que se lo estoy poniendo demasiado facil para recopilar mi información al Mossad o cualquier stalker
 
-> [!nota]+ 📝 Nota: **Nota2 📅** 2025-07-23 · ⏱️ 1 min
->
-> Algún dia aprecera aquí un manifiesto a lo Ted Kaczynski
 
 > [!tweet]+ Tweet - 2025-07-17
 > <a href="https://x.com/Lookass333/status/1945821166234464618" role="presentation" aria-hidden="true"><img src="../media-content/Diario/Tweets/tweet-1945821166234464618.png" alt="Tweet" style="border-radius: 12px; margin: 0; padding: 0; display: block; max-width: 100%;"></a>

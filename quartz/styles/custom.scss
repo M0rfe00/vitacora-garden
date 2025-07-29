@@ -738,3 +738,270 @@ display: block;
   margin: 0;
   padding: 0;
 }
+
+
+/*********** PRUEBA EMBEDS TWEETER ****************/
+/**
+.callout[data-callout="tweet-of"] {
+  padding: 0px 4px !important;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+
+.tweet-wrapper {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.1); /* opcional */
+/**}**/
+
+/**
+.tweet-container {
+  background-color: #0d1117; /* mismo fondo que Twitter dark */
+/**  padding: 16px;
+  border-radius: 12px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+
+.twitter-tweet {
+  max-width: 100%;
+  border-radius: 12px;
+}
+
+/**
+.tweet-scaler {
+  overflow: hidden;
+  border-radius: 12px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  transform: scale(1.4); /* Ajusta el tamaño visual */
+/**  transform-origin: top left;
+}
+**/
+/**
+@media (max-width: 768px) {
+  .tweet-scaler {
+    transform: scale(1.0); /* No escalar en móviles */
+/**  }
+} 
+
+
+
+.tweet-scaler {
+  overflow: hidden;
+  border-radius: 12px;
+  background-color: #0d1117;
+  transform: scale(1.4);
+  transform-origin: top left;
+  transform-origin: top right;
+  display: inline-block;
+}
+
+.twitter-tweet {
+  margin: 0 !important;
+}
+**/
+
+
+/* Contenedor padre que centra y limita el ancho máximo */
+.tweet-wrapper {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  padding: 1rem 2rem;   /* padding lateral para no rozar sidebar */
+  max-width: 900px;     /* ancho máximo para evitar que se desborde */
+  margin: 0 auto;       /* centra horizontalmente en la página */
+}
+
+/* Contenedor escalador con compensación para evitar corte */
+.tweet-scaler {
+  transform: scale(1.5);         /* escala tamaño tweet */
+  transform-origin: top center;  /* escala desde el centro arriba */
+  border-radius: 12px;
+  background-color: #0d1117;
+  overflow: hidden;
+  display: inline-block;
+  margin-bottom: calc(1.5 * 20px);  /* espacio extra abajo para evitar corte */
+}
+
+/* Elimina margenes internos del tweet embebido */
+.twitter-tweet {
+  margin: 0 !important;
+}
+
+/* En móvil: escala normal y relleno lateral reducido */
+@media (max-width: 768px) {
+  .tweet-wrapper {
+    padding: 1rem 1rem;
+    max-width: 100%;
+  }
+  .tweet-scaler {
+    transform: scale(1);
+    margin-bottom: 0;
+  }
+}
+
+
+
+/******* Estilos Embed Goodreads********/
+.gr_widgets_wrapper {
+  display: flex;
+  gap: 15px; /* espacio entre los widgets */
+  flex-wrap: nowrap; /* que no bajen a la siguiente línea */
+  justify-content: space-between; /* opcional, para que haya espacio entre ellos */
+}
+
+.gr_custom_container_1753714226,
+.gr_custom_container_1753718226 {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: transparent;
+  color: white;
+  width: 49%;
+  max-height: 600px;
+  overflow-y: auto;
+  margin: 0px;
+}
+
+.gr_custom_header_1753714226,
+.gr_custom_header_1753718226 {
+  border-bottom: 1px solid gray;
+  text-align: center;
+  font-size: 150%;
+  margin: 0;
+  padding: 0 0 10px 0; /* esto simula el margen inferior sin que colapse */
+  line-height: 1.2; /* por si el problema es vertical spacing de fuente */
+}
+
+.gr_custom_each_container_1753714226,
+.gr_custom_each_container_1753718226 {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 1px;
+  overflow: auto;
+  padding-bottom: 1px;
+}
+
+.gr_custom_book_container_1753714226,
+.gr_custom_book_container_1753718226 {
+  float: left;
+  margin-right: 8px;
+  width: 39px;
+  height: 60px;
+  overflow: hidden;
+}
+
+.gr_custom_book_container_1753714226 img {
+  width: 100%;
+  height: auto;
+}
+
+.gr_custom_author_1753714226,
+.gr_custom_author_1753718226 {
+  font-size: 10px;
+  color: #ccc;
+}
+
+.gr_custom_tags_1753714226,
+.gr_custom_tags_1753718226 {
+  font-size: 0px;
+  color: gray;
+}
+
+.gr_custom_container_1753714226 center,
+.gr_custom_container_1753718226 center {
+  display: none;
+}
+
+/********ESTILOS LISTAS CINE Y VIDEOJUEGOS***********/
+
+  .lists-row {
+    display: flex;
+    gap: 1rem; /* espacio entre las listas */
+    flex-wrap: wrap; /* para que si hay más de dos listas pasen a la siguiente fila */
+    justify-content: center; /* Centra las cards horizontalmente */
+  }
+
+.lb-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #111;
+  padding: 5px;
+  border-radius: 1rem;
+  border: 1px solid #333;
+  /* max-width: 360px;  <-- comentar o eliminar */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  margin-bottom: 0.5rem;
+  flex: 0 1 49%; /* que cada lista intente ocupar hasta 49% y sea flexible */
+  box-sizing: border-box;
+}
+
+  .lb-list a {
+    text-decoration: none;
+  }
+
+.poster-list {
+  display: flex;
+  justify-content: center; /* centra horizontalmente los items */
+  margin-bottom: 1rem;
+  margin-left: 0;           /* elimina margen negativo que desplaza a la derecha */
+  padding-left: 0;          /* elimina padding si lo tienes */
+  gap: 8px;                 /* espacio entre posters sin usar márgenes negativos */
+  overflow: hidden;         /* para evitar desbordes */
+}
+
+.poster-list li {
+  list-style: none;
+   margin-right: -8px;/*
+ /* margin-left: -10px; */ /* más negativo = más solapamiento */
+  position: relative;
+  z-index: 1;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  transition: transform 0.2s ease;
+}
+  .poster-list li:hover {
+    transform: scale(1.05);
+    z-index: 2;
+  }
+
+.poster-list img {
+  width: 70px;
+  height: 105px;
+  object-fit: cover;
+  object-position: center center; /* 👈 fuerza el centro */
+  display: block;
+  padding: 0;
+}
+
+.lb-list h2 {
+  font-size: 1rem;
+  color: #00b0f4;
+  margin: -8px 0 0.2rem 35px; /* margen superior reducido */
+  text-align: center;
+  
+}
+
+.lb-list p {
+  margin: 0 0 0 12px; /* margen izquierdo añadido */
+  color: #ccc;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+  .lb-list a:after {
+  display: none !important;
+}
+
+.external-icon {
+  display: none !important;
+}
+
