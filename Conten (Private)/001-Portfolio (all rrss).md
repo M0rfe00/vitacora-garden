@@ -44,5 +44,29 @@ ___
       <strong>Discord</strong>
     </div>
   </a>
+  <a href="https://letterboxd.com/Lukas333/" target="_blank" class="social-card">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/letterboxd.svg" alt="Letterboxd" />
+    <div>
+      <strong>Letterboxd</strong>
+    </div>
+  </a>
+  <a href="https://myanimelist.net/animelist/Lukass333" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/myanimelist/2E51A2" alt="MyAnimeList" />
+    <div>
+      <strong>MyAnimeList</strong>
+    </div>
+  </a>
+  <a href="https://www.goodreads.com/user/show/181359667-lukas" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/goodreads/372213" alt="Goodreads" />
+    <div>
+      <strong>Goodreads</strong>
+    </div>
+  </a>
+  <a href="https://open.spotify.com/user/ev7rpkxx6s0letsk6zbo8qymt" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/spotify/1DB954" alt="Spotify" />
+    <div>
+      <strong>Spotify</strong>
+    </div>
+  </a>
 </div>
 
