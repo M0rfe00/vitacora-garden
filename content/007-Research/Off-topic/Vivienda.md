@@ -1,5 +1,5 @@
 #Research 
-# **Burbuja inmobiliaria / Crisis del 2008**
+# **Burbuja inmobiliaria / Crisis 2008**
 
 ## **Origen**
 
@@ -30,7 +30,7 @@ Ante esta situación el banco central europeo se comprometió a comprar deuda de
 
 
 # **Problemas del turismo masivo descontrolado**
-
+___
 El turismo muchas veces se percibe de forma como una mina de oro ya que los turistas internacionales traen dinero de sus países y lo gastan en el país que visitan contratando actividades, hoteles o en la gastronomía local, de esta forma la industria turística gana dinero, genera empleo y paga impuesto. Sin embargo, la desregularización de ella puede acarrear muchos problemas y resultar contraproducente.
 
 ## **Por que demasiado turismo puede ser malo**
@@ -69,7 +69,7 @@ El turismo muchas veces se percibe de forma como una mina de oro ya que los turi
 
 
 # **Fondos buitres**
-
+___
 Los fondos buitre son entidades financieras de inversión especializados en comprar deudas o bienes a propietarios que se encuentran en dificultades financieras a precios muy bajos para luego hacer negocio con ello y sacar mayor rentabilidad.
 
 Algunos fondos están especializados en comprar inmuebles, deudas a entidades financieras en problemas u otros especializados en comprar instalaciones industriales de empresas que están apunto de quebrar y necesitan dinero desesperadamente.
@@ -91,7 +91,7 @@ También a la hora de asumir deudas que otros no están dispuestos a asumir como
 También la eficiencia de algunos fondos buitre especializados en cobrar deudas a morosos debido a tener un equipo legal rápido y eficiente, ayudando a regular la economía de forma rápida, por ejemplo un fondo buitre especializado en reformar y vender pisos que comprar a bancos que se han quedado con ello por el impago de las hipotecas, el fondo será capaz de darle salida mucho más rápida a los pisos que los bancos haciendo que haya mayor oferta.
 
 # **El babyboom**
-
+___
 El babyboom se produce en un contexto de cambio en el cual antes la economía estaba mucho menos desarrollada lo que hacia que las tasas de natalidad fuesen mucho mas altas ya que el acceso a métodos anticonceptivos en menor y los hijos eran considerados activos rentables para los padres ya pueden trabajar a edades muy tempranas y les aseguran que alguien cuidara económicamente de ellos cuando lleguen a ancianos.
 
 Cuando las economías florecen económicamente lo que hace que la tasa de mortalidad disminuya haciendo que la gente viva más tiempo y el estado deba pagar mas pensiones, pero inicialmente no hay mucho problema ya que la gente todavía no ha cambiado la mentalidad anterior y siguen teniendo muchos hijos, sumado a que la tasa de mortalidad infantil también disminuye haciendo que se tengan todavía más hijos provocando un babyboom.
@@ -110,7 +110,7 @@ Esta situación ha provocado que un numero cada vez mas reducido de jóvenes mal
 
 
 # **Airbnb**
-
+___
 Airbnb es una plataforma que hace de intermediaria entre propietarios que quieren alquilar sus propiedades de forma temporal y a turistas que buscan esto mismo, es decir ponen una plataforma para anunciar los pisos turísticos y un método para los pagos que realizan los inquilinos transfiriéndoselo a los propietarios quedándose en el proceso.
 
 Mientras que la plataforma ha ayudado a que el turismo sea más barato su crecimiento descontrolado ha provocado numerosos problemas y polémicas en el proceso, entre ellos numerosos estudios que han demostrado que el aumento de pisos turísticos en una zona provoca un aumento de la vivienda tanto en alquileres y compraventa de viviendas.
@@ -123,7 +123,7 @@ Se podría culpar únicamente a los propietarios por no cumplir las normas y alq
 
 
 # **Crisis de la vivienda**
-
+___
 En los últimos años el precio de los alquileres y la compra venta de vivienda han aumentado en aproximadamente un 47% mientras que el salario medio solo un 7% creando asi una crisis de la vivienda, situación vivida en prácticamente toda Europa.
 
 **El grupo de los economistas** clásicos achacan la crisis de la vivienda a un problema por los cambios demográficos y la falta de oferta, esto lo explican ya que la demanda a aumentado, es decir la población en Europa ha crecido en los últimos años y concretamente las unidades familiares únicas, lo que se traduce en un menor numero de personas por vivienda, creando un desbalance en el que hay mucha mas demanda que oferta de viviendas.
@@ -146,7 +146,7 @@ También se señala los problemas de la reforma de la ley de arrendamientos urba
 
 
 # **Okupación y Desahucios**
-
+___
 Mientras que muchos medios de comunicación y grupos organizados como desokupa alarman del supuesto peligro inminente de la ocupación, quitando el foco del problema real de la inaccesibilidad a la vivienda y los desahucios, con el propósito de sembrar miedo, ya que les beneficia al ser financiados por fondos buitre y empresas que beneficiarias del mercado inmobiliario, como empresas de seguridad como securitas, o la propia desokupa, que más allá de ser una organización sin animo de lucro es una empresa que genera beneficios y para mantenerlos les conviene crear la idea del peligro de la okupación.
 
 ### **Okupación**
@@ -175,15 +175,10 @@ Mientras que en España el numero de **viviendas** en de aproximadamente **26 mi
 
 **Antecedentes:**
 - Babyboom
-- 
 - Burbuja inmobiliaria y crisis del 2008
-
 - Parte de un problema del suelo,
-
 - Administración no se involucra en crear vivienda social, por el coste económico y temporal
-
 - El suelo está en manos privadas, y falta de suelo barato
-
 - Las administraciones no sueltan el suelo y los particulares tampoco hasta que se recalifica
 
 Preguntas:
