@@ -1,6 +1,8 @@
 # 2025
 ___
 <div class="galeria">
+<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250905003312_0035_D_2.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250903203403_0021_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC02129.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250705013126_0788_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC02057.JPG" alt="">
@@ -16,6 +18,8 @@ ___
 <img loading= "lazy" src="../media-content/galeria/2025/Laika1-8.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/PruebaEditLight3.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587884793.jpg" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/2025-04-27-MarcoNoFace.jpg" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/2025-05-12-Checheno4.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587884951.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587885229.jpg" alt="">
 <!--<img loading= "lazy" src="../media-content/galeria/2025/1752587539864.jpg" alt="">-->
