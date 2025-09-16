@@ -10,35 +10,35 @@ Sin embargo, no es la única vía, y la envoltura comercial/organizativa que la 
 
 ### **Puntos clave**
 
-- Práctica sencilla: no requiere esfuerzo, posturas especiales ni creencias religiosas.
+- **Práctica sencilla:** no requiere esfuerzo, posturas especiales ni creencias religiosas.
 
-- Efectos reportados: reducción del estrés, mayor claridad mental, mejor calidad del sueño y sensación de bienestar.
+- **Efectos reportados:** reducción del estrés, mayor claridad mental, mejor calidad del sueño y sensación de bienestar.
 
-- Diferencia con otras meditaciones: mientras muchas técnicas usan la atención plena (mindfulness) o la concentración en la respiración, la MT se centra en trascender la actividad mental a través del mantra.
+- **Diferencia con otras meditaciones:** mientras muchas técnicas usan la atención plena (mindfulness) o la concentración en la respiración, la MT se centra en trascender la actividad mental a través del mantra.
 
-- Acceso: tradicionalmente, el mantra es dado por un instructor certificado y no se comparte públicamente.
+- **Acceso:** tradicionalmente, el mantra es dado por un instructor certificado y no se comparte públicamente.
 
 ### **Beneficios reportados**
 
-- Reducción del estrés y la ansiedad: varios estudios muestran mejoras en marcadores de estrés (cortisol, presión arterial).
+- **Reducción del estrés y la ansiedad:** varios estudios muestran mejoras en marcadores de estrés (cortisol, presión arterial).
 
-- Sueño más reparador: practicantes reportan menos insomnio y mejor descanso.
+- **Sueño más reparador:** practicantes reportan menos insomnio y mejor descanso.
 
-- Mayor enfoque y claridad mental: ayuda a reducir el “ruido” mental.
+- **Mayor enfoque y claridad mental:** ayuda a reducir el “ruido” mental.
 
-- Mejor salud cardiovascular: algunos estudios relacionan la práctica con presión arterial más baja.
+- **Mejor salud cardiovascular:** algunos estudios relacionan la práctica con presión arterial más baja.
 
-- Bienestar general: sensación de calma, energía y estabilidad emocional.
+- **Bienestar general:** sensación de calma, energía y estabilidad emocional.
 
 ### **Críticas**
 
-- Costo elevado: aprender MT requiere pagar cursos oficiales, que pueden ser caros, cuando existen técnicas similares gratuitas.
+- **Costo elevado:** aprender MT requiere pagar cursos oficiales, que pueden ser caros, cuando existen técnicas similares gratuitas.
 
-- Dependencia del mantra “secreto”: se critica que el supuesto misterio del mantra (dado por un instructor) sea parte del negocio.
+- **Dependencia del mantra “secreto”:** se critica que el supuesto misterio del mantra (dado por un instructor) sea parte del negocio.
 
-- Evidencia científica mixta: aunque hay estudios positivos, varios críticos señalan que muchos fueron financiados por organizaciones vinculadas a MT, lo que podría sesgar los resultados.
+- **Evidencia científica mixta:** aunque hay estudios positivos, varios críticos señalan que muchos fueron financiados por organizaciones vinculadas a MT, lo que podría sesgar los resultados.
 
-- No es exclusiva en sus efectos: otras meditaciones (mindfulness, zen, vipassana, meditación guiada) generan beneficios similares sin necesidad de pagar tanto.
+- **No es exclusiva en sus efectos:** otras meditaciones (mindfulness, zen, vipassana, meditación guiada) generan beneficios similares sin necesidad de pagar tanto.
 
 # **Meditación Autoalusiva**
 ___
@@ -90,9 +90,9 @@ La meditación vipassana es una de las técnicas de meditación más antiguas de
 
 - **Base en la respiración:** se empieza observando la respiración natural, para calmar la mente.
 
-- Exploración de sensaciones:** luego se amplía la atención a todo el cuerpo, notando las sensaciones físicas.
+- **Exploración de sensaciones:** luego se amplía la atención a todo el cuerpo, notando las sensaciones físicas.
 
-- Observación de la mente:** se presta atención a pensamientos, emociones o estados mentales, simplemente viéndolos surgir y desaparecer.
+- **Observación de la mente:** se presta atención a pensamientos, emociones o estados mentales, simplemente viéndolos surgir y desaparecer.
 
 - **Ecuanimidad:** no se busca cambiar nada, solo observar sin reaccionar.
 
@@ -112,9 +112,9 @@ La meditación vipassana es una de las técnicas de meditación más antiguas de
 
 - **Trascendental:** se basa en un mantra para trascender pensamientos → vipassana no usa mantras, sino observación directa.
 
-- Autoalusiva (Grinberg):** la atención se pliega sobre sí misma → vipassana la abre hacia toda la experiencia vivida.
+- **Autoalusiva (Grinberg):** la atención se pliega sobre sí misma → vipassana la abre hacia toda la experiencia vivida.
 
-- Mindfulness moderno:** viene directamente de vipassana, aunque más adaptado y secularizado.
+- **Mindfulness moderno:** viene directamente de vipassana, aunque más adaptado y secularizado.
 
 # Resumen
 ___
