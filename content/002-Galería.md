@@ -1,15 +1,16 @@
 # 2025
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250905003312_0035_D_2.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250905003312_0035_D_2.png" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250903203403_0021_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC02129.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250705013126_0788_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC02057.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC02026.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250703154553_0734_D.JPG" alt="">
-<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250625214402_0598_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC01995.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250625214402_0598_D.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250629134918_0681_D.png" alt="">
 <!--<img loading= "lazy" src="../media-content/galeria/2025/DJI_20250622132611_0530_D.JPG" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250622132334_0520_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250621212808_0476_D.JPG" alt="">
@@ -18,8 +19,8 @@ ___
 <img loading= "lazy" src="../media-content/galeria/2025/Laika1-8.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/PruebaEditLight3.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587884793.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2025/2025-04-27-MarcoNoFace.jpg" alt="">
-<img loading= "lazy" src="../media-content/galeria/2025/2025-05-12-Checheno4.jpg" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/2025-04-27-MarcoNoFace.png" alt="">
+<img loading= "lazy" src="../media-content/galeria/2025/2025-05-12-Checheno4.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587884951.jpg" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/1752587885229.jpg" alt="">
 <!--<img loading= "lazy" src="../media-content/galeria/2025/1752587539864.jpg" alt="">-->
