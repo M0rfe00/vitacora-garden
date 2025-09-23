@@ -1,6 +1,6 @@
-# **Sociedad del espectaculo**
+# **Sociedad del espectáculo**
 ___
-Guy Debord fue un escritor cineaste y filósofo francés del siglo XX conocido sobre todo por su libro La sociedad del espectáculo, él se calificó como estratega, pues queria ser teórico y práctico del camino que por fin llevaría a la revolución.
+Guy Debord fue un escritor cineasta y filósofo francés del siglo XX conocido sobre todo por su libro La sociedad del espectáculo, él se calificó como estratega, pues queria ser teórico y práctico del camino que por fin llevaría a la revolución.
 
 “Toda la vida de aquellas sociedades en las que prevalecen las condiciones modernas de producción se presenta como una inmensa acumulación de "espectáculos". Todo lo que una vez fue directamente vivido se ha transformado en mera representación”
 
