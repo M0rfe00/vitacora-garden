@@ -80,18 +80,6 @@ ___
 > A estas alturas ya me desenvolvía bastante bien con el programa y tenía ganas de diseñar mis primeras prendas, al ser mi primera colección tenía muchas ideas en la cabeza por explorar, finalmente opte por siluetas ceñidas a la forma del cuerpo para crear una silueta estilizada, una ligera caída en la parte trasera inspirado en la cola de un cisne y los trajes de cola.<br><br>También quería añadir cierta complejidad y un tono futurista a las prendas, para ello dividí los patrones base en varias piezas, lo que me permitió jugar aún más con la silueta, para el color elegí una gama monocromática para destacar los detalles de costuras y pespuntes que surgían al dividir el patrón en multitud de piezas. 
 <br><br>
 
-# Adidas original recreation
-___
-<div class="galeria">
-<img loading= "lazy" src="../media-content/Moda/varios/Chandal_mijailov.gif" alt="">
-<img loading= "lazy" src="../media-content/Moda/varios/ChaquetaMijailovindepent.jpg" alt="">
-<img loading= "lazy" src="../media-content/3D/Xbulgarin/Mijailov.jpg" alt="">
-</div>
-
-> [!info]- Sobre este diseño
-> Recrear el mitico Adidas original classic consistio en una prueba para testear el fotorealismo de los renders, finalmente este modelo lo utilice con @Opiumbulgaria para el vestuario de una colaboración entre ambos.
-<br><br>
-
 
 # Final Fantasy VIII Inspiration
 ___
