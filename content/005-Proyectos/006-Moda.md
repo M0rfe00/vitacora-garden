@@ -65,7 +65,7 @@ ___
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Femvv1/1.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Femvv1/2.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Femvv1/3.webp" alt="">
-<img loading= "lazy" src="../media-content/Moda/primera-coleccion/CuelloRedondoW.gif" alt="">
+<!--<img loading= "lazy" src="../media-content/Moda/primera-coleccion/CuelloRedondoW.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/manga-largaB.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/TankW.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Falda-picob.gif" alt="">
@@ -73,7 +73,7 @@ ___
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/FaldaTuboB.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/FemCapasW.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/FemTopW.gif" alt="">
-<img loading= "lazy" src="../media-content/Moda/primera-coleccion/Prototipo-V22.gif" alt="">
+<img loading= "lazy" src="../media-content/Moda/primera-coleccion/Prototipo-V22.gif" alt="">-->
 </div>
 
 > [!info]- Sobre la primera colección
