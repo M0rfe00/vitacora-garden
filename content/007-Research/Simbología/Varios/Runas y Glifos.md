@@ -121,4 +121,5 @@ En la cultura zapoteca, un glifo se refiere a un símbolo utilizado en la escrit
  <img
   src="/media-content/Research/Simbologia/Runas-Glifos/20250713203120.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;">
+  
