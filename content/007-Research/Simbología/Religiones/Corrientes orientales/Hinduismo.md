@@ -81,11 +81,11 @@ ___
 **Hay 6 tentaciones que los hindúes deben tratar de evitar:**
 
 - **Kama:** la lujuria y el materialismo, este kama es diferente del buen kama.
-- **Krodha****:** la ira.
-- **Lohba****:** la codicia.
-- **Moha****:** apego irrealista a las cosas, las personas y al poder.
-- **Mada****:** orgullo.
-- **Matsarya****:** la envidia.
+- **Krodha:** la ira.
+- **Lohba:** la codicia.
+- **Moha:** apego irrealista a las cosas, las personas y al poder.
+- **Mada:** orgullo.
+- **Matsarya:** la envidia.
 
 Siguiendo su dharma y evitando las 6 tentaciones, un hindú puede romper el ciclo renacimientos y hacer que su alma se vuelva una con Brahman, como una gota de agua que vuelve al océano.
 
@@ -119,9 +119,9 @@ De la misma forma que hay muchas denominaciones en el cristianismo y el islam, c
 
 - **Shivaísmo:** principalmente adoran a Shiva y sus hijos.
 
-- **Smartas****:** siguen textos sagrados como los puranas, el Ramayana y el Mahabharata en lugar de los vedas, adoran a cinco dioses y diosas: Ganesha, Durga, Suria, Shiva y un avatar de Vishnu.
+- **Smartas:** siguen textos sagrados como los puranas, el Ramayana y el Mahabharata en lugar de los vedas, adoran a cinco dioses y diosas: Ganesha, Durga, Suria, Shiva y un avatar de Vishnu.
 
-- **Shaktas****:** adoran a la diosa Deví, la ven como la realidad ultima y eterna, como un Brahman femenino.
+- **Shaktas:** adoran a la diosa Deví, la ven como la realidad ultima y eterna, como un Brahman femenino.
 
 A pesar de que existen variaciones, las creencias fundamentales siguen siendo casi las mismas.
 
