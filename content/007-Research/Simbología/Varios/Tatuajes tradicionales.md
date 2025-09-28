@@ -34,3 +34,17 @@ ___
 - **Pictos (Escocia antigua)** – Diseños azules (probablemente con woad) que intimidaban en la guerra.
 
 
+# Fuentes y Simbología 
+___
+Runas: 
+Glifos:
+Sigilos:
+Heráldica:
+Demonología:
+Gnosticismo:
+Alquimia:
+Astrología:
+Tarot:
+Cábala:
+
+

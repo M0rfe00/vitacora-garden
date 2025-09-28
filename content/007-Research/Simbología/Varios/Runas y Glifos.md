@@ -117,7 +117,7 @@ En la cultura maya, un glifo se refiere a un símbolo o signo utilizado en la es
 
 En la cultura zapoteca, un glifo se refiere a un símbolo utilizado en la escritura zapoteca, un sistema de escritura antiguo utilizado por los zapotecos en el sur de México. Los glifos zapotecas representaban tanto palabras como sílabas y eran utilizados para registrar información histórica, genealógica y otros aspectos de la cultura zapoteca.
 
- **Glifos astrológicos más usados en la astrología occidental.**
+## **Glifos astrológicos más usados en la astrología occidental.**
  <img
   src="/media-content/Research/Simbologia/Runas-Glifos/20250713203120.png"
   alt="Arquetipos-Horoscopo"
