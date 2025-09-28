@@ -32,22 +32,81 @@ ___
 
 - **Mapuche (Chile/Argentina)** – Tatuajes menos documentados, pero se mencionan motivos solares y protectores en épocas precoloniales.
 
-## **Fuentes sobre tatuajes tradicionales:**
+
+# **Fuentes sobre tatuajes tradicionales:**
   ___
 - Indigenous Tattoo Traditions - Lars Krutak
 
-- **Sicanje**: Znamen - THE SIGN: Croatian Traditional Tattoo
-
-- **Sak Yant:** The Power of Sak Yant: 50 Designs and Meanings of Thai Tattoos - Tik Bangpra
-
-- **Sak Yant:** Thai Magic Tattoos - The art and influence of Sak Yant: How a belief may change your life - Isabel Azevedo Drouyer / René Drouyer
-
-- Sak Yant: Awaken Your Spirit: Unveiling the Magic of Sak Yant Tattoos - Ajarn Seua Saming
-# Fuentes y Simbología 
+## **Sicanje/Bocanje**
 ___
 
+| Título                                         | Autor / Año  | Qué ofrece                                                                  |
+| ---------------------------------------------- | ------------ | --------------------------------------------------------------------------- |
+| Znamen - THE SIGN: Croatian Traditional Tattoo | Vesna Haluga | Tatuaje tradicional de mujeres croatas y católicas de Bosnia y Herzegovina. |
 
 
+## **Sak Yant**
+___
+
+| Título                                                                                    | Autor / Año                           | Qué ofrece                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Power of Sak Yant: 50 Designs and Meanings of Thai Tattoos                            | Tik Bangpra                           | Más orientado a quienes quieren conocer los distintos diseños de Sak Yant y sus significados concretos, con leyendas asociadas. Menos académico, más práctico/inspiracional                                    |
+| Thai Magic Tattoos - The art and influence of Sak Yant: How a belief may change your life | Isabel Azevedo Drouyer / René Drouyer | Uno de los textos más específicos sobre Sak Yant: aspectos históricos, simbólicos, los maestros de tatuaje, las creencias ligadas, tipos de diseños; buen equilibrio entre antropología, arte y espiritualidad |
+| Awaken Your Spirit: Unveiling the Magic of Sak Yant Tattoos                               | Ajarn Seua Saming                     | Guía reciente que pretende explicar los símbolos, los rituales, los diseños de Sak Yant, desde una perspectiva que mezcla lo espiritual, lo ritual y aquello práctico.                                         |
+
+## **Artículos sobre Khemer / Yantra Khemer**
+
+- **"Tattoo Represent Body of Khmer Yantra Arts"** (artículo en _Cambodianess_)  
+    Explica cómo los yantras khmer son parte de la cultura espiritual de Camboya, sus significados: protección, suerte, guía espiritual; menciona que los diseños también se usan en ropa, amuletos, paredes de templos. También habla de la Federación Khmer Sak Yantra que recopila modelos de yantra y enseña la práctica. [cambodianess.com+1](https://www.cambodianess.com/article/tattoos-represent-body-of-khmer-yantra-arts?utm_source=chatgpt.com)
+
+- **Federation Khmer Sakyantra**  
+    Organización que trabaja para preservar y enseñar el arte tradicional del Sak Yant khmer, recopilando modelos (“yantra models”), regulaciones antiguas, transmitiéndolo a nuevas generaciones y maestros. Ofrecen galerías, muestras de estructuras de diseño y ritual. [FEDERATION OF KHMER SAKYANTRA+1](https://www.federationofkhmersakyantra.com/?utm_source=chatgpt.com)
+
+- **“Tatouages sacrés – Thailand, Cambodia, Laos and Myanmar”** de Isabel Azevedo Drouyer & René Drouyer (Éditions Soukha)  
+    Este libro en francés estudia los tatuajes sagrados de varios países del Sudeste Asiático, incluyendo Camboya. Tiene muchas fotografías, ilustraciones y un enfoque comparativo entre estilos, rituales y símbolos. Para el khmer yantra, puede dar contexto simbólico, iconográfico y visual. [Éditions Soukha](https://www.editions-soukha.fr/en/tatouages-sacres?utm_source=chatgpt.com)
+
+- **Wikipedia / artículos sobre Khatha / Khom script**  
+    Exploran cómo los tatuajes khmer usan escrituras antiguas, mantras, cómo el Khom script (versión antigua del alfabeto khmer) y el idioma pali se usan en los diseños de yantra, lo que añade una dimensión simbólica fuerte: letras consideradas sagradas, mantras protectores. [Wikipedia+2sak-yant.com+2](https://en.wikipedia.org/wiki/Khatha?utm_source=chatgpt.com)
+
+- Artículo del _South China Morning Post_ **“The magical tattoo artists of Cambodia”**  
+    Perfil de tatuadores tradicionales en Camboya, con fotos, entrevistas y descripciones de algunos tatuajes khmer, el ritual, los significados de protección, espiritualidad. Útil para ver ejemplos reales.
+
+## **Vodou:** 
+___
+(Haiti’s Sacred Symbols) (Fowler Museum, UCLA)
+
+| Título                                                                 | Autor / Año                                   | Qué ofrece                                                                                                      |
+| ---------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **The Sacred Art of Haitian Vodou**                                    | Donald J. Cosentino (ed.), Fowler Museum UCLA | Catálogo de una gran exposición con imágenes de vévé, altares, banderas y explicaciones culturales. Muy visual. |
+| **The Voodoo Book: The Prayers, Spells, and Rituals of Haitian Vodou** | Denise Alvarado                               | Incluye un compendio de vévé de los _lwa_ más conocidos (Papa Legba, Erzulie, Ogoun, Damballah, Baron Samedi).  |
+| **Vodou Visions: An Encounter with Divine Mystery**                    | Sallie Ann Glassman                           | Explica la función de los vévé y presenta varios diseños tradicionales.                                         |
+| **Serving the Spirits: The Religion of Haitian Vodou**                 | Mambo Vye Zo Komande LaMenfo                  | Manual de practicante, describe rituales y contiene diagramas de vévé usados en ceremonias reales.              |
+| **Voodoo Hoodoo Spellbook**                                            | Denise Alvarado                               | Menos académico, pero con muchas ilustraciones de vévé y su uso mágico.                                         |
+
+
+## **Mehndi/Henna**
+___
+
+|Título|Autor|Contenido|
+|---|---|---|
+|**Henna Sourcebook: Over 1,000 traditional and modern designs**|Mary Packard|Gran recopilación de patrones indios, árabes, marroquíes, con fotos paso a paso.|
+|**Mehndi: The Timeless Art of Henna Painting**|Loretta Roome|Historia, simbolismo, recetas de pasta, preparación de la piel y significados de los motivos.|
+|**Henna Body Art**|Carine Fabius|Explica origen cultural, paso a paso de aplicación y ejemplos de diseño.|
+|**Traditional Mehndi Designs**|Dorine van den Beukel|Patrón tras patrón, con símbolos clásicos de India y Pakistán listos para copiar.|
+|**The Art of Mehndi**|Sumita Batra|Mezcla de historia, herramientas, técnicas y colecciones de diseños para distintos eventos.|
+
+| Región/estilo                             | Rasgos característicos                                                                                          | Motivos clásicos                                                      |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Indio (Rajasthani, Marwari, Gujarati)** | Diseños muy densos, llenos de **florales, paisleys (mangos)**, puntillismo fino, relleno casi total de la piel. | Pavos reales, flores de loto, dioses hindúes, figuras de novio/novia. |
+| **Pakistán / árabe indo-pak**             | Mezcla india y árabe, líneas más gruesas que el indio, pero más relleno que el árabe.                           | Arabescos, estrellas, patrones de rejilla.                            |
+| **Árabe / Golfo**                         | Motivos más **grandes y espaciados**, con trazos gruesos.                                                       | Hojas, enredaderas, flores sueltas.                                   |
+| **Norte de África (marroquí, bereber)**   | Trazos **geométricos y angulares**, inspiración tribal.                                                         | Rombo, triángulos, cruces, ojos protectores.                          |
+| **Somalí/Sudanés**                        | Líneas oscuras muy marcadas, diseños audaces en pies y brazos.                                                  | Redes geométricas, franjas negras.                                    |
+
+
+
+# Fuentes de Simbología 
+___
 ### **Runas:** 
 - Manuscrito de Huld
 - Galdrabók
@@ -56,7 +115,6 @@ ___
 ### **Sigilos:**
 - La clavícula del rey salomón
 - **“The Book of Pleasure (Self-Love): The Psychology of Ecstasy”** de **Austin Osman Spare** - principios detrás del sigilismo. Spare fue el pionero en la creación de sigilos modernos y exploró el poder del subconsciente y la psicología detrás del proceso de creación y activación de sigilos.
-
 
 ### **Alquimia:**
 - **Atalanta Fugiens** - Michael Mayer
@@ -78,11 +136,10 @@ ___
 - Baraja de Thoth - 1912
 - Baraja Golden Down de Samuel Matters
 - Tarot Thoth - 1944 Aleister Crowley & Lady Frieda Harris 
+
 ### **Gnosticismo:**
 - Nag Hammadi
-
-
-
+### **Otros:**
 - Enchiridion del papa león
 - Astrología:
 - Heráldica:
@@ -95,3 +152,5 @@ ___
 - Simbolismo Islámico
 - Simbolismo Judío 
 - Simbolismo Hindú
+
+
