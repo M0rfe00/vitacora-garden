@@ -83,18 +83,15 @@ ___
 
 
 
-Enchiridion del papa león
-
-
-Astrología:
-Heráldica:
-Símbolos Yoruba/Edo
-Símbolos vudú (vevé)
-Símbolos pictos
-
-Simbolismo Alquímico
-Simbolismo Gnóstico
-Simbolismo Cristiano
-Simbolismo Islámico
-Simbolismo Judío 
-Simbolismo Hindú
+- Enchiridion del papa león
+- Astrología:
+- Heráldica:
+- Símbolos Yoruba/Edo
+- Símbolos vudú (vevé)
+- Símbolos pictos
+- Simbolismo Alquímico
+- Simbolismo Gnóstico
+- Simbolismo Cristiano
+- Simbolismo Islámico
+- Simbolismo Judío 
+- Simbolismo Hindú
