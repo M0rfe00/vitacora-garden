@@ -24,13 +24,13 @@ ___
 # **Fuentes sobre tatuajes tradicionales:**
   ___
 
-| Título                       | Autor / Año | Qué ofrece |
+| Título                       | Autor       | Qué ofrece |
 | ---------------------------- | ----------- | ---------- |
 | Indigenous Tattoo Traditions | Lars Krutak |            |
 ## **Sicanje/Bocanje**
 ___
 
-| Título                                             | Autor / Año  | Qué ofrece                                                                  |
+| Título                                             | Autor        | Qué ofrece                                                                  |
 | -------------------------------------------------- | ------------ | --------------------------------------------------------------------------- |
 | **Znamen - THE SIGN: Croatian Traditional Tattoo** | Vesna Haluga | Tatuaje tradicional de mujeres croatas y católicas de Bosnia y Herzegovina. |
 
@@ -145,14 +145,14 @@ ___
 - ~~Enchiridion del papa león~~
 - Astrología:
 - Heráldica:
-
+-
 - Símbolos Yoruba/Edo
 - Símbolos vudú (vevé)
-
+-
 - Símbolos pictos
 - Simbolismo Alquímico
 - Simbolismo Gnóstico
-
+-
 - Simbolismo Cristiano
 - Simbolismo Islámico
 - Simbolismo Judío 
