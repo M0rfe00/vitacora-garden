@@ -30,17 +30,17 @@ ___
 ## **Sicanje/Bocanje**
 ___
 
-| Título                                                 | Autor / Año  | Qué ofrece                                                                  |
-| ------------------------------------------------------ | ------------ | --------------------------------------------------------------------------- |
-| ==**Znamen - THE SIGN: Croatian Traditional Tattoo**== | Vesna Haluga | Tatuaje tradicional de mujeres croatas y católicas de Bosnia y Herzegovina. |
+| Título                                             | Autor / Año  | Qué ofrece                                                                  |
+| -------------------------------------------------- | ------------ | --------------------------------------------------------------------------- |
+| **Znamen - THE SIGN: Croatian Traditional Tattoo** | Vesna Haluga | Tatuaje tradicional de mujeres croatas y católicas de Bosnia y Herzegovina. |
 
 ## **Runas y Galdrastafir:** 
 ___
 
 | Título                                                           | Autor                        | Contenido                                                                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ==**Manuscrito de Huld**==                                       | **Geir Vigfusson**           | Compilado por **Geir Vigfusson** en 1860. Fuente de muchos **galdrastafir** famosos como el **Ægishjálmur (Helm of Awe)** y el **Vegvísir (compás de viaje)**. Más tardío y folklórico, no estrictamente pagano.                                                                                       |
-| ==**Galdrabók**==                                                |                              | Grimorio islandés del **siglo XVII**, contiene hechizos, invocaciones y símbolos mágicos (staves). No es exactamente un tratado de runas antiguas, aunque algunos staves derivan de formas rúnicas.<br>- Edición recomendada: _The Galdrabók_ (Stephen Flowers), con traducción inglesa y comentarios. |
+| **Manuscrito de Huld**                                           | **Geir Vigfusson**           | Compilado por **Geir Vigfusson** en 1860. Fuente de muchos **galdrastafir** famosos como el **Ægishjálmur (Helm of Awe)** y el **Vegvísir (compás de viaje)**. Más tardío y folklórico, no estrictamente pagano.                                                                                       |
+| **Galdrabók**                                                    |                              | Grimorio islandés del **siglo XVII**, contiene hechizos, invocaciones y símbolos mágicos (staves). No es exactamente un tratado de runas antiguas, aunque algunos staves derivan de formas rúnicas.<br>- Edición recomendada: _The Galdrabók_ (Stephen Flowers), con traducción inglesa y comentarios. |
 | Runes and Magic                                                  | Mindy MacLeod & Bernard Mees | (análisis académico del uso mágico de las runas)                                                                                                                                                                                                                                                       |
 | **Icelandic Magic:** Practical Secrets of the Northern Grimoires | Stephen Flowers              | (trata varios manuscritos, no solo el Galdrabók)                                                                                                                                                                                                                                                       |
 | The Norse Myths                                                  | Kevin Crossley-Holland       | (para el contexto cultural de los símbolos)                                                                                                                                                                                                                                                            |
@@ -115,7 +115,7 @@ ___
 # Fuentes de Simbología 
 ___
 ### **Sigilos:**
-- ==**La clavícula del rey salomón**==
+- **La clavícula del rey salomón**
 - **“The Book of Pleasure (Self-Love): The Psychology of Ecstasy”** de **Austin Osman Spare** - principios detrás del sigilismo. Spare fue el pionero en la creación de sigilos modernos y exploró el poder del subconsciente y la psicología detrás del proceso de creación y activación de sigilos.
 
 ### **Alquimia:**
