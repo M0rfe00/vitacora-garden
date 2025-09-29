@@ -13,48 +13,36 @@ ___
 ___
 - **Beréber/Tuareg (Norte de África)** – Motivos geométricos en rostro y manos para belleza, identidad tribal y protección espiritual.
 
-- **Hausa (Sahel)** – Líneas faciales con fines de belleza y conexión cultural.
+- ~~**Fulani~~ y Hausa (Sahel)** – Líneas faciales con fines de belleza y conexión cultural.
 
 # Europa
 ___
 - **Sicanje (Croacia/Bosnia, pueblos católicos)** – Cruces y motivos geométricos en manos y brazos para proteger de la conversión forzada durante la ocupación otomana.
 
 - **Vikingos y Nórdicos** – No hay pruebas definitivas, pero crónicas árabes describen tatuajes de runas y símbolos en brazos y manos.
+
+- **Pictos (Escocia antigua)** – Diseños azules (probablemente con woad) que intimidaban en la guerra.
  
+# América
+___
+
+- **Quechua y Aymara (Andes)** – Diseños geométricos y solares que honraban a los dioses y el ciclo agrícola (poco comunes hoy, pero documentados).
+
+- **Amazonía (pueblos Shipibo, Kayapo, etc.)** – Patrones geométricos que representan el universo, protección y comunicación con los espíritus de la selva.
+
+- **Mapuche (Chile/Argentina)** – Tatuajes menos documentados, pero se mencionan motivos solares y protectores en épocas precoloniales.
+
+
 # **Fuentes sobre tatuajes tradicionales:**
   ___
+- Indigenous Tattoo Traditions - Lars Krutak
 
-| Título                       | Autor / Año | Qué ofrece |
-| ---------------------------- | ----------- | ---------- |
-| Indigenous Tattoo Traditions | Lars Krutak |            |
 ## **Sicanje/Bocanje**
 ___
 
 | Título                                         | Autor / Año  | Qué ofrece                                                                  |
 | ---------------------------------------------- | ------------ | --------------------------------------------------------------------------- |
 | Znamen - THE SIGN: Croatian Traditional Tattoo | Vesna Haluga | Tatuaje tradicional de mujeres croatas y católicas de Bosnia y Herzegovina. |
-
-## **Runas y Galdrastafir:** 
-___
-
-| Título             | Autor              | Contenido                                                                                                                                                                                                                                                                                              |
-| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Manuscrito de Huld | **Geir Vigfusson** | Compilado por **Geir Vigfusson** en 1860. Fuente de muchos **galdrastafir** famosos como el **Ægishjálmur (Helm of Awe)** y el **Vegvísir (compás de viaje)**. Más tardío y folklórico, no estrictamente pagano.                                                                                       |
-| Galdrabók          |                    | Grimorio islandés del **siglo XVII**, contiene hechizos, invocaciones y símbolos mágicos (staves). No es exactamente un tratado de runas antiguas, aunque algunos staves derivan de formas rúnicas.<br>- Edición recomendada: _The Galdrabók_ (Stephen Flowers), con traducción inglesa y comentarios. |
-| Edda poética       | Anónimo            | Colección de poemas anónimos, algunos con origen en el siglo IX. Contiene mitos sobre los dioses (como Odín, Thor, Loki) y héroes legendarios. Es la base principal para el conocimiento de los mitos cosmogónicos, Ragnarök, Yggdrasil, etc.                                                          |
-| Edda prosaica      | Snorri Sturluson   | Su objetivo era **preservar las técnicas poéticas** escáldicas, explicando el trasfondo mitológico. Reorganiza mitos de forma didáctica y sistemática.                                                                                                                                                 |
-
-| Runes and Magic                                                  | Mindy MacLeod & Bernard Mees | (análisis académico del uso mágico de las runas).<br> |
-| ---------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
-| **Icelandic Magic:** Practical Secrets of the Northern Grimoires | Stephen Flowers              | (trata varios manuscritos, no solo el Galdrabók)      |
-| The Norse Myths                                                  | Kevin Crossley-Holland       | (para el contexto cultural de los símbolos).          |
-
-| Ediciones Galdrabok                                                                                      | Lo bueno / particularidades                                                                                                                                                                                                                                                                                                                                                                                            | Lo que tener en cuenta                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kári Pálsson – _The Galdrabók: Forbidden Icelandic Folk Magic_ (Hyldyr, 2024)**                        | Edición reciente. Texto original islandés junto a traducción al inglés. Incluye además otro manuscrito, _Jarðskinna_, que no estaba ampliamente publicado antes. Buen formato para comparar los textos. ([Anathema Publishing Ltd.](https://anathemapublishing.com/books-prints/p/the-galdrabok?utm_source=chatgpt.com "The Galdrabók: Forbidden Icelandic Folk Magic \| by Kári Pálsson — Anathema Publishing Ltd.")) | A veces estas ediciones modernas pueden tener interpretaciones o adaptaciones modernas; revisar qué tan transparente es el aparato crítico (notas, fuentes) para distinguir lo que es reconstrucción moderna. También puede ser caro o tener envío internacional.     |
-| **Stephen E. Flowers – _The Galdrabók: An Icelandic Grimoire_ (1989) / segunda edición revisada (1995)** | Fue durante mucho tiempo una de las más accesibles en inglés. Incluye traducción, introducción histórica, notas. La edición revisada mejora algunos errores. ([Mi blog personal](https://www.eloraculodelasrunas.com/galdrabok/?utm_source=chatgpt.com "Galdrabók \| El Oráculo de las Runas"))                                                                                                                        | Flower es conocido tanto en ámbitos académicos como esotéricos; algunas críticas señalan errores de interpretación, simbolismo o grafía de los staves etc. No es tan reciente; puede carecer de algunas fuentes nuevas que se han digitalizado o descubierto después. |
-| **Natan Lindqvist – _En isländsk svartkonstbok från 1500-talet_ (1921)**                                 | Edición diplomática con traducción al sueco. Es histórica, útil para ver cómo era el estudio del Galdrabók hace un siglo. ([Wikipedia](https://en.wikipedia.org/wiki/Galdrab%C3%B3k?utm_source=chatgpt.com "Galdrabók"))                                                                                                                                                                                               | En sueco, lo que limita si no lo dominas. También, al ser tan antigua, puede que falten comparaciones con manuscritos o descubrimientos más modernos.                                                                                                                 |
-___
 
 
 ## **Sak Yant**
@@ -116,7 +104,28 @@ ___
 | **Somalí/Sudanés**                        | Líneas oscuras muy marcadas, diseños audaces en pies y brazos.                                                  | Redes geométricas, franjas negras.                                    |
 
 
+
 # Fuentes de Simbología 
+___
+### **Runas y Galdrastafir:** 
+
+| Título             | Autor              | Contenido                                                                                                                                                                                                                                                                                              |
+| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Manuscrito de Huld | **Geir Vigfusson** | Compilado por **Geir Vigfusson** en 1860. Fuente de muchos **galdrastafir** famosos como el **Ægishjálmur (Helm of Awe)** y el **Vegvísir (compás de viaje)**. Más tardío y folklórico, no estrictamente pagano.                                                                                       |
+| Galdrabók          |                    | Grimorio islandés del **siglo XVII**, contiene hechizos, invocaciones y símbolos mágicos (staves). No es exactamente un tratado de runas antiguas, aunque algunos staves derivan de formas rúnicas.<br>- Edición recomendada: _The Galdrabók_ (Stephen Flowers), con traducción inglesa y comentarios. |
+| Edda poética       | Anónimo            | Colección de poemas anónimos, algunos con origen en el siglo IX. Contiene mitos sobre los dioses (como Odín, Thor, Loki) y héroes legendarios. Es la base principal para el conocimiento de los mitos cosmogónicos, Ragnarök, Yggdrasil, etc.                                                          |
+| Edda prosaica      | Snorri Sturluson   | Su objetivo era **preservar las técnicas poéticas** escáldicas, explicando el trasfondo mitológico. Reorganiza mitos de forma didáctica y sistemática.                                                                                                                                                 |
+
+| Runes and Magic                                                  | Mindy MacLeod & Bernard Mees | (análisis académico del uso mágico de las runas).<br> |
+| ---------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
+| **Icelandic Magic:** Practical Secrets of the Northern Grimoires | Stephen Flowers              | (trata varios manuscritos, no solo el Galdrabók)      |
+| The Norse Myths                                                  | Kevin Crossley-Holland       | (para el contexto cultural de los símbolos).          |
+
+| Ediciones Galdrabok                                                                                      | Lo bueno / particularidades                                                                                                                                                                                                                                                                                                                                                                                            | Lo que tener en cuenta                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kári Pálsson – _The Galdrabók: Forbidden Icelandic Folk Magic_ (Hyldyr, 2024)**                        | Edición reciente. Texto original islandés junto a traducción al inglés. Incluye además otro manuscrito, _Jarðskinna_, que no estaba ampliamente publicado antes. Buen formato para comparar los textos. ([Anathema Publishing Ltd.](https://anathemapublishing.com/books-prints/p/the-galdrabok?utm_source=chatgpt.com "The Galdrabók: Forbidden Icelandic Folk Magic \| by Kári Pálsson — Anathema Publishing Ltd.")) | A veces estas ediciones modernas pueden tener interpretaciones o adaptaciones modernas; revisar qué tan transparente es el aparato crítico (notas, fuentes) para distinguir lo que es reconstrucción moderna. También puede ser caro o tener envío internacional.     |
+| **Stephen E. Flowers – _The Galdrabók: An Icelandic Grimoire_ (1989) / segunda edición revisada (1995)** | Fue durante mucho tiempo una de las más accesibles en inglés. Incluye traducción, introducción histórica, notas. La edición revisada mejora algunos errores. ([Mi blog personal](https://www.eloraculodelasrunas.com/galdrabok/?utm_source=chatgpt.com "Galdrabók \| El Oráculo de las Runas"))                                                                                                                        | Flower es conocido tanto en ámbitos académicos como esotéricos; algunas críticas señalan errores de interpretación, simbolismo o grafía de los staves etc. No es tan reciente; puede carecer de algunas fuentes nuevas que se han digitalizado o descubierto después. |
+| **Natan Lindqvist – _En isländsk svartkonstbok från 1500-talet_ (1921)**                                 | Edición diplomática con traducción al sueco. Es histórica, útil para ver cómo era el estudio del Galdrabók hace un siglo. ([Wikipedia](https://en.wikipedia.org/wiki/Galdrab%C3%B3k?utm_source=chatgpt.com "Galdrabók"))                                                                                                                                                                                               | En sueco, lo que limita si no lo dominas. También, al ser tan antigua, puede que falten comparaciones con manuscritos o descubrimientos más modernos.                                                                                                                 |
 ___
 ### **Sigilos:**
 - La clavícula del rey salomón
@@ -149,14 +158,11 @@ ___
 - ~~Enchiridion del papa león~~
 - Astrología:
 - Heráldica:
-
 - Símbolos Yoruba/Edo
 - Símbolos vudú (vevé)
-
 - Símbolos pictos
 - Simbolismo Alquímico
 - Simbolismo Gnóstico
-
 - Simbolismo Cristiano
 - Simbolismo Islámico
 - Simbolismo Judío 
