@@ -142,12 +142,13 @@ ___
 ### **Gnosticismo:**
 - Nag Hammadi
 ### **Otros:**
-- ~~Enchiridion del papa león~~
+- Enchiridion del papa león
 - Astrología:
 - Heráldica:
 -
-- Símbolos Yoruba/Edo
 - Símbolos vudú (vevé)
+- Símbolos Adinkra - Ghana
+- ~~Símbolos Yoruba/Edo~~
 -
 - Símbolos pictos
 - Simbolismo Alquímico
