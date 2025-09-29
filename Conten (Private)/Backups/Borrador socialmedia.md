@@ -13,5 +13,5 @@
 
 
 > [!tweet]+ Tweet - [[2024-12-28]]
-> [![Tweet](../media-content/Diario/Tweets/tweet-1872807108191896061.png)](https://x.com/Lookass333/status/1872807108191896061)
+> [![Tweet](public/media-content/Diario/Tweets/tweet-1872807108191896061.png)](https://x.com/Lookass333/status/1872807108191896061)
 
