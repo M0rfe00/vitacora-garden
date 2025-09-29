@@ -87,13 +87,13 @@ ___
 ## **Mehndi/Henna**
 ___
 
-|Título|Autor|Contenido|
-|---|---|---|
-|**Henna Sourcebook: Over 1,000 traditional and modern designs**|Mary Packard|Gran recopilación de patrones indios, árabes, marroquíes, con fotos paso a paso.|
-|**Mehndi: The Timeless Art of Henna Painting**|Loretta Roome|Historia, simbolismo, recetas de pasta, preparación de la piel y significados de los motivos.|
-|**Henna Body Art**|Carine Fabius|Explica origen cultural, paso a paso de aplicación y ejemplos de diseño.|
-|**Traditional Mehndi Designs**|Dorine van den Beukel|Patrón tras patrón, con símbolos clásicos de India y Pakistán listos para copiar.|
-|**The Art of Mehndi**|Sumita Batra|Mezcla de historia, herramientas, técnicas y colecciones de diseños para distintos eventos.|
+| Título                                                          | Autor                 | Contenido                                                                                     |
+| --------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------------- |
+| **Henna Sourcebook: Over 1,000 traditional and modern designs** | Mary Packard          | Gran recopilación de patrones indios, árabes, marroquíes, con fotos paso a paso.              |
+| **Mehndi: The Timeless Art of Henna Painting**                  | Loretta Roome         | Historia, simbolismo, recetas de pasta, preparación de la piel y significados de los motivos. |
+| **Henna Body Art**                                              | Carine Fabius         | Explica origen cultural, paso a paso de aplicación y ejemplos de diseño.                      |
+| **Traditional Mehndi Designs**                                  | Dorine van den Beukel | Patrón tras patrón, con símbolos clásicos de India y Pakistán listos para copiar.             |
+| **The Art of Mehndi**                                           | Sumita Batra          | Mezcla de historia, herramientas, técnicas y colecciones de diseños para distintos eventos.   |
 
 | Región/estilo                             | Rasgos característicos                                                                                          | Motivos clásicos                                                      |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -107,11 +107,26 @@ ___
 
 # Fuentes de Simbología 
 ___
-### **Runas:** 
-- Manuscrito de Huld
-- Galdrabók
-- Edda poética y Edda prosaica
+### **Runas y Galdrastafir:** 
 
+| Título             | Autor              | Contenido                                                                                                                                                                                                                                                                                              |
+| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Manuscrito de Huld | **Geir Vigfusson** | Compilado por **Geir Vigfusson** en 1860. Fuente de muchos **galdrastafir** famosos como el **Ægishjálmur (Helm of Awe)** y el **Vegvísir (compás de viaje)**. Más tardío y folklórico, no estrictamente pagano.                                                                                       |
+| Galdrabók          |                    | Grimorio islandés del **siglo XVII**, contiene hechizos, invocaciones y símbolos mágicos (staves). No es exactamente un tratado de runas antiguas, aunque algunos staves derivan de formas rúnicas.<br>- Edición recomendada: _The Galdrabók_ (Stephen Flowers), con traducción inglesa y comentarios. |
+| Edda poética       | Anónimo            | Colección de poemas anónimos, algunos con origen en el siglo IX. Contiene mitos sobre los dioses (como Odín, Thor, Loki) y héroes legendarios. Es la base principal para el conocimiento de los mitos cosmogónicos, Ragnarök, Yggdrasil, etc.                                                          |
+| Edda prosaica      | Snorri Sturluson   | Su objetivo era **preservar las técnicas poéticas** escáldicas, explicando el trasfondo mitológico. Reorganiza mitos de forma didáctica y sistemática.                                                                                                                                                 |
+
+| Runes and Magic                                                  | Mindy MacLeod & Bernard Mees | (análisis académico del uso mágico de las runas).<br> |
+| ---------------------------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
+| **Icelandic Magic:** Practical Secrets of the Northern Grimoires | Stephen Flowers              | (trata varios manuscritos, no solo el Galdrabók)      |
+| The Norse Myths                                                  | Kevin Crossley-Holland       | (para el contexto cultural de los símbolos).          |
+
+| Ediciones Galdrabok                                                                                      | Lo bueno / particularidades                                                                                                                                                                                                                                                                                                                                                                                            | Lo que tener en cuenta                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kári Pálsson – _The Galdrabók: Forbidden Icelandic Folk Magic_ (Hyldyr, 2024)**                        | Edición reciente. Texto original islandés junto a traducción al inglés. Incluye además otro manuscrito, _Jarðskinna_, que no estaba ampliamente publicado antes. Buen formato para comparar los textos. ([Anathema Publishing Ltd.](https://anathemapublishing.com/books-prints/p/the-galdrabok?utm_source=chatgpt.com "The Galdrabók: Forbidden Icelandic Folk Magic \| by Kári Pálsson — Anathema Publishing Ltd.")) | A veces estas ediciones modernas pueden tener interpretaciones o adaptaciones modernas; revisar qué tan transparente es el aparato crítico (notas, fuentes) para distinguir lo que es reconstrucción moderna. También puede ser caro o tener envío internacional.     |
+| **Stephen E. Flowers – _The Galdrabók: An Icelandic Grimoire_ (1989) / segunda edición revisada (1995)** | Fue durante mucho tiempo una de las más accesibles en inglés. Incluye traducción, introducción histórica, notas. La edición revisada mejora algunos errores. ([Mi blog personal](https://www.eloraculodelasrunas.com/galdrabok/?utm_source=chatgpt.com "Galdrabók \| El Oráculo de las Runas"))                                                                                                                        | Flower es conocido tanto en ámbitos académicos como esotéricos; algunas críticas señalan errores de interpretación, simbolismo o grafía de los staves etc. No es tan reciente; puede carecer de algunas fuentes nuevas que se han digitalizado o descubierto después. |
+| **Natan Lindqvist – _En isländsk svartkonstbok från 1500-talet_ (1921)**                                 | Edición diplomática con traducción al sueco. Es histórica, útil para ver cómo era el estudio del Galdrabók hace un siglo. ([Wikipedia](https://en.wikipedia.org/wiki/Galdrab%C3%B3k?utm_source=chatgpt.com "Galdrabók"))                                                                                                                                                                                               | En sueco, lo que limita si no lo dominas. También, al ser tan antigua, puede que falten comparaciones con manuscritos o descubrimientos más modernos.                                                                                                                 |
+___
 ### **Sigilos:**
 - La clavícula del rey salomón
 - **“The Book of Pleasure (Self-Love): The Psychology of Ecstasy”** de **Austin Osman Spare** - principios detrás del sigilismo. Spare fue el pionero en la creación de sigilos modernos y exploró el poder del subconsciente y la psicología detrás del proceso de creación y activación de sigilos.
@@ -140,7 +155,7 @@ ___
 ### **Gnosticismo:**
 - Nag Hammadi
 ### **Otros:**
-- Enchiridion del papa león
+- ~~Enchiridion del papa león~~
 - Astrología:
 - Heráldica:
 - Símbolos Yoruba/Edo
