@@ -132,7 +132,7 @@ ___
 </div>
 
 <div class="lb-list">
-  <a href="https://boxd.it/HIN2w" target="_blank">
+  <a href="https://boxd.it/zBPyy" target="_blank">
     <ul class="poster-list">
       <li><img src="https://a.ltrbxd.com/resized/film-poster/4/1/9/9/0/41990-angel-s-egg-0-2000-0-3000-crop.jpg?v=98f9bf2def" alt="Angel’s Egg"></li>
       <li><img src="https://a.ltrbxd.com/resized/film-poster/4/7/2/7/0/47270-ghost-in-the-shell-0-2000-0-3000-crop.jpg?v=c837d80ee1" alt="Ghost in the Shell"></li>
@@ -160,7 +160,7 @@ ___
 </div>
 
 <div class="lb-list">
-  <a href="https://boxd.it/zi9KO" target="_blank">
+  <a href="https://boxd.it/BkKvS" target="_blank">
     <ul class="poster-list">
       <li><img src="https://a.ltrbxd.com/resized/film-poster/1/2/7/6/4/8/3/1276483-7291-0-2000-0-3000-crop.jpg?v=a77f3cf12e" alt="7291"></li>
       <li><img src="https://a.ltrbxd.com/resized/film-poster/5/5/0/3/7/5/550375-la-cifra-negra-de-la-violencia-institucional-0-2000-0-3000-crop.jpg?v=ed19db7f94" alt="The Dark Figure"></li>
