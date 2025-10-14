@@ -118,3 +118,34 @@ Planetas: En la eclíptica también se encuentran los planetas.
 Representaciones de como el sol tapa las estaciones según la estación
 ![[Pasted image 20251014233214.png]]![[Pasted image 20251014233238.png]]
 ![[Pasted image 20251014233258.png]]
+
+Las constelaciones visibles en el hemisferio norte varían según la estación: ==en invierno destacan Orión, Canis Major y Tauro;== ==en primavera, Leo, Virgo y la Osa Mayor;== ==en verano, Cygnus, Lyra y Aquila;== ==y en otoño, Cassiopeia, Pegaso y Andrómeda==. Algunas, como la Osa Mayor y la [Osa Menor](https://www.google.com/search?cs=1&sca_esv=e43c86de5287e939&sxsrf=AE3TifP1SHaXYOdW_TzUQatTwBnKoODdqA%3A1760481780041&q=Osa+Menor&sa=X&ved=2ahUKEwi1-evY4aSQAxXIfKQEHVV6CGIQxccNegQIBxAB&mstk=AUtExfBjxRuQAeaXtP9X2jn5DhFnoeJOPMw14THBLgNKgEmAmxcA-8kIZYlKIYX-YQZ8N09laObgQ4ls3CtKp5Zgro8lKpLIvXPTrD_hzfOhtPY9qqrDgb7u9mcs2Dq6G6cjf_kM2noBh4rtVK0mpcFF6a13tdE-ug4ctrDcs4yzV-MRp0U&csui=3), son circumpolares y visibles todo el año. 
+
+Constelaciones por estación
+
+- **Invierno:** Orión, Canis Major, Tauro.
+- **Primavera:** Leo, Virgo, Osa Mayor, [Boyero](https://www.google.com/search?cs=1&sca_esv=e43c86de5287e939&sxsrf=AE3TifP1SHaXYOdW_TzUQatTwBnKoODdqA%3A1760481780041&q=Boyero&sa=X&ved=2ahUKEwi1-evY4aSQAxXIfKQEHVV6CGIQxccNegQIFxAB&mstk=AUtExfBjxRuQAeaXtP9X2jn5DhFnoeJOPMw14THBLgNKgEmAmxcA-8kIZYlKIYX-YQZ8N09laObgQ4ls3CtKp5Zgro8lKpLIvXPTrD_hzfOhtPY9qqrDgb7u9mcs2Dq6G6cjf_kM2noBh4rtVK0mpcFF6a13tdE-ug4ctrDcs4yzV-MRp0U&csui=3).
+- **Verano:** Cygnus, Lyra, Aquila.
+- **Otoño:** Cassiopeia, Pegaso, Andrómeda.
+
+
+En el hemisferio norte, ==Venus, Marte, Júpiter y Saturno son visibles a simple vista, aunque su posición y visibilidad varían según la hora del día y la época del año==. Mercurio es visible brevemente antes del amanecer o después del anochecer, dependiendo de su posición orbital. Para observar planetas como Urano y Neptuno, se necesitan binoculares o un telescopio. 
+
+Planetas visibles a simple vista
+
+- **[Venus](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&cs=1&sxsrf=AE3TifNqZxMLbLHjWkzaTH5v4QobUDHSxw%3A1760481837917&q=Venus&sa=X&ved=2ahUKEwjD0qn04aSQAxXnVKQEHZ56FuIQxccNegQIDxAB&mstk=AUtExfCX6Qk6oM_kRSI5_asBYVDZgnMqNZqOlydhx11VJ9UKUcM4-tM0H52aMgh7mBwR8zbnMloGgKcNzDxOWmQ3ki6TsePM7D3H78X1AaoD0nOMl5gpOypVfi4DRvj8rPdezHAbI5WRBNwcmKtCqp5G9pBveuoD_rya99yGyDXfdRYFxUtT7fHiFUW13R70XLLw6Zocg22Zw6rTHn8iJiUcm_x6enVnDZiw2OsxWUUjv8oRuIZTMOcQFZY_UuoSHpm19QXKWtCbnsjAtcafLJX11BJC&csui=3):** 
+    Generalmente visible cerca del sol, ya sea por la mañana o por la tarde, es uno de los objetos más brillantes en el cielo después del Sol y la Luna.
+
+- **[Marte](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&cs=1&sxsrf=AE3TifNqZxMLbLHjWkzaTH5v4QobUDHSxw%3A1760481837917&q=Marte&sa=X&ved=2ahUKEwjD0qn04aSQAxXnVKQEHZ56FuIQxccNegQIERAB&mstk=AUtExfCX6Qk6oM_kRSI5_asBYVDZgnMqNZqOlydhx11VJ9UKUcM4-tM0H52aMgh7mBwR8zbnMloGgKcNzDxOWmQ3ki6TsePM7D3H78X1AaoD0nOMl5gpOypVfi4DRvj8rPdezHAbI5WRBNwcmKtCqp5G9pBveuoD_rya99yGyDXfdRYFxUtT7fHiFUW13R70XLLw6Zocg22Zw6rTHn8iJiUcm_x6enVnDZiw2OsxWUUjv8oRuIZTMOcQFZY_UuoSHpm19QXKWtCbnsjAtcafLJX11BJC&csui=3):** 
+    Se puede observar en el cielo vespertino, a menudo reconocido por su color rojizo.
+
+- **[Júpiter](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&cs=1&sxsrf=AE3TifNqZxMLbLHjWkzaTH5v4QobUDHSxw%3A1760481837917&q=J%C3%BApiter&sa=X&ved=2ahUKEwjD0qn04aSQAxXnVKQEHZ56FuIQxccNegQIEBAB&mstk=AUtExfCX6Qk6oM_kRSI5_asBYVDZgnMqNZqOlydhx11VJ9UKUcM4-tM0H52aMgh7mBwR8zbnMloGgKcNzDxOWmQ3ki6TsePM7D3H78X1AaoD0nOMl5gpOypVfi4DRvj8rPdezHAbI5WRBNwcmKtCqp5G9pBveuoD_rya99yGyDXfdRYFxUtT7fHiFUW13R70XLLw6Zocg22Zw6rTHn8iJiUcm_x6enVnDZiw2OsxWUUjv8oRuIZTMOcQFZY_UuoSHpm19QXKWtCbnsjAtcafLJX11BJC&csui=3):** 
+    Se ve bien después del atardecer, moviéndose lentamente a través del cielo.
+
+- **[Saturno](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&cs=1&sxsrf=AE3TifNqZxMLbLHjWkzaTH5v4QobUDHSxw%3A1760481837917&q=Saturno&sa=X&ved=2ahUKEwjD0qn04aSQAxXnVKQEHZ56FuIQxccNegQIFxAB&mstk=AUtExfCX6Qk6oM_kRSI5_asBYVDZgnMqNZqOlydhx11VJ9UKUcM4-tM0H52aMgh7mBwR8zbnMloGgKcNzDxOWmQ3ki6TsePM7D3H78X1AaoD0nOMl5gpOypVfi4DRvj8rPdezHAbI5WRBNwcmKtCqp5G9pBveuoD_rya99yGyDXfdRYFxUtT7fHiFUW13R70XLLw6Zocg22Zw6rTHn8iJiUcm_x6enVnDZiw2OsxWUUjv8oRuIZTMOcQFZY_UuoSHpm19QXKWtCbnsjAtcafLJX11BJC&csui=3):** 
+    Visible en el cielo matutino oriental, aunque puede ser más difícil de observar.
+
+- **[Mercurio](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&cs=1&sxsrf=AE3TifNqZxMLbLHjWkzaTH5v4QobUDHSxw%3A1760481837917&q=Mercurio&sa=X&ved=2ahUKEwjD0qn04aSQAxXnVKQEHZ56FuIQxccNegQIFRAB&mstk=AUtExfCX6Qk6oM_kRSI5_asBYVDZgnMqNZqOlydhx11VJ9UKUcM4-tM0H52aMgh7mBwR8zbnMloGgKcNzDxOWmQ3ki6TsePM7D3H78X1AaoD0nOMl5gpOypVfi4DRvj8rPdezHAbI5WRBNwcmKtCqp5G9pBveuoD_rya99yGyDXfdRYFxUtT7fHiFUW13R70XLLw6Zocg22Zw6rTHn8iJiUcm_x6enVnDZiw2OsxWUUjv8oRuIZTMOcQFZY_UuoSHpm19QXKWtCbnsjAtcafLJX11BJC&csui=3):** 
+    Se puede ver durante un corto período antes del amanecer o después del atardecer, dependiendo de la posición de la Tierra y Mercurio.
+
+M,V,T,M,J,S,U,N
