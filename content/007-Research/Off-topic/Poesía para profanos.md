@@ -97,8 +97,136 @@ Hay un poema para cada persona, la cuestión es encontrarlo, hay unos versos par
 
 
 # Recomendaciones:
-- Rimas y leyendas de Becker
+- Rimas y leyendas - Becker
 - Cernuda, (vivir de amor y tristeza)
-- Neruda
 - Gata Cattana
-- Mario Benedetti - El amor, las mujeres y la vida
+- Romancero gitano - Lorca
+- Sonetos del amor oscuro - Lorca
+- Poema del Cante Jondo - Lorca
+- La realidad y el deseo - Cernuda
+- Las nubes - Cernuda
+- Ocnos - Cernuda
+- El amor, las mujeres y la vida - Benedetti
+- Rincon de haikus - Benedetti
+- 100 Sonetos de amor - Neruda
+- Veinte poemas de amor y una canción - Neruda
+- Antología poética - Víctor Hugo 
+
+
+# TEORIA:
+___
+### Tipo de rima: 
+- Consonante: Riman vocales y consonaste desde la última vocal acentuada
+- Asonante: Riman solo las vocales desde la última vocal acentuada
+
+### Tipo de arte: 
+- Mayor: Versos de 9 sílabas o más
+- Menor: Versos de 8 sílabas o menos
+
+Sinalefa: unión de dos silabas en una, contabilizando 1 silaba en lugar de dos
+
+
+### Acentuación final:
+- Palabra aguda: +1 sílaba
+- Esdrújula: -1 sílaba
+
+Agudas
+- **Sílaba tónica:** Última sílaba.
+- **Ejemplos:** "amor", "café", "canción".
+- **Acentuación:** Llevan tilde cuando terminan en vocal, -n o -s. 
+
+Llanas (o graves) 
+- **Sílaba tónica:** Penúltima sílaba.
+- **Ejemplos:** "árbol", "fácil", "silla".
+- **Acentuación:** Llevan tilde cuando terminan en cualquier consonante que no sea -n o -s. 
+
+Esdrújulas
+- **Sílaba tónica:** Antepenúltima sílaba.
+- **Ejemplos:** "música", "teléfono", "sábado".
+- **Acentuación:** Siempre llevan tilde.
+
+## Tipos de estrofas
+
+- **Pareado:** dos versos tanto de arte mayor o menor y cuya rima habitualmente es consonante.  
+ 
+- **Terceto:** tres versos de arte mayor y rima consonante. Habitualmente aparecen varios tercetos juntos que reciben el nombre de encadenados y cuya rima suele ser ABA/BCB/CDC...  
+  
+- **Cuarteto:** cuatro versos de arte mayor, generalmente endecasílabos (once sílabas) y rima consonante ABBA.  
+  
+- **Redondilla:** cuatro versos de arte menor, generalmente octosílabos (ocho sílabas), y rima consonante abba.  
+
+- **Serventesio:** cuatro versos de arte mayor, generalmente endecasílabos (once sílabas) y rima consonante ABAB.  
+  
+- **Cuarteta:** cuatro versos de arte menos, generalmente octosílabos (ocho sílabas) y rima consonante abab.  
+ 
+- **Cuadena vía:** cuatro versos alejandrinos (catorce sílabas) con una única rima (monorrimos) consonante AAAA. Se le conoce también como tetrástrofo monorrimo.  
+  
+- **Lira:** Cinco versos, mezcla de arte mayor (endecasílabos) y arte menor (heptasílabos) y cuya rima consonante es 7a 11B 7a 7b 11B.  
+
+- **Quintilla:** Cinco versos de arte menor y rima consonante. La rima no sigue ningún esquema, pero no puede haber más de dos versos seguidos con la misma rima, no puede terminar en pareado ni puede quedar ningún verso suelto.  
+
+- **Copla de pie quebrado:** formada por seis versos octosílabos y tetrasílabos y rima consonante con este esquema 8a 8b 4c 8a 8b 4c.  
+ 
+- **Octava real:** ocho versos endecasílabos con rima consonante 11A 11B 11A 11B 11A 11B 11C 11C.  
+ 
+- **Décima:** diez versos, generalmente octosílabos y rima consonante 8a 8b 8b 8a 8a 8c 8c 8d 8d 8c.
+
+## Tipos de versos
+- **2 Sílabas**: Bisílabo
+- **3 Sílabas:** Trisílabo
+- **4 Sílabas:** Tetrasílabo
+- **5 Sílabas:** Pentasílabo
+- **6 Sílabas:** Hexasílabo
+- **7 Sílabas:** Heptasílabo
+- **8 Sílabas:** Octosílabo
+- **9 Sílabas:** Eneasílabo
+- **10 Sílabas:** Decasílabo
+- **11 Sílabas:** Endecasílabo
+- **12 Sílabas:** Dodecasílabo
+- **13 Sílabas:** Tridecasílabo 
+- **14 Sílabas:** Alejandrino
+
+## **La sinalefa**
+Denominamos _sinalefa_ a la agrupación en una sílaba métrica de dos o más vocales pertenecientes a palabras distintas. Cuando una palabra termina en vocal y la palabra siguiente comienza con vocal, generalmente, las vocales se unen por razones fónico-rítmicas en una sílaba métrica. Puede haber _sinalefa_ incluso cuando las palabras están separadas por un signo de puntuación. En el siguiente verso octosílabo de Espronceda hay dos casos de _sinalefa_:
+
+> - Vien-**to en** po-**pa, a** to-da ve-la
+
+El siguiente cuarteto de Vicente Gaos ejemplifica bien el uso de la _sinalefa_, con un acumulo, poco frecuente, de cuatro sinalefas en el último verso:
+
+> - ¿Qué fue de tan-**to a**-mor por tan-ta da-ma?  
+>     só-lo ce-ni-zas de **la in**-men-sa pi-ra  
+>     se nu-bla la mi-ra-**da, el** cuer-**po ex**-pi-ra,  
+>     **y el** al-ma quie-**re a**-sir-**se a** **la al**-ta ra-ma.
+
+## **El hiato**
+El idioma español favorece la sinalefa como un proceso natural. En ocasiones, sin embargo, los poetas hacen uso del _hiato_ para impedir la _sinalefa_ y marcar un ritmo o para mantenerlo. El _hiato_ consiste, pues, en la pronunciación en dos sílabas diferentes la vocal final de una palabra y la vocal inicial de la palabra siguiente. El _hiato_ es frecuente cuando la vocal inicial de palabra lleva acento de intensidad rítmico, especialmente en el caso de la penúltima sílaba del verso. Así en los siguientes versos endecasílabos de Vicente Gaos, el primero, y de Fray Luis de León, el segundo:
+
+> - No sa-be que es a-mor quien no **te a**-ma
+>     
+> - A-llí te lo-gra-rás, y a ca-**da u**-no
+
+
+También las conjunciones, sobre todo la conjunción “y”, requieren del _hiato_ cuando se unen como semiconsonante a la vocal siguiente. Así lo usa Góngora y Sor Juana Inés de la Cruz en los siguientes versos endecasílabos:
+
+> - Por-que, en-tre un la-**bio y** o-tro co-lo-ra-do
+>     
+> - Y lue-go des-ma-ya-**da y** en-co-gi-da
+
+
+En estos dos ejemplos, la letra “y” adquiere el valor de una semiconsonante y se une sólo a la vocal siguiente.
+
+## **La diéresis**
+Cuando la separación de vocales que normalmente formarían una sola sílaba sucede dentro de una palabra, lo denominamos _diéresis_. _Diéresis_ es, pues, la separación de las dos letras de un diptongo en dos sílabas para los efectos de la medida de los versos. La _diéresis_ implica una ruptura en la pronunciación normal de una palabra, por lo que coloca especial énfasis en dicha palabra. Su uso no es frecuente en poesía. Se señala colocando una diéresis, dos puntos (ï-ü), sobre la vocal afectada. Los siguientes tres ejemplos son versos endecasílabos, los dos primeros de Góngora y el último de Fray Luis de León:
+
+> - No só-lo_en pla-ta_o v**ï**-o-la tron-ca-da
+>     
+> - Cuan-to más dí-a de j**ü**-i-cio se_ha-lle
+>     
+> - La del que hu-ye_el mun-da-nal r**ü**-i-do
+
+## **La sinéresis**
+La _sinéresis_ es una licencia poética opuesta a la _diéresis_; es decir, _sinéresis_ es la unión en una sílaba de dos vocales fuertes que gramaticalmente pertenecen a sílabas diferentes. Mientras la _diéresis_ es un recurso culto que produce una pronunciación anómala, la _sinéresis_ se aproxima más al leguaje popular relajado. Su uso es infrecuente. De los dos ejemplos que anotamos, el primero es un verso de 12 sílabas de Getrudes Gómez de Avellaneda, el segundo un verso alejandrino (verso de 14 sílabas métricas), de José Asunción Silva:
+
+> - Del ge-nio la_au-r**eo**-la ra-dian-te su-bli-me
+>     
+> - Con mo-vi-mien-to rít-mi-co se ba-lan-c**ea**_el ni-ño
