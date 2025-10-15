@@ -1,6 +1,6 @@
 # La herida
 ___
-	"Di quien eres, dilo de verdad en tu vida y en tu trabajo, dile a alguien que está perdido ahí fuera, alguien que aún no ha nacido, alguien que nacerá en 500 años, tus escritos serán un registro de tu tiempo, no se puede evitar, pero lo más importante es que si eres con honesto con respecto a quién eres, ayudarás a esa persona a estar menos sola en su mundo, porque te reconocerá en él o ella y eso les dará esperanza y a mi me la ha dado, y tengo que seguir redescubriendo su vital importancia."
+"Di quien eres, dilo de verdad en tu vida y en tu trabajo, dile a alguien que está perdido ahí fuera, alguien que aún no ha nacido, alguien que nacerá en 500 años, tus escritos serán un registro de tu tiempo, no se puede evitar, pero lo más importante es que si eres con honesto con respecto a quién eres, ayudarás a esa persona a estar menos sola en su mundo, porque te reconocerá en él o ella y eso les dará esperanza y a mi me la ha dado, y tengo que seguir redescubriendo su vital importancia."
 
 -Charlie Kaufman
 
