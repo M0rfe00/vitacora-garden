@@ -22,7 +22,7 @@ ___
 > [!info]- Sobre la segunda colección
 > En esta colección no seguí una estética general y unificada, sino que me enfoqué en desarrollar varios conjuntos completos e independientes, mis inspiraciones fueron conjuntos tradicionales orientales, conjuntos cortesanos europeos y la reinterpretación de algunos de mis diseños anteriores.<br><br>Pese a ser una colección heterogénea creo haber conseguido cierta cohesión en ella y estoy bastante orgulloso de los diseños y patrones. 
 <br><br>
-
+<!--
 # Mockups 1st collection/medieval collection
 ___
 <div class="galeria">
@@ -34,6 +34,7 @@ ___
 > [!info]- Sobre estos Mockups
 > Hasta el momento todos los diseños que habia realizado partian de conceptos clave que tenia en la cabeza y luego trataba de recrear por drafting hasta conseguir el prototipo definitivo, por ello quise explorar otras formas y decidi practicar el diseño de mockups para utilizarlos como referencia.
 <br><br>
+-->
 
 # Mini-Collection: Medieval-wear
 ___
