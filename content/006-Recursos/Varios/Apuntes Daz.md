@@ -8,33 +8,33 @@ ___
 ### **How to create textures from scratch**
 
 ##### **BLENDER/DAZ:** Exportar el personaje y las texturas
-1) Export a character from Daz to Blender<br>
+1) Export a character from Daz to Blender
 
 2) In Blender adjust World properties:
 	- Surface>Sampling: Manual
-	- Surface>Map Resolution & Max Bounces: 512 <br>
+	- Surface>Map Resolution & Max Bounces: 512
 
-3) En los materiales de la cara mantener solo el "Diffuse Map" y eliminar el resto, para crear nuevas texturas a partir de esta.   <br>
+3) En los materiales de la cara mantener solo el "Diffuse Map" y eliminar el resto, para crear nuevas texturas a partir de esta.
 
-4) En Texture Paint guardar una copia del mapa de la cara en un nuevo directorio<br>
+4) En Texture Paint guardar una copia del mapa de la cara en un nuevo directorio
 
 ##### **PHOTOSHOP:** Crear Bump, Normal, Roughness, Ambien Occlusion & SSS Textures 
-5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.<br>
+5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.
 
-6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle).<br>
+6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle).
 
-7) **Bump:** Filter>3D>Generate Height Map, check "Invert box" y modificar ajustes para detallar (escala de detalle), aumentar el contraste con "Curvas" para afilar detalles.<br>
+7) **Bump:** Filter>3D>Generate Height Map, check "Invert box" y modificar ajustes para detallar (escala de detalle), aumentar el contraste con "Curvas" para afilar detalles.
 
-8) **Roughness:** Image>Regulations>Remove Saturation + Image>Regulations>Invert, utilizar curvas para aumentar el contraste<br>
+8) **Roughness:** Image>Regulations>Remove Saturation + Image>Regulations>Invert, utilizar curvas para aumentar el contraste
 
-9) **New Diffuse:** Image>Regulation>Curves: Aumentar el contraste del Deffuse original para crear un nuevo Diffuse Map más detallado.<br>
+9) **New Diffuse:** Image>Regulation>Curves: Aumentar el contraste del Deffuse original para crear un nuevo Diffuse Map más detallado.
 
-10) **Subsurface Scatter:** Renombrar la textura original como SSS<br>
+10) **Subsurface Scatter:** Renombrar la textura original como SSS
 
-11) **Ambient Occlusion:** Duplicar la textura SSS, Image>Regulations>Remove Saturation + Image>Regulations>Invert + Aumentar contraste con curvas. Con un pincel blanco (855px, Dureza 0%, Opacidad 14%) aclarar las zonas alrededor de los ojos, nariz, boca y orejas (1/2 toques por zona)<br>
+11) **Ambient Occlusion:** Duplicar la textura SSS, Image>Regulations>Remove Saturation + Image>Regulations>Invert + Aumentar contraste con curvas. Con un pincel blanco (855px, Dureza 0%, Opacidad 14%) aclarar las zonas alrededor de los ojos, nariz, boca y orejas (1/2 toques por zona)
 
 12) Specular: ??? (Invert+contrast?) (the original?)
-- Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender<br>
+- Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender
 
 ##### **BLENDER:** Texturize the character 
 
@@ -44,16 +44,18 @@ ___
 	- **SSS:** Color Space - sRGB. -> SSSBlue & SSSRed
 	- **Roughness:** Color Space - Non-Color. -> Dual Lobe Specular & Specular Lobe
 	- **Diffuse:** Reemplazar el original por el nuevo saturado ->Hue Saturation Value (0.0.0.1)
-	- **Ambient Occlusion & Diffuse:** Color ->Mix (Multiply) -> Diffuse Texture<br>
+	- **Ambient Occlusion & Diffuse:** Color ->Mix (Multiply) -> Diffuse Texture
 
 
-14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.<br>
+14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.
 
-15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).<br>
+15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).
 
-- Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona) <br>
-- Esculpir algunos detalles en la cara para definirla y detallarla, también se pueden alargar las pestañas seleccionándolas y usando el pincel "Snake hook" en Sculp Mode<br>
-- Se puede editar la cantidad de roughness en Texture Paint, pintando de negro donde se quiera destacar como pómulos, labios o nariz (Guardar siempre la textura después de modificarla)<br>
+- Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona)
+
+- Esculpir algunos detalles en la cara para definirla y detallarla, también se pueden alargar las pestañas seleccionándolas y usando el pincel "Snake hook" en Sculp Mode
+
+- Se puede editar la cantidad de roughness en Texture Paint, pintando de negro donde se quiera destacar como pómulos, labios o nariz (Guardar siempre la textura después de modificarla)
 
 
  ##### **RENDER SETTINGS:**
@@ -61,6 +63,7 @@ ___
  - **Samples:** 2000
  - **Tile Size:** 256px
  - **Resolution:** 2000x2000px
+ - 
 # MAKE UP
 ___
 
@@ -117,6 +120,38 @@ También es posible que falte el material de "Tears" llamado "Tear opacity.jpg" 
 
 # BLENDER & POST
 ___
+### **BEST RENDER SETTINGS FOR PORTRAITS**
+
+##### **Camera Tips:** 
+- **Focal Length** Colocar la cámara lejos del sujeto y aumentar la distancia focal
+- **Position:** **Location:** X/0cm, Y/-282cm, Z/161cm || **Rotation:** X/90º
+- Añadir Profundidad de campo, definiendo la distancia de forma que el enfoque quede en la cara y las orejas desenfocadas, se puede reducir el "F stop" para reducir el desenfoque  
+- **Background** Mantener el fondo simple con un color solido ayuda a centrar la atención el el sujeto, para ello en el panel "World" modificar el nodo "Background"
+![[Camera Focal.png]]
+
+##### **Render Settings:
+- **Render Engine:** Cycles
+- **Feature Set:** Supported
+- **Device:** GPU Compute
+
+- **Format:**
+	- Resolution: 2160x2700px (2x Instagram size)
+
+- **Sampling:**
+	- **Samples:** cuantos más mejor, pero para evitar crasheos, mantenerlos entre 200 y 2000
+
+- **Light Paths:** puede aumentar la calidad del render pero también ralentizarlo mucho (aumentarlo solo lo necesario). 
+	- **Transmission:** Necesario si hay muchos objetos de cristal, aumentar un poco y ver poco se ve en el viewport
+	- **Volume:** Necesario aumentar si hay nubes, humo, fuego... 
+	- **Transparent:** Necesario aumentar en casos como pelo complejo, aprox 40
+
+ - **Performance>:**
+	 - Memory: "Use Tiling" 
+	 - Memory>Tile Size: 256
+
+- **Color Management:** permite cambiar el contraste, espacio de color...
+
+![[Raw Render + Edit.png]]
 
 # IMPORT - EXPORT
 ___
