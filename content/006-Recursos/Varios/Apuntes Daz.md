@@ -78,43 +78,44 @@ Al importar el personaje Genesis 8 de Daz  a Blender, los ojos aparecen en blanc
 También es posible que falte el material de "Tears" llamado "Tear opacity.jpg" que se conecta a Alpha
 
 **Tears Materials:**
-- Metallic: 0
-- Roughness: 0
-- IOR = 0
-- Alpha: Opacity Map
-- Normal: Normal Map
-- Specular>IOR: 1
-- Transmission>Weight: 1 
-- Emission>Strength: 1 /Color (black & Opacity:1)
+- **Metallic:** 0
+- **Roughness:** 0
+- **IOR** = 0
+- **Alpha:** Opacity Map
+- **Normal:** Normal Map
+- **Specular>IOR:** 1
+- **Transmission>Weight:** 1 
+- **Emission>Strength:** 1 /**Color** (black & Opacity:1)
 
 **Sclera, Pupils & Irises Materials:**
-- Metallic: 0
-- Roughness: 0.03
-- IOR = 1.5
-- Alpha: 0.995
-- Specular>IOR: 0.007
-- Sheen>Weight/Roughness: 0.5
-- Transmission>Weight: 1 
-- Emission>Strength: 1 / >Color (black & Opacity: 1)
+- **Metallic:** 0
+- **Roughness:** 0.03
+- **IOR** = 1.5
+- **Alpha:** 0.995
+- **Specular>IOR:** 0.007
+- **Sheen>Weight**/**Roughness:** 0.5
+- **Transmission>Weight:** 1 
+- **Emission>Strength:** 1 / >**Color** (black & Opacity: 1)
 
 **Cornea & Eye Moisture Materials:**
-- Metallic: 0.1/1
-- Roughness: 0.07/0.057
-- IOR = 1.5
-- Alpha: 0.995
-- Specular>IOR: 0.5
-- Transmission>Weight: 1 
-- Emission>Strength: 1 / >Color (black & Opacity: 0.1)
+- **Metallic:** 0.1/1
+- **Roughness:** 0.07/0.057
+- **IOR** = 1.5
+- **Alpha:** 0.995
+- **Specular>IOR:** 0.5
+- **Transmission>Weight:** 1 
+- **Emission>Strength:** 1 / >**Color** (black & Opacity: 0.1)
 
 #### **Fantasy Eyes**
-1) Corregir los ojos al exportar el personaje a Blender (no specular and very little roughness)
-2) En Texture Paint guardar y copiar "Eyes Diffuse Texture"
-3) En Photoshop abrir un archivo de 4096x4096 px e importar la textura
-4) Editar la textura (color iris, tamaño, añadir detalles...)
-5) Usar Camera raw Filter para aumentar el detalle original de la textura
-6) Exportar la nueva Textura como PNG 
-7) Crear el Bump en Filter>3D>Generate Bump Map, ajustar el contraste con curvas y la textura con camera raw filter y exportar.
-8) Aplicar las nuevas texturas a los materiales de Sclera, Iris and Pupils 
+1) **Corregir los ojos** al exportar el personaje a Blender (**no specular** and very little **roughness**).
+2) En **Texture Paint** guardar y copiar "Eyes Diffuse Texture".
+3) En **Photoshop** abrir un archivo de 4096x4096 px e importar la textura.
+4) **Editar la textura** (color iris, tamaño, añadir detalles...).
+5) Usar **Camera raw Filter** para aumentar el detalle original de la textura.
+6) **Exportar** la nueva Textura como PNG.
+7) **Crear Normal** en Filter>3D>Generate Normal Map.
+8) **Crear el Bump** en Filter>3D>Generate Bump Map, ajustar el contraste con curvas y la textura con camera raw filter y exportar.
+9) **Aplicar las nuevas texturas** a los materiales de Sclera, Iris and Pupils.
 	- (Difuse color space - sRGB) (Bump and Normal maps - Non-Color)
 
 
