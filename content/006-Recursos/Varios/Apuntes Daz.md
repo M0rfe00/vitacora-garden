@@ -8,33 +8,23 @@ ___
 ### **How to create textures from scratch**
 
 ##### **BLENDER/DAZ:** Exportar el personaje y las texturas
-1) Export a character from Daz to Blender
-
+1) Export a character from Daz to Blender<br>
 2) In Blender adjust World properties:
 	- Surface>Sampling: Manual
-	- Surface>Map Resolution & Max Bounces: 512 
-
-3) En los materiales de la cara mantener solo el "Diffuse Map" y eliminar el resto, para crear nuevas texturas a partir de esta.   
-
-4) En Texture Paint guardar una copia del mapa de la cara en un nuevo directorio
+	- Surface>Map Resolution & Max Bounces: 512 <br>
+3) En los materiales de la cara mantener solo el "Diffuse Map" y eliminar el resto, para crear nuevas texturas a partir de esta.   <br>
+4) En Texture Paint guardar una copia del mapa de la cara en un nuevo directorio<br>
 
 ##### **PHOTOSHOP:** Crear Bump, Normal, Roughness, Ambien Occlusion & SSS Textures 
-5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.
-
-6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle).
-
-7) **Bump:** Filter>3D>Generate Height Map, check "Invert box" y modificar ajustes para detallar (escala de detalle), aumentar el contraste con "Curvas" para afilar detalles.
-
-8) **Roughness:** Image>Regulations>Remove Saturation + Image>Regulations>Invert, utilizar curvas para aumentar el contraste
-
-9) **New Diffuse:** Image>Regulation>Curves: Aumentar el contraste del Deffuse original para crear un nuevo Diffuse Map más detallado
-
-10) **Subsurface Scatter:** Renombrar la textura original como SSS
-
-11) **Ambient Occlusion:** Duplicar la textura SSS, Image>Regulations>Remove Saturation + Image>Regulations>Invert + Aumentar contraste con curvas. Con un pincel blanco (855px, Dureza 0%, Opacidad 14%) aclarar las zonas alrededor de los ojos, nariz, boca y orejas (1/2 toques por zona)
-
+5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.<br>
+6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle).<br>
+7) **Bump:** Filter>3D>Generate Height Map, check "Invert box" y modificar ajustes para detallar (escala de detalle), aumentar el contraste con "Curvas" para afilar detalles.<br>
+8) **Roughness:** Image>Regulations>Remove Saturation + Image>Regulations>Invert, utilizar curvas para aumentar el contraste<br>
+9) **New Diffuse:** Image>Regulation>Curves: Aumentar el contraste del Deffuse original para crear un nuevo Diffuse Map más detallado.<br>
+10) **Subsurface Scatter:** Renombrar la textura original como SSS<br>
+11) **Ambient Occlusion:** Duplicar la textura SSS, Image>Regulations>Remove Saturation + Image>Regulations>Invert + Aumentar contraste con curvas. Con un pincel blanco (855px, Dureza 0%, Opacidad 14%) aclarar las zonas alrededor de los ojos, nariz, boca y orejas (1/2 toques por zona)<br>
 12) Specular: ??? (Invert+contrast?) (the original?)
-- Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender
+- Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender<br>
 
 ##### **BLENDER:** Texturize the character 
 
@@ -44,19 +34,15 @@ ___
 	- **SSS:** Color Space - sRGB. -> SSSBlue & SSSRed
 	- **Roughness:** Color Space - Non-Color. -> Dual Lobe Specular & Specular Lobe
 	- **Diffuse:** Reemplazar el original por el nuevo saturado ->Hue Saturation Value (0.0.0.1)
-	- **Ambient Occlusion & Diffuse:** Color ->Mix (Multiply) -> Diffuse Texture
+	- **Ambient Occlusion & Diffuse:** Color ->Mix (Multiply) -> Diffuse Texture<br>
 
-14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.
-
-15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).
-
-- Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona) 
-
-- Esculpir algunos detalles en la cara para definirla y detallarla, también se pueden alargar las pestañas seleccionándolas y usando el pincel "Snake hook" en Sculp Mode
-
+14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.<br>
+15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).<br>
+- Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona) <br>
+- Esculpir algunos detalles en la cara para definirla y detallarla, también se pueden alargar las pestañas seleccionándolas y usando el pincel "Snake hook" en Sculp Mode<br>
 - Se puede editar la cantidad de roughness en Texture Paint, pintando de negro donde se quiera destacar como pómulos, labios o nariz (Guardar siempre la textura después de modificarla)
 
- **RENDER SETTINGS:**
+ ##### **RENDER SETTINGS:**
  - **Engine:** Cycles
  - **Samples:** 2000
  - **Tile Size:** 256px
