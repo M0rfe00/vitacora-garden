@@ -49,7 +49,7 @@ ___
 
 14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.
 
-15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).
+15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).**
 
 - Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona)
 
@@ -129,7 +129,7 @@ ___
 - **Background** Mantener el fondo simple con un color solido ayuda a centrar la atención el el sujeto, para ello en el panel "World" modificar el nodo "Background"
 ![[Camera Focal.png]]
 
-##### **Render Settings:
+##### **Render Settings:**
 - **Render Engine:** Cycles
 - **Feature Set:** Supported
 - **Device:** GPU Compute
