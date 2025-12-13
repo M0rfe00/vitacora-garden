@@ -20,16 +20,24 @@ ___
 
 **PHOTOSHOP:** Crear Bump, Normal, Roughness, Ambien Occlusion & SSS Textures 
 5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.
-6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle)
+
+6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle).
+
 7) **Bump:** Filter>3D>Generate Height Map, check "Invert box" y modificar ajustes para detallar (escala de detalle), aumentar el contraste con "Curvas" para afilar detalles.
+
 8) **Roughness:** Image>Regulations>Remove Saturation + Image>Regulations>Invert, utilizar curvas para aumentar el contraste
+
 9) **New Diffuse:** Image>Regulation>Curves: Aumentar el contraste del Deffuse original para crear un nuevo Diffuse Map más detallado
+
 10) **Subsurface Scatter:** Renombrar la textura original como SSS
+
 11) **Ambient Occlusion:** Duplicar la textura SSS, Image>Regulations>Remove Saturation + Image>Regulations>Invert + Aumentar contraste con curvas. Con un pincel blanco (855px, Dureza 0%, Opacidad 14%) aclarar las zonas alrededor de los ojos, nariz, boca y orejas (1/2 toques por zona)
+
 12) Specular: ??? (Invert+contrast?) (the original?)
 - Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender
 
 **BLENDER:** Texturize the character 
+
 13) En los materiales de la cara; añadir un nodos de imagen, seleccionar los mapas creados y conectarlos a un IrayUberSkin en vez de a un Principled BSDF.
 	- Normal: Color Space - Non-Color. ->Normal
 	- Bump: Color Space - Non-Color. -> Bump Strength & Displacement
@@ -38,10 +46,9 @@ ___
 	- Diffuse: Reemplazar el original por el nuevo saturado ->Hue Saturation Value (0.0.0.1)
 	- Ambient Occlusion & Diffuse: Color ->Mix (Multiply) -> Diffuse Texture
 
-14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket
+14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.
 
-15)  **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS)
-
+15) **REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).
 
 - Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona) 
 
