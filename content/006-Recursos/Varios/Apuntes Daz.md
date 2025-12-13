@@ -7,7 +7,7 @@ ___
 ___
 ### **How to create textures from scratch**
 
-**BLENDER/DAZ:** Exportar el personaje y las texturas
+##### **BLENDER/DAZ:** Exportar el personaje y las texturas
 1) Export a character from Daz to Blender
 
 2) In Blender adjust World properties:
@@ -18,7 +18,7 @@ ___
 
 4) En Texture Paint guardar una copia del mapa de la cara en un nuevo directorio
 
-**PHOTOSHOP:** Crear Bump, Normal, Roughness, Ambien Occlusion & SSS Textures 
+##### **PHOTOSHOP:** Crear Bump, Normal, Roughness, Ambien Occlusion & SSS Textures 
 5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.
 
 6) **Normal:** Filter>3D>Generate Normal Map, check "Invert box" y modificar ajustes para detallar (escala de detalle).
@@ -36,15 +36,15 @@ ___
 12) Specular: ??? (Invert+contrast?) (the original?)
 - Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender
 
-**BLENDER:** Texturize the character 
+##### **BLENDER:** Texturize the character 
 
 13) En los materiales de la cara; añadir un nodos de imagen, seleccionar los mapas creados y conectarlos a un IrayUberSkin en vez de a un Principled BSDF.
-	- Normal: Color Space - Non-Color. ->Normal
-	- Bump: Color Space - Non-Color. -> Bump Strength & Displacement
-	- SSS: Color Space - sRGB. -> SSSBlue & SSSRed
-	- Roughness: Color Space - Non-Color. -> Dual Lobe Specular & Specular Lobe
-	- Diffuse: Reemplazar el original por el nuevo saturado ->Hue Saturation Value (0.0.0.1)
-	- Ambient Occlusion & Diffuse: Color ->Mix (Multiply) -> Diffuse Texture
+	- **Normal:** Color Space - Non-Color. ->Normal
+	- **Bump:** Color Space - Non-Color. -> Bump Strength & Displacement
+	- **SSS:** Color Space - sRGB. -> SSSBlue & SSSRed
+	- **Roughness:** Color Space - Non-Color. -> Dual Lobe Specular & Specular Lobe
+	- **Diffuse:** Reemplazar el original por el nuevo saturado ->Hue Saturation Value (0.0.0.1)
+	- **Ambient Occlusion & Diffuse:** Color ->Mix (Multiply) -> Diffuse Texture
 
 14) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.
 
