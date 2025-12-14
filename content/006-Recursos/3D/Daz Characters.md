@@ -1,8 +1,3 @@
-
-
-# AVATAR CREATION
-___
-
 # SKIN
 ___
 ### **How to create textures from scratch**
@@ -64,16 +59,11 @@ ___
  - **Tile Size:** 256px
  - **Resolution:** 2000x2000px
  - 
-# MAKE UP
-___
-
-
 
 # EYES
 ___
 ![[EYE-Parts.jpg]]
 #### **How to fix white daz eyes in blender:**
-
 Al importar el personaje Genesis 8 de Daz  a Blender, los ojos aparecen en blanco, para solucionarlo:
 También es posible que falte el material de "Tears" llamado "Tear opacity.jpg" que se conecta a Alpha
 
@@ -106,7 +96,7 @@ También es posible que falte el material de "Tears" llamado "Tear opacity.jpg" 
 - **Transmission>Weight:** 1 
 - **Emission>Strength:** 1 / >**Color** (black & Opacity: 0.1)
 
-#### **Fantasy Eyes**
+#### **Custom Eyes**
 1) **Corregir los ojos** al exportar el personaje a Blender (**no specular** and very little **roughness**).
 2) En **Texture Paint** guardar y copiar "Eyes Diffuse Texture".
 3) En **Photoshop** abrir un archivo de 4096x4096 px e importar la textura.
@@ -119,102 +109,21 @@ También es posible que falte el material de "Tears" llamado "Tear opacity.jpg" 
 	- (Difuse color space - sRGB) (Bump and Normal maps - Non-Color)
 
 
-# BLENDER & POST
+# MAKE UP
 ___
-### **BEST RENDER SETTINGS FOR PORTRAITS**
-
-##### **Camera Tips:** 
-- **Focal Length** Colocar la cámara lejos del sujeto y aumentar la distancia focal
-- **Position:** **Location:** X/0cm, Y/-282cm, Z/161cm || **Rotation:** X/90º
-- Añadir Profundidad de campo, definiendo la distancia de forma que el enfoque quede en la cara y las orejas desenfocadas, se puede reducir el "F stop" para reducir el desenfoque  
-- **Background** Mantener el fondo simple con un color solido ayuda a centrar la atención el el sujeto, para ello en el panel "World" modificar el nodo "Background"
-![[Camera Focal.png]]
-
-##### **Render Settings:**
-- **Render Engine:** Cycles
-- **Feature Set:** Supported
-- **Device:** GPU Compute
-
-- **Format:**
-	- Resolution: 2160x2700px (2x Instagram size)
-
-- **Sampling:**
-	- **Samples:** cuantos más mejor, pero para evitar crasheos, mantenerlos entre 200 y 2000
-
-- **Light Paths:** puede aumentar la calidad del render pero también ralentizarlo mucho (aumentarlo solo lo necesario). 
-	- **Transmission:** Necesario si hay muchos objetos de cristal, aumentar un poco y ver poco se ve en el viewport
-	- **Volume:** Necesario aumentar si hay nubes, humo, fuego... 
-	- **Transparent:** Necesario aumentar en casos como pelo complejo, aprox 40
-
- - **Performance>:**
-	 - Memory: "Use Tiling" 
-	 - Memory>Tile Size: 256
-
-- **Color Management:** permite cambiar el contraste, espacio de color...
-
-![[Raw Render + Edit.png]]
-
-##### **Render Settings - Tile Size comparison GPU/CPU:**
-**Best for GPU Renders:**
-- **Tile size:** 256x256 px
-- **Sample Range:** 500-1500
-
-**Best for CPU Renders:**
-- **Tile size:** 32x32
-- **Sample range:** 500-1500
-
-### **Lightning in Blender**
-##### **How to light a scene:** 
-1) HDRI (0.1 Strength).
-2) Soft area light on face.
-3) Another area light - brighter. Focus on the side not facing the camera.
-4) Duplicate. Reveal some more of the face.
-5) Very large area light from above. For the general more.
-6) Add as many area lights needed. Face away from the character, to light up the background a little.
-7) Bubbles, dust or general noise into the scene.
-8) Very imporant. Volume (fog) to scatter these light for a softer look
-
-##### **Preview Tips:**
-- **Viewport:** reducir los Samples (200 aprox) y activar Denoise para agilizar el proceso
-- **Render:** Aumentar Samples (4096 aprox) esto aumenta el tiempo pero también la calidad del render (ajustar a la complejidad de la imagen, a más simple menos Samples)
-- **Format Resolution:** la resolución y duración de renderizado dependerá de la complejidad de la escena
-
-#### **Tipos de iluminación en Blender:**
-
-##### **Lightning with HDR:**
-- Los HDR son iluminaciones globales que replican iluminaciones de entornos reales como estudios, habitaciones, fabricas.
-
-- Algunos paginas para conseguir HDRs son: www.texutes.com www.polyheaven.com
-
-1) En "Shader Editor" seleccionar el tipo "World"
-2) Clicar en el Nodo "Background" y hacer Ctrl+T para añadir los nodos necesarios
-3) Seleccionar el archivo HDR en el nodo "Enviorment Texture"
-4) Modificar el valor de los nodos para generar diferentes iluminaciones
 
 
-##### **Lightning with Sky Texture:**
-- Los Sky Textures son muy parecidos a los HDR pero permiten mayor modificación y posibilidades como crear nible, rayos de luz. 
-
-- Permiten modificar el tamaño del sol, intensidad, altitud, rotación, añadir aire, polvo, atmosfera
-
-1) En "Shader Editor" seleccionar el tipo "World"
-2) Conectar un nodo "Sky Texture" al color del Nodo "Background" 
-3) Modificar el valor de los nodos para generar diferentes iluminaciones
+# AVATAR CREATION
+___
 
 
-##### **Lightning with Lamps:**
-1) En el 3D Viewport Shif+A>Light y elegir entre los 4 tipos de lampara (Point, Sun, Spot, Area)
-
-- **Point light:** Se utiliza para iluminar secciones especificas de la escena, es general ya que ilumina en todas las direcciones.
-- **Sun light:** Es similar a Sky Texture sin embargo, ofrece menos posibilidades, ambas funcionan para crear un ambiente volumétrico. Para cambiar los parámetros del sol hay que hacerlo desde el panel de propiedades; color, intensidad, ángulo de incidencia.
-- **Spot light:** Es una luz direccional, como una lampara de techo, sirve para acentuar ciertos lugares de la escena.
-- **Area light:** lampara cuadrada que ofrece muchas posibilidades, su luz afecta de forma muy diferente según su tamaño
 
 # IMPORT - EXPORT
 ___
 ### **Import-Export Fotmats**
 ![[3D Formats.jpg]]
-
+- Generalmente para exportar un personaje a cualquier software, si no tiene animaciones, es mejor Obj,  ya que es más estable y guardara todas las texturas en un directorio aparte.
+- FBX también puede usarse, pero a veces no es completamente preciso al exportar poses, animaciones.
 ### **Import Daz to Blender**
 1) Export Daz: Seleccionar el personaje, seleccionar File>Send To> Daz to Blender
 2) Seleccionar la versión de Blender y clicar en instalar Pluggin
@@ -261,8 +170,10 @@ ___
 4) Para importar en Blender hay que importar el Obj del personaje y cambiar de split a keep en los ajustes
 	![[Pasted image 20251213183719.png]]
 5) Paña añadir la animación al personaje importado: añadir el modificador "MeshCache" y en file path seleccionar el archivo de animación "mdd" exportado antes
-
-
+6) 
+### **Exportar animaciones con Sagan**
+- Ir a la pagina de [Sagan](https://www.daz3d.com/forums/discussion/428856/sagan-a-daz-to-blender-alembic-exporter?srsltid=AfmBOor8S41RtEQNddSyJ1f4cPXYpcH97AsVkIh2VfVqRsVLTY9L0qkd) es la web de Daz y descargar el programa.
+- Este exportador bakea toda la animación, sin embargo, no permite modificar la mesh en blender.
 
 # ANIMATION
 ___
@@ -275,32 +186,6 @@ ___
 
 Creating Virtual Characters and Avatars (Using Daz 3D and Blender) - Suitable for Beginners
 ___
-### 1. Daz Studio Interface:
-- Como abrir y cerrar los paneles
-- Modificar los viewports y tipos de vista
-- Los apartados básicos de cada panel
-- Como moverse en el viewport
-
-### 2. Genesis Figures:
-- Como añadir una figura
-- Se tiene acceso a los básicos de Genesis 3, 8 y 9 
-- Ver los elementos de la escena en el panel lateral
-### 3. Daz Store:
-- Los morph packs son muy útiles para principiantes 
-- Recomendado (Genesis 9 Essential Shapes Bundle) y (200 Plus Genesis 9 Edition)
-### 4. Customising the Character:
-- Usar los sliders de "Shaping" para modificar al personaje
-- Cambiar la piel
-- Cambiar la pose
-- Tener en cuenta que siempre se vera más detallado de como será definitivamente al exportar
-### 5. Exporting from Daz:
-- Diagrama de formatos adecuados para cada Software
-- Sagan: software de terceros que permite exportar animaciones de Daz a otros
-- Daz to Blender: como el rig de Daz es un poco malo sirve de puente entre los dos programas
-### 6. Blender Interface:
-- Como importar
-- Como modificar los mapas y ver las texturas
-- Buscar HRIs en Poly Heaven
 ### 7. Material Setup:
 - Corregir los materiales
 - Corregir las texturas
@@ -313,21 +198,3 @@ ___
 - Noise threshols off
 - Samples 200
 - Transparent 70
-
-Improving my Followers 3D Blender Renders
-___
-### 0. Daz Store:
-**Manicura/Uñas:**
-- FK Manicure Muse Morphs and Materials for Genesis 9 MR Bundle
-- FK Manicure Muse Morphs for Genesis 9
-
-**Basicos:**
-- 200 Plus Genesis 9 Edition
-- Genesis 9 Essential Shapes Bundle
-
-**Piel/Skin:**
-- Skin Builder 8 for Genesis 8 Female(s)
-	-Permite crear texturas de piel, pero solo esta para pieles femeninas
-
-- Genesis 8 UV Swap: Male and Female Base
-	-Permite pasar UVs de las pieles femeninas a avatares masculinos
