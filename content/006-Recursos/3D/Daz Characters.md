@@ -109,6 +109,7 @@ También es posible que falte el material de "Tears" llamado "Tear opacity.jpg" 
 	- (Difuse color space - sRGB) (Bump and Normal maps - Non-Color)
 
 
+
 # MAKE UP
 ___
 
@@ -116,85 +117,5 @@ ___
 # AVATAR CREATION
 ___
 
-
-
-# IMPORT - EXPORT
-___
-### **Import-Export Fotmats**
-![[3D Formats.jpg]]
-- Generalmente para exportar un personaje a cualquier software, si no tiene animaciones, es mejor Obj,  ya que es más estable y guardara todas las texturas en un directorio aparte.
-- FBX también puede usarse, pero a veces no es completamente preciso al exportar poses, animaciones.
-### **Import Daz to Blender**
-1) Export Daz: Seleccionar el personaje, seleccionar File>Send To> Daz to Blender
-2) Seleccionar la versión de Blender y clicar en instalar Pluggin
-3) Activar el Pluggin en Blender Edit>Preferences>Add-ons>Import-Export: DazToBlender
-
-4) Export Daz: seleccionar File>Send To> Daz to Blender
-5) Import Blender: Selecionar el Pluggin en la barra lateral y clicar "Import New Genesis figure"
-
-6) En Pose Tools seleccionar el personaje que se quiere posar y clicar "Import Pose"
-	Todas las poses de DAZ, gratuitas y de pago se almacenan en un directorio en archivos .duf
-	- ruta ejemplo: /My Daz 3D Library/People/Genesis 8 Female/Poses
-7) Para modificar el personaje sin borrar la pose se puede desactivar temporalmente en Object Data Properties > Reset Position/Pose Postition
-
-### **Import Pose Daz to Blender w/ Diffeomorphic**
-1) Ir a https://diffeomorphic.blogspot.com/
-2) Clicar en el enlace de DAZ Importer para descargar los recursos (Add-on + Script)
-3) Para instalar el Script en Daz copiar el contenido de la capeta Script dentro del zip al directorio Script en "My Daz Library"
-4) Para instalar el Add-on en Blender Edit>Preferences>Install y seleccionar el Zip descargado y aparecerá Daz Setup y Daz Runtime
-5) Para activar el Script en Daz: Smart Content>Content DB Mantenance>Re-import Metadata
-6) Para exportar: File>Export HD to Blender / Content Library .../Scripts:
-	1) Seleccionar Save Paths y elegir un directorio para los archivos del personaje
-	2) Guardar el archivo en la misma carpeta (File>Save as)
-	3) Seleccionar Export Blender y guardar en la misma carpeta
-7) En Blender seleccionar Daz Setup>Easy Import Daz y seleccionar el archivo .duf guardado en la carpeta anterior.
-8) Para modificar el rig a uno adecuado para blender: Daz Setup>Convert To MHX
-9) Para acceder a la animación facial: Daz Runtime>Morph>Face Units
-10) Para modificar la pose; Selccionar armadura/rig y entrar en Pose Mode
-11) Para agilizar el proceso de animación se puede añadir el modificador Subsurface y bajar el nivel a 0 solo en el viewport para que al renderizar se vea bien
-### **Retarget w/ Diffeomorphic**
-1) Ir a https://diffeomorphic.blogspot.com/
-2) Clicar en el enlace de BVH and FBX Retargeter para descargar el add-on para Blender
-3) Al instalar este add-on aparecera el panel BVH que permite importar archivos FBX como animaciones de [mixamo](https://www.mixamo.com/) y utilizarlas en el personaje de Daz
-4) Para importar la animación: BVH>Load BVH or FBX File y seleccionar el archivo
-5) Para Retargetear: seleccionar el rig animado, el rig del personaje de Daz y clicar en BVH>Retarget Selected To Active 
-6) Si hay problemas con el Mesh de la ropa se puede solucionar en Esculpt Mode>Elastic Deform
-- Wonder Studios (https://app.wonderdynamics.com/): analiza el movimiento de videos y genera FBX que pueden importarse al personaje
-
-### **How to import animations from Daz to Blender**
-1) Para exportar se usa un pluggin interno de Daz: "aniMate2"
-2) Seleccionar el personaje, File>Export como Obj ![[Pasted image 20251213183325.png]]
-3) Exportar en la misma carpeta anterior en formato mdd
-	![[Pasted image 20251213183502.png]]
-
-4) Para importar en Blender hay que importar el Obj del personaje y cambiar de split a keep en los ajustes
-	![[Pasted image 20251213183719.png]]
-5) Paña añadir la animación al personaje importado: añadir el modificador "MeshCache" y en file path seleccionar el archivo de animación "mdd" exportado antes
-6) 
-### **Exportar animaciones con Sagan**
-- Ir a la pagina de [Sagan](https://www.daz3d.com/forums/discussion/428856/sagan-a-daz-to-blender-alembic-exporter?srsltid=AfmBOor8S41RtEQNddSyJ1f4cPXYpcH97AsVkIh2VfVqRsVLTY9L0qkd) es la web de Daz y descargar el programa.
-- Este exportador bakea toda la animación, sin embargo, no permite modificar la mesh en blender.
-
 # ANIMATION
 ___
-
-
-
-
-___
-# Harriet Davey:
-
-Creating Virtual Characters and Avatars (Using Daz 3D and Blender) - Suitable for Beginners
-___
-### 7. Material Setup:
-- Corregir los materiales
-- Corregir las texturas
-- Corregir ojos y pestañas (min 32)
-- Blender Kit: Muy util para encontrar materiales
-### 8. Render setting:
-- Ajustar la resolución
-- Ruta output
-- Color management AgX
-- Noise threshols off
-- Samples 200
-- Transparent 70
