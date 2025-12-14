@@ -1,7 +1,6 @@
-# Esquemas de iluminación
-___
-## **Propiedades de la Luz**
 
+# **Propiedades de la Luz**
+____
 ##### **Dureza:** 
 La dureza de la luz puede ser determinante para darle a nuestro retrato el aspecto que queremos 
 - Una luz más dura nos proporcionará retratos más agresivos, dramáticos o potentes.  
@@ -24,6 +23,42 @@ La [temperatura de color](https://www.dzoom.org.es/la-temperatura-del-color/) 
 Dependiendo de la dirección y angulación en la que la luz incida sobre nuestro sujeto, su cara puede cambiar de manera radical. En eso se basan los esquemas de iluminación.
 
 
+## **Nociones sobre iluminación**
+##### **Ley de la inversa del cuadrado de la distancia**
+A medida que un sujeto se aleje de la fuente emisora de luz, la intensidad de dicha luz va a disminuir en relación inversa al cuadrado de la distancia.
+
+En caso de querer conseguir un fondo oscuro, habrá que poner al sujeto muy lejos del fondo. Al alejar la fuente de luz del sujeto, se disminuye la intensidad de luz que le llega y todo estará más oscuro.
+
+En resumen, cuanto más se aleja la luz, la intensidad va disminuyendo más y más, de manera exponencial.
+
+![[Pasted image 20251214184636.png]]
+
+##### **Direccionalidad**
+La direccionalidad afecta mucho sobre un sujeto, ya que con ella cambiamos cómo le llega la luz.
+
+No es lo mismo tener una luz frontal y que pega directamente sobre el rostro de un sujeto, que tener una fuente de luz emisora a 45º, como ya hemos visto. Esto cambia radicalmente el mensaje que se quiere transmitir con el retrato.
+
+##### **Luz Dura vs Luz Suave**
+**La luz dura** ofrece sombras muy marcadas y habrá transiciones muy rápidas entre las partes que están en sombra y aquellas que estén iluminadas.
+
+**La luz suave**, no creará sombras tan duras y las transiciones entre zonas iluminadas y sombreadas van a ser muy ligeras y sutiles.
+
+Ambas luces se consiguen teniendo en cuenta el tamaño relativo de la fuente de luz y la distancia de la fuente de luz respecto a la persona. Así que depende del tamaño de la fuente emisora de luz, cambia radicalmente cómo de dura o suave es la luz. De hecho, es posible modificar la dureza o suavidad de una fuente de luz con ciertos accesorios o complementos. Si te interesa, sigue leyendo.
+
+##### **BALANCE DE BLANCOS**
+Según la temperatura el color puede variar, esta se mide en escala kelvin, cuanto menor sea el valor más cálido será la luz y viceversa \[2500K-Atardecer, 5500K-Mediodia, 10000K-Cielo azul\], alrededor de los 4/5K más neutra será la luz. (temperatura baja = añadir calidez)
+
+| Luz de vela  | 1000-2000K    |
+|--------------|---------------|
+| Bombilla     | 2500-3000K    |
+| Amanecer     | 3000-4000K    |
+| Fluorescente | 4000-5000K    |
+| Dia soleado  | 5500K         |
+| Dia nublado  | 6500 - 8000K  |
+| Sombra       | 9000 – 10000K |
+
+# Esquemas de iluminación
+___
 ## **Esquemas para retratos**
 Con los esquemas de iluminación tan solo vamos a ver las diferentes maneras de dirigir nuestra luz sobre la cara de nuestro sujeto. Sin embargo, **usando un mismo esquema podremos conseguir retratos muy diferentes si variamos el resto de propiedades de la luz**.
 
@@ -237,3 +272,123 @@ A cualquiera de los esquemas con contraluz que hemos visto antes podemos agregar
 
 Los situaremos a 45º y -45º por detrás de nuestro sujeto, para **realzar ambos lados de su contorno.**
 ![[Pasted image 20251214181048.png]]
+
+
+### **Esquemas de Iluminación imprescindibles**
+##### **Esquema completo de 3 puntos**
+Uno de los esquemas más tradicionales, aplicable a un montón de situaciones, incluso cuando trabajes con luz natural. Cuenta con 3 puntos de luz:
+![[Pasted image 20251214183037.png]]
+
+1. **Luz principal**: Se puede poner a 45º de la línea que se crea entre la cámara y el sujeto. Sería la luz más potente, y con respecto a la línea horizontal respecto a la persona, se podría subir el ángulo de la luz. Desde los 0º hasta los 45º, dependiendo de lo que quieras conseguir.
+
+2. **Luz de relleno**: Justo al otro lado de la principal, y a otros 45º respecto de la línea entre la cámara y el sujeto. En cuanto al posicionamiento de la luz, se puede jugar al igual que con la principal y a los mismos grados. Al ser de relleno, no es necesario que el chorro de luz sea potente. Aquí puedes jugar con el ratio, dejando la luz principal a 2 o 3 puntos por encima de potencia.
+
+3. **Luz de contra**: Se puede poner en diversos lugares, pero principalmente se ubica por detrás del sujeto y bastante elevada, para iluminar las partes de los hombros y el pelo. Esto permite conseguir bordes iluminados de la persona, con el fin de separarla del fondo y ganar profundidad.
+
+Este sería el esquema más típico y de los más utilizados en fotografía, pero si quieres innovar un poquito, también puedes añadir un 4º punto de luz:
+
+4. **Luz de fondo**: Esto es útil, sobre todo si no quieres tener en tu escena un fondo muy neutro o muy oscuro. Puedes crear un degradado o incluir alguna luz funcional (lámparas, neones, etc.).
+
+
+##### **Iluminación cenital**
+En este esquema, la iluminación viene desde arriba. Es muy natural, ya que casi en cualquier lugar la luz acaba incidiendo sobre un objeto o sujeto desde arriba. Da un resultado muy cotidiano y natural.
+
+La luz incide desde arriba, pero también de forma frontal. En fotos de retrato, si se quiere ganar un poco de volumen, se puede ladear la fuente de luz. Un beauty dish es muy típico, por ejemplo.
+
+Es importante evitar los ojos de mapache en retrato, así que evita que la luz esté colocada demasiado encima del sujeto. Debe estar encima, si, pero es vital ladearla un poco y jugar con la direccionalidad.
+
+Con este tipo de iluminación, también se estiliza la figura, se resaltan los pómulos al crearse pequeñas sombras justo debajo o incluso se ‘’tapa’’ la papada, si la hubiera, ya que la zona por debajo de la barbilla queda en sombra.
+
+![[Pasted image 20251214183151.png]]
+
+##### **Iluminación Clamshell**
+Es una variante de la iluminación cenital, ya que además de haber una luz proveniente desde arriba, también se incluye una luz por debajo del rostro de la persona.
+
+Con esta iluminación se consigue estilizar igualmente la figura, pero además se le da menos dramatismo y las sombras son mucho más suaves.
+
+Es un tipo de iluminación muy utilizado en retratos de primer plano, con el objetivo de intensificar mucho la mirada.
+
+También puedes jugar con la direccionalidad, dependiendo del efecto que quieras crear en la foto.
+
+![[Pasted image 20251214183336.png]]
+
+
+##### **Iluminación butterfly**
+En esta ocasión, la luz cenital hay que moverla un poco más abajo para que la imagen sea menos dramática y se siga estilizando la figura, sin sombras pronunciadas.
+
+Las luces duras encajan mejor en este esquema y el beauty dish es una gran opción para llevarlo a cabo.
+
+Al seguir siendo una luz frontal y algo elevada, se crean sombras por debajo de la nariz, en forma de mariposa, de ahí el nombre. Es un esquema muy utilizado en fotografía de retrato beauty.
+
+![[Pasted image 20251214183652.png]]
+
+
+##### **Iluminación Loop**
+La luz se baja un poco más todavía respecto a la iluminación previa de mariposa, poniéndola 30º hacia un lado de la línea que se crea entre la cámara y el sujeto.
+
+Justo al lado de la nariz se creará una sombra ligera en forma de gancho o lazo. Se utiliza en muchas situaciones, incluso en carátulas de películas. Es algo más dramática y frontal, que la iluminación Rembrandt, por ejemplo.
+
+![[Pasted image 20251214183737.png]]
+
+##### **Iluminación Rembrandt**
+Teniendo como origen la iluminación loop, se puede colocar la luz a unos 45º de la línea entre la cámara y el sujeto, en un lado u otro, y entonces la sombra que se crea al lado de la nariz se une a la sombra de la mejilla, dejando un pequeño triángulo ligeramente iluminado debajo del ojo contrario al que incide la luz.
+
+Es una transición de luz ligera y suave. Puedes seguir jugando con la direccionalidad en este esquema e incluso incluir una luz de relleno o de contra, por detrás de la persona. Todo es cuestión de gustos.
+
+![[Pasted image 20251214183833.png]]
+
+##### **Iluminación con 2 Luces a 90º** (Lateral)
+Colocando una luz a 90º entre la línea que hay entre la cámara y el sujeto, se ofrece un mayor dramatismo sobre el sujeto, ya que se dejaría la mitad del rostro completamente en sombra. Da un toque más rudo y masculino a la fotografía.
+
+Ahora bien, si se utilizan dos luces a 90º, una en cada lado entre la línea de la cámara y el sujeto, ya no habría tanto dramatismo, puesto que surgiría una transición más dinámica entre las partes muy iluminadas hasta la parte central del rostro que está más en sombra. Todos los rasgos se van a amplificar mucho. Por ello, este esquema favorece más los rostros masculinos, a diferencia del esquema clamshell, por ejemplo.
+
+![[Pasted image 20251214183932.png]]
+
+
+## **Esquemas para Productos**
+
+### **Productos Mate**
+Si el producto es mate y no nos va a crear grandes brillos, lo ideal es colocar una de las luces en posición cenital, encargada de iluminar el fondo y la parte superior del producto, y la otra en un lateral, cuya función será dar profundidad al objeto fotografiado con un degradado de luz. Ambas deben colocarse en un ángulo de 90º respecto al producto que queramos fotografiar.
+
+![[Pasted image 20251214185234.png]]
+
+Otra opción es eliminar la luz superior, haciendo que el fondo pierda iluminación y el producto gane todavía más volumen. El resultado será muy dramático, algo que puede ser útil dependiendo de qué queramos transmitir.
+
+![[Pasted image 20251214185302.png]]
+
+### **Productos brillantes**
+Si lo que queremos fotografiar es un objeto que nos pueda crear brillos, como por ejemplo una botella de cristal, deberemos usar una aproximación distinta, algo más complicada. Para esto necesitaremos cuatro ventanas de luz.
+
+El esquema más estándar es disponer de dos luces la cada lado del producto, ligeramente a la contra, de forma que nos perfile el objeto y que nos dibuje franjas blancas en los laterales. Una luz semilateral debe encargarse de iluminar la parte frontal y darle un cierto volumen, mientras que la cenital se encargará, de nuevo, del fondo.
+
+![[Pasted image 20251214185453.png]]
+
+Solemos colocar solo una luz semilateral que se encargue de iluminar la parte frontal y definir una linea blanca al los bordes, mientras que la cenital se encargará de darle el volumen necesario, y de equilibrar el fondo.
+
+![[Pasted image 20251214185513.png]]
+
+Es importante que la habitación esté completamente apagada, para evitar tener reflejos en la superficie del producto. En caso de no tener tantas luces, siempre se puede realizar la fotografía por partes y luego realizar un montaje con Photoshop a través de capas.
+
+![[Pasted image 20251214185559.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Bibliografia:
+___
+- [Dzoom](https://www.dzoom.org.es/esquemas-iluminacion-retrato/)
+- [RGB Escuela](https://rbgescuela.com/como-iluminar-bien-un-retrato-7-esquemas-sencillos-de-iluminacion/)
+- [Diligent](https://www.diligent.es/iluminacion-para-la-fotografia-de-producto/)
