@@ -13,14 +13,15 @@ Un personaje es una proyección de su autor, todos y cada uno de ellos lo son, p
 ### **PROCESO**
 Para escribir esto, he tenido que hacer un extraño ejercicio: convertir mi proceso intuitivo de crear personajes en una serie de pasos que puedan entender incluso un feto ingeniero. Estos puntos son simplemente una singladura orientativa, porque cada cual tiene su estilo y hay muchas formas de manipular el astrolabio, no me tomes en serio: esto no es una fórmula, es solo la descripción de un proceso.
 
-### **1 CONCEPTO**
+# **1 CONCEPTO**
+___
 El primer paso es el concepto, esto es la base arquetípica de un personaje, un personaje arquetípico no es interesante por sí mismo, pero se sirve de la plataforma para construir su perfil psicológico, un arquetipo representa una serie de características narrativas típicas, y a nivel muy básico todos somos una suerte de arquetipo, yo mismo soy culpable de venderme como un bohemio parísino exuberante cuando soy solo un borracho de mierda.
 
 Para los conceptos básicos, es fácil remitirnos a la psicología del arquetipo, algo ya cubierto por autores como Carl Jung o Joseph Campbell, y cuyas versiones más básicas nos podemos encontrar en las categorías de personalidad desarrolladas por las dos seguidoras de Jung: Katharine Briggs e Isabel Briggs Myers, madre e hija desarrollaron un sistema que analizaba la personalidad a partir de categorías específicas que, como casi todas las cosas según quienes, se parece más a los signos del zodíaco que a una teoría científica para descifrar la psique humana.
 
 Internet está llena de tests al respecto que reducen toda tu experiencia vital a unos pocos arquetipos de comportamiento y te ajustan a unas siglas, la vida no es un test, pero todo esto es útil al entender las formas de relacionarse con la sociedad y consigo mismo que puede tener tu personaje.
 
-# ENEAGRAMA
+## ENEAGRAMA
 ___
 Hablando de arquetipos, aquí entra la teoría del eneagrama, desarrollada por Óscar Ichazo y Claudio Naranjo, que usarían las bases yunguianas para sacar su propia interpretación de los arquetipos, definiendo nueve  cliches que me parecen insuficientes como teoría psicológica pero geniales como motor para crear conceptos, estos nueve adjetivos de personas se describen en torno a sus contradicciones, y cada cual en sus respectivas variaciones, formando un abanico casi infinito de conflictos internos.
 
@@ -70,12 +71,12 @@ Es casi como un sistema místico, por eso hay que cogerlo con pinzas, pero es ba
 También tenéis que tener en cuenta que cada eneatipo tiene sus propias versiones. Está el 6 sexual, 6 social, etc. de hecho, Claudio Naranjo habla de que todos los eneatipos tienen como tres expresiones, por ejemplo, un 5 no es siempre un 5 en todos los ámbitos de su vida, sino que se expresa de una manera concreta a nivel social, se expresa de una manera concreta a nivel de tratarse a sí mismo, y se expresa de una manera concreta a nivel sexual, por ejemplo.
 
 
-## **2 Aspecto**
+# **2 Aspecto**
 ___
 Ya tienes el esqueleto de una personalidad con sus contradicciones y sus conflictos, pero, ¿qué aspecto externo puede representar esto? La verdad es que nuestro cuerpo es tan solo una parte mínima de todo nuestro ser, pero es la primera que se presenta a los ojos de un extraño, la presentación es importante tanto en la vida real como en la ficción, y el concepto de tu personaje es determinante a la hora de definir su físico, si quieres ser un alcohólico castigado por la vida seguramente la imagen de efebo adolescente con guadaña no sea las adecuada, a veces es posible que incluso la apariencia del personaje resulte desagradable.
 
 
-## **3 Referencias**
+# **3 Referencias**
 ___
 Gánate las influencias, olvídate de la originalidad en una burbuja, aprende de aquello que más amas y trata de comprender sus mecanismos hasta el punto de ser capaz de ganarte la influencia, porque las influencias no son gratis, si las haces mal será un plagio, aprende de los libros que lees, las películas que vesm los juegos que te fascinan, el arte entero es una red interconectada de influencias y la ficción es un jardín enorme de frutos que te pueden inspirar.
 
@@ -85,7 +86,7 @@ Mi Seth es homosexual y vive en eeuu en los años 50, se gana la vida de chapero
 
 Lanuel es un habitante de la nación francesa y un grotesco homúnculo de la literatura más degenerada de la historia que curiosamente ha sido escrita en francés, en muchos modos Lanuel imita los antihéroes del marqués de Sade, como los protagonistas de las 120 jornadas de sodoma el pilar de mi inspiración, su lascivia es insaciable y su moral de sádico es coherente con cada una de sus acciones, el marques de Sade me presta el aborrecible marco ideológico de la búsqueda implacable del placer para que ni villano puede justificarse, para rematar, "los cantos de maldoror" del conde de Lautréamont, describen a un degenerado obsesionado con pecar para rebelarse contra dios, que es la motivación última de la nobel cuyo apellido es sorpresa Lautréamont, que sería de la alta literatura degenerada si nuestros queridos franceses.
 
-# MUSICA
+## MUSICA
 ___
 cada personaje tiene su música, las canciones son algo poderoso para formar una identidad, me gusta pensar en mis personajes en función de poemas y canciones y escribir sus historias mientras estas suenan de fondo, me siento naturalmente atraído a la música para buscar inspiración y su carácter me ayuda a entender mejor al personaje, no importa cuál sea tu influencia musical, encuentra en ella algo que ames particularmente y hazla sonar, deja que su ritmo te sugiera actitudes, manías, placeres, en todas las series y películas los personajes tienen sus señas musicales pero tú te puedes permitir una discografía entera,
 
