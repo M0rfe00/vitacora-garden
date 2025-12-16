@@ -6,13 +6,19 @@ ___
 # **Web Resources for audiovisuals**
 ___
 #### **REFERENCIAS:**
+**Cine**
 - [Shotdeck](https://shotdeck.com/welcome/home) - Referencias de planos y color de peliculas.
 - [Film Grab](https://film-grab.com/) - Referencias de planos y color de peliculas.
+- [Film.AI](https://flim.ai/) - Referencias de planos y color de peliculas.
+**Moda**
 - [Fashion Network](https://es.fashionnetwork.com/galeries/type/Desfiles,1.html) - Referencias de desfiles de moda
 - [Vogue Runway](https://www.vogue.com/fashion-shows/image-archive) - Referencias de desfiles de moda
-- [Pure Ref 2](https://pureref.com/) - Programa para guardar referencias y visualizarlas sobre otros programas.
+**Moodboards**
+- [Pure Ref 2](https://pureref.com/) - Programa para guardar referencias y visualizarlas sobre otros programas.7
+**Poses**
 - [PoseManiacs](https://www.artstation.com/) - Referencias anatómicas de poses.
 - [MagicPoser](https://magicposer.com/) - Referencias anatómicas de poses.
+- [justsketch](app.justsketch.me) - Referencias anatómicas de poses.
 
 #### **TEXTURAS:**
 - [AmbientCG](https://ambientcg.com/) - Textures, PBR Surfaces, HDRIs, 3D Assets, Substances.
@@ -23,7 +29,9 @@ ___
 - [Texturing.XYZ](https://render-state.to/) - Textures Assets for characters
 - [Texxary Scans](https://texxary.com/scans/?category=Soil&sort=latest) - Texturas de alta calidad pero de pago.
 - [IndieGround](https://indieground.net/shop/) - Recursos para diseño grafico, texturas, fuentes, pinceles
-
+- [cgbookcase](cgbookcase.com) -
+- textures-resource.com  
+- spriters-resource.com  
 
 #### **ASSETS 3D:**
 - [Render State](https://render-state.to/) - 3D Assets for Daz characters.
@@ -38,6 +46,7 @@ ___
 - [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
 - [Rokoko](https://www.rokoko.com/products/studio?_gl=1*132pj59*_ga*MTg0NDc1OTU2NC4xNzY1NzIwMjAw*_up*MQ..) - Mocap animation Assets.
 - [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
+- [blendswap](https://blendswap.com/categories)
 
 #### **OTROS:**
 - **Figma** - Diseño de interfaz, planificación de proyectos, presentaciones...

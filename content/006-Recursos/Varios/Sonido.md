@@ -1,6 +1,7 @@
 # TECNICO SUPERIOR SONIDO
 
-## 0. INTRODUCCION: TERMINOS**
+
+## **0. INTRODUCCION: TERMINOS**
 ___
 **DAW:** Software de edición/ procesamiento de audio.
 
@@ -265,3 +266,57 @@ El espectro audible de frecuencias ha sido dividido en octavas y a su vez cada o
 ___
 A
 ...
+
+
+
+# Sound Web Resources
+___
+**Samples**
+- [sounds-resource.com](https://sounds.spriters-resource.com/)
+- [freesound](https://freesound.org/)
+- [Looperman](https://www.looperman.com/)
+- [Playphrase](https://www.playphrase.me/)
+- [Tunefind](https://www.tunefind.com/)
+- [WhoSampled](https://www.whosampled.com/)
+
+**Ear Training**
+- [Lion Train](https://lion-train.fr/games/what-the-cut)
+- [Sound Gym](https://www.soundgym.co/?aff=9009)
+- [Train Your Ears](https://www.trainyourears.com/?gclid=Cj0KCQiApOyqBhDlARIsAGfnyMov0jR4zLJMzwVXCcbBcANAcA3Qp44AREFdvjYe6Ghj_0CFTyxiPnwaAg9GEALw_wcB)
+
+**AI Remover**
+- [VocalRemover](https://vocalremover.org/es/)
+- [Lalalal.ai](https://www.lalal.ai/)
+
+
+**Max/Msp Learn**
+- [Kadenze](https://www.kadenze.com/courses/max-msp-programming-course-structuring-interactive-software-for-digital-arts/info)
+- [Datacode](https://www.kadenze.com/courses/max-msp-programming-course-structuring-interactive-software-for-digital-arts/info)
+- [MusihackSpace](https://musichackspace.org/learnmax/)
+
+**Ableton Learn Sound**
+- [Ableton](https://learningmusic.ableton.com/)
+- [Synths](https://learningsynths.ableton.com/)
+
+**Drums**
+- [The Quest for Groove](https://questforgroove.com/)
+- [100 lecciones bateria](https://100lecciones.org/bateria/)
+- [Leer partituras](https://www.youtube.com/watch?v=4IR4YepajuM&list=TLPQMzAwNDIwMjMily49-jqFvQ&index=17)
+
+**Music Theory**
+- [Teoria](https://teoria.com/en/exercises/)
+
+**Youtube channels**
+- [Awesome Acustics]([AwesomeAcoustics](https://www.youtube.com/@AwesomeAcoustics))
+- [Lucas Ferranini]([Lucas Ferrarini](https://www.youtube.com/@lucas_ferrarini))
+- [Sound Simulator]([Sound Simulator](https://www.youtube.com/@SoundSimulator))
+- Paco melero
+- [Prada sintes]([Parda Sintes](https://www.youtube.com/@pardasintes))
+- [Marc Martin]([Marc Martin](https://www.youtube.com/@marcmartinproducer))
+- [Woochia]([Woochia - Charly Sauret](https://www.youtube.com/@Woochia))
+- [MundoBSO]([MundoBSO](https://www.youtube.com/@MundoBSO))
+- [Sonido HipHop]([Sonido Hip Hop](https://www.youtube.com/@SonidoHipHop))
+- [Ableton 4 principiantes]([Ableton para Principiantes](https://www.youtube.com/@abletonparaprincipiantes))
+- [TheTomCatMind]([Thetomcatmind](https://www.youtube.com/@Thetomcatmind))
+- [Sonipedia]([Sonipedia - YouTube](https://www.youtube.com/@Sonipedia/videos))
+- [Sergio Hidalgo]([Sonipedia - YouTube](https://www.youtube.com/@Sonipedia/videos))
