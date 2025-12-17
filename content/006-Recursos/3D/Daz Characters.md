@@ -1,3 +1,13 @@
+
+# Workflow
+___
+1) Crear y customizar el personaje en **Daz**.
+2) Exportarlo a **Blender** y crear escenario, setup de luces y cámara.
+3) Crear texturas realistas en **Photoshop** y Corregir los shaders (Piel, Ojos, Pelo)
+4) Exportar a **Substance Painter** para hacer el maquillaje. 
+5) Renderizar en Blender
+
+
 # SKIN
 ___
 ### **How to create textures from scratch**

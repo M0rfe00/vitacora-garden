@@ -278,6 +278,7 @@ ___
 - [Playphrase](https://www.playphrase.me/)
 - [Tunefind](https://www.tunefind.com/)
 - [WhoSampled](https://www.whosampled.com/)
+- [FreeToUse](Freetouse.com)
 
 **Ear Training**
 - [Lion Train](https://lion-train.fr/games/what-the-cut)
