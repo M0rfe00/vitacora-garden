@@ -1,11 +1,13 @@
 
 # Workflow
 ___
-1) Crear y customizar el personaje en **Daz**.
+1) Crear y customizar el personaje en **Daz** (anatomía, pose/animación, etc).
 2) Exportarlo a **Blender** y crear escenario, setup de luces y cámara.
-3) Crear texturas realistas en **Photoshop** y Corregir los shaders (Piel, Ojos, Pelo)
-4) Exportar a **Substance Painter** para hacer el maquillaje. 
-5) Renderizar en Blender
+3) Exportar a **Clo3d**, vestir al avatar y exportar la ropa a **Blender**.
+4) Crear texturas realistas en **Photoshop** y Corregir los shaders (Piel, Ojos, Pelo).
+5) Texturizar en **Substance Painter** (Maquillaje, Tatuajes, detalles..). 
+6) Renderizar en **Blender**.
+7) Editar render en **Photoshop**
 
 
 # SKIN
