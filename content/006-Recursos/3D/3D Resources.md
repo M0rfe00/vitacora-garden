@@ -1,8 +1,3 @@
-# **Import-Export Fotmats**
-___
-![[3D Formats.jpg]]
-
-
 # **Web Resources for audiovisuals**
 ___
 #### **REFERENCIAS:**
