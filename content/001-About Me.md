@@ -13,7 +13,7 @@ Los programas que utilizo son Clo3d para el diseño y patronaje de ropa, Blender
 
 Como el proyecto surgió poco a poco y de forma inconsciente mientras aprendía diferentes programas y hacia pequeños proyectos independientes los unos de los otros, hasta que me nació la idea de unificarlos en uno que incluyese todo lo que había aprendido el proyecto no tiene un rumbo definido aun más allá de la expresión artística y el reto personal, por eso me emociona la idea de no solo continuar con mi proyecto personal si no colaborar y aportar en otros.
 
-<<!--
+<!--
 # Mis Redes
 ___
 <link rel="stylesheet" href="/styles/custom.css">
