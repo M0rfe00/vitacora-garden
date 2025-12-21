@@ -1,6 +1,5 @@
 ---
 tags:
-  - hideInExplorer
 ---
 
 > [!tweet]+ Tweet - 2025-07-17
