@@ -1,7 +1,7 @@
 # HAIR
 ___
 #### **Hair materials**
-**Haird cards**: la mayoría del pelo de Daz son "Hair cards", los hair cards basicamente son superficies planas a las que se les aplica una textura con pelo y canal alfa para definir haciendo que visualmente parezcan mechones pero en realidad sean tarjetas planas.
+**Haird cards**: la mayoría del pelo de Daz son "Hair cards", los hair cards básicamente son superficies planas a las que se les aplica una textura con pelo y canal alfa para definir haciendo que visualmente parezcan mechones pero en realidad sean tarjetas planas.
 
 ###### **Hair Shaders:**
 **1. Exportar el avatar de Daz a Blender:** 
@@ -12,7 +12,7 @@ ___
 **2. Blender Import**
 - Import>Waveform (Obj) & Check (Split by Object + Split by Group).
 - Agrupar el pelo en una colección para asilarlo y poder trabajar en el.
-- Render Properties>Light Paths>Max [Bounces]()>Transparent. (Aumentar el valor para ver mejor el pelo. 40/90 aprox.)
+- Render Properties>Light Paths>Max Bounces>Transparent. (Aumentar el valor para ver mejor el pelo. 40/90 aprox.)
 - Render Properties>Film>Transparent (para ver mejor los opacity maps)
 
 **3. Hair Groups**
