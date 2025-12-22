@@ -1,0 +1,132 @@
+# CLO3D EXPORT
+___
+**Exportar texturas:**
+- Aplicar materiales y configurar sus propiedades
+- Ajustar mapas de UVs
+- Bakear las texturas (icono cámara y camiseta) y seleccionar carpeta de destino e incluir Diffuse y Normal
+ ![[Pasted image 20251222181745.png]]
+
+**Exportar ID-Mask:**
+- Duplicar el proyecto y eliminar las texturas (Texture, Normal Map...) y seleccionar colores diferentes para cada prenda, para identificar los diferentes materiales en SP.
+- Bakear de nuevo las texturas y seleccionar unicamente "Diffuse" y nombrar el archivo como "Color-ID" con las mismas propiedades que la exportación anterior.
+
+**Exportar Prendas:**
+- Exportar en OBJ con las propiedades: 
+	- Select All Patterns
+	- Single Object
+	- Unweld 
+	- Thin
+	- Scale: "m"/"100%"
+	- Save with Absolute Texture Image File Path
+
+
+# BLENDER INTERMEDIATE
+___
+- Importar el OBJ a Blender
+- Eliminar los materiales y solo mantener uno
+- Exportar de nuevo como OBJ
+
+
+# SUBSTANCE PAINTER IMPORT
+___
+**Importar la prenda:** File>New:
+- Template: ASM -PER Metalic Roughness (starter assets)
+- Project Settings:
+	- File: seleccionar el archivo del avatar
+	- Document Resolution: 4096
+	- Normal Map Format: OpenGL (para Blender)
+	- Compute Tangent space: None
+- UV Tile Settings:
+	- Use UV Tile workflow: check (importante)
+	- Preserve: UV TIles layout per material: check (importante)
+	- Convert UV Tiles: none
+- Import Settings:
+	- Import camera: none
+	- Auto-unwrap: none
+
+
+# SUBSTANCE PAINTER INTERFACE
+___
+**Navigate**
+- **Alt+Middle clic** - Panning
+- **Alt+Left clic** - Rotate
+- **Scroll Wheel** - Zoom
+- **Hold Shift** - reposition 2D window
+- Shift+Right clic - Change enviorment propierties
+
+(Fill layers, permiten modificar las propiedades del material; Base color, Roughness, Metallic...)
+
+Para cambiar las propiedades del enviorment clicar en el icono de la pantalla "Display Settings"
+
+# SUBSTANCE PAINTER WORKFLOW
+___
+**Añadir Materiales**
+- Añadir una Fill layer
+- Arrastrar las texturas al panel Library, en el desplegable seleccionar "Texture" e importarlas al proyecto, no a la librería. 
+- Arrastrar las texturas al panel de propiedades correspondiente de la FIll layer.
+
+**Separar materiales de cada prenda;** 
+- Seleccionar la capa y clicar en el icono de la carpeta para añadirla a un grupo
+- Clic derecho sobre la carpeta y clicar "Add mask with color selection"
+- Arrastrar la textura "Color-ID" a las propiedades de "Color Selection"
+- Con la pipeta selccionar el color de la prendas.
+
+
+**Añadir materiales**
+- Seleccionar la carpeta, buscar materiales en "All libraries" y arrastrarlo a la carpeta.
+- Clicar en el material y modificar sus propiedades en el panel inferior (quitar/mantener color, rouhgness, Scale>Tiling)
+- Añadir de nuevo el mismo material a la prenda para tener múltiples niveles de detalle, manteniendo el normal.
+
+**Añadir realismo**
+Para añadir realismo hay que añadir imperfecciones como arrugas donde la prenda se vera menos luminosa.
+
+Substance permite utilizar toda la información que aporta la malla 3D como las arrugas, plieges, curvas, ángulos afilados, para ello hay que:
+- Mode>Bake Mesh Maps (F8): Bake Selected Textures
+
+**Para utilizar la información de esta textura/mapa:**
+**Create Details:**
+- Seleccionar la carpeta, crear una fill layer, arrastrarla dentro de la carpeta, clic derecho sobre la capa y clicar en "Add generator"
+- En las propiedades del Generator seleccionar "Dirt" y mantener únicamente el "Rough" en la fill layer y en el generator.
+- Modificar las propiedades del "Dirt" (Level, Contrast, Grunge Scale, Seed).
+- Para modificar la visibilidad del roughness seleccionar "Roughness" en el desplegable bajo el panel layers y modificar la opacidad de la capa en el desplegable de la misma. (lo mismo con el resto de mapas, Normal)
+
+**Create More Details:**
+Para añdir más detalles hacer lo mismo pudiendo seleccionar otro generador y manteniendo otros mapas como "Normal" y "Rough" en la fill layer y en el generator y modificando las propiedades de este.
+
+**Añadir Efectos**
+Hacer clic derecho sobre la capa deseada y seleccionar "Add filter" y en las propiedades seleccionar un efecto como Blur
+
+**Create Details in Seams:**
+- Seleccionar la carpeta, crear una fill layer, arrastrarla dentro de la carpeta, clic derecho sobre la capa y clicar en "Add generator"
+- En las propiedades del Generator seleccionar "UV Border Distance".
+- Modificar las propiedades del generador: reducir Balance y Distance y mantener únicamente "nrm" y "height" en la fill layer y en el generator solo "height.
+- Para hacer un poco más realista el margen de costura se puede añadir un efecto de desenfoque a la capa modificando la intensidad hasta que quede bien.
+- También se puede invertir el generador para jugar con las posibilidades.
+- Add wrinkless: ir a "Smart Materials" en la libreria y buscar un material de tela que ya tenga arrugas, arrastrarlo a la carpeta principal de la prenda, seleccionar la carpeta y eliminar todas las capas que no se necesiten manteniendo solo las arrugas, dejar activado solo el "height" y reducir su opacidad.
+
+
+**Crear Mascara de Material**
+Arrastrar un material a la carpeta de la prenda, Clic derecho sobre la capa y "Add Black Mask" seleccionar un pincel y con la capa seleccionada pintas sobre las zonas en las que se quiere mostrar el material.
+
+
+# SUBSTANCE PAINTER EXPORT
+___
+- File>Export
+![[Pasted image 20251222203239.png]]
+
+
+En Output Templates: Seleccionar el Preset PBR Metallic Roughness, clic derecho en normal y limpiar el canal para quitar DirectX y reemplazarlo por OpenGx>RGB Channel, eliminar el mapa Emissive si no es necesario
+![[Pasted image 20251222203422.png]]
+
+
+Substance Vs Clo versions
+![[Pasted image 20251222203752.png]]
+
+
+# Materiales en Blender
+___
+Seleccionar el material, ir al shader editor, clicar en el Principied BSDF y hacer Ctrl+Shift+T e importar las texturas de la prenda.
+
+Por defecto Materials>Settings>Surface esta en "Only bump", cambiar a "Displacement & Bump"
+
+Reducir la escala del nodo Displacement entre Displacement texture y Material Output a "0.01"
