@@ -18,3 +18,29 @@
 </div>
 
 
+<div class="social-links">
+  <a href="https://twitter.com/Lookass333" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" />
+    <div>
+      <strong>Twitter</strong>
+    </div>
+  </a>
+  <a href="https://instagram.com/lookass333" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
+    <div>
+      <strong>Instagram</strong>
+    </div>
+  </a>
+ <a href="https://sketchfab.com/luckass333" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/sketchfab/1CAAD9" alt="Sketchfab" />
+    <div>
+      <strong>Sketchfab</strong>
+    </div>
+  </a>
+    <a href="https://discord.com/users/662030397118480407" target="_blank" class="social-card">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" />
+    <div>
+      <strong>Discord</strong>
+    </div>
+  </a>
+</div>
