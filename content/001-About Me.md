@@ -1,4 +1,4 @@
-<img src="../media-content/galeria/2025/1752587539864.jpg" alt="Yo" style="display: block; margin: 0 auto 0.4rem auto; padding: 1%; width: 270px; height: 270px; border-radius: 50%; object-fit: cover;" />
+<img src="../media-content/galeria/2025/1752587539864.jpg" alt="Yo" style="display: block; margin: 0 auto 1.5rem auto; padding: 1%; width: 270px; height: 270px; border-radius: 50%; object-fit: cover;" />
 <p style="margin-top: 0;">Siempre me ha interesado tanto la tecnología como el arte, de la misma forma que aprendía mecánicas en videojuegos me interesé por algunos softwares cautivado por sus interfaces y complejidad técnica, empecé y sigo aprendiendo de forma insaciable con la misma mentalidad que cuando juego ya que disfruto de la misma forma y me permite dejar de ser un espectador, crear y expresarme.</p>
 <br> <br>
 
@@ -13,7 +13,7 @@
     </div>
   </a>
   <a href="https://www.figma.com/deck/QhtFqa8nlmf6oppNrCELVZ/Portfolio---Moda?node-id=2-545&t=FZrHSgMxYck3Ntjy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank" class="social-card">
-    <img src="https://cdn-icons-png.flaticon.com/512/2558/2558284.png" alt="Instagram" />
+    <img src="https://cdn-icons-png.flaticon.com/512/4644/4644839.png" alt="Instagram" />
     <div>
       <strong>Fashion Portfolio</strong>
     </div>
