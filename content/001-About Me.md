@@ -7,13 +7,13 @@
 
 <div class="social-links">
   <a href="https://www.figma.com/deck/MBsnYalTyRqXRnA5c5nQmw/Portfolio---Audiovisuales?node-id=2-545&t=rgN6gfiQmVqvQu0P-1" target="_blank" class="social-card">
-    <img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1831/1831908.png" alt="Twitter" />
     <div>
       <strong>Audiovisual Portfolio</strong>
     </div>
   </a>
   <a href="https://www.figma.com/deck/QhtFqa8nlmf6oppNrCELVZ/Portfolio---Moda?node-id=2-545&t=FZrHSgMxYck3Ntjy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank" class="social-card">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2558/2558284.png" alt="Instagram" />
     <div>
       <strong>Fashion Portfolio</strong>
     </div>
