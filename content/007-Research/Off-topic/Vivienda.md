@@ -1,6 +1,6 @@
 #Research 
 # **Burbuja inmobiliaria / Crisis 2008**
-
+___
 ## **Origen**
 
 Alrededor de finales de los 90 e inicios de los 2000, pese a las guerras en oriente medio, la burbuja de las punto com que afectaron a muchos comercios y el atentado del 11s, la economía norte americana iba bastante bien.
@@ -54,7 +54,7 @@ El turismo muchas veces se percibe de forma como una mina de oro ya que los turi
 - **Turismofobia:** A raíz de todos los problemas, como la precariedad laboral, estancamiento económico, desplazamiento a la periferia de los residentes, generación de especuladores económicos e inmobiliarios, el turismo irrespetuoso, la degradación del entorno y la perdida de identidad cultural provoca a los locales un sentimiento de abandono, desplazo y marginación surgiendo movimientos contra la masificación y gentrificación generada por el turismo descontrolado.
 
 ## **Acciones para limitar el turismo:**
-
+___
 - **Reducir el número de turistas** que pueden alojarse en una determinada localidad, limitando el numero de licencias hoteleras y regular las plataformas de alquiler a corto plazo como Airbnb para evitar que la conversión de viviendas en alojamientos turísticos desplace a los residentes.
 
 - **Centrarse en atraer a turistas que busquen experiencias culturales** y no experiencias rápidas apoyando lo mínimo a la economía local, un forma de llevarlo a cabo seria mediante la promoción de eventos culturales, gastronomía local y experiencias personalizadas.

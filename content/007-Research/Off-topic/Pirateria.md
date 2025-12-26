@@ -4,13 +4,13 @@
 Notas personales sobre la piratería y el hurto, con el fin de llevarlo o no a cabo, pero en cualquier caso siendo consciente de los motivos, causas, antecedentes y consecuencias.
 
 # **La imagen pobre:**
-
+___
 La imagen pobre es un termino acuñado en el texto “En defensa de la imagen pobre” escrito para “Essayfilm: Ästhetik und Aktualität”, conferencia sobre cine ensayo celebrada en Luneburg, Alemania en 2007, organizada por Thomas Tode y Sven Kramer.
 
 El termino hace referencia a aquellas imágenes, peliculas, libros y obras culturales que en el reinado del sistema capitalista han sido relegadas a un segundo plano, bajo el concepto de cultura como mercancía, haciendo asi desaparecer de la superficie aquellas obras disidentes que no encajaban en este sistema y han sobrevivido en internet gracias a ser subidas, descargadas, reformateadas y reeditadas. Transformando la calidad en accesibilidad, el valor de exhibición en valor de culto. Liberando las imágenes de las criptas del cine y los archivos y empujándolas a la incertidumbre digital a costa de su propia sustancia.
 
 # **Yomango**
-
+___
 Yomango fue un movimiento artístico nacido en Barcelona en el año 2002 basado en el hurto a multinacionales, el branding del movimiento se basa en la apropiación de objetos, eslóganes y “modos de vida” que caracterizaban a multinacionales reales, el nombre era un juego de palabras con  la empresa textil “Mango”, según fue evolucionando, el movimiento se expandió a Madrid, aquí añadieron las siglas SCCPP “Sabotaje Contra el Capital Pasándolo Pipa” en la capital colaboraron con el grupo “La fiambrera obrera”, colectivo nacido de las redes vecinales y políticas del barrio madrileño de Lavapiés. De esta unión surgen dos libros “Libro rojo de Yomango” y “Libro morado de Yomango” los cuales son manuales que detallan con humor como llevar a cabo el hurto y dando argumentos para ello.
 
 **Cada libro empieza con una cita;**
@@ -45,7 +45,7 @@ Investigación que acabo con la detención de Teddy Bautista (presidente de la S
 
 
 # **Videojuegos y Software:**
-
+___
 ### **Impacto de la piratería en el sector de los videojuegos:**
 
 No hay una opinión unánime en este tema, debido a que muchos de los estudios que han investigado el tema son financiados por figuras que pertenecen a la industria lo que genera conflictos de intereses en los resultados, sin embargo un estudio financiado por la unión europea que trataba demostrar como la piratería afectaba a la industria concluyo que no solo no había pruebas de ello sino que además fomentaban las ventas excepto de los blockbusters, debido a que no era el resultado que esperaban este estudio fue ocultado durante varios años hasta que salió a la luz por una filtración en 2017.
@@ -97,7 +97,7 @@ Pese a existir el derecho a la copia privada las compañias ponen muchas travas 
 
 
 # **No tendrás nada y serás feliz**
-
+___
 No tengas nada y serás feliz, suscripción como método de atarnos al consumo
 
 La frase “No tendrás nada y serás feliz se origina en un video de 2016 del Foro Económico Mundial (WEF), que trataba de resumir el ensayo de la política danesa Ida Auken, la frase ha sido utilizada por críticos del WEF que lo acusan de querer restringir la propiedad privada y también como referencia al modelo de negocio de suscripción y del software como servicio.
@@ -143,7 +143,7 @@ Ante muchos de estos problemas se plantea la piratería como método de protesta
 
 
 # **Sci-hub**
-
+___
 Sci-Hub es un repositorio web de bibliotecas fantasmas con mas de 84 millones de artículos académicos (papers), su lema es “todos somos piratas, incluido los científicos”, fue creado por Alexandra Elbakyan, de Kazajistán en 2011 como reacción a la situación vivida por el sector científico.
 
 En la comunidad científica a la hora de desarrollar un articulo estos son publicados y cedido los derechos generalmente de forma gratuita a editoriales con ánimo de lucro que no son de libre acceso creando asi un muro de pago prácticamente imposibles de costear por personas individuales y e incluso por muchas universidades que no pueden permitirse suscripciones a todas las revistas relevantes lo que restringe el acceso a la información científica dentro de la propia comunidad.
@@ -157,7 +157,7 @@ Pese ha haber sido cerrado, el sitio web fue puesto en marcha de nuevo tan solo 
 
 
 # **Internet archive**
-
+___
 Internet archive es una biblioteca digital estadounidense sin animo de lucro fundada 1996 por Brewster Khale, ofrece acceso gratuito a colecciones de materiales digitalizados, sitios web, aplicaciones, software, música, libros, audiovisuales y materiales impresos.
 
 Debido a la degradación de los medios físicos y la llegada de la digitalización con internet se presentó un método idóneo para la preservación de la información, es asi como Internet archive surge con el propósito de ser una biblioteca de Alejandría que conserve el patrimonio cultural-histórico mundial permitiendo a los usuarios subir y descargar material digital de su biblioteca, aunque la mayoría de datos se recopilan automáticamente mediante sus rastreadores web.
@@ -178,7 +178,7 @@ Finalmente, en 2024 el tribunal de apelaciones del 2º circuito de EE.UU. en Man
 
 
 # **Hurto**
-
+___
 ### **Que es el hurto**
 
 - El hurto es el delito cometido por quien, con ánimo de lucro y contra la voluntad de su dueño legítimo, sustrae bienes ajenos, siempre que no emplee fuerza en las cosas ni intimidación en las personas.
@@ -205,13 +205,13 @@ El [Código Penal](https://www.conceptosjuridicos.com/codigo-penal/) establece
 
 
 ### **Diferencias entre hurto y robo**
-
+___
 Es común confundir conceptos, pero el código penal tipifica el delito de odio con mas severidad por sus especiales circunstancias.
 
 Un robo también consiste en la sustracción de un bien ajeno contra la voluntad del dueño, pero, además ha de producirse circunstancias como; fuerza en las cosas para entrar o abandonar el lugar (delito de robo con fuerza) o violencia o intimidación en las personas, ya sea para cometer el delito o para proteger la huida (delito de robo con violencia)
 
 ### **Piratería**
-
+___
 La piratería consiste en conseguir un producto de pago de forma gratuita y saltándose la ley de propiedad intelectual, lo cual es un acto ilícito, sin embargo el código penal diferencia entre si hay un beneficio económico o lucrativo para considerarlo un delito
 
 Tanto los usuarios que acceden al contenido como los encargados de ponerlo a disposición para que otros puedan acceder a ellos de forma gratuita saltándose la ley de propiedad intelectual están cometiendo piratería, en el segundo caso existe una diferenciación que marcara si se incurre en un delito, si hay animo de lucro o un beneficio económico, este separara la línea entre una actividad ilícita y un delito penal.
@@ -227,7 +227,7 @@ En ningún caso se perseguirá la mala práctica de este consumo de los propios 
 
 
 ### **Diferencia entre ilegal e ilícito / delito penal y delito civil**
-
+___
 Los delitos penales son hechos ilícitos previstos y penados en el código penal, mientras que los delitos civiles o actos ilícitos son actos u omisiones que no están tipificadas por la ley penal, pero pueden ser susceptibles de dar origen a una acción de reparación o indemnización en el ámbito civil
 
 El termino ilegal se refiere a aquello que esta prohibido expresamente por la ley, se considera ilegal cuando esta expresamente prohibido por el ordenamiento jurídico vigente.
@@ -235,7 +235,7 @@ El termino ilegal se refiere a aquello que esta prohibido expresamente por la le
 Ilícito por otra parte engloba un espectro mas amplio de conductas prohibidas , que pueden incluir infracciones legales, civiles o administrativas como también conductas contrarias a principios éticos o morales.
 
 ### **Artículos relacionados**
-
+___
 - **Artículo 270.5:** En el artículo 270.5 se dice que «serán castigados con las penas previstas en los apartados anteriores, en sus respectivos casos, quienes», resumiendo: exporten o almacenen copias destinadas a ser reproducidas, distribuidas o comunicadas públicamente; importen estos productos; favorezcan o faciliten las actividades delictivas detalladas en los dos primeros apartados; eludan o faciliten la elusión de las medidas tecnológicas dispuestas para evitar la comisión de los delitos.
 
 - **Artículo 270.6:** Y en el apartado 6 y último de este artículo 270 se advierte sobre el uso de programas para saltarse las restricciones y bloqueos de estas páginas que ofrecen contenido declarado delictivo en los dos primeros apartados, siempre que haya una finalidad comercial: «Será castigado también con una pena de prisión de seis meses a tres años quien fabrique, importe, ponga en circulación o posea con una finalidad comercial cualquier medio principalmente concebido, producido, adaptado o realizado para facilitar la supresión no autorizada o la neutralización de cualquier dispositivo técnico que se haya utilizado para proteger programas de ordenador o cualquiera de las otras obras, interpretaciones o ejecuciones en los términos previstos en los dos primeros apartados de este artículo».
@@ -246,23 +246,23 @@ Con estos dos artículos, el Código Penal detalla y tipifica los delitos relati
 
 
 ## **Artículo de la constitución sobre la vivienda**
-
+___
 El artículo 47 de la Constitución Española declara que todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada y atribuye a los poderes públicos la obligación de promover las condiciones necesarias y establecer las normas pertinentes para hacer efectivo este derecho.
 
 “BOE ley 10/2013, de 16 de diciembre, medidas urgentes en materia de vivienda”; [https://www.boe.es/buscar/doc.php?id=BOE-A-2014-375#:~:text=El%20art%C3%ADculo%2047%20de%20la,para%20hacer%20efectivo%20este%20derecho](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-375#:~:text=El%20art%C3%ADculo%2047%20de%20la,para%20hacer%20efectivo%20este%20derecho).
 
 # **Que es expropiar**
-
+___
 Privar a un alguien de la titularidad de un bien a cambio de una indemnización, también existe la **Expropiación forzosa,** que consiste en la privación de la propiedad privada o derechos de interés legítimos que se tengan sobre un patrimonio, independientemente de a quien pertenezcan, particulares, entidades, administraciones publicas…
 
 # **Que es socializar**
-
+___
 Transferir al estado, o a otro órgano colectivo, algo de propiedad privada, especialmente un medio de producción, un sinónimo seria desprivatizar.
 
 
 
 # **Creative commons**
-
+___
 CC es una organización sin animo de lucro dedicada promover el acceso y el intercambio de cultura, para ello desarrolla un conjunto de instrumentos jurídicos de carácter gratuito que facilitan usar y compartir tanto la creatividad como el conocimiento.
 
 Los instrumentos jurídicos desarrollados consisten en un conjunto de “modelos de contrato de licenciamiento” o licencias de derechos de autor que ofrecen a los creadores una manera simple de otorgar permiso al publico para compartir y usar su trabajo bajo los términos y condiciones de su elección.
@@ -283,7 +283,7 @@ Los instrumentos jurídicos desarrollados consisten en un conjunto de “modelos
 
 
 # **Ley sinde**
-
+___
 **David Bravo**: _“en un contexto en el que la industria perdía todos los juicios nació la **Ley** **Sinde** que permitía que un órgano del Ministerio de Cultura pudiera cerrar webs sin control judicial si ese órgano administrativo entendía que la página infringía la propiedad intelectual.”_
 
 La ley sinde no es una ley como tal ni no una modificación de una serie de leyes y normas para facilitar el cierre de páginas web que vulneren la propiedad intelectual según los criterios de una Comisión de Propiedad Intelectual que se encargaría de tramitar las denuncias sobre el particular ante la justicia, garante última del proceso.
@@ -320,8 +320,12 @@ Los empresarios multimillonarios, ¿tienen derecho a acaparar dinero, mucho más
 Investigar robinhood
 
 ------------------------------------------------------------------
-# Bibliografía:
 
+
+
+
+# Bibliografía:
+___
 ### SGAE:
 https://imaginasounds.com/sgae.php
 https://youtu.be/Dm4QEsme__A?si=nCFuHbZ1zZ6-rT4w
