@@ -87,7 +87,15 @@ por parte del archivo no equivalía a “uso justo”.
 <https://www.youtube.com/watch?v=ZYqkNJChcnc&ab_channel=HolappaGris>
 
 
+# **Anna´s archive**
+El **Archivo de Anna** (del inglés _Anna's Archive_) es un [metabuscador](https://es.wikipedia.org/wiki/Metabuscador "Metabuscador") en línea gratuito y [sin ánimo de lucro](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_sin_%C3%A1nimo_de_lucro "Organización sin ánimo de lucro") de [bibliotecas fantasma](https://es.wikipedia.org/wiki/Biblioteca_fantasma "Biblioteca fantasma") que proporciona acceso a una colección de libros, creado por un equipo de archivistas anónimos y publicado en respuesta directa a los esfuerzos de las fuerzas de seguridad, con la ayuda formal de [The Publishers Association](https://es.wikipedia.org/wiki/The_Publishers_Association "The Publishers Association") y [Authors Guild](https://es.wikipedia.org/w/index.php?title=Authors_Guild&action=edit&redlink=1 "Authors Guild (aún no redactado)"), para cerrar el sitio web de [Z-Library](https://es.wikipedia.org/wiki/Z-Library "Z-Library") en noviembre de 2022.
 
+El Archivo de Anna señala que «[la información quiere ser libre](https://es.wikipedia.org/wiki/La_informaci%C3%B3n_quiere_ser_libre "La información quiere ser libre")» y que los miembros del equipo creen firmemente en la libre circulación de información y en la preservación del conocimiento y la cultura.
+
+Según el sitio web, el Archivo de Anna es un «proyecto que tiene como objetivo catalogar todos los libros existentes, agregando datos de diversas fuentes seguir el progreso de la humanidad para hacer que todos estos libros estén fácilmente disponibles en formato digital, a través de "bibliotecas fantasma"»
+
+**WIKIPEDIA:**
+https://es.wikipedia.org/wiki/Archivo_de_Anna
 # **Circuit bending:**
 
 El termino circuit Bending fue acuñado por el artista Reed Ghazala en los 60s, es una técnica que consiste en la modificación creativa de los circuitos electrónicos de dispositivos como juguetes infantiles o sintetizadores digitales, transformando desechos electrónicos en potenciales instrumentos musicales o visuales, se caracteriza principalmente por la experimentación, la prueba y error, la aleatoriedad, dejar a un lado los procesos artísticos convencionales previsibles y automáticos
@@ -128,3 +136,108 @@ movimiento musical genuino llamado turntablism. Es la crónica de unos virtuosos
 ### **Copyright Criminals (2009)**
 
 Documental que explora el valor artístico y comercial del sampleo musical, como el arte de combinar sonidos ha trascendido hasta crear algo propio, debates relacionados sobre la expresión artística, la ley de derechos de autor y el dinero
+
+
+
+# Bibliografía:
+___
+### SGAE:
+https://imaginasounds.com/sgae.php
+https://youtu.be/Dm4QEsme__A?si=nCFuHbZ1zZ6-rT4w
+
+### Caso SAGA:
+https://www.youtube.com/watch?v=6Uikk8zs62c&list=TLPQMDYxMTIwMjRf4BM3m0qWaA&index=2&ab_channel=CreativosConecta2
+https://youtu.be/6Uikk8zs62c?si=GcBnfTXd9B7cKsEb
+https://es.wikipedia.org/wiki/Caso_Saga
+https://youtu.be/-7LNXYz624E?si=yoqQshy-pbOT1zyT
+
+
+### Canon digital:
+https://www.adslzone.net/reportajes/internet/canon-digital-espanya/#977991-que-es-el-canon-digital
+https://youtu.be/clqvhhJdnXo?si=C7Icl1qK2QL5Wbhm
+https://www.elconfidencial.com/comunicacion/2010-10-21/el-tribunal-de-la-ue-declara-ilegal-el-canon-digital-indiscriminado-que-se-aplica-en-espana_395909/
+https://youtu.be/053T4evx__c?si=CQP_5mgHjg5tllXt
+
+### La imagen pobre
+https://lafuga.cl/pensar-la-imagen-pobre/828
+
+
+### Yomango:
+https://es.wikipedia.org/wiki/Yomango
+https://arenasmovedizas.org/programa/la-fiambrera-obrera/
+https://es-es.facebook.com/people/La-Fiambrera-obrera/100071507822145/
+
+
+
+### Ley sinde
+https://www.elmundo.es/blogs/elmundo/catalejo/2011/01/24/ley-sinde-for-dummies.html#comentarios
+https://youtu.be/-JoGHGglXAA?si=nI66r5Czrfn8UtSR
+https://youtu.be/POP5lREJ54s?si=whK4EwDQAcG5c2Wb
+https://www.xataka.com/legislacion-y-derechos/aprobada-nueva-ley-sinde-gobierno-podra-cerrar-webs-tener-autorizacion-judicial
+https://x.com/dbravo/status/1042848114271571969
+
+###  Piratería en videojuegos
+https://youtu.be/gaKxyHHUMMg?si=LMF6GvMhWXJXJ8G6
+
+https://www.elmundo.es/tecnologia/2017/09/22/59c4f09dca4741743b8b45d5.html#:~:text=La%20Comisi%C3%B3n%20Europea%2C%20el%20%C3%B3rgano,ocult%C3%B3%20para%20no%20hacerlo%20p%C3%BAblico.
+
+https://www.20minutos.es/noticia/3145854/0/union-europea-oculto-informe-pirateria-no-afecta-ventas/
+
+https://es.gizmodo.com/la-union-europea-oculto-durante-anos-un-estudio-que-dem-1818649110
+
+https://youtu.be/0TPmykuFc8Y?si=0jbR7eMQDA62-Vwd
+
+### Emuladores
+https://youtu.be/Du4LK_Dq1FA?si=CNOC4KZbFIor-yWN
+
+### Lostmedia
+https://youtu.be/Dx2hc7985Ps?si=4ttGjyLuASPIi6LI
+
+
+### Documentales:
+-Copiad malditos
+-Copyright criminals
+
+
+
+### No tendrás nada y serás feliz:
+https://youtu.be/d5WytqvJy7k?si=W5hc6rAbk3VnwWQ8
+https://youtu.be/bZChQovvmNI?si=KK5wF-gKUpHL_0Ck
+https://youtu.be/cb_nkQDQ2cE?si=dzJOTy8LIfVq-gsW
+https://youtu.be/x4aZzY1GFWk?si=WiQeGNy7aVhoBCXE
+https://youtu.be/F5DpMGwTFTQ?si=CUOLkoGtSvM35Tb3
+https://es.wikipedia.org/wiki/No_tendr%C3%A1s_nada_y_ser%C3%A1s_feliz
+https://youtu.be/F5DpMGwTFTQ?si=D6C_ZEYO4uNVSAVm
+
+
+### Sci-Hub
+https://youtu.be/8Ncr4pEqn9E?si=Ge_bvBJhxyKhZCKZ
+https://es.wikipedia.org/wiki/Sci-Hub
+https://youtu.be/Uc21iIADup8?si=qTY35ulk2v34eQSD
+
+
+### Internet archive
+https://es.wikipedia.org/wiki/Internet_Archive#Demanda_de_editores
+https://youtu.be/ZYqkNJChcnc?si=gBcaWCdRkN_dN4Km
+https://es.marketscreener.com/cotizacion/accion/LAGARDERE-S-A-4668/noticia/Los-principales-editores-de-libros-vencen-la-apelaci-n-de-Internet-Archive-sobre-el-escaneado-digit-47804330/
+
+
+### Hurto
+https://www.conceptosjuridicos.com/hurto/
+
+### Piratería
+https://www.adslzone.net/reportajes/descargas/multas-pirateria-descargas-espana/#450449-que-se-considera-piratear
+https://www.interpol.int/es/Delitos/Productos-ilegales/Compre-de-forma-segura/Pirateria-digital
+
+### penas por piratería y venta ambulante:
+https://www.garridoydonaque.com/blog/delito-pirateria-codigo-penal-sanciones/#:~:text=El%20delito%20de%20pirater%C3%ADa%20gen%C3%A9rico%20est%C3%A1%20castigado%20con%20la%20pena,impuestas%20a%20plataformas%20de%20contenidos.
+
+
+### Ilícito
+https://gutierrezlabrador.com/cual-es-la-diferencia-entre-ilegal-ilicito-e-ilegitimo/
+
+
+### Creative commons
+https://es.wikipedia.org/wiki/Creative_Commons
+
+https://www.upo.es/biblioteca/servicios/pubdig/propiedadintelectual/tutoriales/derechos_autor/htm_12.htm
