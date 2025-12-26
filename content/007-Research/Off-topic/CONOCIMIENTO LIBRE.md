@@ -1,6 +1,6 @@
 #Research
 # **La imagen pobre:**
-
+___
 La imagen pobre es un término acuñado en el texto “En defensa de la imagen pobre” escrito para “Essayfilm: Ästhetik und Aktualität”, conferencia sobre cine ensayo celebrada en Luneburg, Alemania en 2007, organizada por Thomas Tode y Sven Kramer.
 
 El termino hace referencia a aquellas imágenes, películas, libros y obras culturales que en el reinado del sistema capitalista han sido relegadas a un segundo plano, bajo el concepto de cultura como mercancía, haciendo asi desaparecer de la superficie aquellas obras disidentes que no encajaban en este sistema y han sobrevivido en internet gracias a ser subidas, descargadas, reformateadas y reeditadas. Transformando la calidad en accesibilidad, el valor de exhibición en valor de culto. Liberando las imágenes de las criptas del cine y los archivos y empujándolas a la incertidumbre digital a costa de su propia sustancia.
@@ -25,7 +25,7 @@ disidentes desaparecieron de la superficie para sumergirse en un subsuelo de arc
 
 
 # **Sci-hub**
-
+___
 Sci-Hub es un repositorio web de bibliotecas fantasmas con más de 84 millones de artículos académicos (papers), su lema es “todos somos piratas, incluido los científicos”, fue creado por Alexandra Elbakyan, de Kazajistán en 2011 como reacción a la situación vivida por el sector
 científico.
 
@@ -54,7 +54,7 @@ muchos países, sin embargo, el sitio web es apoyado de forma prácticamente un�
 
 
 # **Internet archive**
-
+___
 Internet archive es una biblioteca digital estadounidense sin ánimo de lucro fundada 1996 por Brewster Khale, ofrece acceso gratuito a colecciones de materiales digitalizados, sitios web, aplicaciones, software, música, libros, audiovisuales y materiales impresos.
 
 Debido a la degradación de los medios físicos y la llegada de la digitalización con internet se presentó un método idóneo para la preservación de la información, es asi como Internet archive surge con el propósito de ser una biblioteca de Alejandría que conserve el patrimonio cultural-histórico mundial permitiendo a los usuarios subir y descargar material digital de su biblioteca, aunque la mayoría de los datos se recopilan automáticamente mediante sus rastreadores web.
@@ -88,6 +88,7 @@ por parte del archivo no equivalía a “uso justo”.
 
 
 # **Anna´s archive**
+___
 El **Archivo de Anna** (del inglés _Anna's Archive_) es un [metabuscador](https://es.wikipedia.org/wiki/Metabuscador "Metabuscador") en línea gratuito y [sin ánimo de lucro](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_sin_%C3%A1nimo_de_lucro "Organización sin ánimo de lucro") de [bibliotecas fantasma](https://es.wikipedia.org/wiki/Biblioteca_fantasma "Biblioteca fantasma") que proporciona acceso a una colección de libros, creado por un equipo de archivistas anónimos y publicado en respuesta directa a los esfuerzos de las fuerzas de seguridad, con la ayuda formal de [The Publishers Association](https://es.wikipedia.org/wiki/The_Publishers_Association "The Publishers Association") y [Authors Guild](https://es.wikipedia.org/w/index.php?title=Authors_Guild&action=edit&redlink=1 "Authors Guild (aún no redactado)"), para cerrar el sitio web de [Z-Library](https://es.wikipedia.org/wiki/Z-Library "Z-Library") en noviembre de 2022.
 
 El Archivo de Anna señala que «[la información quiere ser libre](https://es.wikipedia.org/wiki/La_informaci%C3%B3n_quiere_ser_libre "La información quiere ser libre")» y que los miembros del equipo creen firmemente en la libre circulación de información y en la preservación del conocimiento y la cultura.
@@ -96,8 +97,10 @@ Según el sitio web, el Archivo de Anna es un «proyecto que tiene como objetivo
 
 **WIKIPEDIA:**
 https://es.wikipedia.org/wiki/Archivo_de_Anna
-# **Circuit bending:**
 
+
+# **Circuit bending:**
+___
 El termino circuit Bending fue acuñado por el artista Reed Ghazala en los 60s, es una técnica que consiste en la modificación creativa de los circuitos electrónicos de dispositivos como juguetes infantiles o sintetizadores digitales, transformando desechos electrónicos en potenciales instrumentos musicales o visuales, se caracteriza principalmente por la experimentación, la prueba y error, la aleatoriedad, dejar a un lado los procesos artísticos convencionales previsibles y automáticos
 
 **Circuit bending: hackeando juguetes**
@@ -106,15 +109,18 @@ El termino circuit Bending fue acuñado por el artista Reed Ghazala en los 60s, 
 **CIRCUIT BENDING – DOCUMENTAL:**
 <https://youtu.be/KO98feSKfiQ?si=h5GlM5Gmlq1fZWcn>
 
-# **Isaac Asimov sobre el aprendizaje en el futuro:**
 
+
+# **Isaac Asimov sobre el aprendizaje en el futuro:**
+___
 En el fragmento de esta entrevista el escritor de ciencia ficción Isaac Asimov teoriza sobre cómo será el aprendizaje en el futuro gracias a los avances en tecnologia, anticipándose al desarrollo de internet y al aprendizaje autodidacta online gracias a plataformas como youtube, blogs, foros, academias en línea, Wikipedia...
 
 <https://www.youtube.com/watch?v=oIUo51qXuPQ&list=WL&index=131&ab_channel=VeronicaVera>
 
 
-# **Redes p2p**
 
+# **Redes p2p**
+___
 A diferencia del modelo convencional de redes cliente-servidor en la que la red se encuentra centralizada, existe otro modelo el P2P (Peer to peer) en la que todos los equipos de la red funcionan al mismo tiempo como cliente y como servidor descentralizando asi la red y permitiendo que la red siga funcionando, aunque caiga uno de sus nodos, este modelo
 es realmente útil para la transferencia de archivos ya que cuantos más equipos de la red compartan un archivo facilitaran a otros usuarios a acceder a ellos, este modelo se basa en el compañerismo de sus miembros.
 
@@ -122,7 +128,7 @@ es realmente útil para la transferencia de archivos ya que cuantos más equipos
 style="width:6.26042in;height:3.65625in" />
 
 # **Documentales:**
-
+___
 ### **¡Copiad, Malditos! (2011)**
 
 Primer documental español emitido en TVE con una licencia Creative Commons, en el abordan los nuevos retos éticos y morales sobre la propiedad intelectual que plantea la revolución digital, ¿Qué es la propiedad intelectual? ¿Y el copyright? ¿Hasta qué punto se puede poseer
