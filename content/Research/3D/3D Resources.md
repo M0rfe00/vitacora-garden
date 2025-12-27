@@ -112,7 +112,9 @@ ___
 
 # Blender Tips - Index
 ___
-[PLAYLIST](https://www.youtube.com/playlist?list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq)
+[Blender Vitals - 100 Tip Walktrought](https://www.youtube.com/playlist?list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq)
+[Extra 3D - Blender Tips](https://youtube.com/playlist?list=PLUFIgFjSXpvgYQBNv7lfkHFp9ELETZmUj&si=Xac2bwVRnpfWCpfz)
+
 ## **🧱MODELLING:**
 
 | 9 - [BRIDGE FACES](https://www.youtube.com/watch?v=eT4ZeUIYgus&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&ab_channel=BlenderVitals)                          | 15 - [EXTRUDE MANIFOLD](https://www.youtube.com/watch?v=ig6WsS0l2jU&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=7&ab_channel=BlenderVitals)      |

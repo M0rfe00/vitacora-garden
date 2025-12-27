@@ -287,6 +287,12 @@ Al intentar hacer los colores más vivos, en lugar de saturarlos al máximo hay 
 
 La clave esta en ajustar el brillo de los colores, los colores oscuros se sienten pesados.
 
+Durante siglos los artistas han sabido como utilizar la densidad de color, eligiendo colores clave y otros secundarios para apoyarlos, aprender de ellos no significa copiar sus colores, estilos sino sus decisiones
+![[Pasted image 20251226210231.png]]
+
+
+
+
 
 
 ## **How to make money as a Graphic designer**
