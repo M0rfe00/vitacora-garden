@@ -107,3 +107,18 @@ ___
 - Contorno cadera - (1/4):
 - Altura cadera:
 - **Largo total:** El largo deseado para la falda
+
+
+
+
+
+
+
+
+
+# Playlist
+___
+[El Dedalin - Patrones Sistema Martí](https://youtube.com/playlist?list=PL8Kx4ih3ACTyOL7e8PnlnAwm7S45W2sCF&si=JXDtC-YZLVrNtSjZ)
+[El Dedalin - Lecciones del Sistema Martí](https://youtube.com/playlist?list=PL8Kx4ih3ACTw76It_l5UfEqFP2kSdbF6U&si=9BAD8Ha1YOiiP1o6)
+[Raimunda Arribas - Patrones Sistema Martí](https://youtube.com/playlist?list=PLnc6LMvjz8t5k3bzxTLSibKufomGLtD7L&si=d9uw5kIdkzCdODWV)
+[Rous - PATRONAJE SISTEMA MARTÍ](https://youtube.com/playlist?list=PL1ZNpNdb3-lwfja3oJjGmqCq-9vcZBwYs&si=odCi2rLj_iaM88je)
