@@ -47,7 +47,7 @@ VitaCora sigue la filosofía de los **[[Jardines digitales]]** y su arquitectura
     </div>
   </a>
   -->
-<a href="https://m0rfe00.github.io/vitacora-garden/007-Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        📝 <strong>Research</strong>
     </div>
