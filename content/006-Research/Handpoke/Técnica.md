@@ -1,0 +1,68 @@
+# Stencil
+___
+- Desinfectar la zona con alcohol para retirar el exceso de grasa y suciedad de la piel y asi mejorar la adherencia del esténcil.
+- Trazar una linea de referencia en la piel.
+- Tras estar conforme con la posición del diseño trazar referencias en el esténcil y la piel (colocarlo en una posición cómoda y relajada para que no se deformen los músculos al moverse).
+- Aplicar el gel de transfer de forma uniforme en la piel sin dejar grumos ni cúmulos para que el esténcil quede de forma adecuada.
+- Tras aplicar el esténcil esperar un poco para retirarlo con cuidado de no romperlo.
+- Dejar secar apropiadamente el esténcil de 5-10 minutos
+
+
+**PREPARAR PARA LA TERMOCOPIADORA**
+En Photoshop: reducir el tamaño del d al tamaño del dibujo y en opciones>tamaño de imagen establecer el tamaño deseado, voltear horizontalmente la imagen ya que la termo copiadora realizara el calco a la inversa. Finalmente (Ctrl+T) ajustes de impresión y situar el dibujo en la hoja.
+
+En el papel transfer retirar el papel intermedio y colocar el papel en la termo copiadora.
+
+Este calco esta listo para ser aplicado en la piel.
+
+
+# Handopoke
+___
+Los 3 fundamentos del handpoke son Paciencia, Precisión y Practica.
+
+**Preparación**
+- Secar un poco la piel con una servilleta para asegurarse el esténcil esta seco.
+- Aplicar vaselina al esténcil 
+
+**Primer pase**
+- Estirar la piel siguiendo el movimiento natural del cuerpo.
+- Colocar la aguja a 45º para abarcar mas área y mantener cada punzada cerca de la anterior.
+- No clavar la aguja ni muy fuerte ni muy suave, con una profundidad media (1-2mm) en la dermis, de esta manera se debería escuchar un pop al clavar la aguja en la piel.
+- Es mejor hacerlo mas delicado aunque requiera más pases ya que hacerlo muy profundo corre el riesgo de blowout.
+- En el primer pase intentar evitar limpiar para mantener el stencil, por ello es útil la vaselina ya que mantiene la tinta en su lugar.
+- Limpiar la aguja con una servilleta en caso de ver grumos.
+- Tener cuidado realizar las esquinas y bordes más despacio ya que es más dificil.
+
+
+
+**Segundo Pase** = Repasar líneas
+- Tras el primer pase limpiar el tatuaje y hacerlo cuantas veces sea necesario a partir de ahora.
+- Volver a aplicar vaselina sobre la piel.
+- Algunos tatuajes solo necesitan una pasada, por ejemplo si se busca un efecto de puntillismo roto
+
+
+
+
+# Practicar
+___
+
+
+
+
+# Disposición de la aguja
+___
+**Movimiento de la aguja:**
+- El movimiento a la hora de clavar la aguja es un movimiento sutil de dentro a fuera.
+
+**Angulo de la aguja**
+- **Linea y Relleno solido:** Colocar la aguja en un ángulo de 45º para inyectar suficiente tinta.
+
+- **Puntillismo y Relleno difuso:** Colocar la aguja en un ángulo de 90º para generar puntos.
+
+**Presión de la aguja:**
+- Para evitar llegar a la capa adiposa de la piel y generar líneas difusas enterrar 1mm la aguja como máximo.
+
+- Cuanto más gruesa es una aguja, y según de cuantas este conformada habrá que ejercer más presión que con agujas mas finas.
+
+- La presión realizada en la piel sintética es mayor a la que hay que realizar en la piel humana, esto hay que tenerlo en cuenta porque si se aplica la misma se podría atravesar la dermis provocando un blowout.
+
