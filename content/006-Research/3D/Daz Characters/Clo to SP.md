@@ -112,15 +112,29 @@ Arrastrar un material a la carpeta de la prenda, Clic derecho sobre la capa y "A
 # SUBSTANCE PAINTER EXPORT
 ___
 - File>Export
-![[Pasted image 20251222203239.png]]
+<img
+  src="../media-content/Apuntes/3D-Notes/Clo3d/20251222203239.png"
+  alt="Export"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 
 En Output Templates: Seleccionar el Preset PBR Metallic Roughness, clic derecho en normal y limpiar el canal para quitar DirectX y reemplazarlo por OpenGx>RGB Channel, eliminar el mapa Emissive si no es necesario
-![[Pasted image 20251222203422.png]]
+<img
+  src="../media-content/Apuntes/3D-Notes/Clo3d/20251222203422.png"
+  alt="OutputTemplates"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 
 Substance Vs Clo versions
-![[Pasted image 20251222203752.png]]
+<img
+  src="../media-content/Apuntes/3D-Notes/Clo3d/20251222203752.png"
+  alt="SPvsClo"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 
 # Materiales en Blender
