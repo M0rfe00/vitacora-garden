@@ -79,7 +79,7 @@ Consiste en **situar una fuente de luz a 45º** respecto a la nariz de nuestro
 Al incidir de manera diagonal sobre el rostro, este tipo de iluminación favorece mucho, ya que las sombras van apareciendo de manera gradual marcando los volúmenes pero sin exagerarlos, obteniendo así un retrato muy compensado.
 
 <img
-  src="../media-content/Apuntes/media-foto/iluminacion/20251214172317.png"
+  src="../media-content/Apuntes/media-foto/iluminacion2/20251214172317.png"
   alt="Rembrandt"
   style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
@@ -95,7 +95,7 @@ Este esquema es muy útil si el principal motivo de tu fotografía es marcar y r
 Además, si usamos una intensidad baja y nuestro modelo colabora con su pose, podemos conseguir retratos que transmitan potencia o agresividad, e incluso que generen temor.
 
 <img   
-  src="../media-content/Apuntes/media-foto/iluminacion/20251214172610.png"
+  src="../media-content/Apuntes/media-foto/iluminacion2/20251214172610.png"
   alt="Lateral"
   style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
@@ -110,7 +110,7 @@ Para crear un contraluz situaremos la fuente de luz justo detrás de nuestro suj
 Este tipo de iluminación es muy útil para remarcar una bonita silueta, un cuerpo musculado o incluso una tripita de [embarazada](https://www.dzoom.org.es/pequena-guia-para-realizar-una-sesion-premama-inolvidable/).
 
 <img
-  src="../media-content/Apuntes/media-foto/iluminacion/20251214172840.png"
+  src="../media-content/Apuntes/media-foto/iluminacion2/20251214172840.png"
   alt="Contraluz"
   style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
