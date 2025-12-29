@@ -160,3 +160,4 @@ ___
 - Simbolismo Hindú
 
 
+**Principalmente me inspiro de estas fuentes:** Simbolos veve del vudu, Runas y Galdrastafirs nordicos, Sicanje "cruces catolicas" croatas, Sak yants tailandeses, Patrones de tatuajes Henna, Sigilos angelicales del Angenomicon y Sigilos demoniacos del Lemegeton
