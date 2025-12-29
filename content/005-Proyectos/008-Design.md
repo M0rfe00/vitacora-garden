@@ -37,17 +37,17 @@ ___
 
 
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Exit303.jpg" alt="exit">
-<img loading= "lazy" src="../media-content/Diseño/cartas/stickyverde.jpg" alt="sticky">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Nerveangent2.jpg" alt="Nerve">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Starina.jpg" alt="Rojuu">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Coyote.jpg" alt="Coyote">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Nuepank.jpg" alt="Elite">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Akriila.jpg" alt="Akriila">
-<img loading= "lazy" src="../media-content/Diseño/cartas/YungBe.jpg" alt="YungBeef">
-<img loading= "lazy" src="../media-content/Diseño/cartas/nicomiseria.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/goa13f.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/lhainediego.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Exit303.jpg" alt="exit">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/stickyverde.jpg" alt="sticky">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Nerveangent2.jpg" alt="Nerve">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Starina.jpg" alt="Rojuu">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Coyote.jpg" alt="Coyote">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Nuepank.jpg" alt="Elite">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Akriila.jpg" alt="Akriila">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/YungBe.jpg" alt="YungBeef">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/nicomiseria.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/goa13f.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/lhainediego.jpg" alt="">
 <img loading= "lazy" src="../media-content/Diseño/cartas/metrika.jpg" alt="">
 <img loading= "lazy" src="../media-content/Diseño/cartas/Makinavaja.jpg" alt="">
 <img loading= "lazy" src="../media-content/Diseño/cartas/Fausto.jpg" alt="">
