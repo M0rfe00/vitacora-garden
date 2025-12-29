@@ -1,5 +1,5 @@
 ---
-showInFolderList: true
+showInFolderList: "true"
 title: 000 - Recursos SMR
 tags:
   - Recursos-Smr

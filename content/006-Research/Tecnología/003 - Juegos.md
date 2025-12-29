@@ -2,6 +2,7 @@
 tags:
   - Informática
   - Recursos-Smr
+  - hideInExplorer
 ---
 
 <link rel="stylesheet" href="styles/custom.css">
