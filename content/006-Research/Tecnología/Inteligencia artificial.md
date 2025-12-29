@@ -1,6 +1,6 @@
 #Research
 # **¿Qué es la INTELIGENCIA ARTIFICIAL? (y qué NO es)**
-
+___
 ### **Inteligencia artificial:** 
 es un campo de estudio sobre la posibilidad de que las maquinas puedan realizar tareas humanas, herramientas como (Chat GPT, Perplexity, Stable Diffusion) son modelos o sistemas de IA, es decir el producto del campo de estudio.
 
@@ -32,7 +32,7 @@ pese a que los modelos de IA sean capaces de almacenar y procesar información n
 
 
 # **Diferencias entre IA e inteligencia humana:**
-
+___
 la principal es la capacidad de memoria y procesamiento, superior en la IA.
 
 Surgen dilemas sobre si la IA es capaz de desarrollar consciencia, sim embargo no hay consenso si quiera sobre que es la consciencia humana y no hay evidencia de que la IA sienta, piensa o tenga una experiencia subjetiva.
@@ -52,7 +52,7 @@ Esto abriendo la posibilidad de que estos modelos empiecen a percibir el mundo d
 
 
 # **¿EL FIN DE LA INTELIGENCIA ARTIFICIAL?**
-
+___
 ### **Problemas del sector:**
 
 Pese a todos los avances y notoriedad de la IA hay quienes recomiendan precaución, algunos de sus puntos son, que se está exagerando su potencial, que hay pocos casos prácticos de uso, que acciones de empresas de GPUs se devaluaran al haber sobreestimado la demanda y que su consumo energético y la demanda de recursos será inasumible.
@@ -88,7 +88,7 @@ Con la explosión de la burbuja es posible que se resienta la confianza, pero cu
 
 
 # **¿Cómo funciona ChatGPT? La revolución de la Inteligencia Artificial**
-
+___
 El estado actual de CHAT GPT no ha surgido de la noche a la mañana, si no que ha sido el fruto de décadas de innovaciones en el mundo de la tecnologia como la programación, informática, IAs y la sociedad en si, esto es lo que se conoce como una tecnologia convergente, es decir que nace de otras muchas tecnologías.
 
 Chat GPT está basado en GPT3 (Generative Pre-Trained Trasnformer 3), GPT3 es un modelo, un modelo es un programa, algoritmo, función que trata de replicar el funcionamiento de un sistema, como modelo climático que es un programa que permite predecir el clima basándose en datos históricos.
@@ -118,7 +118,7 @@ Es decir, se le proporcionan datos y una estrategia para analizarlos, pero es el
 
 
 # **La "IA" lo cambia TODO |** **Lo que deberías saber sobre la Inteligencia Artificial**
-
+___
 ### **Evolución de los procesadores CPUs y GPUs:**
 Inicialmente había circuitos eléctricos sencillos que realizaban tareas sencillas gracias a las puertas lógicas de sus circuitos, posteriormente surgieron los circuitos programables que permitían realizar tareas mucho más complejas y actualmente han surgido las redes neuronales, un software que puede aprender a realizar tareas sin que le expliquemos como hacerlas.
 
@@ -184,7 +184,7 @@ El potencial que tienen estas herramientas para generar contenido para utilizars
 Chat GPT, Sora, Llama, Deepseek, Gemini, Cloud, Dall-e, Midjourney, Stable diffusion, ComfyUI, Perplexity, Runway, flux
 
 # **El MUNDO (y la IA) DEPENDEN DE TAIWAN**
-
+___
 La revolución tecnológica actual depende completamente de los microprocesadores ya que con la llegada de tecnologías como el IOT prácticamente cualquier dispositivo eléctrico tiene microprocesadores y juegan un papel fundamental en la IA.
 
 ### **Desarrollo de los chips:**
@@ -201,7 +201,7 @@ Europa pese a no ser líder en fabricación de ni diseño desempeña un papel cl
 
 
 # **Deepseek: ¿PRINCIPIO o FIN de la IA?**
-
+___
 En enero de 2025 la bolsa norteamericana cayo un 3,1% gracias a Deepseek, un nuevo modelo de IA de alto rendimiento, barato de entrenar y de código abierto que se puede utilizar en un ordenador portátil y convirtiéndose en el nº de descargas de la app store, cambiando el balance geopolítico de la IA de un momento a otro y generando debates en el mundo tecnológico y la política internacional y afectando fuertemente a Nvidia haciendo caer un 17% su valor de bolsa siendo esta la mayor caída de una empresa en la bolsa americana en la historia.
 
 ### **Innovación de Deepseek:**
@@ -227,7 +227,7 @@ En cambio, para Apple que se estaba quedando atrás en la inversión en IA y cen
 
 
 # **IA y armas autónomas: la nueva era nuclear**
-
+___
 Tras el uso de las bombas atómicas en Japón surgió el concepto de disuasión el cual es la capacidad de un país de destruir a otro lo que impide que otro le ataque o emprenda acciones contra el por miedo a su aniquilación y por ello se llegó a un acuerdo global de posesión, desarme, no desarrollo y con el movimiento de Átomos por la paz se permitió a cualquier país a utilizar la energía nuclear para usos civiles y prohibió a determinados estados desarrollar armas.
 
 Con los avances tecnológicos, específicamente la IA ha surgido una nueva amenaza de extinción total gracias a las armas autónomas, modelos de IA avanzados y la probabilidad de una IA general
@@ -241,8 +241,9 @@ Actualmente EEUU sobre todo tras lo ocurrido con Deepseek que sacudió la bolsa 
 
 Armas autónomas:
 
-# **Flux + ComfyUI + LoRA**
 
+# **Flux + ComfyUI + LoRA**
+___
 Los principales modelos de generación de “Difusion” y “Transformer”, los de Difusion aprender a reconstruir imágenes en base a ruido, para saber que tiene que reconstruir se combinan con los Transformer que realiza asociaciones entre las imágenes y textos con los que ha sido entrenado el modelo.
 
 ### **Tipos de modelos:**

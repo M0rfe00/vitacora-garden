@@ -1,6 +1,6 @@
 #Research
 # Teoría del Internet muerto
-
+___
 Desde la creación de la primera página web hasta la actualidad internet ha evolucionado muchísimo, transformando todos los ámbitos de la vida, generando nuevas industrias, facilitando la comunicación global instantánea, democratizando el acceso a la información y surgiendo empresas multimillonarias en el proceso.
 
 Aproximadamente a principios de los 2000s empezó a circular la teoría conspiranoica llamada “Teoría del internet muerto”, inicialmente no tuvo mucha repercusión, pero con el paso de los años ha ido ganando cada vez más popularidad y repercusión, el blog del que surgió esta teoría fue “Angora Road´s Macintosh Café” en 2001.
