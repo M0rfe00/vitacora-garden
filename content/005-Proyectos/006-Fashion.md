@@ -2,7 +2,7 @@
 tags:
   - Proyectos
 ---
-# Diseños
+# Designs
 ___
 **3D renders of garments on digital avatars, created for social media using Clo3D, Blender and Photoshop.**
 <div class="galeria">

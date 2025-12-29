@@ -2,6 +2,40 @@
 tags:
   - Proyectos
 ---
+# Editorial Newslleter
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Diseño/Newsletter/Newsletter1.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Diseño/Newsletter/Newsletter2.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+### [**Vol.1 - Entendiendo El Universo Musical de Ghouljaboy**](https://drive.google.com/file/d/1cK7NRxIBxqVLWCV5yDd4MF8_uOZIyx0-/view)
+### [**Vol.2 - Lore de Dante Technicolor**](https://drive.google.com/file/d/1qFJQqSUt4wUQ9Av7FLqxlLC8pMrd5KzL/view)
+
+
+# Promotial Card Deck
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Diseño/Cartas/CardDeck1.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Diseño/Cartas/CardDeck2.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
 <div class="galeria">
 <img loading= "lazy" src="../media-content/cartas/Exit303.jpg" alt="">
 <img loading= "lazy" src="../media-content/cartas/stickyverde.jpg" alt="">
@@ -25,6 +59,5 @@ tags:
 <img loading= "lazy" src="../media-content/cartas/4.jpg" alt="">
 </div>
 
-> [!info]Este proyecto surgió en 2023 cuando estuve pensando ideas para el regalo de cumpleaños de una amiga, dio la casualidad de que en esa época empecé a interesarme por diferentes programas de edición y barajas de cartas como Pokémon.<br><br>Gracias a que cada carta tenía un estilo muy diferente me sirvió para ir familiarizándome con la edición digital y posteriormente la imprenta.<br><br>Los diseños de esta baraja giran alrededor de diferentes artistas de la escena musical española, uno de los puntos más destacables del diseño es el “código superior” el cual al ser escaneado redirige al perfil del cantante en Spotify.<br><br>Hasta la fecha no he comercializado estas cartas al tenerlo como un proyecto secundario, sin embargo, estoy abierto a propuestas ya que considero que tienen un gran potencial como merchandising.
-
+> [!info]<br><br>Los diseños de esta baraja giran alrededor de diferentes artistas de la escena musical española, uno de los puntos más destacables del diseño es el “código superior” el cual al ser escaneado redirige al perfil del cantante en Spotify.<br>
 
