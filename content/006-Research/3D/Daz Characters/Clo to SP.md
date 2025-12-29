@@ -112,6 +112,7 @@ Arrastrar un material a la carpeta de la prenda, Clic derecho sobre la capa y "A
 # SUBSTANCE PAINTER EXPORT
 ___
 - File>Export
+
 <img
   src="../media-content/Apuntes/3D-Notes/Clo3d/20251222203239.png"
   alt="Export"
