@@ -160,7 +160,7 @@ Será importante que la **luz de relleno tenga menor intensidad que la principa
 Con este esquema de iluminación conseguiremos que las sombras generadas por el esquema Rembrandt no estén tan marcadas, generando así un **retrato menos duro, más compensado**.
 
 <img
-  src="../media-content/Apuntes/media-foto/iluminacion/20251214173734.png"
+  src="../../../media-content/Apuntes/media-foto/iluminacion/20251214173734.png"
   alt="45&45"
   style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
