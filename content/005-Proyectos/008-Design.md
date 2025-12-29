@@ -24,14 +24,14 @@ ___
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Diseño/Cartas/CardDeck1.jpg"
-  alt="Blazer"
+  src="../media-content/Diseño/Cartas/CardDeck2.jpg"
+  alt="CardDeck1"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   loading= "lazy" 
-  src="../media-content/Diseño/Cartas/CardDeck2.jpg"
-  alt="Blazer"
+  src="../media-content/Diseño/Cartas2/CardDeck2.jpg"
+  alt="CardDeck2"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
@@ -48,16 +48,17 @@ ___
 <img loading= "lazy" src="../media-content/Diseño/cartas2/nicomiseria.jpg" alt="">
 <img loading= "lazy" src="../media-content/Diseño/cartas2/goa13f.jpg" alt="">
 <img loading= "lazy" src="../media-content/Diseño/cartas2/lhainediego.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/metrika.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Makinavaja.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Fausto.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/Nerverangent.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/fueracontrol.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/1.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/2.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/3.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas/4.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/metrika.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Makinavaja.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Fausto.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/Nerverangent.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/fueracontrol.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/cartas2/4.jpg" alt="">
 </div>
+
 
 > [!info]<br><br>Los diseños de esta baraja giran alrededor de diferentes artistas de la escena musical española, uno de los puntos más destacables del diseño es el “código superior” el cual al ser escaneado redirige al perfil del cantante en Spotify.<br>
 
