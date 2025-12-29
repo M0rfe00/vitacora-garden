@@ -19,12 +19,12 @@ La piel se divide en tres capas, Epidermis, Dermis e Hipodermis
 
 <img
   src="../media-content/Apuntes/media-tattoo/20251225213953.png"
-  alt="Brillantes2"
+  alt="CapasPiel1"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="../media-content/Apuntes/media-tattoo/20251225213953.png"
-  alt="Brillantes2"
+  alt="CapasPiel2"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 

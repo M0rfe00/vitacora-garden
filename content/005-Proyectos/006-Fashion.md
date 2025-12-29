@@ -108,8 +108,8 @@ ___
   alt="ImpExp-Formats"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-[!info]- Sobre estos diseños
-> La elección de patronar las prendas de Squall Leonhart del videojuego Final fantasy VIII, surge de querer hacer un proceso diferente al que había hecho hasta el momento, en vez de realizar el modelo 3D/patrón de una prenda real, quería comprobar que también podría traer a la realidad una prenda digital.
+>[!info]- Sobre estos diseños
+ >La elección de patronar las prendas de Squall Leonhart del videojuego Final fantasy VIII, surge de querer hacer un proceso diferente al que había hecho hasta el momento, en vez de realizar el modelo 3D/patrón de una prenda real, quería comprobar que también podría traer a la realidad una prenda digital.
 <br>
 
 ## **VitaCora X Under Glamour**
@@ -119,8 +119,8 @@ ___
   alt="ImpExp-Formats"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-[!info]- Sobre estos diseños 
-> Este prototipo 3D es parte de una colaboración con la marca emergente @Undergalmour_ de Valencia, fueron hechos a partir de mockups 2D hechos en Illustrator y recreados en 3D con CLO3D<br>
+>[!info]- Sobre estos diseños 
+>Este prototipo 3D es parte de una colaboración con la marca emergente @Undergalmour_ de Valencia, fueron hechos a partir de mockups 2D hechos en Illustrator y recreados en 3D con CLO3D<br>
 > <br>Los diseños elegidos fueron una chaqueta vaquera con detalles picudos en el cuello y las mangas, un chaleco con capucha de pelo y unos bell jeans con detalles en las costuras de los bolsillos traseros.<br><br>Estos diseños se pueden encontrar tanto en mi cuenta de Instagram @Lookass333 como la de @Underglamour_ 
 
 ## **Adidas Original**
@@ -130,7 +130,7 @@ ___
   alt="ImpExp-Formats"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-[!info]- Sobre estos diseños
+>[!info]- Sobre estos diseños
 > La recreación del conjunto Adidas Classic fue motivado por explorar las capacidades de fotorealismo que ofrece la moda digital.
 
 
