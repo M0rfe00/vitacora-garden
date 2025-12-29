@@ -24,7 +24,7 @@ ___
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Diseño/Cartas2/CardDeck2.jpg"
+  src="../media-content/Diseño/Cartas2/CardDeck1.jpg"
   alt="CardDeck1"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
