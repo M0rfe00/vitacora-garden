@@ -7,12 +7,13 @@ ___
 - Hay formas céntricas y planas del cuerpo que permiten realizar diseños sin importar la dirección, como pueden ser la parte delantera del torso, la frente, las palmas, espalda y la cara frontal del muslo.
 <img
   src="../media-content/Apuntes/media-tattoo/20251225220846.png"
-  alt="Brillantes2"
+  alt="Direccion"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="../media-content/Apuntes/media-tattoo/20251225222040.png"
-  alt="Brillantes2"
+  alt="Direccion
+  "
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
