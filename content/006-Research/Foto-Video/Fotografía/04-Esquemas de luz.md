@@ -94,7 +94,7 @@ Este esquema es muy útil si el principal motivo de tu fotografía es marcar y r
 
 Además, si usamos una intensidad baja y nuestro modelo colabora con su pose, podemos conseguir retratos que transmitan potencia o agresividad, e incluso que generen temor.
 
-<img
+<img   
   src="../media-content/Apuntes/media-foto/iluminacion/20251214172610.png"
   alt="Lateral"
   style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
