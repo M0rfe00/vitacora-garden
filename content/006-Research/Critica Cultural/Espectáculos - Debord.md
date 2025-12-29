@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 # **Sociedad del espectáculo**
 ___
 Guy Debord fue un escritor cineasta y filósofo francés del siglo XX conocido sobre todo por su libro La sociedad del espectáculo, él se calificó como estratega, pues queria ser teórico y práctico del camino que por fin llevaría a la revolución.

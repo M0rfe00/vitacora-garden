@@ -1,4 +1,7 @@
-#Research
+---
+tags:
+  - Tecnologia
+---
 # Teoría del Internet muerto
 ___
 Desde la creación de la primera página web hasta la actualidad internet ha evolucionado muchísimo, transformando todos los ámbitos de la vida, generando nuevas industrias, facilitando la comunicación global instantánea, democratizando el acceso a la información y surgiendo empresas multimillonarias en el proceso.

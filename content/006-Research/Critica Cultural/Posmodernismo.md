@@ -1,6 +1,6 @@
 ---
 tags:
-  - Research
+  - Critica Cultural
 ---
 # Posmodernismo 
 ___

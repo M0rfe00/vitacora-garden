@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 En esta entrada de la pagina comparto links a algunas **[Obras sobre Palestina](https://drive.google.com/drive/folders/1nZoeuBNpXM3bpVaJNSVxc13c3nd7U_3z);** Libros, documentales y Películas que he ido recopilando estos meses:
 
 # 1. LIBROS

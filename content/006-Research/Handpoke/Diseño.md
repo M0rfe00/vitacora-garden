@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 # ANATOMIA & DISEÑO
 ___
 ### **Dirección:**

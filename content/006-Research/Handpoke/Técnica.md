@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 # Stencil
 ___
 **PREPARAR DISEÑO PARA LA TERMOCOPIADORA**
