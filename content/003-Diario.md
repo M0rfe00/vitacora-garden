@@ -1,3 +1,9 @@
+---
+tags:
+  - hideInExplorer
+---
+
+
 > [!tweet]+ Tweet - 2025-07-17
 > <a href="https://x.com/Lookass333/status/1945821166234464618" role="presentation" aria-hidden="true"><img src="../media-content/Diario/Tweets/tweet-1945821166234464618.png" alt="Tweet" style="border-radius: 12px; margin: 0; padding: 0; display: block; max-width: 100%;"></a>
 
