@@ -2,8 +2,9 @@
 tags:
   - Proyectos
 ---
-# Segunda colección: ¿?
+# Diseños
 ___
+**3D renders of garments on digital avatars, created for social media using Clo3D, Blender and Photoshop.**
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/denimdress/1.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/denimdress/2.webp" alt="">
@@ -18,25 +19,10 @@ ___
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/3.webp" alt="">
 <img loading= "lazy" src="../media-content/Moda/segunda-coleccion/Cortesano/4.webp" alt="">
 </div>
-
-> [!info]- Sobre la segunda colección
+> [!info]- Sobre estos diseños
 > En esta colección no seguí una estética general y unificada, sino que me enfoqué en desarrollar varios conjuntos completos e independientes, mis inspiraciones fueron conjuntos tradicionales orientales, conjuntos cortesanos europeos y la reinterpretación de algunos de mis diseños anteriores.<br><br>Pese a ser una colección heterogénea creo haber conseguido cierta cohesión en ella y estoy bastante orgulloso de los diseños y patrones. 
-<br><br>
-<!--
-# Mockups 1st collection/medieval collection
-___
-<div class="galeria">
-<img loading= "lazy" src="../media-content/Moda/varios/Mockups-primera-coleccion2.jpg" alt="">
-<img loading= "lazy" src="../media-content/Moda/varios/imagdfghe.jpg" alt="">
-<img loading= "lazy" src="../media-content/Moda/varios/MockupsKinghts.png" alt="">
-</div>
+> 
 
-> [!info]- Sobre estos Mockups
-> Hasta el momento todos los diseños que habia realizado partian de conceptos clave que tenia en la cabeza y luego trataba de recrear por drafting hasta conseguir el prototipo definitivo, por ello quise explorar otras formas y decidi practicar el diseño de mockups para utilizarlos como referencia.
-<br><br>
--->
-
-# Mini-Collection: Medieval-wear
 ___
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Moda/knights/TopKnight.webp" alt="">
@@ -47,11 +33,9 @@ ___
 <img loading= "lazy" src="../media-content/Moda/knights/Chaqueta frontV33.webp" alt="">
 </div>
 
-> [!info]- Sobre esta mini-colección
+> [!info]- Sobre estos diseños
 > Como en la mayoría de las corrientes artísticas, las siguientes prendas que diseñe fueron una reacción y respuesta a lo que las precedieron, en la anterior colección quise explorar una estética futurista y en esta quise diseñar algo más medieval y de fantasia.<br><br>Uno de los conceptos que quise explorar en las anteriores prendas y no desarrolle en profundidad era el layering, en estas prendas añadí detalles tanto en las prendas superiores como inferiores de nivelado y capas. 
-<br><br>
 
-# Primera colección: ¿?
 ___
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Fotos TechFits/2.webp" alt="">
@@ -76,10 +60,30 @@ ___
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/FemTopW.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/primera-coleccion/Prototipo-V22.gif" alt="">-->
 </div>
-
-> [!info]- Sobre la primera colección
+> [!info]- Sobre Estos diseños
 > A estas alturas ya me desenvolvía bastante bien con el programa y tenía ganas de diseñar mis primeras prendas, al ser mi primera colección tenía muchas ideas en la cabeza por explorar, finalmente opte por siluetas ceñidas a la forma del cuerpo para crear una silueta estilizada, una ligera caída en la parte trasera inspirado en la cola de un cisne y los trajes de cola.<br><br>También quería añadir cierta complejidad y un tono futurista a las prendas, para ello dividí los patrones base en varias piezas, lo que me permitió jugar aún más con la silueta, para el color elegí una gama monocromática para destacar los detalles de costuras y pespuntes que surgían al dividir el patrón en multitud de piezas. 
 <br><br>
+# Selected Patterns
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Moda/Portfolio/BlazerPortfolio.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Moda/Portfolio/FluidJeansPortfolio.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Moda/Portfolio/DenimDressPortfolio.jpg"
+  alt="Blazer"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 # 2D Mockups
 ___

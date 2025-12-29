@@ -100,6 +100,7 @@ De forma similar a los pinceles hay diferentes de puntas, terminaciones, para li
 </div>
 
 **Tapers**
+
 <img
   src="../media-content/Apuntes/media-tattoo/20251228172023.png"
   alt="Tapers"
