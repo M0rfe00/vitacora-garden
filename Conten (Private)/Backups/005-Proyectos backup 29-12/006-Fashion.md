@@ -81,32 +81,20 @@ ___
 > A estas alturas ya me desenvolvía bastante bien con el programa y tenía ganas de diseñar mis primeras prendas, al ser mi primera colección tenía muchas ideas en la cabeza por explorar, finalmente opte por siluetas ceñidas a la forma del cuerpo para crear una silueta estilizada, una ligera caída en la parte trasera inspirado en la cola de un cisne y los trajes de cola.<br><br>También quería añadir cierta complejidad y un tono futurista a las prendas, para ello dividí los patrones base en varias piezas, lo que me permitió jugar aún más con la silueta, para el color elegí una gama monocromática para destacar los detalles de costuras y pespuntes que surgían al dividir el patrón en multitud de piezas. 
 <br><br>
 
-# 3D Prototypes
-___
-## **Final Fantasy VIII Inspiration**
-![[Portfolio - Moda - 300mb-24.jpg]]
-[!info]- Sobre estos diseños
-> La elección de patronar las prendas de Squall Leonhart del videojuego Final fantasy VIII, surge de querer hacer un proceso diferente al que había hecho hasta el momento, en vez de realizar el modelo 3D/patrón de una prenda real, quería comprobar que también podría traer a la realidad una prenda digital.
-<br><br>
 
-<!--
+# Final Fantasy VIII Inspiration
+___
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Moda/2.squall/IMG Squall.jpg" alt="">
 <img loading= "lazy" src="../media-content/Moda/2.squall/474897813_17935815656978531_2406148417940838682_n..jpg" alt="">
 </div>
--->
-## **VitaCora X Under Glamour**
-![[Portfolio - Moda - 300mb-26.jpg]]
-[!info]- Sobre estos diseños 
-> Este prototipo 3D es parte de una colaboración con la marca emergente @Undergalmour_ de Valencia, fueron hechos a partir de mockups 2D hechos en Illustrator y recreados en 3D con CLO3D<br>
-> <br>Los diseños elegidos fueron una chaqueta vaquera con detalles picudos en el cuello y las mangas, un chaleco con capucha de pelo y unos bell jeans con detalles en las costuras de los bolsillos traseros.<br><br>Estos diseños se pueden encontrar tanto en mi cuenta de Instagram @Lookass333 como la de @Underglamour_ 
 
-## **Adidas Original**
-![[Portfolio - Moda - 300mb-25.jpg]]
-[!info]- Sobre estos diseños
-> La recreación del conjunto Adidas Classic fue motivado por explorar las capacidades de fotorealismo que ofrece la moda digital.
+> [!info]- Sobre estos diseños
+> La elección de patronar las prendas de Squall Leonhart del videojuego Final fantasy VIII, surge de querer hacer un proceso diferente al que había hecho hasta el momento, en vez de realizar el modelo 3D/patrón de una prenda real, quería comprobar que también podría traer a la realidad una prenda digital.
+<br><br>
 
-<!--
+# VitaCora X Under Glamour
+___
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Moda/1.underg/chaqueta.gif" alt="">
 <img loading= "lazy" src="../media-content/Moda/1.underg/chaleco.gif" alt="">
@@ -115,7 +103,7 @@ ___
 <img loading= "lazy" src="../media-content/Moda/1.underg/chaleco3.jpg" alt="">
 <img loading= "lazy" src="../media-content/Moda/1.underg/jean1.jpg" alt="">
 </div>
--->
 
-
+> [!info]- Sobre estos diseños 
+> Tras un periodo aprendiendo a utilizar el programa y finalizar el curso de diseño de moda en 3D, quería practicar el patronaje desde cero utilizando bocetos/mockups como referencia, buscando en redes en redes encontré unos diseños conceptuales de @Underglamour_.<br><br>Los diseños que elegí fueron una chaqueta vaquera con detalles picudos en el cuello y las mangas, un chaleco con capucha de pelo y unos bell jeans con detalles en las costuras de los bolsillos traseros.<br><br>Estos diseños se pueden encontrar tanto en mi cuenta de Instagram @Lookass333 como la de @Underglamour_ 
 
