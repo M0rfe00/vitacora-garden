@@ -4,7 +4,7 @@ En esta entrada de la pagina comparto links a algunas **[Obras sobre Palestina](
 ___
 Ambos libros exponen el conflicto de forma bastante bien y sirven tanto para tener una vista general cronológicamente como referencia para buscar otros autores y obras. Orígenes del conflicto:
 
-### [**Orígenes del conflicto:**](https://t.co/tubcT2mfMQ)
+## [**Orígenes del conflicto:**](https://t.co/tubcT2mfMQ)
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA5ISVW0AA_qY5.png" alt="">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA5UbgWUAAqZa8.png" alt="">
@@ -12,7 +12,7 @@ Ambos libros exponen el conflicto de forma bastante bien y sirven tanto para ten
 </div>
 
 <br><br>
-### [**La cuestión Palestina Edward w. Said:**](https://t.co/PpnO8csAbT)
+## [**La cuestión Palestina Edward w. Said:**](https://t.co/PpnO8csAbT)
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA7DpQXoAAZnAH.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA6lHwWQAABZjN.jpg" alt="">
@@ -25,7 +25,7 @@ Ambos libros exponen el conflicto de forma bastante bien y sirven tanto para ten
 ___
 Cada documental se centra en un tema o territorio diferente y sirven para tener una idea de la situación en todo el territorio ocupado y afectado por el sionismo:
 
-### [**Little Palestine (Diary of a siege):**](https://t.co/4L5QWtGDkL)
+## [**Little Palestine (Diary of a siege):**](https://t.co/4L5QWtGDkL)
 <img
   src="../media-content/Research/Palestina/GaA7wZCXcAAsg5W.jpg"
   alt="LittlePalestina"
@@ -36,7 +36,7 @@ El distrito de Yarmouk (Damasco, Siria) albergó el mayor campo de refugiados pa
 
 Abdallah Al-Khatib nació en Yarmouk y vivió allí hasta su expulsión por Daesh en 2015. Entre 2011 y 2015, él y sus amigos documentaron la vida cotidiana de los habitantes asediados, que decidieron enfrentarse a los bombardeos, el desplazamiento y el hambre con la movilización, el estudio, la música, el amor y la alegría. Cientos de vidas fueron transformadas irremediablemente por la guerra y el asedio: desde la madre de Abdallah, que se convirtió en enfermera a cargo de cuidar a los ancianos en el campamento, hasta los activistas más feroces cuya pasión por Palestina fue gradualmente socavada por el hambre.
 <br><br>
-### **5 Cámaras rotas:** [Link1](https://t.co/9SsxhzNZtV) [Link2](https://t.co/Q5rQ7vWNE6)
+## **5 Cámaras rotas:** [Link1](https://t.co/9SsxhzNZtV) [Link2](https://t.co/Q5rQ7vWNE6)
 <img
   src="../media-content/Research/Palestina/GaA9Nu7W8AAWY4y.jpg"
   alt="5BCameras"
@@ -49,7 +49,7 @@ Con su cámara Emad, graba estos primeros movimientos. 5 años y 5 cámaras de v
 
 Mientras los ataques israelíes destrozan una cámara tras otra y, con ellas, las vidas de algunos de sus compañeros, Emad sigue adquiriendo nuevas cámaras y filmando lo que sucede a su alrededor. Un retrato único, personal y desde primera fila de uno de los movimientos de resistencia pacífica palestinos más famosos y apoyados por la comunidad internacional.
 <br><br>
-### [**Hijas de la Nakba:**](https://t.co/nnkvw1EM8x)
+## [**Hijas de la Nakba:**](https://t.co/nnkvw1EM8x)
 <img
   src="../media-content/Research/Palestina/GaA-U5nWAAA54uD.jpg"
   alt="HDLNakba"
@@ -64,7 +64,7 @@ Con la participación de Khitam Saafin, Mariam Abu Turki, Leila Khaled, Jaldía 
 
 Dirigido por Estela Falastin, traducción de Salam Akhras Mazloum, y realizado por VEUS Producciones.
 <br><br>
-### **Israel Balagan 3Cat:** [Link1](https://t.co/q9lofcYD3e) [Link2](https://t.co/5fI1CNVqDh)
+## **Israel Balagan 3Cat:** [Link1](https://t.co/q9lofcYD3e) [Link2](https://t.co/5fI1CNVqDh)
 <img
   src="../media-content/Research/Palestina/GaA_WM0WwAECH66.jpg"
   alt="HDLNakba"
@@ -82,7 +82,7 @@ Pese a ser ficción creo que están bastante bien tanto para conocer el arte pal
 
 Lista de Letterboxd --> https://letterboxd.com/lukas333/list/palestina/
 
-### [**La sal de este mar:**](https://t.co/jzKEdUCTrk)
+## [**La sal de este mar:**](https://t.co/jzKEdUCTrk)
 <img
   src="../media-content/Research/Palestina/GaBRyQCXQAAyko2 1.jpg"
   alt="SaltOFTSea"
@@ -95,7 +95,7 @@ Su camino se cruza entonces con el de Emad, un joven palestino que, a diferencia
 
 Para escapar de las tensiones ligadas a la situación del país, pero también para sentirse libres, Soraya y Emad deberán tomar su destino en sus manos con riesgo de transgredir las leyes, y en ese camino que emprenden nos llevarán tras las huellas de su historia en la Palestina perdida.
 <br><br>
-### [**Omar:**](https://t.co/QR5GYjMYTo)
+## [**Omar:**](https://t.co/QR5GYjMYTo)
 <img
   src="../media-content/Research/Palestina/GaBSPWZXQAAD7By.jpg"
   alt="Omar"
@@ -109,7 +109,7 @@ Al otro lado del muro, el joven panadero Ilamado Omar se convierte en un guerrer
 Las sospechas y la traición hacen peligrar la relación con sus dos amigos de infancia, Amjad y Tarek, el hermano de Nadia. Los sentimientos de Omar acaban tan divididos como Palestina. Pero es obvio que todas sus acciones están guiadas por su amor a Nadia.
 <br><br>
 
-### **The time that remains:**
+## **The time that remains:**
 <img
   src="../media-content/Research/Palestina/GaBSqQ9WQAAN0Pm.jpg"
   alt="TTTRemains"
