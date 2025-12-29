@@ -24,10 +24,11 @@ ___
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Diseño/Cartas/CardDeck2.jpg"
+  src="../media-content/Diseño/Cartas2/CardDeck2.jpg"
   alt="CardDeck1"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+
 <img
   loading= "lazy" 
   src="../media-content/Diseño/Cartas2/CardDeck2.jpg"
@@ -37,26 +38,26 @@ ___
 
 
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Exit303.jpg" alt="exit">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/stickyverde.jpg" alt="sticky">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Nerveangent2.jpg" alt="Nerve">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Starina.jpg" alt="Rojuu">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Coyote.jpg" alt="Coyote">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Nuepank.jpg" alt="Elite">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Akriila.jpg" alt="Akriila">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/YungBe.jpg" alt="YungBeef">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/nicomiseria.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/goa13f.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/lhainediego.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/metrika.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Makinavaja.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Fausto.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/Nerverangent.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/fueracontrol.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/1.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/2.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/3.jpg" alt="">
-<img loading= "lazy" src="../media-content/Diseño/cartas2/4.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Exit303.jpg" alt="exit">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/stickyverde.jpg" alt="sticky">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Nerveangent2.jpg" alt="Nerve">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Starina.jpg" alt="Rojuu">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Coyote.jpg" alt="Coyote">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Nuepank.jpg" alt="Elite">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Akriila.jpg" alt="Akriila">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/YungBe.jpg" alt="YungBeef">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/nicomiseria.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/goa13f.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/lhainediego.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/metrika.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Makinavaja.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Fausto.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/Nerverangent.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/fueracontrol.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Diseño/Cartas2/4.jpg" alt="">
 </div>
 
 
