@@ -1,19 +1,17 @@
 # Stencil
 ___
-- Desinfectar la zona con alcohol para retirar el exceso de grasa y suciedad de la piel y asi mejorar la adherencia del esténcil.
-- Trazar una linea de referencia en la piel.
-- Tras estar conforme con la posición del diseño trazar referencias en el esténcil y la piel (colocarlo en una posición cómoda y relajada para que no se deformen los músculos al moverse).
-- Aplicar el gel de transfer de forma uniforme en la piel sin dejar grumos ni cúmulos para que el esténcil quede de forma adecuada.
-- Tras aplicar el esténcil esperar un poco para retirarlo con cuidado de no romperlo.
-- Dejar secar apropiadamente el esténcil de 5-10 minutos
+**PREPARAR DISEÑO PARA LA TERMOCOPIADORA**
+- **En Photoshop:** reducir el tamaño del diseño al tamaño del dibujo y en *opciones>tamaño de imagen* establecer el tamaño deseado, voltear horizontalmente la imagen ya que la termo copiadora realizara el calco a la inversa.
+- Finalmente (Ctrl+T) ajustes de impresión y situar el dibujo en la hoja.
+- En el papel transfer retirar el papel intermedio y colocar el papel en la termo copiadora y el calco esta listo para ser aplicado en la piel.
 
+**PREPARAR LA PIEL PARA EL STENCIL**
+- **Desinfectar la zona** con alcohol para retirar el exceso de grasa y suciedad de la piel y asi mejorar la adherencia del esténcil.
+- **Posicionar el diseño** y trazar referencias en el esténcil y la piel (colocarlo en una posición cómoda y relajada para que no se deformen los músculos al moverse).
+- **Aplicar el gel de transfer** de forma uniforme en la piel sin dejar grumos ni cúmulos para que el esténcil quede de forma adecuada.
+- Tras aplicar el esténcil esperar un poco para **retirarlo con cuidado** de no romperlo.
+- **Dejar secar** apropiadamente el esténcil de 5-10 minutos
 
-**PREPARAR PARA LA TERMOCOPIADORA**
-En Photoshop: reducir el tamaño del d al tamaño del dibujo y en opciones>tamaño de imagen establecer el tamaño deseado, voltear horizontalmente la imagen ya que la termo copiadora realizara el calco a la inversa. Finalmente (Ctrl+T) ajustes de impresión y situar el dibujo en la hoja.
-
-En el papel transfer retirar el papel intermedio y colocar el papel en la termo copiadora.
-
-Este calco esta listo para ser aplicado en la piel.
 
 
 # Handopoke
