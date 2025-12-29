@@ -21,84 +21,174 @@ ___
 
 Es la cola de la osa menor
 ![[Pasted image 20251014223537.png]]
-
+<img
+  src="../media-content/astronomia/20251014223537.png"
+  alt="OsaMayor"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Aunque habitualmente se utiliza la osa mayor para ubicarla
 ![[Pasted image 20251014223624.png]]
-
+<img
+  src="../media-content/astronomia/20251014223624.png"
+  alt="5veces"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Cefeo:** teniendo localizada Polaris, la punta de la osa menor, inclinado hacia el mango del cazo se encuentra Cefeo, constelación en forma de casa.
 ![[Pasted image 20251014223929.png]]
-
+<img
+  src="../media-content/astronomia/20251014223929.png"
+  alt="Cefeo"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Con buenas condiciones puede observarse una estrella anaranjada.
 ![[Pasted image 20251014224109.png]]
-
+<img
+  src="../media-content/astronomia/20251014224109.png"
+  alt="Cefeo2"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **El dragón:** entre las dos osas se encuentra la cola de la constelación del draco
-![[Pasted image 20251014224322.png]]
-
+<img
+  src="../media-content/astronomia/20251014224322.png"
+  alt="El dragon"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Siguiendo las curvas de la cola se llega a la cabeza, de la cual una de sus estrellas tiene una forma extraña, es una elipse en vez de un circulo, esto al ser un sistema binario o triple, lo que sucede también en la osa mayor con Mizar y Alcor, estrellas que forman parte del mango del cazo.
 Alcor en si mismo, es un sistema binario, mientras que Mizar es un sistema cuádruple.
-![[Pasted image 20251014224346.png]]
-
+<img
+  src="../media-content/astronomia/220251014224346.png"
+  alt="El dragon"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Cefeo y la corona boreal:** Utilizando la cabeza del dragón como referencia se puede encontrar a Cefeo.
-![[Pasted image 20251014225339.png]]
-
+<img
+  src="../media-content/astronomia/20251014225339.png"
+  alt="El dragon"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Al otro lado, se encuentran unas estrellas que forman un semicirculo, la Corona boreal.
-![[Pasted image 20251014225505.png]]
-
+<img
+  src="../media-content/astronomia/20251014225505.png"
+  alt="El dragon"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Hercules:** entre la cabeza del dragón y la corona se puede identificar un cuadrado, el cual es el cuerpo de Hércules
-![[Pasted image 20251014225536.png]]
+<img
+  src="../media-content/astronomia/20251014225536.png"
+  alt="Hercules"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 Sobre el círculo puede llegar a apreciarse una especie de estrella borrosa, es el Cúmulo de Hércules
-![[Pasted image 20251014225700.png]]
-
+<img
+  src="../media-content/astronomia/20251014225700.png"
+  alt="Hercules"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Es un cúmulo globular, los cuales son grupos de miles de estrellas que se encuentran fuera del disco de la galaxia, orbitando dentro de su halo, suelen ser estructuras muy antiguas, estrellas formadas en las primeras etapas de nuestra galaxia
-![[Pasted image 20251014225750.png]]
-![[Pasted image 20251014225904.png]]
-
-
+<img
+  src="../media-content/astronomia/20251014225750.png"
+  alt="Hercules"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/astronomia/20251014225904.png"
+  alt="Hercules"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 # Visibles en ambos hemisferios
 ___
 **Orión:** Las estrellas de su cinturón son muy brillantes e identificables, y Betelgeuse, una gigante roja en su hombro también puede ayudar.
-![[Pasted image 20251014230038.png]]
-
+<img
+  src="../media-content/astronomia/20251014230038.png"
+  alt="Hercules"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Tauro:** Frente a Orión se encuentra otra gigante roja, Aldebarán.
-![[Pasted image 20251014230232.png]]
-
+<img
+  src="../media-content/astronomia/20251014230232.png"
+  alt="Tauro"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Aldebarán forma parte de la cabeza del toro, pudiendo trazar los cuernos con las estrellas cercanas
-![[Pasted image 20251014230301.png]]
-
+<img
+  src="../media-content/astronomia/20251014230301.png"
+  alt="Aldebarán"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Pléyades:** Tras Tauro se encuentran las Pléyades, un grupo de estrellas muy pegadas.
-![[Pasted image 20251014230439.png]]
+<img
+  src="../media-content/astronomia/20251014230439.png"
+  alt="Pleyades"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/astronomia/20251014230534.png"
+  alt="Pleyades"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
-![[Pasted image 20251014230534.png]]
 
 **Casiopea:** Cerca de Cefeo se encuentra Casiopea, la cual puede aparecer en forma de W o M
-![[Pasted image 20251014230701.png]]
-
+<img
+  src="../media-content/astronomia/20251014230701.png"
+  alt="Casiopea"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Vía Láctea:** Tras Casiopea puede observarse una zona más iluminada en el firmamento, es nuestra propia galaxia vista de perfil, el brillo acumulado de las millones de estrellas de la galaxia apagado por su lejanía, en el ecuador y hemisferio sur puede observarse con mayor detalle
-![[Pasted image 20251014230744.png]]
+<img
+  src="../media-content/astronomia/20251014230744.png"
+  alt="ViaLactea"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/astronomia/20251014231049.png"
+  alt="ViaLactea"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
-![[Pasted image 20251014231049.png]]
+
+
 
 Uniendo el borde del carro con el medio de Casiopea se encuentra a la mitad la estrella polar
-![[Pasted image 20251014232736.png]]
-
+<img
+  src="../media-content/astronomia/20251014232736.png"
+  alt="ViaLactea"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 # SUR
 ____
 **La cruz del sur:** aunque en el hemisferio sur no hay una estrella justo en el sur celeste, se puede localizar utilizando la cruz del sur, cogiendo su eje mayor y prolongándolo 4,5 veces
-![[Pasted image 20251014223827.png]]
-
+<img
+  src="../media-content/astronomia/20251014223827.png"
+  alt="Cruz del sur"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Centauro:** Poniendo la cruz del sur recta, prologando su eje menor a la izquierda, se encuentran dos estrellas muy brillantes, Beta y Centauri, la estrella más cercana a la tierra.
-![[Pasted image 20251014224837.png]]
-
+<img
+  src="../media-content/astronomia/20251014224837.png"
+  alt="Centauro"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Beta y Centauri son las patas delanteras de la constelación del centauro.
-![[Pasted image 20251014224941.png]]
-
+<img
+  src="../media-content/astronomia/20251014224941.png"
+  alt="BetaCentauri"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 **Escorpio:** Siguiendo la mirada del centauro se encuentra una estrella brillante y anaranjada, Antares
-![[Pasted image 20251014224956.png]]
-
+<img
+  src="../media-content/astronomia/20251014224956.png"
+  alt="Escorpio"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Antares es el torso de la constelación de escorpio
-![[Pasted image 20251014225138.png]]
-
+<img
+  src="../media-content/astronomia/20251014225138.png"
+  alt="Antares"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 # Otros
 ___
@@ -113,11 +203,28 @@ Por donde van saliendo las nuevas zodiacales es el este, y por donde se ocultan 
 Sagitarios es muy fácil de ver en verano, pareciendo una taza de té derramándose sobre la vía láctea
 
 Planetas: En la eclíptica también se encuentran los planetas.
-![[Pasted image 20251014233833.png]]
+<img
+  src="../media-content/astronomia/20251014233833.png"
+  alt="PlanetasEliptica"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Representaciones de como el sol tapa las estaciones según la estación
-![[Pasted image 20251014233214.png]]![[Pasted image 20251014233238.png]]
-![[Pasted image 20251014233258.png]]
+<img
+  src="../media-content/astronomia/20251014233214.png"
+  alt="PlanetasEliptica"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/astronomia/20251014233238.png"
+  alt="PlanetasEliptica"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/astronomia/20251014233258.pn"
+  alt="PlanetasEliptica"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Las constelaciones visibles en el hemisferio norte varían según la estación: ==en invierno destacan Orión, Canis Major y Tauro;== ==en primavera, Leo, Virgo y la Osa Mayor;== ==en verano, Cygnus, Lyra y Aquila;== ==y en otoño, Cassiopeia, Pegaso y Andrómeda==. Algunas, como la Osa Mayor y la [Osa Menor](https://www.google.com/search?cs=1&sca_esv=e43c86de5287e939&sxsrf=AE3TifP1SHaXYOdW_TzUQatTwBnKoODdqA%3A1760481780041&q=Osa+Menor&sa=X&ved=2ahUKEwi1-evY4aSQAxXIfKQEHVV6CGIQxccNegQIBxAB&mstk=AUtExfBjxRuQAeaXtP9X2jn5DhFnoeJOPMw14THBLgNKgEmAmxcA-8kIZYlKIYX-YQZ8N09laObgQ4ls3CtKp5Zgro8lKpLIvXPTrD_hzfOhtPY9qqrDgb7u9mcs2Dq6G6cjf_kM2noBh4rtVK0mpcFF6a13tdE-ug4ctrDcs4yzV-MRp0U&csui=3), son circumpolares y visibles todo el año. 
 
