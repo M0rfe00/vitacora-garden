@@ -168,10 +168,11 @@ Conocer los componentes de cada tinta es importante para tener en cuenta que no 
 **Tinta fluorescente:** Su principal componente es el fosforo, su efecto es brillante y da una visión de fluorescencia en la piel, sin embargo, bajo la luz son transparentes, es decir, solo se ven en la oscuridad.
 
 
-
-	Lo mejor es evitar tintas que contengan metales toxicos como el arsenico, berilio, covalto, niquel, selenio o compuestos con plomo y antimonio, ya que todos estos causan daño y enfermedades en la piel.
-
-	Existen tintas destinadas únicamente para practica en piel sintética siendo generalmente compuestas de pigmentos sintéticos y no aptas para la piel humana, las tintas aptas para la piel humana suele estar compuesta de pigmentos vegetales o minerales. 
+>[!info]- Tintas toxicas
+ > Lo mejor es evitar tintas que contengan metales tóxicos como el arsénico, berilio, cobalto, níquel, selenio o compuestos con plomo y antimonio, ya que todos estos causan daño y enfermedades en la piel.
+ 
+ >[!info]- Tintas para piel sintetica
+ > Existen tintas destinadas únicamente para practica en piel sintética siendo generalmente compuestas de pigmentos sintéticos y no aptas para la piel humana, las tintas aptas para la piel humana suele estar compuesta de pigmentos vegetales o minerales.
 
 
 
@@ -204,7 +205,10 @@ A veces, las tintas suelen ser muy espesas y no llegamos a dejar tinta cuando pi
 
 **Dynamic Black:** *Es uno de los negros más vendidos en el mercado, conocido por su durabilidad y solidez de color, entra en la piel de manera suave y fácil permaneciendo del mismo color después de la curación. Un favorito de los artistas de negro y gris, es muy oscuro y también esta disponible con el triple pigmento como Dynamic triple black*
 
-	La gran diferencia entre tintas siempre sera su formulación, no habiendo mejores o peores marcas, cada tatuador se sentira más comodo con una u otra marca, teniendo siempre que comprobar que sean marcas aprobadas por la FDA, teniendo que comprobar que cuenten con una ficha y una caducidad.
+ >[!info]- Tintas aprobadas medicamente
+ > La gran diferencia entre tintas siempre será su formulación, no habiendo mejores o peores marcas, cada tatuador se sentirá más cómodo con una u otra marca, teniendo siempre que comprobar que sean marcas aprobadas por la FDA, teniendo que comprobar que cuenten con una ficha y una caducidad.
+
+
 
 
 
