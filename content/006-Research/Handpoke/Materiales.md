@@ -81,16 +81,30 @@ De forma similar a los pinceles hay diferentes de puntas, terminaciones, para li
 
 
 **Nomenclatura**
-![[Pasted image 20251228171016.png]]
+![[Pasted image ]]
+
+<img
+  src="../media-content/Apuntes/media-tattoo/20251228171016.png"
+  alt="Brillantes2"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 **Configuraciones**
-![[Pasted image 20251228171425.png]]
-![[stick-and-poke-tattoo-needles-flat-shaders-fs-single-needle-2.webp]]
-![[981f793647d0827ae0ff5ff4b46adada.jpg]]
-![[Pasted image 20251228171310.png]]
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-tattoo/20251228171425.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-tattoo/stick-and-poke-tattoo-needles-flat-shaders-fs-single-needle-2.webp" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-tattoo/981f793647d0827ae0ff5ff4b46adada.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-tattoo/20251228171310.png" alt="">
+</div>
 
 **Tapers**
-![[Pasted image 20251228172023.png]]
+
+<img
+  src="../media-content/Apuntes/media-tattoo/20251228172023.png"
+  alt="Brillantes2"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 
 
 
