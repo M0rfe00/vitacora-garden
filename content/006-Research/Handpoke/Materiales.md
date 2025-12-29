@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 # MATERIALES
 ___
 ### **Material General**

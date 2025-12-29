@@ -1,6 +1,6 @@
 # La herida
 ___
-"Di quien eres, dilo de verdad en tu vida y en tu trabajo, dile a alguien que está perdido ahí fuera, alguien que aún no ha nacido, alguien que nacerá en 500 años, tus escritos serán un registro de tu tiempo, no se puede evitar, pero lo más importante es que si eres con honesto con respecto a quién eres, ayudarás a esa persona a estar menos sola en su mundo, porque te reconocerá en él o ella y eso les dará esperanza y a mi me la ha dado, y tengo que seguir redescubriendo su vital importancia."
+*"Di quien eres, dilo de verdad en tu vida y en tu trabajo, dile a alguien que está perdido ahí fuera, alguien que aún no ha nacido, alguien que nacerá en 500 años, tus escritos serán un registro de tu tiempo, no se puede evitar, pero lo más importante es que si eres con honesto con respecto a quién eres, ayudarás a esa persona a estar menos sola en su mundo, porque te reconocerá en él o ella y eso les dará esperanza y a mi me la ha dado, y tengo que seguir redescubriendo su vital importancia."*
 
 -Charlie Kaufman
 
@@ -11,4 +11,6 @@ Los sueños son una conversación privada con nosotros mismos, una historia fran
 
 # Conclusión
 ___
-Escribir como Charlie Kaufman es imposible y por más que lo admire, él mismo me dice que no puede enseñarme, porque mi tarea y la tarea de cualquiera que quiera dedicarse al arte está encontrar la forma de aquella herida que debemos atrevernos a mostrar al mundo y eso ni es fácil ni parece una gran victoria, pero es lo que hace grande al arte, lo que lo hace perdurar, di quién, eres el otro lado puede haber alguien escuchando.
+"*Escribir como Charlie Kaufman es imposible y por más que lo admire, él mismo me dice que no puede enseñarme, porque mi tarea y la tarea de cualquiera que quiera dedicarse al arte está encontrar la forma de aquella herida que debemos atrevernos a mostrar al mundo y eso ni es fácil ni parece una gran victoria, pero es lo que hace grande al arte, lo que lo hace perdurar, di quién, eres el otro lado puede haber alguien escuchando.*"
+
+-_Quetzal_

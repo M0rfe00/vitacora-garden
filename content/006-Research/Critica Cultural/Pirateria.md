@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 #Research
 # **Piratería y Hurto:**
 

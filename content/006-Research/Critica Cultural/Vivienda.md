@@ -1,4 +1,7 @@
-#Research 
+---
+tags:
+  - Critica Cultural
+---
 # **Burbuja inmobiliaria / Crisis 2008**
 ___
 ## **Origen**

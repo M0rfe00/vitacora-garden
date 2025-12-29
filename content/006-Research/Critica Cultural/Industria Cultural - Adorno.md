@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 # **INTRODUCCIÓN**
 ___
 La esperanza está primordialmente en los que no hayan consuelo.

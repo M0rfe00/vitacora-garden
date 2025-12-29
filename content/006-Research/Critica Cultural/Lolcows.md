@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 # Lolcows – Mozo Yefímovich
 ___
 El morbo por la rareza es algo atemporal, desde los monstruos de circo se puede trazar una línea hasta la actualidad, en la que los medios de masas han aumentado este fenómeno exponencialmente, con ejemplos como en la televisión española de finales de los 90 en la se popularizaron los “friquis” en el programa de Javier Cárdenas evolucionando con la llegada de internet pasando a llamarse Lolcows, personas que en el mejor de los casos se han hecho famosas por un chascarrillo y en el peor de ellos por la pasión morbosa que causan en la gente por cosas como su apariencia, situación o comportamientos extraños.

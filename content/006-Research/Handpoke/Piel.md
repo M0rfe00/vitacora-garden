@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 # PIEL 
 ___
 **CAPAS**

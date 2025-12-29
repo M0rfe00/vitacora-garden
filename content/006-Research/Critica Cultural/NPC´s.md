@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 ___
 El termino NPC viene del mundo de los videojuegos, en el que significa “Non Playble Character” es decir los personajes no jugables y que están en segundo, plano este termino ha sido extrapolado fuera de este sector para utilizarlo de forma peyorativa.
 

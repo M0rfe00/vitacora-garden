@@ -1,3 +1,7 @@
+---
+tags:
+  - Critica Cultural
+---
 #Research
 # **La imagen pobre:**
 ___

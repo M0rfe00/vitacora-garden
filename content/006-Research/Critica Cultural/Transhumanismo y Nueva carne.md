@@ -1,6 +1,6 @@
 ---
 tags:
-  - Research
+  - Critica Cultural
 ---
 # Transhumanismo y nueva carne
 ___

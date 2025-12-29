@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 El tatuaje es una técnica de grabado y arte impreso que se realiza sobre la piel, un soporte efímero, hay varias formas de llevar a cabo este procedimiento, siendo el handpoke una de ellas
 
 A la hora de trabajar con tatuajes hay que tener en cuenta la bioseguridad, conocimiento que permite manejar y desechar los residuos patogénicos, cuidar el ambiente de trabajo y evitar posibles infecciones 

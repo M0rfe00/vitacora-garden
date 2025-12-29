@@ -1,3 +1,7 @@
+---
+tags:
+  - 3D
+---
 # CLO3D EXPORT
 ___
 **Exportar texturas:**
