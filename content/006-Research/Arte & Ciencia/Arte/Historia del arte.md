@@ -96,7 +96,23 @@ En el año 1980 inicia el postmodernismo y tardomodernismo arquitectónico,
 
 # Índice visual
 ___
-![[1Arte medieval_.jpg]]
-![[2Arte moderno.jpg]]
-![[3Arte contemporáneo 1.jpg]]
-![[4Arte contemporáneo 2.jpg]]
+<img
+  src="../media-content/Apuntes/media-arte/1Arte medieval_.jpg"
+  alt="ArteMedieval"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/media-arte/2Arte moderno.jpg"
+  alt="ArteModerno"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/media-arte/3Arte contemporáneo 1.jpg"
+  alt="ArteContemporaneo"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/media-arte/4Arte contemporáneo 2.jpg"
+  alt="ArteContemporaneo2"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>

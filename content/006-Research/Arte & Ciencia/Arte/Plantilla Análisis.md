@@ -10,7 +10,12 @@ Plantilla estándar para analizar una obra de arte:
 **3º Estilo al que pertenece:**
 - vanguardias, arte gótico, impresionismo, racionalismo etc...
 
-![[1. Primeros pasos.png]]
+<img
+  src="../media-content/Apuntes/media-arte/1. Primeros pasos.png"
+  alt="Analisis"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 # PINTURA
 ___
@@ -30,7 +35,12 @@ ___
 **4º Estudio de la composición y análisis iconográfico:**
 - Género (retrato, paisaje, bodegón, tema mitológico…)
 
-![[2. Pintura.png]]
+<img
+  src="../media-content/Apuntes/media-arte/2. Pintura.png"
+  alt="Pintura"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 # ESCULTURA
 ___
@@ -51,7 +61,13 @@ ___
 - Relación de la escultura con su entorno y contexto.
 - ¿Cuál es su finalidad?, Estética, moralizadora...
 
-![[3. Escultura 2.png]]
+<img
+  src="../media-content/Apuntes/media-arte/3. Escultura 2.png"
+  alt="Escultura"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
 
 # ARQUITECTURA
 ___
@@ -71,10 +87,23 @@ ___
 - Valoración final de los elementos decorativos
 - Significado del edificio según sus espacios y volúmenes.
 
-![[4 Arquitectura.png]]
+<img
+  src="../media-content/Apuntes/media-arte/4 Arquitectura.png"
+  alt="Arquitectura"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 
 # Otros
 ___
-![[5. Consejos.png]]
-![[ficha tecnica.png]]
+<img
+  src="../media-content/Apuntes/media-arte/5. Consejos.png"
+  alt="Consejos"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/media-arte/ficha tecnica.png"
+  alt="FichaTecnica"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
