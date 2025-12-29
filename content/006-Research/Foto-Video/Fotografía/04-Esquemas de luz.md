@@ -385,6 +385,7 @@ Los situaremos a 45º y -45º por detrás de nuestro sujeto, para **realzar amb
 ### **Esquemas de Iluminación imprescindibles**
 ##### **Esquema completo de 3 puntos**
 Uno de los esquemas más tradicionales, aplicable a un montón de situaciones, incluso cuando trabajes con luz natural. Cuenta con 3 puntos de luz:
+
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183037.png"
   alt="3Puntos"
