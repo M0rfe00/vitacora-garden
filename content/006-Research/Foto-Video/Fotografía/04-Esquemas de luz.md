@@ -34,7 +34,7 @@ En resumen, cuanto más se aleja la luz, la intensidad va disminuyendo más y m�
 <img      
   src="../media-content/Apuntes/media-foto/Iluminacion2/20251214184636.png"
   alt="Inverselaw"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -81,7 +81,7 @@ Al incidir de manera diagonal sobre el rostro, este tipo de iluminación favorec
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214172317.png"
   alt="Rembrandt"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -97,7 +97,7 @@ Además, si usamos una intensidad baja y nuestro modelo colabora con su pose, po
 <img   
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214172610.png"
   alt="Lateral"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **3. Contraluz** 
@@ -112,7 +112,7 @@ Este tipo de iluminación es muy útil para remarcar una bonita silueta, un cuer
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214172840.png"
   alt="Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **4. Butterfly** 
@@ -125,7 +125,7 @@ Cabe destacar que ésta es una iluminación pensada para retratos en [primer pl
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214173102.png"
   alt="Butterfly"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **5. Rembrandt Elevado** 
@@ -136,7 +136,7 @@ Con esta iluminación conseguiremos **suavizar las facciones de nuestro sujeto 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214173256.png"
   alt="RembrandtUp"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -149,7 +149,7 @@ Este flash encarado hacia el fondo te ayudará a quemar el fondo para conseguir 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214173441.png"
   alt="Fuente&Fondo"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **7. Luces a 45º y a -45º** 
@@ -162,7 +162,7 @@ Con este esquema de iluminación conseguiremos que las sombras generadas por el 
 <img
   src="../../../media-content/Apuntes/media-foto/iluminacion2/20251214173734.png"
   alt="45&45"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **8. Rembrandt + Luz Frontal** 
@@ -175,7 +175,7 @@ Así pues, la luz frontal actuará como luz de relleno.
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214174150.png"
   alt="Rembrandt&Frontal"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **9. Rembrandt + Luz lateral** 
@@ -186,7 +186,7 @@ Sobre todo si quieres usar un reflector como luz de relleno te será más sencil
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214174431.png"
   alt="Rembrandt&Lateral"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **10. Rembrandt + Contraluz** 
@@ -197,7 +197,7 @@ Puedes optar por situar el contraluz completamente detrás de tu sujeto, o situa
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214174522.png"
   alt="Rembrandt&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **11. Luz frontal+ Contraluz** 
@@ -208,7 +208,7 @@ También puedes optar por usar un reflector 5 en 1 justo en frente de tu sujeto,
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214174650.png"
   alt="Frontal&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **12. Luz lateral + Luz frontal** 
@@ -221,7 +221,7 @@ Este tipo de iluminación será ideal si queremos **conservar la fuerza que tra
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214174823.png"
   alt="Frontal&Lateral"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -235,7 +235,7 @@ Igual que en otros esquemas, se puede sustituir la luz de relleno por un reflect
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214174957.png"
   alt="2Laterales"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -251,7 +251,7 @@ Con este tipo de iluminación conseguiremos una **iluminación muy plana y uni
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175218.png"
   alt="Clamshell"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -261,7 +261,7 @@ Otra manera de complementar el esquema Butterfly es con un contraluz. Con un con
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175318.png"
   alt="Butterfly&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **16. Doble Contraluz** 
@@ -272,7 +272,7 @@ Con ello conseguiremos remarcar toda su silueta y conseguir así que quede perfe
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175409.png"
   alt="2Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -283,7 +283,7 @@ Con 3 fuentes de iluminación podemos usar cualquiera de los esquemas de ilumina
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175519.png"
   alt="3luces"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 ![[Pasted image 20251214175519.png]]
 
@@ -294,7 +294,7 @@ Igualmente, cualquiera de los esquemas de iluminación anteriores con 2 fuentes 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175728.png"
   alt="2Fuentes&Fondo"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -306,7 +306,7 @@ Puedes elegir entre colocar tu contraluz justamente detrás de tu sujeto, o lade
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175916.png"
   alt="245&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -320,7 +320,7 @@ Puedes elegir entre colocar tu contraluz justamente detrás de tu sujeto, o lade
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214180042.png"
   alt="Rembrandt&FrontLat&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **21. 2 Luces Laterales + Luz Frontal**
@@ -331,7 +331,7 @@ Si queremos **ganar un poco de información en esa zona en sombra**, podemos si
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214180202.png"
   alt="2Lateral&Frontal"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **22. 2 Luces Laterales + Contraluz**
@@ -342,7 +342,7 @@ Así seguiremos manteniendo esta franja en sombra si nos gusta su efecto, pero 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214180319.png"
   alt="2Lateral&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **23. Clamshell+ Contraluz**
@@ -353,7 +353,7 @@ Si queremos **darle un poco de volumen al cabello de nuestro sujeto y despegarl
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214180623.png"
   alt="Clamshell&Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -368,7 +368,7 @@ Con ello conseguiremos, por ejemplo, **quemar un fondo blanco** para conseguir
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214180848.png"
   alt="Fondo"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **25. Doble contraluz**
@@ -378,7 +378,7 @@ Los situaremos a 45º y -45º por detrás de nuestro sujeto, para **realzar amb
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214181048.png"
   alt="2Contraluz"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -388,7 +388,7 @@ Uno de los esquemas más tradicionales, aplicable a un montón de situaciones, i
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183037.png"
   alt="3Puntos"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -415,7 +415,7 @@ Con este tipo de iluminación, también se estiliza la figura, se resaltan los p
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183151.png"
   alt="Cenital"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **Iluminación Clamshell**
@@ -430,7 +430,7 @@ También puedes jugar con la direccionalidad, dependiendo del efecto que quieras
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183336.png"
   alt="Clamshell"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -444,7 +444,7 @@ Al seguir siendo una luz frontal y algo elevada, se crean sombras por debajo de 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183652.png"
   alt="Butterfly"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -456,7 +456,7 @@ Justo al lado de la nariz se creará una sombra ligera en forma de gancho o lazo
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183737.png"
   alt="Loop"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **Iluminación Rembrandt**
@@ -467,7 +467,7 @@ Es una transición de luz ligera y suave. Puedes seguir jugando con la direccion
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183833.png"
   alt="Rembrandt"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ##### **Iluminación con 2 Luces a 90º** (Lateral)
@@ -478,7 +478,7 @@ Ahora bien, si se utilizan dos luces a 90º, una en cada lado entre la línea de
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214183932.png"
   alt="2Lateral"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
@@ -490,7 +490,7 @@ Si el producto es mate y no nos va a crear grandes brillos, lo ideal es colocar 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214185234.png"
   alt="Mate1"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Otra opción es eliminar la luz superior, haciendo que el fondo pierda iluminación y el producto gane todavía más volumen. El resultado será muy dramático, algo que puede ser útil dependiendo de qué queramos transmitir.
@@ -498,7 +498,7 @@ Otra opción es eliminar la luz superior, haciendo que el fondo pierda iluminaci
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214185302.png"
   alt="Mate2"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 ### **Productos brillantes**
@@ -509,7 +509,7 @@ El esquema más estándar es disponer de dos luces la cada lado del producto, li
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214185453.png"
   alt="Brillantes1"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Solemos colocar solo una luz semilateral que se encargue de iluminar la parte frontal y definir una linea blanca al los bordes, mientras que la cenital se encargará de darle el volumen necesario, y de equilibrar el fondo.
@@ -517,7 +517,7 @@ Solemos colocar solo una luz semilateral que se encargue de iluminar la parte fr
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214185513.png"
   alt="Brillantes2"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Es importante que la habitación esté completamente apagada, para evitar tener reflejos en la superficie del producto. En caso de no tener tantas luces, siempre se puede realizar la fotografía por partes y luego realizar un montaje con Photoshop a través de capas.
@@ -525,7 +525,7 @@ Es importante que la habitación esté completamente apagada, para evitar tener 
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214185559.png"
   alt="Brillantes3"
-  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
