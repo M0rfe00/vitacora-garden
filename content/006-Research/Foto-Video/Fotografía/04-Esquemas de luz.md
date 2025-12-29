@@ -31,8 +31,8 @@ En caso de querer conseguir un fondo oscuro, habrá que poner al sujeto muy lejo
 
 En resumen, cuanto más se aleja la luz, la intensidad va disminuyendo más y más, de manera exponencial.
 
-<img
-  src="../media-content/Apuntes/media-foto/iluminacion/20251214184636.png"
+<img      
+  src="../media-content/Apuntes/media-foto/Iluminacion/20251214184636.png"
   alt="Inverselaw"
   style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
 />
