@@ -85,11 +85,9 @@ De forma similar a los pinceles hay diferentes de puntas, terminaciones, para li
 
 
 **Nomenclatura**
-![[Pasted image ]]
-
 <img
   src="../media-content/Apuntes/media-tattoo/20251228171016.png"
-  alt="Brillantes2"
+  alt="Nomenclatura"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
@@ -102,10 +100,9 @@ De forma similar a los pinceles hay diferentes de puntas, terminaciones, para li
 </div>
 
 **Tapers**
-
 <img
   src="../media-content/Apuntes/media-tattoo/20251228172023.png"
-  alt="Brillantes2"
+  alt="Tapers"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
