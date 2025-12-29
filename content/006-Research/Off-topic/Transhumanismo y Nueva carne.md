@@ -4,7 +4,7 @@ tags:
 ---
 # Transhumanismo y nueva carne
 ___
-## **Transhumanismo
+## **Transhumanismo**
 El transhumanismo es un movimiento social y filosófico, por ello, también en parte científico.  El término nace en 1950 con Julián Huxley, el término originalmente se refiere a la idea del nuevo humano, un nuevo renacer de la consciencia a través de la cultura.  El término a día se utiliza para hacer referencia a la idea de que ver la naturaleza como una condena, algo que evita que el ser humano logré todas sus capacidades y le quité su libertad, considerando que cosas como morir, envejecer, enfermar, no son más que maldiciones que debe intentar superar, obteniendo el control de todo sus ser aunque para ello tenga que eliminar aquellas cosas que ahora mismo le hacen humano.  Esto podría tener consecuencias como un descenso de la natalidad, cambio en la estructura familiar o sociedad.  Algunas de las ideas populares en el transhumanismo son los implantes tecnológicos en el cuerpo para modificar o mejorar el propio sistema, la clonación, la modificación genética, transferir la mente a otros cuerpos o máquinas, la interconexión inmediata, cambio de apariencia en cualquier momento    
 
 ## **NUEVA CARNE** 
@@ -12,7 +12,8 @@ La nueva carne es un movimiento artístico, estético, filosófico asociado al c
 
 Tal como decía el Unabomber, la sociedad industrial y sus consecuencias han sido catastróficas para la raza humana, el movimiento de la nueva carne en cierto modo, trata y refleja esto. 
 
-	"La versión más accesible de la nueva carne sería una transformación física del significado de la existencia humana, ciertamente esto ha llevado a las transformaciones al plano psicológico desde el principio de la raza humana, de hecho nos hemos transformado también física, somos físicamente diferentes de nuestros ancestros en parte por lo que ingerimos y en parte a causa de objetos como las gafas, la cirugía, etcétera, podríamos sin embargo flanquear un paso suplementario, se podría hacer brotar otro brazo, intercambiar órganos sexuales o procrear sin órganos sexuales per se, hablo de la posibilidad de que los seres humanos sean capaces de mutar a voluntad, aunque les lleve cinco años completar esa mutación" 
+[!info]- 
+ > "La versión más accesible de la nueva carne sería una transformación física del significado de la existencia humana, ciertamente esto ha llevado a las transformaciones al plano psicológico desde el principio de la raza humana, de hecho nos hemos transformado también física, somos físicamente diferentes de nuestros ancestros en parte por lo que ingerimos y en parte a causa de objetos como las gafas, la cirugía, etcétera, podríamos sin embargo flanquear un paso suplementario, se podría hacer brotar otro brazo, intercambiar órganos sexuales o procrear sin órganos sexuales per se, hablo de la posibilidad de que los seres humanos sean capaces de mutar a voluntad, aunque les lleve cinco años completar esa mutación" 
 
 Es un terror nacido principalmente de la tecnología y las consecuencias de la revolución industrial.
 
