@@ -20,28 +20,24 @@ ___
 **La estrella polar:** Al estar tan cerca del eje de rotación permite saber que al dirigirse hacia ella se va en dirección al norte, fijándose en lo baja que esta en el horizonte permite saber la latitud en la que te encuentras.
 
 Es la cola de la osa menor
-![[Pasted image 20251014223537.png]]
 <img
   src="../media-content/astronomia/20251014223537.png"
   alt="OsaMayor"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 Aunque habitualmente se utiliza la osa mayor para ubicarla
-![[Pasted image 20251014223624.png]]
 <img
   src="../media-content/astronomia/20251014223624.png"
   alt="5veces"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 **Cefeo:** teniendo localizada Polaris, la punta de la osa menor, inclinado hacia el mango del cazo se encuentra Cefeo, constelación en forma de casa.
-![[Pasted image 20251014223929.png]]
 <img
   src="../media-content/astronomia/20251014223929.png"
   alt="Cefeo"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 Con buenas condiciones puede observarse una estrella anaranjada.
-![[Pasted image 20251014224109.png]]
 <img
   src="../media-content/astronomia/20251014224109.png"
   alt="Cefeo2"
