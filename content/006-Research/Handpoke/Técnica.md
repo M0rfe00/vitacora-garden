@@ -43,10 +43,6 @@ Los 3 fundamentos del handpoke son Paciencia, Precisión y Practica.
 
 
 
-# Practicar
-___
-
-
 
 
 # Disposición de la aguja
@@ -66,3 +62,5 @@ ___
 
 - La presión realizada en la piel sintética es mayor a la que hay que realizar en la piel humana, esto hay que tenerlo en cuenta porque si se aplica la misma se podría atravesar la dermis provocando un blowout.
 
+
+- Estirar bien la piel ayuda a que la aguja no penetro demasiado profundo, ya que la piel es muy elástica  
