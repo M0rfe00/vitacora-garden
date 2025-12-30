@@ -68,6 +68,7 @@ ___
 
 #### **Lightning/Vibe**
 - Camera Shakify
+- Gobos lights: las luces aparecerán directamente en el asset browser
 #### **Lightning/Vibe**
 - Alt-tab easy fog
 - Light wrangler
