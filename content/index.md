@@ -10,7 +10,7 @@ VitaCora sigue la filosofía de los **[[Jardines digitales]]** y su arquitectura
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
 
-  <a href="001-Portfolio" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+  <a href="001-About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        👨🏼‍💻 <strong>Sobre mí</strong>
     </div>
