@@ -55,7 +55,7 @@ ___
 
 # **Plugins for Blender:**
 ___
-#### Foliage/Enviorment**
+#### **Foliage/Enviorment**
 - ANT landscape (free, built-in)
 - Botaniq
 - gscatter 
@@ -66,13 +66,16 @@ ___
 - Animation 
 - Landscape
 
-#### **Lightning/Vibe**
+#### **Camera**
 - Camera Shakify
-- Gobos lights: las luces aparecerán directamente en el asset browser
+- PRO LENS
+- CAM-FX
+
 #### **Lightning/Vibe**
 - Alt-tab easy fog
 - Light wrangler
 - Tri lightning (free, built-in)
+- **Gobos lights:** las luces aparecerán directamente en el asset browser
 
 #### **Materials**
 - Blenderkit (free)
@@ -82,6 +85,8 @@ ___
 - Diffeomorphic
 - Sagan: software de terceros que permite exportar animaciones de Daz a otros
 - Rigify: crear rigs para personajes facilmente
+- GNS RIG
+- Wiggle 2
 
 #### **Others**
 - Rokoko
