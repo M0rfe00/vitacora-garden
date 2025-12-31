@@ -198,5 +198,22 @@ ___
 <div>
 
 
+# Prueba libros 2
+___
+<div class="gr_widgets_wrapper">
+  <iframe
+    src="https://www.goodreads.com/review/custom_widget/181359667.Literatura?cover_position=left&cover_size=small&num_books=100&shelf=literatura"
+    width="100%"
+    height="600"
+    frameborder="0"
+    loading="lazy">
+  </iframe>
 
-
+  <iframe
+    src="https://www.goodreads.com/review/custom_widget/181359667.Ensayo?cover_position=left&cover_size=small&num_books=100&shelf=ensayo"
+    width="100%"
+    height="600"
+    frameborder="0"
+    loading="lazy">
+  </iframe>
+</div>
