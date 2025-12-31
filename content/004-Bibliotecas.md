@@ -37,7 +37,7 @@ ___
 <div>
 -->
 
-# Libros
+# Libros (Goodreads)
 ___
 <div class="gr_widgets_wrapper">
 <div class="gr_custom_container">
