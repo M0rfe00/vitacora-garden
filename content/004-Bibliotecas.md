@@ -24,7 +24,7 @@ ___
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/15okNjQVn6VmZshoSEzCsu?utm_source=generator" width="49%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
+<br><br>
 
 <!--
 # Libros (Goodreads)
@@ -1211,7 +1211,7 @@ ___
 </div>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FIN DE LA BIBLIOTECA DE LIBROS ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
-
+<br><br>
 # Videojuegos (Backloggd)
 ___
 <div class="lists-row">
@@ -1244,6 +1244,7 @@ ___
   </div>
   </div>
 
+<br><br>
 # Cine (Letterboxd)
 ___
 <div class="lists-row">
