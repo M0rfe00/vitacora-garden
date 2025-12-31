@@ -1,3 +1,11 @@
+<script>
+window.addEventListener("DOMContentLoaded", () => {
+  const s = document.createElement("script");
+  s.src = "https://www.goodreads.com/review/custom_widget/...";
+  document.querySelector(".gr_widgets_wrapper").appendChild(s);
+});
+</script>
+
 # Música (Spotify)
 ___
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7k0uezrGaMTgylZMnFcUcL?utm_source=generator" width="49%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -198,22 +206,4 @@ ___
 <div>
 
 
-# Prueba libros 2
-___
-<div class="gr_widgets_wrapper">
-  <iframe
-    src="https://www.goodreads.com/review/custom_widget/181359667.Literatura?cover_position=left&cover_size=small&num_books=100&shelf=literatura"
-    width="100%"
-    height="600"
-    frameborder="0"
-    loading="lazy">
-  </iframe>
 
-  <iframe
-    src="https://www.goodreads.com/review/custom_widget/181359667.Ensayo?cover_position=left&cover_size=small&num_books=100&shelf=ensayo"
-    width="100%"
-    height="600"
-    frameborder="0"
-    loading="lazy">
-  </iframe>
-</div>
