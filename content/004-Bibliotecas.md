@@ -1,10 +1,14 @@
 <script>
-window.addEventListener("DOMContentLoaded", () => {
-  const s = document.createElement("script");
-  s.src = "https://www.goodreads.com/review/custom_widget/...";
-  document.querySelector(".gr_widgets_wrapper").appendChild(s);
-});
+(function () {
+  const key = "gr-reloaded";
+
+  if (!sessionStorage.getItem(key)) {
+    sessionStorage.setItem(key, "true");
+    location.reload();
+  }
+})();
 </script>
+
 
 # Música (Spotify)
 ___
