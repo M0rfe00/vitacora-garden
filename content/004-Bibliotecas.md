@@ -210,13 +210,11 @@ ___
 <div>
 
 
-# Libros 2
+# Libros 2 Prueba
 ___
-
 <div class="gr_widgets_wrapper">
 <div class="gr_custom_container">
 <h3 class="gr_custom_header">Literatura</h3>
-
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559831072l/46181600._SY475_.jpg" alt="The Great Chimera" />
@@ -226,7 +224,6 @@ ___
         </div>
         <div class="gr_custom_author">M. Karagatsis</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401424744l/22033504.jpg" alt="La biblioteca de Babel" />
@@ -236,7 +233,6 @@ ___
         </div>
         <div class="gr_custom_author">Jorge Luis Borges</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735859416l/1628287._SY475_.jpg" alt="Noches blancas" />
@@ -245,8 +241,7 @@ ___
           <a href="https://www.goodreads.com/review/show/7934988182?utm_medium=api&utm_source=rss" target="_blank">Noches blancas</a>
         </div>
         <div class="gr_custom_author">Fyodor Dostoevsky</div>
-      </div>
-      
+      </div> 
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562371255l/1462280._SY475_.jpg" alt="La campana de cristal" />
@@ -256,7 +251,6 @@ ___
         </div>
         <div class="gr_custom_author">Sylvia Plath</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" alt="Florentino y El Diablo" />
@@ -265,8 +259,7 @@ ___
           <a href="https://www.goodreads.com/review/show/7809347861?utm_medium=api&utm_source=rss" target="_blank">Florentino y El Diablo</a>
         </div>
         <div class="gr_custom_author">Alberto Arvelo Torrealba</div>
-      </div>
-      
+      </div> 
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673437103l/15718542._SY475_.jpg" alt="Indigno de ser humano" />
@@ -276,7 +269,6 @@ ___
         </div>
         <div class="gr_custom_author">Osamu Dazai</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331570576l/13537306.jpg" alt="Sidhartha" />
@@ -286,7 +278,6 @@ ___
         </div>
         <div class="gr_custom_author">Hermann Hesse</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394203946l/21398521.jpg" alt="Funes el Memorioso" />
@@ -296,7 +287,6 @@ ___
         </div>
         <div class="gr_custom_author">Jorge Luis Borges</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618465118l/57743838._SY475_.jpg" alt="Nacidos de la bruma: Historia secreta (Nacidos de la bruma, #3.5)" />
@@ -306,7 +296,6 @@ ___
         </div>
         <div class="gr_custom_author">Brandon Sanderson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402862195l/22473227.jpg" alt="La caída" />
@@ -316,7 +305,6 @@ ___
         </div>
         <div class="gr_custom_author">Albert Camus</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505192485l/59186._SY475_.jpg" alt="La metamorfosis" />
@@ -326,7 +314,6 @@ ___
         </div>
         <div class="gr_custom_author">Franz Kafka</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419003669l/6483211.jpg" alt="El nombre del viento (Crónica del asesino de reyes, #1)" />
@@ -336,7 +323,6 @@ ___
         </div>
         <div class="gr_custom_author">Patrick Rothfuss</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722608858l/12877610._SY475_.jpg" alt="El temor de un hombre sabio (Crónica del asesino de reyes, #2)" />
@@ -346,7 +332,6 @@ ___
         </div>
         <div class="gr_custom_author">Patrick Rothfuss</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405690765l/22740436.jpg" alt="La música del silencio (Crónica del asesino de reyes, #2.5)" />
@@ -356,7 +341,6 @@ ___
         </div>
         <div class="gr_custom_author">Patrick Rothfuss</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699468817l/201558791._SY475_.jpg" alt="El estrecho sendero entre deseos (Crónica del asesino de reyes, #2.6)" />
@@ -366,7 +350,6 @@ ___
         </div>
         <div class="gr_custom_author">Patrick Rothfuss</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258916788l/7183286.jpg" alt="El imperio final (Nacidos de la bruma, #1)" />
@@ -376,7 +359,6 @@ ___
         </div>
         <div class="gr_custom_author">Brandon Sanderson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348750658l/6568801.jpg" alt="El pozo de la ascensión (Nacidos de la bruma, #2)" />
@@ -386,7 +368,6 @@ ___
         </div>
         <div class="gr_custom_author">Brandon Sanderson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399296346l/7935023.jpg" alt="El héroe de las eras (Nacidos de la bruma, #3)" />
@@ -396,7 +377,6 @@ ___
         </div>
         <div class="gr_custom_author">Brandon Sanderson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619071075l/57816931._SY475_.jpg" alt="El undécimo metal (Nacidos de la bruma, #0.5)" />
@@ -406,7 +386,6 @@ ___
         </div>
         <div class="gr_custom_author">Brandon Sanderson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437952316l/17803._SY475_.jpg" alt="After Dark" />
@@ -416,7 +395,6 @@ ___
         </div>
         <div class="gr_custom_author">Haruki Murakami</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686930878l/178773137._SX318_.jpg" alt="Fundación (Trilogía de la Fundación, #1)" />
@@ -426,7 +404,6 @@ ___
         </div>
         <div class="gr_custom_author">Isaac Asimov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386797207l/58153.jpg" alt="Segunda Fundación (Fundación, #3)" />
@@ -436,7 +413,6 @@ ___
         </div>
         <div class="gr_custom_author">Isaac Asimov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344009149l/15749863.jpg" alt="Aleación de ley (Nacidos de la bruma, #4)" />
@@ -446,7 +422,6 @@ ___
         </div>
         <div class="gr_custom_author">Brandon Sanderson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501954813l/35918692._SX318_.jpg" alt="Los hermanos Karamázov" />
@@ -456,7 +431,6 @@ ___
         </div>
         <div class="gr_custom_author">Fyodor Dostoevsky</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171499594l/103582.jpg" alt="Crimen y castigo" />
@@ -466,7 +440,6 @@ ___
         </div>
         <div class="gr_custom_author">Fyodor Dostoevsky</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SY475_.jpg" alt="Anna Karenina" />
@@ -476,7 +449,6 @@ ___
         </div>
         <div class="gr_custom_author">Leo Tolstoy</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656.jpg" alt="War and Peace" />
@@ -486,7 +458,6 @@ ___
         </div>
         <div class="gr_custom_author">Leo Tolstoy</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663546974l/18386._SY475_.jpg" alt="The Death of Ivan Ilych" />
@@ -496,7 +467,6 @@ ___
         </div>
         <div class="gr_custom_author">Leo Tolstoy</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368557860l/99245.jpg" alt="Nightfall" />
@@ -506,7 +476,6 @@ ___
         </div>
         <div class="gr_custom_author">Isaac Asimov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335198823l/7741999.jpg" alt="Norwegian Wood: Tokyo Blues" />
@@ -516,7 +485,6 @@ ___
         </div>
         <div class="gr_custom_author">Haruki Murakami</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429638085l/4929._SY475_.jpg" alt="Kafka on the Shore" />
@@ -526,7 +494,6 @@ ___
         </div>
         <div class="gr_custom_author">Haruki Murakami</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1239822565l/6400600.jpg" alt="El ojo del mundo (La rueda del tiempo, #1)" />
@@ -536,7 +503,6 @@ ___
         </div>
         <div class="gr_custom_author">Robert Jordan</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424927621l/1411195.jpg" alt="El fin de la eternidad" />
@@ -546,7 +512,6 @@ ___
         </div>
         <div class="gr_custom_author">Isaac Asimov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527156353l/3853137.jpg" alt="La insoportable levedad del ser" />
@@ -556,7 +521,6 @@ ___
         </div>
         <div class="gr_custom_author">Milan Kundera</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614905132l/240976._SY475_.jpg" alt="The Book of Laughter and Forgetting" />
@@ -566,7 +530,6 @@ ___
         </div>
         <div class="gr_custom_author">Milan Kundera</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388507539l/28634.jpg" alt="Immortality" />
@@ -576,7 +539,6 @@ ___
         </div>
         <div class="gr_custom_author">Milan Kundera</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484959873l/7060782._SY475_.jpg" alt="El fin del mundo y un despiadado país de las maravillas" />
@@ -586,7 +548,6 @@ ___
         </div>
         <div class="gr_custom_author">Haruki Murakami</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327872639l/11275.jpg" alt="The Wind-Up Bird Chronicle" />
@@ -596,7 +557,6 @@ ___
         </div>
         <div class="gr_custom_author">Haruki Murakami</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511909569l/28487182.jpg" alt="El problema de los tres cuerpos (Trilogía de los tres cuerpos, #1)" />
@@ -606,7 +566,6 @@ ___
         </div>
         <div class="gr_custom_author">Liu Cixin</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458.jpg" alt="Dune (Dune #1)" />
@@ -616,7 +575,6 @@ ___
         </div>
         <div class="gr_custom_author">Frank Herbert</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714814960l/4604185._SY475_.jpg" alt="Suicide" />
@@ -626,7 +584,6 @@ ___
         </div>
         <div class="gr_custom_author">Édouard Levé</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307230974l/71513.jpg" alt="El rumor del oleaje" />
@@ -636,7 +593,6 @@ ___
         </div>
         <div class="gr_custom_author">Yukio Mishima</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442485324l/26617981.jpg" alt="Sed de amor" />
@@ -646,7 +602,6 @@ ___
         </div>
         <div class="gr_custom_author">Yukio Mishima</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472027832l/51799._SY475_.jpg" alt="The Decameron" />
@@ -656,7 +611,6 @@ ___
         </div>
         <div class="gr_custom_author">Giovanni Boccaccio</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699644879l/2008313.jpg" alt="Ivanov - La gaviota - Tío Vanya" />
@@ -666,7 +620,6 @@ ___
         </div>
         <div class="gr_custom_author">Anton Chekhov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405436155l/69413.jpg" alt="La regenta" />
@@ -676,7 +629,6 @@ ___
         </div>
         <div class="gr_custom_author">Leopoldo Alas</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636742846l/236176._SY475_.jpg" alt="Esperando a Godot" />
@@ -686,7 +638,6 @@ ___
         </div>
         <div class="gr_custom_author">Samuel Beckett</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398195273l/20949594.jpg" alt="McGlue" />
@@ -696,7 +647,6 @@ ___
         </div>
         <div class="gr_custom_author">Ottessa Moshfegh</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225337918l/216185.jpg" alt="The Beast That Shouted Love at the Heart of the World" />
@@ -706,7 +656,6 @@ ___
         </div>
         <div class="gr_custom_author">Harlan Ellison</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328836505l/601188.jpg" alt="La Ilíada" />
@@ -716,7 +665,6 @@ ___
         </div>
         <div class="gr_custom_author">Homer</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328695646l/95534.jpg" alt="La Odisea" />
@@ -726,7 +674,6 @@ ___
         </div>
         <div class="gr_custom_author">Homer</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622739150l/1715._SY475_.jpg" alt="Metamorphoses" />
@@ -736,7 +683,6 @@ ___
         </div>
         <div class="gr_custom_author">Ovid</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702837193l/6752712._SY475_.jpg" alt="Viaje al Oeste: Las aventuras del Rey Mono" />
@@ -746,7 +692,6 @@ ___
         </div>
         <div class="gr_custom_author">Wu Cheng'en</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389761368l/20552213.jpg" alt="Romance De Los Tres Reinos (Spanish Edition)" />
@@ -756,7 +701,6 @@ ___
         </div>
         <div class="gr_custom_author">Luo Guanzhong</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547264566l/43542230._SX318_.jpg" alt="Los bandidos del pantano" />
@@ -766,7 +710,6 @@ ___
         </div>
         <div class="gr_custom_author">Shi Nai'an</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544410291l/43186577._SX318_.jpg" alt="Sueño En El Pabellón Rojo" />
@@ -776,7 +719,6 @@ ___
         </div>
         <div class="gr_custom_author">Cao Xueqin</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440717035l/26177856.jpg" alt="Las mil y una noches" />
@@ -786,7 +728,6 @@ ___
         </div>
         <div class="gr_custom_author">Anonymous</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301276958l/9736035.jpg" alt="Himnos órficos" />
@@ -796,7 +737,6 @@ ___
         </div>
         <div class="gr_custom_author">Josefina Maynadé</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172357576l/168214.jpg" alt="The Satyricon" />
@@ -806,7 +746,6 @@ ___
         </div>
         <div class="gr_custom_author">Petronius</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745106890l/17206730._SY475_.jpg" alt="No tengo boca y debo gritar" />
@@ -816,7 +755,6 @@ ___
         </div>
         <div class="gr_custom_author">Harlan Ellison</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716560947l/14294._SY475_.jpg" alt="Azul casi transparente" />
@@ -826,7 +764,6 @@ ___
         </div>
         <div class="gr_custom_author">Ryū Murakami</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602726720l/60254.jpg" alt="Corazón tan blanco" />
@@ -836,7 +773,6 @@ ___
         </div>
         <div class="gr_custom_author">Javier Marías</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437335936l/229680._SY475_.jpg" alt="La señora Dalloway" />
@@ -846,7 +782,6 @@ ___
         </div>
         <div class="gr_custom_author">Virginia Woolf</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386797005l/53694.jpg" alt="Fundación e Imperio (Fundación, #2)" />
@@ -856,7 +791,6 @@ ___
         </div>
         <div class="gr_custom_author">Isaac Asimov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318067961l/12824455.jpg" alt="Trilogía de la Fundación" />
@@ -866,7 +800,6 @@ ___
         </div>
         <div class="gr_custom_author">Isaac Asimov</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625129222l/58465666._SY475_.jpg" alt="1984 George Orwell Spanish: Spanish Edition Libro Espanol" />
@@ -876,7 +809,6 @@ ___
         </div>
         <div class="gr_custom_author">George Orwell</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741934053l/53683._SY475_.jpg" alt="Un mundo feliz" />
@@ -886,7 +818,6 @@ ___
         </div>
         <div class="gr_custom_author">Aldous Huxley</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315800260l/2878210.jpg" alt="La divina comedia" />
@@ -896,7 +827,6 @@ ___
         </div>
         <div class="gr_custom_author">Dante Alighieri</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621312721l/1029729._SY475_.jpg" alt="El paraíso perdido" />
@@ -907,9 +837,9 @@ ___
         <div class="gr_custom_author">John Milton</div>
       </div>
       </div>
+
 <div class="gr_custom_container">
 <h3 class="gr_custom_header">Ensayo</h3>
-
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388423612l/21031.jpg" alt="When Nietzsche Wept" />
@@ -919,7 +849,6 @@ ___
         </div>
         <div class="gr_custom_author">Irvin D. Yalom</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347598399l/19793.jpg" alt="The Power of Intention: Learning to Co-Create Your World Your Way" />
@@ -929,7 +858,6 @@ ___
         </div>
         <div class="gr_custom_author">Wayne W. Dyer</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609072678l/75559._SY475_.jpg" alt="El imperio de lo efímero: La moda y su destino en las sociedades modernas" />
@@ -939,7 +867,6 @@ ___
         </div>
         <div class="gr_custom_author">Gilles Lipovetsky</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554846636l/43671670.jpg" alt="Fashionopolis: The Price of Fast Fashion and the Future of Clothes" />
@@ -949,7 +876,6 @@ ___
         </div>
         <div class="gr_custom_author">Dana Thomas</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331628629l/13130582.jpg" alt="La distinción: Criterios y bases sociales del gusto" />
@@ -959,7 +885,6 @@ ___
         </div>
         <div class="gr_custom_author">Pierre Bourdieu</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384806623l/18741022.jpg" alt="El capital I" />
@@ -969,7 +894,6 @@ ___
         </div>
         <div class="gr_custom_author">Karl Marx</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311855437l/2243953.jpg" alt="El género en disputa: El feminismo y la subversión de la identidad" />
@@ -979,7 +903,6 @@ ___
         </div>
         <div class="gr_custom_author">Judith Butler</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677800899l/10233288._SX318_.jpg" alt="Para raros, nosotros (Textos) (Spanish Edition)" />
@@ -989,7 +912,6 @@ ___
         </div>
         <div class="gr_custom_author">Paul Bohannan</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328377642l/3344687.jpg" alt="Testo yonqui" />
@@ -999,7 +921,6 @@ ___
         </div>
         <div class="gr_custom_author">Paul B. Preciado</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445052495l/25159062._SY475_.jpg" alt="Narconomics: How to Run a Drug Cartel" />
@@ -1009,7 +930,6 @@ ___
         </div>
         <div class="gr_custom_author">Tom Wainwright</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309510391l/11913532.jpg" alt="Muerte y vida de las grandes ciudades" />
@@ -1019,7 +939,6 @@ ___
         </div>
         <div class="gr_custom_author">Jane Jacobs</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693306697l/198172678._SX318_.jpg" alt="El acto de crear: Una manera de ser" />
@@ -1029,7 +948,6 @@ ___
         </div>
         <div class="gr_custom_author">Rick Rubin</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365027782l/1961805.jpg" alt="The Effects of Noise on Man" />
@@ -1039,7 +957,6 @@ ___
         </div>
         <div class="gr_custom_author">Karl D. Kryter</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266462993l/4020511.jpg" alt="Walden Or, Life In The Woods And "On The Duty Of Civil Disobedience"" />
@@ -1049,7 +966,6 @@ ___
         </div>
         <div class="gr_custom_author">Henry David Thoreau</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371027044l/6801793.jpg" alt="Encuentro con la sombra" />
@@ -1059,7 +975,6 @@ ___
         </div>
         <div class="gr_custom_author">Connie Zweig</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447798057l/27849950._SY475_.jpg" alt="La cuestión palestina" />
@@ -1069,7 +984,6 @@ ___
         </div>
         <div class="gr_custom_author">Edward W. Said</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638553289l/31669079._SY475_.jpg" alt="Principios del Comunismo (Spanish Edition)" />
@@ -1079,7 +993,6 @@ ___
         </div>
         <div class="gr_custom_author">Friedrich Engels</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392162532l/20790753.jpg" alt="Mitología del firmamento" />
@@ -1089,7 +1002,6 @@ ___
         </div>
         <div class="gr_custom_author">Eratosthenes</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630278330l/22827028._SY475_.jpg" alt="La teoría sintérgica" />
@@ -1099,7 +1011,6 @@ ___
         </div>
         <div class="gr_custom_author">Jacobo Grinberg-Zylberbaum</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446517735l/9456123._SY475_.jpg" alt="Teogonía, Trabajos y días, Escudo, Certamen" />
@@ -1109,7 +1020,6 @@ ___
         </div>
         <div class="gr_custom_author">Hesiod</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369199656l/401060.jpg" alt="Poesía completa" />
@@ -1119,7 +1029,6 @@ ___
         </div>
         <div class="gr_custom_author">Alejandra Pizarnik</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493103919l/34953356._SX318_.jpg" alt="En esta noche, en este mundo" />
@@ -1129,7 +1038,6 @@ ___
         </div>
         <div class="gr_custom_author">Alejandra Pizarnik</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277412601l/599721.jpg" alt="Diarios" />
@@ -1139,7 +1047,6 @@ ___
         </div>
         <div class="gr_custom_author">Alejandra Pizarnik</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317847206l/12804831.jpg" alt="Edda menor" />
@@ -1149,7 +1056,6 @@ ___
         </div>
         <div class="gr_custom_author">Snorri Sturluson</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643394823l/60231760.jpg" alt="Odin, Thor, Loki, Frigg Heimdallr y las valquirias: Edda Poética, Edda Prosaica y Cuentos nórdicos" />
@@ -1159,7 +1065,6 @@ ___
         </div>
         <div class="gr_custom_author">Jorge Rodríguez Galicia</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714501795l/205823285._SY475_.jpg" alt="Las redes son nuestras: Una historia popular de internet y un mapa para volver a habitarla" />
@@ -1169,7 +1074,6 @@ ___
         </div>
         <div class="gr_custom_author">Marta G. Franco</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128292l/37903770._SX318_.jpg" alt="Norse Mythology" />
@@ -1179,7 +1083,6 @@ ___
         </div>
         <div class="gr_custom_author">Neil Gaiman</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633593783l/59211749._SY475_.jpg" alt="La moda justa: Una invitación a vestir con ética" />
@@ -1189,7 +1092,6 @@ ___
         </div>
         <div class="gr_custom_author">Marta D. Riezu</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530365583l/18686121._SX318_.jpg" alt="Calibán y la bruja: Mujeres, cuerpo y acumulación originaria" />
@@ -1199,7 +1101,6 @@ ___
         </div>
         <div class="gr_custom_author">Silvia Federici</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421267965l/78252.jpg" alt="Las enseñanzas de don Juan: una forma yaqui de conocimiento" />
@@ -1209,7 +1110,6 @@ ___
         </div>
         <div class="gr_custom_author">Carlos Castaneda</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347890365l/7932991.jpg" alt="Delay, Deny, Defend: Why Insurance Companies Don't Pay Claims and What You Can Do About It" />
@@ -1219,7 +1119,6 @@ ___
         </div>
         <div class="gr_custom_author">Jay M. Feinman</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347223362l/743357.jpg" alt="Manufacturing Consent: Noam Chomsky and the Media" />
@@ -1229,7 +1128,6 @@ ___
         </div>
         <div class="gr_custom_author">Mark Achbar</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484431711l/33858659._SY475_.jpg" alt="Feminismos islámicos" />
@@ -1239,7 +1137,6 @@ ___
         </div>
         <div class="gr_custom_author">Ramón Grosfoguel</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358171174l/2725050.jpg" alt="The Art of Arabian Costume: A Saudi Arabian Profile (English and Arabic Edition)" />
@@ -1249,7 +1146,6 @@ ___
         </div>
         <div class="gr_custom_author">Heather Colyer Ross</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424409093l/24976868.jpg" alt="El hombre, la economía y el estado (Volumen I): Tratado sobre principios de economía" />
@@ -1259,7 +1155,6 @@ ___
         </div>
         <div class="gr_custom_author">Murray N. Rothbard</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379149576l/932236.jpg" alt="El Medio es el Masaje: Un Inventario de Efectos" />
@@ -1269,7 +1164,6 @@ ___
         </div>
         <div class="gr_custom_author">Marshall McLuhan</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396830687l/12075.jpg" alt="Tractatus Logico-Philosophicus" />
@@ -1279,7 +1173,6 @@ ___
         </div>
         <div class="gr_custom_author">Ludwig Wittgenstein</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470253471l/31344527._SX318_.jpg" alt="Una habitación propia" />
@@ -1289,7 +1182,6 @@ ___
         </div>
         <div class="gr_custom_author">Virginia Woolf</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263230814l/3168173.jpg" alt="La imagen-movimiento: Estudios sobre cine 1" />
@@ -1299,7 +1191,6 @@ ___
         </div>
         <div class="gr_custom_author">Gilles Deleuze</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183877053l/1464464._SX318_.jpg" alt="La Imagen-Tiempo: Estudios Sobre Cine 2 (Paidos Comunicacion Cine) (Spanish Edition)" />
@@ -1309,7 +1200,6 @@ ___
         </div>
         <div class="gr_custom_author">Deleuze</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369332938l/846749.jpg" alt="Esculpir en el tiempo" />
@@ -1319,7 +1209,6 @@ ___
         </div>
         <div class="gr_custom_author">Andrei Tarkovsky</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170399524l/53120._SY475_.jpg" alt="El cine según Hitchcock" />
@@ -1329,7 +1218,6 @@ ___
         </div>
         <div class="gr_custom_author">François Truffaut</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266488477l/173062.jpg" alt="Arquetipos e inconsciente colectivo" />
@@ -1339,7 +1227,6 @@ ___
         </div>
         <div class="gr_custom_author">C.G. Jung</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338407704l/1502732.jpg" alt="Cultura y simulacro" />
@@ -1349,7 +1236,6 @@ ___
         </div>
         <div class="gr_custom_author">Jean Baudrillard</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310514552l/3155750.jpg" alt="El arte de amar: una investigación sobre la naturaleza del amor" />
@@ -1359,7 +1245,6 @@ ___
         </div>
         <div class="gr_custom_author">Erich Fromm</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603882432l/2728458._SY475_.jpg" alt="Amor Líquido" />
@@ -1369,7 +1254,6 @@ ___
         </div>
         <div class="gr_custom_author">Zygmunt Bauman</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png" alt="Sobre el materialismo histórico y el materialismo dialéctico" />
@@ -1379,7 +1263,6 @@ ___
         </div>
         <div class="gr_custom_author">Joseph Stalin</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334247259l/13599208.jpg" alt="El imperialismo, fase superior del capitalismo" />
@@ -1389,7 +1272,6 @@ ___
         </div>
         <div class="gr_custom_author">Vladimir Lenin</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375038644l/16008156.jpg" alt="El origen de la familia, la propiedad privada y el Estado" />
@@ -1399,7 +1281,6 @@ ___
         </div>
         <div class="gr_custom_author">Friedrich Engels</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339152247l/15471763.jpg" alt="La sociedad industrial y su futuro" />
@@ -1409,7 +1290,6 @@ ___
         </div>
         <div class="gr_custom_author">Theodore John Kaczynski</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513767511l/37639299._SY475_.jpg" alt="Realismo capitalista" />
@@ -1419,7 +1299,6 @@ ___
         </div>
         <div class="gr_custom_author">Mark Fisher</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358682664l/17262013.jpg" alt="La sociedad del espectáculo" />
@@ -1429,7 +1308,6 @@ ___
         </div>
         <div class="gr_custom_author">Guy Debord</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025928l/21954673.jpg" alt="La sociedad del cansancio" />
@@ -1439,7 +1317,6 @@ ___
         </div>
         <div class="gr_custom_author">Byung-Chul Han</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697677214l/195084788._SX318_.jpg" alt="Teoría de los colores: las láminas comentadas (Spanish Edition)" />
@@ -1449,7 +1326,6 @@ ___
         </div>
         <div class="gr_custom_author">Johann Wolfgang von Goethe</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266552657l/4153683.jpg" alt="Psicología del color: Cómo actúan los colores sobre los sentimientos y la razón" />
@@ -1459,7 +1335,6 @@ ___
         </div>
         <div class="gr_custom_author">Eva Heller</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389809876l/20554505.jpg" alt="El camino del zen" />
@@ -1469,7 +1344,6 @@ ___
         </div>
         <div class="gr_custom_author">Alan W. Watts</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486854572l/11465542._SX318_.jpg" alt="Vigilar y castigar. Nacimiento de la prisión" />
@@ -1479,7 +1353,6 @@ ___
         </div>
         <div class="gr_custom_author">Michel Foucault</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613385586l/57071811._SX318_.jpg" alt="La Creación de la Experiencia (Spanish Edition)" />
@@ -1489,7 +1362,6 @@ ___
         </div>
         <div class="gr_custom_author">Jacobo Grinberg-Zylberbaum</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541868688l/3938691._SY475_.jpg" alt="Dialéctica de la Ilustración" />
@@ -1499,7 +1371,6 @@ ___
         </div>
         <div class="gr_custom_author">Max Horkheimer</div>
       </div>
-      
       <div class="gr_custom_each_container">
         <div class="gr_custom_book_container">
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604143235l/55820757._SX318_.jpg" alt="Ensayo sobre lo que no se ve" />
