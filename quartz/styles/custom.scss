@@ -849,16 +849,14 @@ display: block;
 
 
 
-/******* Estilos Embed Goodreads********/
 .gr_widgets_wrapper {
   display: flex;
-  gap: 15px; /* espacio entre los widgets */
-  flex-wrap: nowrap; /* que no bajen a la siguiente línea */
-  justify-content: space-between; /* opcional, para que haya espacio entre ellos */
+  gap: 15px;
+  flex-wrap: nowrap;
+  justify-content: space-between;
 }
 
-.gr_custom_container_1753714226,
-.gr_custom_container_1753718226 {
+.gr_custom_container {
   border: 1px solid gray;
   border-radius: 10px;
   padding: 10px;
@@ -870,26 +868,23 @@ display: block;
   margin: 0px;
 }
 
-.gr_custom_header_1753714226,
-.gr_custom_header_1753718226 {
+.gr_custom_header {
   border-bottom: 1px solid gray;
   text-align: center;
   font-size: 150%;
   margin: 0;
-  padding: 0 0 10px 0; /* esto simula el margen inferior sin que colapse */
-  line-height: 1.2; /* por si el problema es vertical spacing de fuente */
+  padding-bottom: 10px;
+  line-height: 1.2;
 }
 
-.gr_custom_each_container_1753714226,
-.gr_custom_each_container_1753718226 {
+.gr_custom_each_container {
   border-bottom: 1px solid #aaa;
   margin-bottom: 1px;
   overflow: auto;
   padding-bottom: 1px;
 }
 
-.gr_custom_book_container_1753714226,
-.gr_custom_book_container_1753718226 {
+.gr_custom_book_container {
   float: left;
   margin-right: 8px;
   width: 39px;
@@ -897,27 +892,16 @@ display: block;
   overflow: hidden;
 }
 
-.gr_custom_book_container_1753714226 img {
+.gr_custom_book_container img {
   width: 100%;
   height: auto;
 }
 
-.gr_custom_author_1753714226,
-.gr_custom_author_1753718226 {
+.gr_custom_author {
   font-size: 10px;
   color: #ccc;
 }
 
-.gr_custom_tags_1753714226,
-.gr_custom_tags_1753718226 {
-  font-size: 0px;
-  color: gray;
-}
-
-.gr_custom_container_1753714226 center,
-.gr_custom_container_1753718226 center {
-  display: none;
-}
 
 /********ESTILOS LISTAS CINE Y VIDEOJUEGOS***********/
 
