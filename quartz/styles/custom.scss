@@ -927,6 +927,26 @@ display: block;
   box-sizing: border-box;
 }
 
+
+
+/* MEDIA QUERY PARA MÓVILES */
+@media (max-width: 600px) {
+  .lb-list {
+    max-width: 48%;  /* intenta que sigan siendo 2 por fila en móviles grandes */
+    flex: 0 1 48%;
+  }
+}
+
+/* MÓVILES PEQUEÑOS (smartphones) */
+@media (max-width: 400px) {
+  .lb-list {
+    max-width: 100%; /* 1 lista por fila */
+    flex: 0 1 100%;
+  }
+}
+
+
+
   .lb-list a {
     text-decoration: none;
   }
