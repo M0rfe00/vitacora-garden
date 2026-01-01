@@ -1,6 +1,7 @@
 # TIPOGRAFIAS
 ___
 **Fuentes y Tipografías:** las tipografías son las fuentes, por ejemplo **roboto**, arial.. mientras que las fuentes son "roboto bold", "arial italic"...
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195218.png"
   alt="FuenteTipografia"
@@ -13,6 +14,7 @@ ___
 El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 
 Las serif tienen terminaciones y detalles en cada carácter, su vez dentro de este tipo hay subgrupos como Didone, estilo antiguo, egipcio, moderna, slab...
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195158.png"
   alt="Serif"
@@ -22,6 +24,7 @@ Las serif tienen terminaciones y detalles en cada carácter, su vez dentro de es
 
 
 Las San Serif se distinguen por no tener estos detalles en los caracteres, a su vez también se dividen en subgrupos como; humanista, geométrica, neo grotesca, gótica
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195900.png"
   alt="SanSerif"
@@ -31,6 +34,7 @@ Las San Serif se distinguen por no tener estos detalles en los caracteres, a su 
 
 
 Las Monoespaciadas, son otro grupo el cual puede ser Serif o San Serif pero se caracteriza por que cada carácter dispone del mismo ancho.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200105.png"
   alt="Monoespaciadas"
@@ -40,6 +44,7 @@ Las Monoespaciadas, son otro grupo el cual puede ser Serif o San Serif pero se c
 
 
 Las Display son otro grupo que puede tener características de Serif o San Serif pero están pensadas para ser vistas en lugares mucho más grandes, como títulos de carteles, textos grandes en una web, no tanto para bloques de texto.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200316.png"
   alt="Monoespaciadas"
@@ -57,6 +62,7 @@ ___
 **Contraste:** El contraste es la clave para combinar tipografías, algunas de las formas más fáciles de combinar tipografías son:
 
 **Combinar 2 tipografías:** San Serif + Serif.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200706.png"
   alt="Combinar2"
@@ -64,6 +70,7 @@ ___
 />
 
 **Combinar 1 tipografía:** Utilizar diferentes pesos.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200841.png"
   alt="combinar1"
@@ -74,6 +81,7 @@ ___
 Consejo para combinar tipografías:
 
 Intercalar pesos, es decir que haya al menos un salto para generar algo de contraste.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200959.png"
   alt="Intercalar"
@@ -82,6 +90,7 @@ Intercalar pesos, es decir que haya al menos un salto para generar algo de contr
 
 
 Mantener pocas variables, una para títulos, otra para subtítulos, otra para textos y en caso de ser necesario otra para "call to actions". Esto genera jerarquía y estabilidad y sensación de profesionalidad.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101201148.png"
   alt="Variables"
@@ -89,6 +98,7 @@ Mantener pocas variables, una para títulos, otra para subtítulos, otra para te
 />
 
 Mantener el mismo tamaño en los diferentes bloques de texto, es decir, si hay varios títulos que tengan el mismo tamaño, lo mismo con los subtítulos y párrafos.
+
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101201437.png"
   alt="tamaños"
