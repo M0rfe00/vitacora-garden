@@ -2,7 +2,7 @@
 ___
 **Fuentes y Tipografías:** las tipografías son las fuentes, por ejemplo **roboto**, arial.. mientras que las fuentes son "roboto bold", "arial italic"...
 <img
-  src="/media-content/Apuntes/media-diseño/20260101195218.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101195218.png"
   alt="FuenteTipografia"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -14,7 +14,7 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 
 Las serif tienen terminaciones y detalles en cada carácter, su vez dentro de este tipo hay subgrupos como Didone, estilo antiguo, egipcio, moderna, slab...
 <img
-  src="/media-content/Apuntes/media-diseño/20260101195158.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101195158.png"
   alt="Serif"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -23,7 +23,7 @@ Las serif tienen terminaciones y detalles en cada carácter, su vez dentro de es
 
 Las San Serif se distinguen por no tener estos detalles en los caracteres, a su vez también se dividen en subgrupos como; humanista, geométrica, neo grotesca, gótica
 <img
-  src="/media-content/Apuntes/media-diseño/20260101195900.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101195900.png"
   alt="SanSerif"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -32,7 +32,7 @@ Las San Serif se distinguen por no tener estos detalles en los caracteres, a su 
 
 Las Monoespaciadas, son otro grupo el cual puede ser Serif o San Serif pero se caracteriza por que cada carácter dispone del mismo ancho.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101200105.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101200105.png"
   alt="Monoespaciadas"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -41,7 +41,7 @@ Las Monoespaciadas, son otro grupo el cual puede ser Serif o San Serif pero se c
 
 Las Display son otro grupo que puede tener características de Serif o San Serif pero están pensadas para ser vistas en lugares mucho más grandes, como títulos de carteles, textos grandes en una web, no tanto para bloques de texto.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101200316.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101200316.png"
   alt="Monoespaciadas"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -58,14 +58,14 @@ ___
 
 **Combinar 2 tipografías:** San Serif + Serif.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101200706.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101200706.png"
   alt="Combinar2"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 **Combinar 1 tipografía:** Utilizar diferentes pesos.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101200841.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101200841.png"
   alt="combinar1"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -75,7 +75,7 @@ Consejo para combinar tipografías:
 
 Intercalar pesos, es decir que haya al menos un salto para generar algo de contraste.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101200959.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101200959.png"
   alt="Intercalar"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -83,14 +83,14 @@ Intercalar pesos, es decir que haya al menos un salto para generar algo de contr
 
 Mantener pocas variables, una para títulos, otra para subtítulos, otra para textos y en caso de ser necesario otra para "call to actions". Esto genera jerarquía y estabilidad y sensación de profesionalidad.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101201148.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101201148.png"
   alt="Variables"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 Mantener el mismo tamaño en los diferentes bloques de texto, es decir, si hay varios títulos que tengan el mismo tamaño, lo mismo con los subtítulos y párrafos.
 <img
-  src="/media-content/Apuntes/media-diseño/20260101201437.png"
+  src="/media-content/Apuntes/media-diseño/tipografias/20260101201437.png"
   alt="tamaños"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
