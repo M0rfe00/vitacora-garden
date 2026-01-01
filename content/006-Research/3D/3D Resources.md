@@ -38,6 +38,7 @@ ___
 - [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
 - [CgTrader](https://www.cgtrader.com/) - Marketplace de recursos y assets de alta calidad, baratos (revisar wireframe) util como alternativa a paginas como ArtStation que se han llenado de productos de IA LQ.
 - [Blender Market](https://superhivemarket.com/products/foam-shader) - Concretamente el link lleva a un Shader procedural de espuma realista.
+- [SuperHiveMarket](https://superhivemarket.com/products/alt-tab-easy-fog2) - Marketplace donde hay muchos addons para blender
 - [SketchFab](https://sketchfab.com/feed) - Modelos 3D muchos gratuitos hechos por la comunidad.
 - [The Models Resource](https://www.rileyb3d.com/blog-categories/assets) - Libreria de modelos 3D de videojuegos antiguos.
 - [ArtSation](https://www.artstation.com/) - Marketplace y Red de artistas digitales.
@@ -81,6 +82,7 @@ ___
 - Blenderkit (free)
 
 #### **Characters**
+- Humanify
 - Daz To Blender
 - Diffeomorphic
 - Sagan: software de terceros que permite exportar animaciones de Daz a otros
