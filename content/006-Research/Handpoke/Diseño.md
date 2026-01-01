@@ -3,8 +3,9 @@ tags:
   - Tattoo
 ---
 # ANATOMIA & DISEÑO
+
+## **Dirección:**
 ___
-### **Dirección:**
 - Todos los tatuajes deben ir hacia la misma dirección el cuerpo avanza **hacia el frente** por lo que los tatuajes deben tener la **misma dirección.**
 - Podemos utilizar de referencia como las líneas naturales del cuerpo creadas por la musculatura para entender mejor el cuerpo, las formas de los músculos, las líneas que crean etc...
 - Entender esto sirve para que a la hora de componer diseño poder jugar con las formas del cuerpo y las direcciones para lograr diseños que se adapten de forma anatómica al cuerpo y poder crear diseños que se adapten al movimiento.
@@ -27,7 +28,10 @@ Hay que jugar con el movimiento del cuerpo y sus pliegues, por ejemplo un tatuaj
 
 Un ejemplo de seguir la dirección del cuerpo seria al tatuar un rostro hacerlo mirando hacia dentro y no hacia fuera.
 
-### **DISECCIÓN DEL CUERPO**
+
+
+## **DISECCIÓN DEL CUERPO**
+___
 - Considerando el cuerpo como una unidad, la mitad vertical se encontraría marcada por la columna.
 - Los hombros son zonas difíciles ya que se trabaja sobre la superficies del hueso, por lo que trabajar geometría o elementos que requieran mucha precisión será difícil.
 - La clavícula, hombros y esternón es difícil y poco recomendado para tatuadores poco experimentados especialmente por la irregularidad de la superficie; grasa y músculos.
@@ -40,7 +44,9 @@ Un ejemplo de seguir la dirección del cuerpo seria al tatuar un rostro hacerlo 
 - El esternón suele ser doloroso
 - Muslos: suele ser mas sencillo
 
-### **Color**
+
+# **Color**
+___
 A la hora de elegir los colores es importante elegir el valor tonal
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Apuntes/media-tattoo/20251225231907.png" alt="">
