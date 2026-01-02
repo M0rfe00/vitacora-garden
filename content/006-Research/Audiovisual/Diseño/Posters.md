@@ -71,23 +71,22 @@ Durante siglos los artistas han sabido como utilizar la densidad de color, eligi
 # Poster Tutorials
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G1PwxSeXkAEiO89.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G1PwxSeXkAEiO89.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G1PwxOiWoAAbMKl.jpg" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G1PwvozWYAE86l9.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G1PwvozWYAE86l9.jpg" alt="">
 </div>
 
 
 # Posters Grids Examples
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G872dOsXwAAjIaz.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G872dOsXwAAjIaz.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G8xxGsiXsAAw-dq.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G8xxGs1W0AAh5Ko.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G8xxGsgXkAAwhRq.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/G8xxGshWMAAah4w.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/2026-01-02 220410.png" alt="">
 </div>
-
-
 
 
 
