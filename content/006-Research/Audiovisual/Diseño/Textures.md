@@ -103,3 +103,10 @@ ___
 3) Añadir un color solido debajo de todo y elegir un color dentro de esta área:
  ![[Pasted image 20251216015121.png]]
  4) Por ultimo se puede añadir una textura nueva por encima.+
+
+
+# Overlay
+___
+En lugar de aplicar texturas planas en modo normal, utilizar el modo overlay permiten a la textura interactuar de forma más natural con la capas inferiores, también es importante ajustar la opacidad.
+
+![[Pasted image 20260102214436.png]]
