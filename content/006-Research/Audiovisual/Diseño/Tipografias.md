@@ -157,6 +157,25 @@ Proyectos digitales y UI:
 
 
 
+
+
+# Tutorial - Tipografías
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/tipografias/[swzydzn] (Typography tutorial) G1PwwI1XIAADiIN.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/tipografias/[swzydzn] (Typography tutorial1) G8281i0XYAAq1-Y.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/tipografias/[swzydzn] (Typography tutorial2) G8281i7WUAApsPG.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/tipografias/[swzydzn] (Typography tutorial3) G8281i4XcAATsrN.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/tipografias/[swzydzn] (Typography tutorial4) G8281ixXYAAlduH.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/tipografias/[SyntheVisuals] (How to draw letters) G9RJ7LwakAEOsqZ.jpg" alt="">
+</div>
+
+
+
+
+
+
+
 # Licencias
 ___
 A la hora de instalar una tipografía lo que se adquiere es la posibilidad de uso, sin embargo la licencia puede ser limitada según el proyecto, cliente, soporte, audiencia... 

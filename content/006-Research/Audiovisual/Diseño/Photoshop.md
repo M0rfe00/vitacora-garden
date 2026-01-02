@@ -101,9 +101,10 @@ Igual que al aplicar filtros a un objeto inteligente, los ajustes funcionan igua
 
 
 
+# Effects tier list
+___
 
-
-
+![[[SyntheVisuals] (Photoshop effects tierlist) GyLPAjRXQAAsk6U.jpg]]
 
 
 
