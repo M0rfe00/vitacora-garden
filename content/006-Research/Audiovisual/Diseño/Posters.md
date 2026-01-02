@@ -9,70 +9,6 @@ Tener en cuenta tanto formatos digitales como físicos para poder imprimir si es
 | Typographic  | 2160 x 3054 px | A3 = 297 x 420 mm |
 | Photographic | 3840 x 5441 px | A2 = 420 x 596 mm |
 
-### **Texture Paper**
-____
-En lugar de únicamente colocar una textura de papel seleccionar el modo de fusión en multiplicar hay formas mas efectivas:
-
-1) Clic derecho sobre la textura>Blending options: reducir el slide "current layer" y seleccionar el modo de fusión en pantalla
-![[Pasted image 20251216012524.png]]
-
-2) En las capas inferiores>Filtros>Distorsión>Ripple: 100% aprox
-3) También en las capas inferiores>Filter gallery>Sprayed Strokes
-4) Desenfocar un poco las capas inferiores
-
-### **Blending modes Tips**
-___
-**Tip 1:** 
-- Añadir una texutura con muchas sombras y seleccionar el modo de fusión en "Lighten color"
-
-
-**Tip 2:** 
-- Invertir todas las capas con "Ctrl+i"
-- Cambiar el modo de fusión de la textura a "Difference" añadir una capa "Hue/Sat" y bajar el Hue al mínimo. 
-
-**Tip 3:** 
-- Añadir una textura muy compleja y establecer el modo de fusión en "Saturation"
-- Intentar combinar 2 texturas y si es muy caotico añair una capa "Hue/Sat" y jugar con los valores hasta conseguir un buen resultado.
-
-### **Displacement Maps**
-___
-En lugar de simplemente añadir una textura, guardarla como .PSD ir a Filter>Distort>Displace y elegir el psd, una mejor forma es:
-
-1) Abrir un archivo nuevo con el mismo tamaño del poster
-2) Añadir una capa y convertirla en "Smart object" y Filter>Render>Fibers..
-3) En la capa anterior >Filter>Blur Gallery>Path blur y diseñar la distorsión deseada.
-
-4) De nuevo en el poster; Convertir el texto en "Smart object" y Filter>Distort>Displace y elegir el archivo anterior, pudiendo volver a modificarlo cuando sea.
-
-### **Images to Textures**
-___
-1) En la imagen deseada; Filter>Camera Raw y establecer los siguientes valores como referencia:
-**Light:**
-- Exposure: -2,25
-- Contrast: -95
-- Hightlights: +44
-- Shadows: -100
-- Whites: -100
-- Blacks: +100
-
-**Efects:**
-- Texture: -100
-- Clarity: +100
-- Dehaze: +100
-- Vignette: 0
-- Grain: 50
-	- Size: 100
-	- ROughness: 92
-
-**Color:** 
-- bajar la saturación al maximo de todos los colores que no se quieren en el poster
-
-2) Seleccionar el modo de fusión a "Hue"
-3) Añadir un color solido debajo de todo y elegir un color dentro de esta área:
- ![[Pasted image 20251216015121.png]]
- 4) Por ultimo se puede añadir una textura nueva por encima.+
-
-
 
 ### **Typography tips:**
 ___
@@ -85,7 +21,7 @@ ___
 
 ### **Create Color Palettes:**
 ___
-###### **Monocromatic:** 
+###### **Monocromaticas:** 
 Elegir un color y complementarlo con neutrales como blanco o negro.
 
 - **Elementos principales:** Titulos, imagenes, iconos, en general lo grande e importante a color para que se lleven la atención.
@@ -94,7 +30,7 @@ Elegir un color y complementarlo con neutrales como blanco o negro.
 
  - **Detalles:** Texturas, formas, relleno, normalmente blanco o negro suele funcionar y pequeños detalles a color solo si ayuda a dirigir la atención.
 
-###### **Analogues:** 
+###### **Analogas:** 
 Elegir un color base y mover ligeramente el "Hue" para elegir 2 colores cercanos.
 
 1) **Boost contrast:** ajustar los niveles de color de la imagen con una capa "colors", bajar las sombras y subir la luces
@@ -129,3 +65,29 @@ Durante siglos los artistas han sabido como utilizar la densidad de color, eligi
   alt="Densidad de color"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+
+
+
+# Poster Tutorials
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/-[swzydzn] (Poster tutorial 2) G1PwxSeXkAEiO89.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/-[swzydzn] (Poster Tutorial 1) G1PwxOiWoAAbMKl.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/-[swzydzn] (Graphic Desing Tips) G1PwvozWYAE86l9.jpg" alt="">
+</div>
+
+
+# Posters Grids Examples
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/[odaguyx] (grid examples) G872dOsXwAAjIaz.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/[odaguyx] (grid examples) G8xxGsiXsAAw-dq.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/[odaguyx] (grid examples) G8xxGs1W0AAh5Ko.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/[odaguyx] (grid examples) G8xxGsgXkAAwhRq.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/posters/[odaguyx] (grid examples) G8xxGshWMAAah4w.jpg" alt="">
+</div>
+
+
+
+
+
