@@ -19,7 +19,7 @@ ___
 Son los mas comunes, son estables y duraderas, se hacen entrelazando dos conjuntos de hilos en ángulo recto, al no estar hechas de fibras orgánicas no tienen flexibilidad y  son más estructurados y se utilizan para prendas como camisas o tapicería. si se rompe un hilo no hay problema ya que la estructura se sostiene por si misma.
 ### **Knit Fabrics:**
 Son mas elásticas y flexibles incluso si no están hechas de materiales elásticos, se hacen entrelazando uno o varios hilos en bucles interconectados, por lo que al romperse un hilo la estructura se ve muy afectada, se utilizan para prendas cómodas, es muy común encontrar french terry y jersey para hacer camisetas y sudaderas.
-![[Pasted image 20251113182417.png]]
+![[Pasted image20251113182417.png]]
 
 ## **Según su origen;**
 Según el tipo de marca se utilizara un tipo u otro, o ambos, es recomendado utilizar hilos naturales ya que son más sostenibles

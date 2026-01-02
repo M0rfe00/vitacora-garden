@@ -1,0 +1,109 @@
+---
+tags:
+  - Davinci
+  - Color
+---
+# **\[Teoría del color\] - SizeMatters**
+___
+## **Ciencia del color**
+
+**Luz/color:** La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
+
+El espectro electromagnético va de ondas con más energía y por ello mayor frecuencia y menor longitud de onda mientras que las que tienen menos energía tienen menor frecuencia y mayor longitud de onda.
+
+El espectro de luz visible se encuentra entre los 400nm y 700nm
+
+La luz usada para la iluminación como la blanca del sol o una bombilla no son una única longitud de onda si no la combinación de muchas del espectro visible.
+
+La luz led para iluminar con luz blanca debe tener leds RGB encendidos sumar sus longitudes.
+
+La luz neón funciona gracias a la fluorescencia, que consiste en la absorción de energía de los átomos de un gas debido a una descarga eléctrica y en la emisión de parte de esa energía en forma de radiación electromagnética con diferentes longitudes de onda dependiendo del gas.
+
+El Day Glo es una pintura fluorescente capaz de brillar al suministrar radiación ultravioleta gracias a la mezcla de pintura con minerales capaces de emitir luz por fluorescencia.
+
+## **Captación de los colores por el Ojos:**
+
+El ojo es capaz de percibir estas ondas gracias a dos tipos de celular, los bastones y los conos.
+
+- **Bastones:** Ayudan sobre todo a ver de noche captando principalmente inmensidades de luz y no colores como tal
+
+ - **Conos:** Ayudan sobre todo en la visión diurna encargándose de procesar al color mediante tres tipos de conos/celular que absorben rangos diferentes de longitudes de onda:
+
+	**Conos S:** (small) absorben longitudes cortas, tonos **azulados** y lilas
+
+	**Conos M:** (medium) absorben longitudes medias tonos **verdosos** y amarillos
+
+	**Conos L:** (large) absorben tonos **rojos**
+
+A través de la combinación los tonos capturados por los 3 tipos de conos el cerebro es capaz de generar el resto de los colores.
+
+Las personas con daltonismo tienen defectuoso o les faltan alguno de estos conos, especialmente los M y L y afectando sobre todo a hombres ya que estos dos conos se encuentran en el cromosoma X, pudiendo las mujeres compensar el defecto al tener otro cromosoma X sano.
+
+Los perros solo tienen dos conos que absorben principalmente los tonos azules y amarillos mientras que otros animales tienen incluso más conos y caen en zonas del espectro no visibles para el humano como la luz ultravioleta.
+
+<img
+  src="/media-content/Apuntes/media-davinci/2e4ec234464b9071074bce4407b529cc4f0f5710.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
+
+
+
+
+
+
+## **Utilidades Narrativas del color:**
+
+- Representar un cambio como el estado anímico de un personaje o etapas vitales..
+
+- Asociar un color a una idea, como una realidad, idea, estado mental, personas..
+
+
+# Armonía de color en fotografía:
+
+El circulo cromático básico de 12 colores se compone de; los 3 colores primarios, la combinación de estos creando los secundarios y a la combinación de los secundarios con los primarios creando los terciarios.
+
+Usar las diferentes paletas de colores, análogas, complementarias, triadas puede ser útil para transmitir determinadas sensaciones o estilos.
+
+<img
+  src="/media-content/Apuntes/media-davinci/66689c764bbe7f169340599effa2cba6d7fa6b77.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
+
+# **\[Teoría del color en fotografía\] - PARVEC**
+___
+Para sacar partido a la teoría del color en fotografía, manipulando y utilizando el color como herramienta compositiva, es imprescindible una buena planificación y preconcepción de la foto que se quiero tomar para lograr una gran obra.
+
+En foto de paisaje o callejera es vital conocer el comportamiento de la luz a lo largo del día y como influyen en ella factores como las condiciones meteorológicas o la localización entre otras.
+
+Por ello la “hora dorada” es tan común, la luz incide desde un ángulo muy bajo y tiene que atravesar un número muy elevado de capas atmosféricas y objetos haciendo que la luz sea más difusa, genere sombras más suaves y sobre todo unifique los colores de la escena alrededor de tonos anaranjados rojizos, favoreciendo esquemas cromáticos análogos.
+
+También es útil el uso de filtros o elementos iluminativos suplementarios, aunque estas prácticas pueden provocar sensaciones de artificialidad por lo que son poco frecuentes es fotografía de paisaje, pero útiles en la experimentación.
+
+La postproducción es el último paso, y aunque sería deseable lograr el mejor acabado cromático mediante las condiciones ambientales, gracias al formato RAW y el revelado digital en programas como Lightroom existen una gama de recursos artísticos que brindan una capa mayor de interpretación de la fotografía.
+
+<img
+  src="/media-content/Apuntes/media-davinci/902e9073841cd158c981d9ce22a866cffb8ebcbf.png"
+  alt="video"
+  style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
+/>
+
+
+# **Evolución del color**
+___
+- Pelicula a blanco y negro,
+
+- Coloreado de pelicula a mano 1902
+
+- **Coloreado a mano** perfeccionado con estarcido 1905
+
+- **Tinting,** teñir con colores concretos escenas, azulado, sepia, rojo 1910
+
+- **Kinemacolor,** cámara con pelicula de 35mm en blanco y negro y un filtro giratorio verde y rojo, exponiendo cada fotograma con un color diferente y fusionándolos gracias a la persistencia retiniana, 1908.
+
+- **Technicolor 3**, una cámara con tres peliculas blanco y negro, dos sensibles rojo y azul con un filtro magenta para evitar el paso de la luz verde y la tercera sensible al verde con un filtro verde para dejar pasarlo. 1932
+
+- **Eastman Color,** primer proceso de color en una única pelicula de 35mm, patente vendida al resto de empresas 1950.
+
+- **Etalonaje,** O brothers en el 2000 fue la primera pelicula con el etalonaje 100% digital, hoy en día se utiliza la rueda y teoría del color como herramientas principales para realizar el etalonaje, haciendo uso de ambas para elegir que emociones y sensaciones se quieren transmitir mediante los colores haciendo uso de armonías complementarias, análogas, triadas... según el ambiente u atmosfera que se quiera crear,
