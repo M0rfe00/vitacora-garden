@@ -122,9 +122,69 @@ hay tipografías más serias y formales como Times New Roman o Barkerville, las 
 
 Hay que analizar si la tipografía es seria, divertida, sus características...
 
+No usar fuentes sin licencia para evitar riesgos y dar preferencia a licencias OFL, PGL y Apache.
+
+
+
+# Tipografía recomendadas
+___
+Proyectos digitales y UI: 
+- Inter: esta hecha para pantallas, muy legible en tamaño pequeño y bien espaciada.
+- Roboto: tipografiad e Android, moderna, neutra y optimizada para pantallas.
+- IBM Plex Sans: cuenta con una familia de fuentes y variantes tecinas enorme.
+
+**Parrafos y bloques de texto:**
+- **Source sans:** la familia completa de Adobe es ideal para cuerpos de texto, gratuita y versátil.
+- **Merriweather:** fue diseñada para ser atractiva visualmente y fácil de leer en pantalla, con una altura muy grande, formas de letra ligeramente condensadas con un acento diagonal grande, serifas muy robustas y abiertas para facilitar su lectura en textos pequeños.
+- **Noto:** pensada para trabajar en múltiples idiomas y entornos internacionales.
+
+**Títulos, Branding y desarrollo de marca:**
+- **Playfair:** sofisticada, clásica, funciona muy bien en titulares con peso.
+- **Space Grotesk:** moderna, estilo sutil y bastante personalidad, recomendada para titulares de estilo contemporáneo.
+- **Anton:** San serif superbold y compacta, ideal para titulares grandes con presencia fuerte.
+
+
+**Para todo tipo de uso:**
+- **Helvética neue / Neue Hass Grotesk:** clásico, neutral, limpia, profesional.
+
+- **Monserrat:** muy usada en branding, visualmente atractiva pero precaución con los pesos.
+
+- **Archivo:** diseñada para funcionar tanto en impresión como pantalla, diseño robusto y neutral, ideal para textos largos y titulares.
+
+- **Manrope:** moderna, equilibrada, para algo fresco y distinto.
+
+
+
+
 
 # Licencias
 ___
 A la hora de instalar una tipografía lo que se adquiere es la posibilidad de uso, sin embargo la licencia puede ser limitada según el proyecto, cliente, soporte, audiencia... 
 
-Las tipografias pueden ser adquiridas en paginas como: google fonts, Adobe fonts, Datfont
+Las tipografías pueden ser adquiridas en paginas como: google fonts, Adobe fonts, Datfont.
+
+**Código libre/abierto:** ofrecen libertad para usar, modificar y redistribuir bajo ciertos requisitos, generalmente bajo el marco del "Copyleft" siendo algunas de las licencias de software libre más usadas en tipografía OFL, GPL y Apache.
+
+
+**Gratuitas para uso comercial** suelen permitir el uso de la fuente en proyectos que generen ingresos a cambio de dar créditos al autor, sin embargo su uso suele ser muy limitado y suelen ser poco atractivas.
+
+**Gratuitas para uso personal:** aunque se ofrecen de forma gratuita su uso es para proyectos no lucrativos siendo un campo ambiguo de justificar.
+
+**Dominio publico**: sin licencia, uso libre al no estar protegidas por la ley de propiedad intelectual ya sea porque expiraron o renunciaron a sus derechos.
+
+**De pago** pueden dividirse según su uso permitido:
+
+Licencias de escritorio: logos, diseños, envases de producto...
+
+Licencias web: Paginas web, dominios contratados...
+
+Licencias app: Android, IOs, Windows...
+
+Licencias E-doc: Libros, revistas...
+
+Licencias Digital Ads: anuncios de internet, email, marketing
+
+Licencias servidores: alojar la tipografía para que terceros la usan remotamente
+
+
+- En general todas las licencias se renuevan automáticamente, salvo las de escritorio que son de un unico pago por instalación

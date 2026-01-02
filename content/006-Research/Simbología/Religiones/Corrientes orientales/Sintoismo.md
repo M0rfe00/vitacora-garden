@@ -183,4 +183,29 @@ Los cuentos del folklore japonés se conservan en uno de los libros más antiguo
 
 Los Yokai aparecieron en el mundo al principio de su ceración cuando el dios Izanagi se quitó el manto para bañarse en las aguar del mar, en ese momento nacieron yokais de los más diverso tipos y tamaños, estos vivían en todo tipo de ambientes, desde altas y desoladas montañas hasta bosque y profundas lagunas, su comportamiento variaba tanto como el comportamiento humano, dos de la misma especie podrían tener una personalidad completamente diferente, sin embargo la mayoria de los humanos los consideraban criaturas maliciosas.
 
-Para los yokai las reglas y leyes de la sociedad humana no tenían ningún valor y a menudo podían dañar a los humanos o destruir objetos incluso si su intención era solo dar un susto o realizar algun tipo de broma
+Para los yokai las reglas y leyes de la sociedad humana no tenían ningún valor y a menudo podían dañar a los humanos o destruir objetos incluso si su intención era solo dar un susto o realizar algun tipo de broma.
+
+
+# Escritura - Sistema
+___
+Un texto japonés típico mezcla kanji para el cuerpo principal de las palabras, hiragana para la gramática y funciones, y katakana para elementos extranjeros, creando un mosaico visual y funcional.
+## **Kanji:** 
+**palabras completas, sirven para formar otras.**
+- **Origen:** Caracteres chinos adoptados.
+- **Uso:** Para la raíz de sustantivos, verbos, adjetivos y nombres propios.
+- **Función:** Expresan conceptos y significados.
+- **Características:** Miles de caracteres, cada uno con múltiples lecturas y significados.
+
+## **Hiragana:**
+**Fonemas, no tienen significado individual, Abecedario, cualquier cosas.**
+- **Origen:** Desarrollado en Japón a partir de kanji.
+- **Uso:** Para palabras japonesas nativas, partículas gramaticales y terminaciones verbales ([okurigana](https://www.google.com/search?q=okurigana&oq=Kanji+hira&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIKCAYQABgKGBYYHjIKCAcQABgKGBYYHjIICAgQABgWGB4yCggJEAAYChgWGB7SAQkxMjUxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwiopfLPjO2RAxW9VqQEHWrtBrUQgK4QegYIAQgAEBU)).
+- **Función:** Fonética (cada letra es una sílaba) y gramatical.
+- **Características:** Curvas y suaves, unos 46 caracteres básicos.
+
+## **Katakana:**
+**Fonemas, no tienen significado individual, para palabras extranjeras.**
+- **Origen:** También desarrollado desde kanji.
+- **Uso:** Principalmente para palabras extranjeras (préstamos), onomatopeyas y énfasis.
+- **Función:** Fonética (misma base que hiragana) pero para un propósito diferente.
+- **Características:** Rectilíneas y angulares, también unos 46 caracteres básicos.
