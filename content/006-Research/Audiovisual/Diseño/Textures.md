@@ -12,8 +12,8 @@ ___
 ## **Textures: Easiest way**
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/1.png" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/1.1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/1.1.png" alt="">
 </div>
 
 
