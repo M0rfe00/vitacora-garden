@@ -71,8 +71,8 @@ Durante siglos los artistas han sabido como utilizar la densidad de color, eligi
 # Poster Tutorials
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G1PwxSeXkAEiO89.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G1PwxOiWoAAbMKl.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G1PwxSeXkAEiO89.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G1PwvozWYAE86l9.jpg" alt="">
 </div>
 
