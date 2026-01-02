@@ -3,10 +3,10 @@ ___
 ## **Textures: first way** 
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/(How I use my textures) (S1 Layering Images) [plusarchstudio] GwKbsdbXsAEReyi.jpg" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/(How I use my textures) (S1 Texture application) [plusarchstudio] GwKbt-pWgAA1KeM.jpg" alt="">
-<!--<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/(How I use my textures) (Results) [plusarchstudio] GwKbvrqWwAEZOQf.jpg" alt="">-->
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/(How I use my textures) (Free pack in bio) [plusarchstudio] GwKbxCtXsAAbOd3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/(How I use my textures) (S1 Layering Images) [plusarchstudio] GwKbsdbXsAEReyi.jpg" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/(How I use my textures) (S1 Texture application) [plusarchstudio] GwKbt-pWgAA1KeM.jpg" alt="">
+<!--<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/(How I use my textures) (Results) [plusarchstudio] GwKbvrqWwAEZOQf.jpg" alt="">-->
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/(How I use my textures) (Free pack in bio) [plusarchstudio] GwKbxCtXsAAbOd3.jpg" alt="">
 </div>
 
 ## **Textures: Easiest way**
@@ -21,16 +21,16 @@ ___
 ## **Textures: More complicated way**
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/2.png" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/2.1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/2.1.png" alt="">
 </div>
 
 
 ## **Textures: Often use way**
 ___
 <div class="galeria">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/3.png" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/textures/3.1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/3.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Textures/3.1.png" alt="">
 </div>
 
 
