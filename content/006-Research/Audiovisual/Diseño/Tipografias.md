@@ -5,7 +5,7 @@ ___
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195218.png"
   alt="FuenteTipografia"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -18,7 +18,7 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195158.png"
   alt="Serif"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -28,7 +28,7 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195900.png"
   alt="SanSerif"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -38,7 +38,7 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200105.png"
   alt="Monoespaciadas"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -48,7 +48,7 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200316.png"
   alt="Monoespaciadas"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -66,7 +66,7 @@ ___
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200706.png"
   alt="Combinar2"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 ## **Combinar 1 tipografía:** Utilizar diferentes pesos.
@@ -74,7 +74,7 @@ ___
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200841.png"
   alt="combinar1"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -85,7 +85,7 @@ ___
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200959.png"
   alt="Intercalar"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -94,7 +94,7 @@ ___
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101201148.png"
   alt="Variables"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 **Mantener el mismo tamaño** en los diferentes bloques de texto, es decir, si hay varios títulos que tengan el mismo tamaño, lo mismo con los subtítulos y párrafos.
@@ -102,7 +102,7 @@ ___
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101201437.png"
   alt="tamaños"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
