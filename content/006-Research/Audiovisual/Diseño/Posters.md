@@ -9,6 +9,13 @@ Tener en cuenta tanto formatos digitales como físicos para poder imprimir si es
 | Typographic  | 2160 x 3054 px | A3 = 297 x 420 mm |
 | Photographic | 3840 x 5441 px | A2 = 420 x 596 mm |
 
+# Project Settings
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/PressetPosters.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/PressetCovers.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GuideLayout.png" alt="">
+</div>
 
 ### **Typography tips:**
 ___
@@ -80,15 +87,45 @@ ___
 # Posters Grids Examples
 ___
 <div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/2026-01-02 220410.png" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G872dOsXwAAjIaz.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G8xxGsiXsAAw-dq.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G8xxGs1W0AAh5Ko.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G8xxGsgXkAAwhRq.jpg" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/G8xxGshWMAAah4w.jpg" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/2026-01-02 220410.png" alt="">
 </div>
 
+### **Design in Black & White**
+It can be usefull to focus first in a good layout and composition
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample1-2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample2-2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample3.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample3-2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample4.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample4-2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample5.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GridExample5-2.png" alt="">
+</div>
 
+### **Break the grids**
+Aunque las grids son utiles para organizar el layout dando resultados simples y potentes, pero pueden ser un poco aburridos, a veces es necesario romper las grids con elementos como imagenes, formas, sujetos...
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/Layout1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/Layout2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/Layout3.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/Layout4.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/Layout5.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/Layout6.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/BreakedLayout1.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/BreakedLayout2.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/BreakedLayout3.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/BreakedLayout4.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/BreakedLayout5.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/BreakedLayout6.png" alt="">
+</div>
 
 # Movie Posters basics
 ___
@@ -137,4 +174,6 @@ El naranja y azul son complementarios y son una apuesta segura en el diseño de 
   alt="TealOrange"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+
+
 

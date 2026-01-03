@@ -77,6 +77,17 @@ ___
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
+## **Combinar diferentes pesos**
+<img
+  src="/media-content/Apuntes/media-diseño/tipografias/CombPesos.png"
+  alt="combinar1"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="/media-content/Apuntes/media-diseño/tipografias/CombPesos2.png"
+  alt="combinar1"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 ## Consejo para combinar tipografías:
 
@@ -110,7 +121,14 @@ ___
 
 **Observar carteles:** Observar carteles que "no leerlos" es útil para analizar como están diseñados, compuestos, como se ha usado la tipografía, cuantos estilos hay.
 
+**Respetar jerarquía visual:** gracias a ella se consigue guiar a los ojos del espectador de lo más a menos importante, por ello hay que buscar tipografías que permitan establecer una separación visual entre los diferentes niveles jerárquicos:
 
+<img
+  src="/media-content/Apuntes/media-diseño/tipografias/jerarquia.png"
+  alt="tamaños"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+hay que tener en cuenta la fuente, variables tipográficas, tamaño espacio.
 
 # Como elegir tipografías
 ___
