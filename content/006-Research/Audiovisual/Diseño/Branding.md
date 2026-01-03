@@ -75,7 +75,7 @@ El logo el termino utilizado para referirse al signo gráfico que representa una
  <img
   src="/media-content/Apuntes/media-diseño/TiposLogos.png"
   alt="Tipos"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 **Logotipos:** Solo texto
@@ -108,5 +108,5 @@ El concepto de "Logo responsive" es cuanto puede agrandarse y reducirse el logo 
 <img
   src="/media-content/Apuntes/media-diseño/LogoResponsive.png"
   alt="LogoResponsive"
-  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
