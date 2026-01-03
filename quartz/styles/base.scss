@@ -226,39 +226,41 @@ a {
     }
 
     & .sidebar {
-      gap: 2rem;
-      top: 0;
-      box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
-      display: flex;
-      height: 100vh;
-      position: sticky;
+    gap: 2rem;                // Espacio entre los elementos internos del sidebar
+    top: 0;                   // Posición superior cuando es sticky
+    box-sizing: border-box;   // Incluye padding y border dentro del ancho/alto total
+    padding: $topSpacing 1rem 1rem 1rem; // Espaciado interno (arriba usa variable)
+    display: flex;            // Usa Flexbox para organizar el contenido
+    height: 100vh;            // Ocupa toda la altura de la ventana
+    position: sticky;         // Se queda fijo al hacer scroll hasta su límite
     }
 
-    & .sidebar.left {
-      z-index: 1;
-      grid-area: grid-sidebar-left;
-      flex-direction: column;
-      @media all and ($mobile) {
-        gap: 0;
-        align-items: center;
-        position: initial;
-        display: flex;
-        height: unset;
-        flex-direction: row;
-        padding: 0;
-        padding-top: 2rem;
+   & .sidebar.left {
+    z-index: 1;               // Controla la superposición sobre otros elementos
+    grid-area: grid-sidebar-left; // Ubica el sidebar en el grid layout
+    flex-direction: column;   // Elementos en columna (vertical)
+  
+    @media all and ($mobile) {
+      gap: 0;                 // Elimina espacio entre elementos en móvil
+      align-items: center;    // Centra los elementos horizontalmente
+      position: initial;      // Desactiva el comportamiento sticky
+      display: flex;          // Mantiene Flexbox
+      height: unset;          // Quita la altura fija
+      flex-direction: row;    // Elementos en fila (horizontal)
+      padding: 0;             // Elimina padding
+      padding-top: 2rem;      // Añade espacio superior
       }
     }
 
     & .sidebar.right {
-      grid-area: grid-sidebar-right;
-      margin-right: 0;
-      flex-direction: column;
+      grid-area: grid-sidebar-right; // Ubicación en el grid
+      margin-right: 0;               // Elimina margen derecho
+      flex-direction: column;        // Contenido en columna
       @media all and ($mobile) {
-        margin-left: inherit;
-        margin-right: inherit;
+        margin-left: inherit;        // Hereda margen izquierdo
+        margin-right: inherit;       // Hereda margen derecho
       }
+
       @media all and not ($desktop) {
         position: initial;
         height: unset;
