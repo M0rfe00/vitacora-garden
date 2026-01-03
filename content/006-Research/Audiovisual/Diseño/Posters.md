@@ -95,7 +95,7 @@ ___
 ## **Red & White**
 Esta combinación se usa tradicionalmente en comedias mainstream, el fondo blanco dirige el foco de atención a la acción que ocurre en la fotografía, las cuales suelen ser fotos de estudio muy limpias con una idea muy definida
 <img
-  src="../media-content/Apuntes/media-diseño/Poster/RedWhite.png"
+  src="../media-content/Apuntes/media-diseño/Posters/RedWhite.png"
   alt="RedWhite"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -105,7 +105,7 @@ Esta combinación se usa tradicionalmente en comedias mainstream, el fondo blanc
 ## **Blue**
 Suele ser utilizado en trhillers, usando tambien una formula definida mostrando al personaje corriendo, este estilo tiene sus raices en el cine noir
 <img
-  src="../media-content/Apuntes/media-diseño/Poster/Blue.png"
+  src="../media-content/Apuntes/media-diseño/Posters/Blue.png"
   alt="Blue"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -114,7 +114,7 @@ Suele ser utilizado en trhillers, usando tambien una formula definida mostrando 
 ## **Yellow**
 El fondo amarillo se asocia al cine independiente, esto es frecuente porque el presupuesto de promoción suele ser inferior y el amarillo es una forma sencilla de captar la atención.
 <img
-  src="../media-content/Apuntes/media-diseño/Poster/Yellow.png"
+  src="../media-content/Apuntes/media-diseño/Posters/Yellow.png"
   alt="Yellow"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -123,7 +123,7 @@ El fondo amarillo se asocia al cine independiente, esto es frecuente porque el p
 ## **Black, White & Orange**
 Esta combinación es tendencia en la peliculas de acción de la ultima década, el blanco y negro se usa para el protagonista principal transmitiendo masculinidad, acción... siendo desplazado por el naranja que suele ser una explosión o fuego, el alto contraste de la fotografía crea intensidad.
 <img
-  src="../media-content/Apuntes/media-diseño/Poster/WhiteBlackOrange.png"
+  src="../media-content/Apuntes/media-diseño/Posters/WhiteBlackOrange.png"
   alt="BlackWhiteOrange"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -133,7 +133,7 @@ Esta combinación es tendencia en la peliculas de acción de la ultima década, 
 ## **Blue & Orange**
 El naranja y azul son complementarios y son una apuesta segura en el diseño de posters, el azul suele usarse para mantener todos los elementos unidos y el naranja para guiar la atención al punto principal de la narrativa.
 <img
-  src="../media-content/Apuntes/media-diseño/Poster/Teal&Orange.png"
+  src="../media-content/Apuntes/media-diseño/Posters/Teal&Orange.png"
   alt="TealOrange"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
