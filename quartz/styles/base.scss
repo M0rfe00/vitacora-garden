@@ -181,8 +181,14 @@ a {
     }
 
     & li > * {
-      margin-top: 100;
+      margin-top: 0;
     }
+    
+/**Aumentar margen listas**/
+    & ul > li,
+    & ol > li {
+    margin-bottom: 0.4rem;
+   }
 
     p > strong {
       color: var(--dark);
@@ -640,3 +646,4 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
