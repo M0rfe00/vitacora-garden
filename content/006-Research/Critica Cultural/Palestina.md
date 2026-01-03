@@ -116,7 +116,7 @@ Al otro lado del muro, el joven panadero Ilamado Omar se convierte en un guerrer
 Las sospechas y la traición hacen peligrar la relación con sus dos amigos de infancia, Amjad y Tarek, el hermano de Nadia. Los sentimientos de Omar acaban tan divididos como Palestina. Pero es obvio que todas sus acciones están guiadas por su amor a Nadia.
 
 
-## **The time that remains:**
+## [**The time that remains:**](https://drive.google.com/drive/folders/1Lgal0alpiofvRMI2Uie2hN8J6eNYWkQd?usp=drive_link)
 <img
   src="../media-content/Research/Palestina/GaBSqQ9WQAAN0Pm.jpg"
   alt="TTTRemains"
