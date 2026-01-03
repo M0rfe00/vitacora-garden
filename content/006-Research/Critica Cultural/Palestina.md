@@ -11,17 +11,17 @@ Ambos libros exponen el conflicto de forma bastante bien y sirven tanto para ten
 ## [**Orígenes del conflicto:**](https://t.co/tubcT2mfMQ)
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA5ISVW0AA_qY5.png" alt="">
-<img loading= "lazy" src="../media-content/Research/Palestina/GaA5UbgWUAAqZa8.png" alt="">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaBfADNXEAAhB1m.png" alt="">
+<img loading= "lazy" src="../media-content/Research/Palestina/GaA5UbgWUAAqZa8.png" alt="">
 </div>
 
 
 ## [**La cuestión Palestina Edward w. Said:**](https://t.co/PpnO8csAbT)
 <div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Palestina/GaA6gXIXgAEVFJ5.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Palestina/GaA6jnaWgAAzG4k.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA7DpQXoAAZnAH.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Palestina/GaA6lHwWQAABZjN.jpg" alt="">
-<img loading= "lazy" src="../media-content/Research/Palestina/GaA6jnaWgAAzG4k.jpg" alt="">
-<img loading= "lazy" src="../media-content/Research/Palestina/GaA6gXIXgAEVFJ5.jpg" alt="">
 </div>
 
 
