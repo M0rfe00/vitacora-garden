@@ -1,7 +1,7 @@
 # TECNICO SUPERIOR SONIDO
 
 
-## **0. INTRODUCCION: TERMINOS**
+## ==**0. INTRODUCCION: TERMINOS**==
 ___
 **DAW:** Software de edición/ procesamiento de audio.
 
@@ -61,7 +61,7 @@ ___
 
 **XLR/XLR-3:** External Line Return, conector de tres polos conocido como cannon.
 
-## **1. EL SONIDO:**
+## ==**1. EL SONIDO:**==
 ___
 **Sonido:** Onda mecánica longitudinal propagada por un medio físico (aire, agua, metal...) y producido por una fuente sonora al hacer vibrar las partículas del ambiente.
 
@@ -96,7 +96,7 @@ Tiempo = Distancia / Velocidad
 
 Velocidad = Distancia / Tiempo
 
-### **ONDAS SONORAS**
+### ==**ONDAS SONORAS**==
 ___
 En función de los movimientos de sus partículas;
 
@@ -134,7 +134,7 @@ Valores fundamentales de la amplitud:
 
 **V. Medio:** Representa la medida aritmética de todos los valores instantáneos que toma la onda sinusoidal entre un periodo tiempo.
 
-### **COMPORTAMIENTO FISICO DEL SONIDO:**
+### ==**COMPORTAMIENTO FISICO DEL SONIDO:**==
 ___
 Cuando se produce una onda sonora, no existe ningún desplazamiento de las moléculas del aire, sino que una vibración se comunica entre ellas.
 
@@ -150,7 +150,7 @@ La reflexión depende de; porosidad y capacidad y absorción del material, tama�
 
 **Difracción:** cuando un haz de ondas encuentra un obstáculo agujereado o un cuerpo aislado, a su paso, experimentando la difracción, la rendija u obstáculo se convierten en fuentes de una nueva onda.
 
-### **ECO Y REVERBERACIÓN:**
+### ==**ECO Y REVERBERACIÓN:**==
 ___
 En todo sistema de sonorización pueden encontrarse dos **tipos de onda**:
 
@@ -172,7 +172,7 @@ Si los sonidos llegan de diferentes fuentes con un retardo inferior a 50 m/s, el
 
 **Efecto Doppler: L**a frecuencia de una fuente sonora en movimiento será percibida por el oyente es diferente a la emitida, percibiéndose más alta al acercarse y viceversa.
 
-### **DECIBELIOS:**
+### ==**DECIBELIOS:**==
 ___
 Es una unidad relativa que sirve para definir la relación común valor referencial como porcentaje. Ej; 5% (Cinco % de un valor X) / 5db (cinco decibelios de un valor x).
 
@@ -205,7 +205,7 @@ La suma en escala logarítmica no es lineal (0dB + 0dB ≠ 0dB) (10dB + 20dB ≠
 
 Sumar 2 valores iguales/ multiplicar el valor por 2 equivale a (+6,02dB<sup>Gº1 y</sup> +3,01dB<sup>Gº2</sup>).
 
-### **MAGNITUDES DEL SONIDO:**
+### ==**MAGNITUDES DEL SONIDO:**==
 ___
 Al cuantificar el sonido se utilizan distintas magnitudes para expresar distintas propiedades:
 
@@ -217,7 +217,7 @@ Al cuantificar el sonido se utilizan distintas magnitudes para expresar distinta
 
 Para expresar estas magnitudes se utiliza una escala logarítmica, “el decibelio” ya que nuestra percepción del sonido se asemeja más a esta escala.
 
-### **SUMA DE NIVELES SONOROS:**
+### ==**SUMA DE NIVELES SONOROS:**==
 ___
 Para calcular la suma del nivel de presión sonora que emiten dos fuentes, no puede sumarse simplemente ya que no es una unidad lineal.
 
@@ -246,7 +246,7 @@ Incremento de presiones sonoras: \[AL = Ltotal – L<sub>1\]</sub>
 
 Nivel total de presión con varias fuentes emitiendo la misma presión: \[Ltotal = 10 log (N) + L<sub>0</sub>\]
 
-### **LOGARITMOS BANDAS Y FRECUENCIAS:**
+### ==**LOGARITMOS BANDAS Y FRECUENCIAS:**==
 ___
 Década: \[f<sup>1</sup>/f<sub>2</sub> = 10\], Dos frecuencias distan una década cuando una es diez veces la otra.
 
@@ -269,7 +269,7 @@ A
 
 
 
-# Sound Web Resources
+# ==Sound Web Resources==
 ___
 **Samples**
 - [sounds-resource.com](https://sounds.spriters-resource.com/)

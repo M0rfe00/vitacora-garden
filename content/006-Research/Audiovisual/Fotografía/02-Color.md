@@ -3,11 +3,9 @@ tags:
   - Davinci
   - Color
 ---
-# **\[Teoría del color\] - SizeMatters**
-___
-## **Ciencia del color**
-
-**Luz/color:** La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
+# **Luz/color** - Size Matters
+____
+La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
 
 El espectro electromagnético va de ondas con más energía y por ello mayor frecuencia y menor longitud de onda mientras que las que tienen menos energía tienen menor frecuencia y mayor longitud de onda.
 
@@ -21,25 +19,34 @@ La luz neón funciona gracias a la fluorescencia, que consiste en la absorción 
 
 El Day Glo es una pintura fluorescente capaz de brillar al suministrar radiación ultravioleta gracias a la mezcla de pintura con minerales capaces de emitir luz por fluorescencia.
 
-## **Captación de los colores por el Ojos:**
+# **Captación de los colores por el Ojos:**
+___
+**El ojo es capaz de percibir estas ondas gracias a dos tipos de celular, los bastones y los conos.**
 
-El ojo es capaz de percibir estas ondas gracias a dos tipos de celular, los bastones y los conos.
+## **Bastones:** 
+Ayudan sobre todo a ver de noche captando principalmente inmensidades de luz y no colores como tal
 
-- **Bastones:** Ayudan sobre todo a ver de noche captando principalmente inmensidades de luz y no colores como tal
+## **Conos:** 
+Ayudan sobre todo en la visión diurna encargándose de procesar al color mediante tres tipos de conos/celular que absorben rangos diferentes de longitudes de onda:
 
- - **Conos:** Ayudan sobre todo en la visión diurna encargándose de procesar al color mediante tres tipos de conos/celular que absorben rangos diferentes de longitudes de onda:
+### **Conos S:** (small) 
+Absorben longitudes cortas, tonos **azulados** y lilas
 
-	**Conos S:** (small) absorben longitudes cortas, tonos **azulados** y lilas
+### **Conos M:** (medium)
+Absorben longitudes medias tonos **verdosos** y amarillos
 
-	**Conos M:** (medium) absorben longitudes medias tonos **verdosos** y amarillos
+### **Conos L:** (large) 
+Absorben tonos **rojos**
 
-	**Conos L:** (large) absorben tonos **rojos**
+**A través de la combinación los tonos capturados por los 3 tipos de conos el cerebro es capaz de generar el resto de los colores.**
 
-A través de la combinación los tonos capturados por los 3 tipos de conos el cerebro es capaz de generar el resto de los colores.
+>[!Info] Daltonismo
+>
+>Las personas con daltonismo tienen defectuoso o les faltan alguno de estos conos, especialmente los M y L y afectando sobre todo a hombres ya que estos dos conos se encuentran en el cromosoma X, pudiendo las mujeres compensar el defecto al tener otro cromosoma X sano.
 
-Las personas con daltonismo tienen defectuoso o les faltan alguno de estos conos, especialmente los M y L y afectando sobre todo a hombres ya que estos dos conos se encuentran en el cromosoma X, pudiendo las mujeres compensar el defecto al tener otro cromosoma X sano.
-
-Los perros solo tienen dos conos que absorben principalmente los tonos azules y amarillos mientras que otros animales tienen incluso más conos y caen en zonas del espectro no visibles para el humano como la luz ultravioleta.
+>[!Info] Animales
+>
+>Los perros solo tienen dos conos que absorben principalmente los tonos azules y amarillos mientras que otros animales tienen incluso más conos y caen en zonas del espectro no visibles para el humano como la luz ultravioleta.
 
 <img
   src="/media-content/Apuntes/media-davinci/2e4ec234464b9071074bce4407b529cc4f0f5710.png"
@@ -48,19 +55,8 @@ Los perros solo tienen dos conos que absorben principalmente los tonos azules y 
 />
 
 
-
-
-
-
-## **Utilidades Narrativas del color:**
-
-- Representar un cambio como el estado anímico de un personaje o etapas vitales..
-
-- Asociar un color a una idea, como una realidad, idea, estado mental, personas..
-
-
 # Armonía de color en fotografía:
-
+___
 El circulo cromático básico de 12 colores se compone de; los 3 colores primarios, la combinación de estos creando los secundarios y a la combinación de los secundarios con los primarios creando los terciarios.
 
 Usar las diferentes paletas de colores, análogas, complementarias, triadas puede ser útil para transmitir determinadas sensaciones o estilos.
@@ -92,18 +88,18 @@ La postproducción es el último paso, y aunque sería deseable lograr el mejor 
 
 # **Evolución del color**
 ___
-- Pelicula a blanco y negro,
+1) Pelicula a blanco y negro.
 
-- Coloreado de pelicula a mano 1902
+2) Coloreado de pelicula a mano 1902.
 
-- **Coloreado a mano** perfeccionado con estarcido 1905
+3) **Coloreado a mano** perfeccionado con estarcido 1905.
 
-- **Tinting,** teñir con colores concretos escenas, azulado, sepia, rojo 1910
+4) **Tinting,** teñir con colores concretos escenas, azulado, sepia, rojo 1910.
 
-- **Kinemacolor,** cámara con pelicula de 35mm en blanco y negro y un filtro giratorio verde y rojo, exponiendo cada fotograma con un color diferente y fusionándolos gracias a la persistencia retiniana, 1908.
+5) **Kinemacolor,** cámara con pelicula de 35mm en blanco y negro y un filtro giratorio verde y rojo, exponiendo cada fotograma con un color diferente y fusionándolos gracias a la persistencia retiniana, 1908.
 
-- **Technicolor 3**, una cámara con tres peliculas blanco y negro, dos sensibles rojo y azul con un filtro magenta para evitar el paso de la luz verde y la tercera sensible al verde con un filtro verde para dejar pasarlo. 1932
+6) **Technicolor 3**, una cámara con tres peliculas blanco y negro, dos sensibles rojo y azul con un filtro magenta para evitar el paso de la luz verde y la tercera sensible al verde con un filtro verde para dejar pasarlo, 1932.
 
-- **Eastman Color,** primer proceso de color en una única pelicula de 35mm, patente vendida al resto de empresas 1950.
+7) **Eastman Color,** primer proceso de color en una única pelicula de 35mm, patente vendida al resto de empresas 1950.
 
-- **Etalonaje,** O brothers en el 2000 fue la primera pelicula con el etalonaje 100% digital, hoy en día se utiliza la rueda y teoría del color como herramientas principales para realizar el etalonaje, haciendo uso de ambas para elegir que emociones y sensaciones se quieren transmitir mediante los colores haciendo uso de armonías complementarias, análogas, triadas... según el ambiente u atmosfera que se quiera crear,
+8) **Etalonaje,** O brothers en el 2000 fue la primera pelicula con el etalonaje 100% digital, hoy en día se utiliza la rueda y teoría del color como herramientas principales para realizar el etalonaje, haciendo uso de ambas para elegir que emociones y sensaciones se quieren transmitir mediante los colores haciendo uso de armonías complementarias, análogas, triadas... según el ambiente u atmosfera que se quiera crear.

@@ -8,17 +8,16 @@ Para renderizar el video final debemos seleccionar el (IN) inicio y (OUT) final,
 
 ### **Los principales elementos de la interfaz de entrega son:**
 
-- **Ajustes de renderización:** panel en el que debemos introducir la configuración de renderizado, como el nombre del archivo, ubicación de destino, tipo de renderizado (un clip o varios) (audio, video), ajustes de video y compresión (formato, códec de codificación de la imagen y codificador) resolución, FPS, Calidad para especificar el número de megas por 1seg/24fps, Fotogramas clave para elegir sobre que fotogramas guiarse para realizar la compresión, Convertir los marcadores en capítulos, Rate control...
+- ==**Ajustes de renderización:**== panel en el que debemos introducir la configuración de renderizado, como el nombre del archivo, ubicación de destino, tipo de renderizado (un clip o varios) (audio, video), ajustes de video y compresión (formato, códec de codificación de la imagen y codificador) resolución, FPS, Calidad para especificar el número de megas por 1seg/24fps, Fotogramas clave para elegir sobre que fotogramas guiarse para realizar la compresión, Convertir los marcadores en capítulos, Rate control...
 
 	Todos los ajustes realizados se pueden guardar como plantillas
 
-- **Cola de procesamiento:** Desde este panel podemos visualizar y renderizar los videos que hemos añadido a la cola
+- ==**Cola de procesamiento:**== Desde este panel podemos visualizar y renderizar los videos que hemos añadido a la cola
 
 
-## **\[Creación de contenido\]**
+# **\[Creación de contenido\]**
 ___
-#### **Organización**
-
+## **Organización**
 - **Establecer los metadatos de los archivos** (video, imagen, audio...)
 
 - **Crear carpetas inteligentes** en base a los metadatos de los archivos
@@ -27,18 +26,15 @@ ___
 
 - **Organizar los clips tanto por colores como por pistas**, ej: (Videos en una pista, texto en otra) (Planos por colores según el escenario)
 
-#### **Trabajar por pases:**
-
+## **Trabajar por pases:**
 - Dividir la producción del video por fases es útil para llevar un control de las tareas realizadas y pendientes, ej; (1º realizar cortes, 2º transiciones, 3º Textos 4º sonidos...), es útil guardar marcadores para no olvidar ajustes pendientes.
 
-#### **Insertos:**
-
+## **Insertos:**
 - Los insertos permiten agregar un clip encima de otro, útil para añadir referencias a la composición mencionadas en el video.
 
 - Para añadir un inserte hay que añadir un In (I) y un Out (O) y presionar f12 para que se agregue en la posición de la línea de tiempo sobre la que estemos.
 
-#### **Relación de aspecto (Vertical/Horizontal)**
-
+## **Relación de aspecto (Vertical/Horizontal)**
 - La relación de aspecto se configura desde los ajustes del proyecto
 
 - En caso de querer exportar en vertical un video que originalmente es horizontal se puede configurar desde los ajustes del proyecto\>Redimensionamiento\>Archivos de resolución diferente\> y aqui seleccionar el ajuste que mas nos convenga (Recorte central sin ajuste, Aumentar imagen sin recorte).
@@ -49,9 +45,9 @@ ___
 
 
 
-# Packs / Web resources
+# ==Packs / Web resources==
 ___
-**Marketplaces:**
+## **Marketplaces:**
 - [Cinepacks](https://cinepacks.store/collections/davinci-resolve-packs) - (Packs gratuitos de efectos, transiciones, LUTs, gráficos, sonido y stock)
 - [Envato](https://elements.envato.com/es/video-templates/compatible-with-davinci-resolve?adposition=&gad_campaignid=12128199254&gad_source=1&gbraid=0AAAAADclSXkqCCFfLftFow3MIYu_zg9Ez&gclid=Cj0KCQiAo4TKBhDRARIsAGW29bdm4FELnsFiTSDEOq5z0kXkKhBWw8XCJIujNwKmF4CQjTkXHH112xsaAqSNEALw_wcB) (Marketplace)
 - [FreshLUTs](https://freshluts.com/) - (LUTs)
@@ -62,14 +58,14 @@ ___
 - [VFX Hydra](https://vfxhydra.com/category/davinci-resolve/) - (Packs gratuitos de **transiciones y efectos .comp)
 - [My Creative FX](https://mycreativefx.com/) - (**VFX gratuitos**: humo, chispa, explosiones, superposiciones y sonido)
 
-**Creators Packs**
+## **Creators Packs**
 - [Dubufy - Davinci Free Editing Pack](https://drive.google.com/file/d/1PwGlRZSyS2ASxtYoSWsNUjNOslLhgrCg/view) (2022)
 - [Seamless Transitions for DaVinci Resolve by GR-44](https://gr44.gumroad.com/) (updated)
 - [BlewToof - Davinci Resolver Master Bundle](https://www.blewtoof.com/fullcollection) (2023)
 - [sh4rk - Editors Lab (effects)](https://fusionplugin.gumroad.com/l/EditorsLab) (2024)
--
 
-#### **Plugins**
+
+## **Plugins**
 
 | Free                   | Paid                    |
 | ---------------------- | ----------------------- |

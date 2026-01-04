@@ -16,7 +16,7 @@ ___
 
 - Para organizar la red de nodos se puede añadir un underlay
 
-## **\[DIA 17\] Merge y mascaras:** 
+# **==Merge y mascaras:**== 
 ___
 Se quiere modificar el escenario original del clip para expandir el fondo amarillo, tapar el escritorio,
 reemplazar el portátil y añadir plantas.
@@ -38,9 +38,9 @@ sea visible en esa selección.
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 
-## **\[Día 18\] – Los 3 tipos de trackeos**
+# ==Los 3 tipos de trackeos==
 ___
-### **Tracking puntual (Tracker)**
+### ==**Tracking puntual (Tracker)**==
 
 Este tipo de trackeo funciona de forma bidimensional extrayendo las coordenadas X e Y de un objeto y acoplándole otro objeto.
 
@@ -58,8 +58,7 @@ Para transformar las posición, rotación, escala y desenfoque de movimiento del
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 
-### **Trackeo de area (Planar tracker)**
-
+### ==**Trackeo de area (Planar tracker)**==
 A diferencia del trackeo puntual este extrae también la información de escala, rotación y perspectiva
 
 En el ejemplo añado una imagen con “MediaIn”, modifico su escala con “Transform” y la combino en un “Merge” con un “Background” para hacer coincidir su resolución con el plano final (1920x1080).
@@ -77,8 +76,7 @@ Tras crear los puntos de trackeo se puede crear un “Planar transform” que gu
 />
 
 
-### **Trackeo de cámara (Camera tracker):**
-
+### ==**Trackeo de cámara (Camera tracker):**==
 El trackeo tridimensional del movimiento de la cámara, crea una cámara virtual que replica el movimiento de la cámara real.
 
 Para realizar este trackeo hay que añadir el nodo “Camera tracker” que a diferencia del “Planar tracker” creara puntos de trackeo por todo el plano a diferentes distancias de la cámara, pudiendo ajustar el umbral de creación de los puntos, el número de puntos, distancia entre ellos...
@@ -94,9 +92,8 @@ pulsar “Set from selection”. En “Orientation” seleccionar 3 puntos míni
 
 Cada elemento que queramos añadir a la escena 3D primero habrá que pasarlo a 3D, conectarlo al nodo “Merge3D” para añadirlo a la escena y desde el visor 3D o desde el panel transform en el inspector se podrá transformar su posicion y escala en la escena.
 
-
-### **Resumen del ejemplo:**
-
+### ==**Resumen del ejemplo:**==
+___
 En el grupo “Mascaras” esta el camera tracker para generar los puntos de trackeo y dos polígonos para enmascarar las zonas en movimiento.
 
 En el grupo “3D” se encuentra la escena 3D centralizada en un “Merge3D” el cual tiene principalmente conectado una “Camera3D”y un “PointCloud”
@@ -111,11 +108,11 @@ Ademas de un texto y una imagen: “Text3D” para el texto y la imagen de una a
 
 
 
-## **\[Día\] 19 – Rotoscopias**
+#  ==Rotoscopias==
 ___
-**Mascará básica:** crear una máscara según la forma de un objeto y animándola fotograma a fotograma y conectándola a la entrada azul de un merge, logrando que el objeto que se estaba combinando con el fondo únicamente sea visible donde está la máscara y viceversa.
+==**Mascará básica:**== crear una máscara según la forma de un objeto y animándola fotograma a fotograma y conectándola a la entrada azul de un merge, logrando que el objeto que se estaba combinando con el fondo únicamente sea visible donde está la máscara y viceversa.
 
-**Mascará estática:** en caso de tener un objeto trackeado en vez de crear la máscara fotograma a fotograma como el objeto sigue el movimiento de la cámara se puede crear una máscara estática y cada vez que pase el objeto sobre ella será visible o no.
+==**Mascará estática:**== en caso de tener un objeto trackeado en vez de crear la máscara fotograma a fotograma como el objeto sigue el movimiento de la cámara se puede crear una máscara estática y cada vez que pase el objeto sobre ella será visible o no.
 
 <img
   src="/media-content/Apuntes/media-davinci/c8b14b224078967152ad3424078e8710816bd21c.png"
@@ -124,7 +121,7 @@ ___
 />
 
 
-**Mascará en movimiento:** en vez de trackear un objeto y crear una mascara para que se aplique cuando pasa sobre ella, se puede hacer lo contrario, crear una máscara y rotoscopiarla, en este ejemplo el objeto estará estático y la máscara en movimiento
+==**Mascará en movimiento:**== en vez de trackear un objeto y crear una mascara para que se aplique cuando pasa sobre ella, se puede hacer lo contrario, crear una máscara y rotoscopiarla, en este ejemplo el objeto estará estático y la máscara en movimiento
 
 <img
   src="/media-content/Apuntes/media-davinci/5e8131215bd0dbb7254a0eb527e51f96e8bad17d.png"
@@ -133,7 +130,7 @@ ___
 />
 
 
-**Magic mask Color:** dentro de color hay una opción de crear mascaras inteligentes con “Magic Mask” pese a estar hechas para aislar zonas sobre las que trabajar el color también pueden ser utilizadas para crear rotoscopias.
+==**Magic mask Color:**== dentro de color hay una opción de crear mascaras inteligentes con “Magic Mask” pese a estar hechas para aislar zonas sobre las que trabajar el color también pueden ser utilizadas para crear rotoscopias.
 
 Para ello hay que ir a color y en “magic mask”, elegir entre persona o característica, seleccionar la herramienta de la pipeta y dibujar una línea sobre la persona, pulsar el icono superior de la varita para visualizar la rotoscopia y en el panel de “magic mask” seleccionar el icono de las flechas para trackear esa rotoscopia, para ajustar la calidad de la rotoscopia hay que jugar con los parámetros de calidad.
 
@@ -154,10 +151,9 @@ calidad.
 Dentro del panel de mascara se puede realizar ajustes como desenfocar la máscara, reducirla o ampliarla y modificar la gamma, lo que cambiara el contraste entre zonas blancas y negras aumentando el umbral de detección o reduciéndolo
 
 
-## **\[Día 20\] – Reemplazo de cielo y croma**
+# ==Reemplazo de cielo y croma==
 ___
-#### **Reemplazo de cielo:**
-
+#### ==**Reemplazo de cielo:**==
 En el grupo **“Fondo”** hay una imagen “MediaIn” combinada con un “background” para adaptar el tamaño de la imagen a la del video (1920x1080), después de pasa por un nodo “BrightnessContrast” para para cuadrar la exposición del fondo al de la imagen y un nodo “Transform” para ajustar la escala del fondo y que ocupe toda la imagen (también se puede modificar el merge del fondo en la opción “edges” para que el fondo se repita a modo de espejo)
 
 y finalmente se conecta a un nodo “Planar transform” para trackear el fondo según el movimiento de la cámara y lograr que no se quede estático mientras se mueve la cámara.
@@ -171,8 +167,7 @@ En el grupo **“ImgOriginal”** se pasa el plano original por un nodo “Plana
 />
 
 
-#### **Croma:**
-
+#### ==**Croma:**==
 En el grupo **“Transparencia”** está el plano original conectado a un nodo “Ultrakeyer” en el que hay que seleccionar el color del fondo (recomendado verde más oscuro), para mejorar la transparencia hay que jugar con los parámetros del nodo, en concreto desde el panel Image se puede quitar el verde según la supresión y método de spill y modificando los canales.
 
 Para que el efecto del “Ultrakeyer” funcione y deje todo lo demas transparente hay que crear un poligono, conectarlo a la entrada gris (garbage mate) y teniendo seleccionado el “Ultrakeyer”, en el panel “Matte” ir a “Garbage Matte” y marcar “Invert” y “Post Multiply image” y desmarcar “Substract background”.
@@ -199,9 +194,8 @@ Para añadir un fondo simplemente habría que añadir otro clip por debajo de es
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 
-## \[Actualización Fusion\]**
 
-## **Mapas de profundidad:**
+# ==**Mapas de profundidad:**==
 Este nodo crea un mapa de profundidad, esto es una imagen en blanco y negro que representa la profundidad de campo de la imagen, cuanto más cercano a la cámara en blanco y viceversa.
 
 El mapa se puede ajustar, dentro del panel de controles se puede ajustar;
@@ -214,9 +208,9 @@ Aislamiento de profundidad especifica; permite generar el mapa en una zona espec
 
 Refinamiento: también llamado postprocesado, permite añadir mas detalle al mapa basado en la imagen, dentro de sus ajustes se puede contraer/expandir los bordes o desenfocarlos.
 
-#### Casos útiles:
-
-- Efecto parallax: uno de los casos para utilizar el DepthMap es el efecto parallax que genera una ilusión óptica en la que los objetos más cercanos más rápidos que los lejanos.
+## **Casos útiles:**
+___
+- ==**Efecto parallax:**== uno de los casos para utilizar el DepthMap es el efecto parallax que genera una ilusión óptica en la que los objetos más cercanos más rápidos que los lejanos.
 
 	Para ello se añade el nodo “displace” al que se le conecta la imagen por la entrada amarilla y el mapa de profundidad de esa misma imagen por la entrada verde, en el nodo displace debe estar seleccionado Luminancia en el canal de refracción.
 
@@ -226,7 +220,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 
-- **Crear niebla:** mezclando una imagen con su propio mapa de profundidad en modo “pantalla” permite crear un efecto de niebla.
+- ==**Crear niebla:**== mezclando una imagen con su propio mapa de profundidad en modo “pantalla” permite crear un efecto de niebla.
 
 <img
   src="/media-content/Apuntes/media-davinci/6d2010c09547fc7f4fc0965f57f9d078b724449b.png"
@@ -242,7 +236,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 
-- **Desenfoque:** el mapa de profundidad puede ser utilizado en caso de que todo el plano este enfocado para desenfocar las zonas cercanas de la imagen y viceversa, también se puede ajustar el contraste con un nodo de ”curvas”
+- ==**Desenfoque:**== el mapa de profundidad puede ser utilizado en caso de que todo el plano este enfocado para desenfocar las zonas cercanas de la imagen y viceversa, también se puede ajustar el contraste con un nodo de ”curvas”
 
 <img
   src="/media-content/Apuntes/media-davinci/a4ab59605f9b7a1c5e1777888c3bcff100c2c0da.png"
@@ -250,7 +244,7 @@ Refinamiento: también llamado postprocesado, permite añadir mas detalle al map
   style="margin: 0 auto; padding: 0; width: 90%; height: auto;"
 />
 
-- **Reiluminación:** Este nodo generara un mapa de normales que indicaran hacía qué dirección apunta cada cara, los parámetros de este modo son: el tipo de fuente de luz, la dirección, propiedades de la luz (brillo, contraste, alcance), propiedades de la superficie (brillantez, especularidad, atenuación de sombras)...
+- ==**Reiluminación:**== Este nodo generara un mapa de normales que indicaran hacía qué dirección apunta cada cara, los parámetros de este modo son: el tipo de fuente de luz, la dirección, propiedades de la luz (brillo, contraste, alcance), propiedades de la superficie (brillantez, especularidad, atenuación de sombras)...
 
 	En caso de tener una composición formada por un fondo y una imagen con diferente iluminación, se puede utilizar el nodo “reiluminación” para ajustarlo, para ello se utilizaría el nodo “reiluminación” para indicar desde que dirección recibe la luz el objeto que se conectaría al nodo “color corrector” para modificar la iluminación y color de esas zonas basado en el canal luminancia.
 
