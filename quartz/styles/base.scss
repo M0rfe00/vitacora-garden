@@ -278,12 +278,13 @@ a {
     }
     & .page-header,
     & .page-footer {
-      margin-top: 0rem;
+      margin-top: 0;
+      margin-bottom: 0;
     }
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      /**margin: $topSpacing 0 0 0;**/
       @media all and ($mobile) {
         margin-top: 0;
         padding: 0;
