@@ -78,9 +78,10 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {
         drag: true,
         zoom: true,
-        depth: 1,
+        depth: 2,
         scale: 2.2,
         fontSize: 1.2, // what size should the node labels be?
+        centerForce: 0.1, // how much force to use when trying to center the nodes
         removeTags: ["hideInExplorer"],
         enableRadial: true,
       },
