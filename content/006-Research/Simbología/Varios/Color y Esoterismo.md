@@ -5,6 +5,7 @@ tags:
 El tema de los colores es bastante complejo, sobre todo por lo amplio, ya que más allá de ciertas generalidades su simbología y uso varía según la corriente, logia, o escuela, pero a pesar de ello hay conceptos comunes.
 
 # 7 COLORES PRIMARIOS
+___
 En 1667 Isaac newton descubrió que la luz solar se descomponía en siete colores cuando un rayo de luz atravesaba un prisma en un recinto oscuro, en realidad y a pesar de lo que el ojo humano percibe del espectro visible, no son sólo siete colores, hay un gradiente continuo de estos, son miles o por lo menos cientos, pero se supone que la idea de siete colores permite su mejor comprensión o una simplificación esquemática, o esa es la versión popular.
 
 En realidad hay otra verdad y es que el 7 es un número muy especial, que no mágico, porque en los misterios, todos los números son mágicos, pero el tema es que los astrónomos de la antigüedad, con sus primitivos medios, observaron que entre todos los cuerpos celestes había siete de ellos que mantenían entre sí una posición relativa y aunque sus cálculos no fueron exactos se los concedió como los siete planetas clásicos, que tanta importancia adquieren en los cultos astrológicos de la antigüedad de los que devendrían los misterios esotéricos, mercurio venus marte júpiter y saturno además del sol y la luna claro.
@@ -20,6 +21,7 @@ Así es que los siete planetas clásicos serían representados de muchas formas,
 Entonces, de aquellos siete planetas clásicos, la importancia e influencia del número siete, que se ha utilizado y se utiliza en muchos ámbitos de la vida, junto claro, con otros números preferidos, ya que todos los números simbolizan algo o mejor dicho para los ocultistas tienen determinado poder, hay muchos ejemplos en distintas culturas y religiones ya que todas tienen ancestros comunes, los siete dones del espíritu santo, los siete arcángeles, las siete plagas de Egipto, los siete pecados capitales, los siete sacramentos, los siete días de la creación del mundo, los siete palacios celestiales o esferas, los siete chakras, los siete metales al químicos, los siete mares, los siete arcontes, las siete notas musicales, las siete maravillas del mundo antiguo, los siete sabios de Grecia, las siete edades del hombre etcétera hay muchos ejemplos.
 
 # CONTEXTO DE NEWTON
+___
 Newton quien era rosacruz, alquimista, presidente de la real sociedad de ciencias de Londres, que era y es una orden esotérica de científicos y masón aunque todavía esta sociedad no había salido a la luz pública, entonces lógicamente sólo podía dividir a los colores del espectro o sea a los colores que formaban a la luz misma con todo lo que significa la luz, en un número y ese número era el siete y más porque sabía que en su experimento estaba reproduciendo artificialmente al arco iris, que tiene también un valor importantísimo en la filosofía oculta desde tiempos inmemoriales.
 
 <img
@@ -29,6 +31,7 @@ Newton quien era rosacruz, alquimista, presidente de la real sociedad de ciencia
 />
 
 # HISTORIA DEL ARCOIRIS
+___
 En la época de Gilgamesh, la historia más antigua escrita en el planeta tierra, el arcoíris se describía como el collar de joyas de la gran madre, la diosa Ishtar, para los griegos, el arcoíris era la diosa mensajera entre el cielo y la tierra, llamada iris, en el antiguo testamento el arcoíris fue creado por dios tras el diluvio universal como muestra de la voluntad divina y para recordarle a los hombres la promesa de que jamás volvería a destruir la tierra con un diluvio, para los vikingos el arco iris era un puente que unía a Midgard y Asgard o sea, el mundo de los hombres con el mundo de los dioses.
 
 Resumiendo, en la mayoría de los casos, el arco iris representa una unión del cielo con la tierra y debido a esto colores del arco iris se han utilizado en variedad de sistemas esotéricos, un caso muy notorio es el arqueometro, que se supone encierra los 72 nombres de los ángeles o genios cabalísticos y se utiliza mayormente con fines oraculares, este presenta una escala de colores supuestamente análoga a la escala musical, a las fuerzas del sistema planetario, los números y el alfabeto hebreo, asirio ciriaco y caldeo, es decir, los colores del arcoíris, siempre, desde tiempos ya olvidados, han tenido un significado importantísimo en los misterios aunque claro puedan variar depende la corriente la cultura y la época, estos colores son rojo, naranja, amarillo, verde, azul, índigo/añil/azul marino y violeta.
@@ -40,6 +43,7 @@ Resumiendo, en la mayoría de los casos, el arco iris representa una unión del 
 />
 
 # Simbolismo
+___
 Generalmente, teniendo en cuenta los usos generales y no los particulares de las distintas culturas y épocas, se le asignan los siguientes usos simbólicos:
 
 - **El rojo** siempre se ha utilizado para representar la energía, la pasión, la ira, la confrontación, la lujuria, la venganza, es decir emociones exaltadas, marte es el planeta que gobierna el color rojo, por lo que se utiliza para incitar a incidentes, incendios, guerras etcétera, es muy utilizado para el fortalecimiento de la magia negra, el rojo es el elemento fuego, tanto el rojo como el blanco gobiernan el chakra base.
@@ -57,6 +61,7 @@ Generalmente, teniendo en cuenta los usos generales y no los particulares de las
 - **El violeta** supo ser el color de la realeza o la nobleza los reyes y las reinas a menudo se representaban en su máxima expresión utilizando el color púrpura, ampliamente usado para reflejar sabiduría espiritual adivinación y trabajo psíquicos, un color del que siempre se ha creído en distintas escuelas, eficaz para lidiar con energías difíciles de manejar, Júpiter es el regente del color violeta y representa el chakra de la corona.
 
 # ARTE VERDADERO Y TEORIA DEL COLOR
+___
 Un ejemplo de la profundidad y magnitud que pueden tener los colores en el simbolismo esotérico es la historia de Philipp Otto Runge, quien es considerado como uno de los artistas más importantes del romanticismo alemán temprano, a pesar de que sus ideas artísticas no eran exclusivas de su tiempo, formuló toda una teoría mística espiritual distintiva para crear lo que él llamó el arte verdadero y trabajó toda su vida para poner en práctica estas ambiciones.
 
 Uno de los aspectos centrales de lo que Runge denominó el arte verdadero, fue su teoría de los colores, publicada en 1810, que incluye no sólo la explicación del origen divino de los colores, sino también instrucciones para su aplicación de acuerdo con su teoría artística, la influencia del místico Jakob Böhme en la comprensión de Runge del arte fue total, como ocurrió con la mayoría de los exponentes del romanticismo alemán, sólo el enfoque esotérico puede conducir a la comprensión más profunda de su teoría de los colores, también muy influenciada por Newton y Goethe.
@@ -126,6 +131,7 @@ Arriba de todos los rayos de luz rodeados de pequeñas cabezas se reflejan en un
 
 
 # CONCLUSIÓN DE LA PINTURA
+___
 En esta pintura el autor no sólo utiliza los colores para ilustrar conceptos místicos, gnóstico-cabalísticos, sino que también una amplia gama de símbolos alegóricos como flores, música, niños, la figura de la diosa y sobre todo el tipo de entidades que en las religiones judío cristianas se denominan como ángeles.
 
 en esta pintura como en muchísimas otras de diversos autores, la mayoría de interpretaciones que ignoran este tipo de simbologías son víctimas de una comprensión limitada e insuficiente ya que como vieron su verdadero significado no sólo de las formas y las figuras como ya estamos habituados sino también de los colores está encriptado para que unos pocos, los instruidos en los misterios, sólo puedan entender y que encierran la verdadera intención del artista, sus ideas ocultas y la filosofía esotérica de las corrientes subterráneas.
