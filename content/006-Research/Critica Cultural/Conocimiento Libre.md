@@ -128,7 +128,7 @@ ___
 A diferencia del modelo convencional de redes cliente-servidor en la que la red se encuentra centralizada, existe otro modelo el P2P (Peer to peer) en la que todos los equipos de la red funcionan al mismo tiempo como cliente y como servidor descentralizando asi la red y permitiendo que la red siga funcionando, aunque caiga uno de sus nodos, este modelo
 es realmente útil para la transferencia de archivos ya que cuantos más equipos de la red compartan un archivo facilitaran a otros usuarios a acceder a ellos, este modelo se basa en el compañerismo de sus miembros.
 
-<img src="../61a0cc39c42c13e6da420b82ad702297d868e50e.png"
+<img src="../media-content/Apuntes/media-foto/61a0cc39c42c13e6da420b82ad702297d868e50e.png"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 # **Documentales:**
