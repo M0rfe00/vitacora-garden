@@ -187,7 +187,7 @@ a {
 /**Aumentar margen listas**/
     & ul > li,
     & ol > li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.7rem;
    }
 
     p > strong {
@@ -239,7 +239,7 @@ a {
     z-index: 1;               // Controla la superposición sobre otros elementos
     grid-area: grid-sidebar-left; // Ubica el sidebar en el grid layout
     flex-direction: column;   // Elementos en columna (vertical)
-    padding: 2.5rem 2rem 2rem 1rem; // Espaciado interno (arriba usa variable)
+    padding: 2rem 2rem 2rem 1rem; // Espaciado interno (arriba usa variable)
   
     @media all and ($mobile) {
       gap: 0;                 // Elimina espacio entre elementos en móvil
