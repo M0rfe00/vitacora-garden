@@ -103,3 +103,4 @@ ___
 7) **Eastman Color,** primer proceso de color en una única pelicula de 35mm, patente vendida al resto de empresas 1950.
 
 8) **Etalonaje,** O brothers en el 2000 fue la primera pelicula con el etalonaje 100% digital, hoy en día se utiliza la rueda y teoría del color como herramientas principales para realizar el etalonaje, haciendo uso de ambas para elegir que emociones y sensaciones se quieren transmitir mediante los colores haciendo uso de armonías complementarias, análogas, triadas... según el ambiente u atmosfera que se quiera crear.
+
