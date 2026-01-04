@@ -291,6 +291,22 @@ a {
       }
     }
 
+/*******Header y Footer*******/
+.page-header {
+  margin: 0;
+}
+
+.page-footer {
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.page {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
     & .center > article {
       grid-area: grid-center;
     }
