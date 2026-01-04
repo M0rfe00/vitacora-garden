@@ -110,12 +110,12 @@ Nuestra percepción está condicionada por un trasfondo histórico y psicológic
 
 En su libro también determino trece colores psicológicos divididos en categorías.
 
-- Primarios: Rojo, Azul y Amarillo
+- **Primarios:** Rojo, Azul y Amarillo
 
-- Secundarios: Verde, Naranja y Violeta
+- **Secundarios:** Verde, Naranja y Violeta
 
-- Mezclas subordinadas: Rosa, Gris y Marrón
+- **Mezclas subordinadas:** Rosa, Gris y Marrón
 
-- Blanco y Negro
+- **Blanco y Negro**
 
-- Dorado y Pateado
+- **Dorado y Pateado**
