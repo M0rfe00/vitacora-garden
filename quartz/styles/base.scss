@@ -230,7 +230,6 @@ a {
     top: 0;                   // Posición superior cuando es sticky
     box-sizing: border-box;   // Incluye padding y border dentro del ancho/alto total
     /**padding: $topSpacing 2rem 2rem 2rem; **/ // Espaciado interno (arriba usa variable)
-    padding: 3rem 2rem 2rem 2rem; // Espaciado interno (arriba usa variable)
     display: flex;            // Usa Flexbox para organizar el contenido
     height: 100vh;            // Ocupa toda la altura de la ventana
     position: sticky;         // Se queda fijo al hacer scroll hasta su límite
@@ -240,6 +239,7 @@ a {
     z-index: 1;               // Controla la superposición sobre otros elementos
     grid-area: grid-sidebar-left; // Ubica el sidebar en el grid layout
     flex-direction: column;   // Elementos en columna (vertical)
+    padding: 3rem 2rem 2rem 1rem; // Espaciado interno (arriba usa variable)
   
     @media all and ($mobile) {
       gap: 0;                 // Elimina espacio entre elementos en móvil
@@ -257,6 +257,7 @@ a {
       grid-area: grid-sidebar-right; // Ubicación en el grid
       margin-right: 0;               // Elimina margen derecho
       flex-direction: column;        // Contenido en columna
+      padding: 3rem 1rem 2rem 2rem; // Espaciado interno (arriba usa variable)
       @media all and ($mobile) {
         margin-left: inherit;        // Hereda margen izquierdo
         margin-right: inherit;       // Hereda margen derecho
