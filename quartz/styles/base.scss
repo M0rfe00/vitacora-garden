@@ -640,14 +640,15 @@ div:has(> .overflow) {
   overflow-y: hidden;
 }
 
-
+.explorer-ul.overflow a,
+.explorer-ul.overflow .folder-title {
+  font-size: larger !important;
+}
 
 
 ul.overflow,
 ol.overflow,
-li.overflow,
-li.overflow .folder-container,
-li.overflow .folder-container {
+li.overflow {
   max-height: 100%;
   overflow-y: auto;
   width: 100%;
