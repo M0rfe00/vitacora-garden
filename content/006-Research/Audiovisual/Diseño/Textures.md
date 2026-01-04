@@ -39,7 +39,12 @@ ____
 En lugar de únicamente colocar una textura de papel seleccionar el modo de fusión en multiplicar hay formas mas efectivas:
 
 1) Clic derecho sobre la textura>Blending options: reducir el slide "current layer" y seleccionar el modo de fusión en pantalla
-![[Pasted image 20251216012524.png]]
+<img
+  src="/media-content/Apuntes/media-diseño/Textures/20251216012524.png"
+  alt="foto"
+  style="margin: 0 auto; padding: 0; width: 70%; height: auto;"
+/>
+
 
 2) En las capas inferiores>Filtros>Distorsión>Ripple: 100% aprox
 3) También en las capas inferiores>Filter gallery>Sprayed Strokes
@@ -51,15 +56,15 @@ En lugar de únicamente colocar una textura de papel seleccionar el modo de fusi
 
 # **Blending modes Tips**
 ___
-**Tip 1:** 
+## **Tip 1:** 
 - Añadir una texutura con muchas sombras y seleccionar el modo de fusión en "Lighten color"
 
 
-**Tip 2:** 
+## **Tip 2:** 
 - Invertir todas las capas con "Ctrl+i"
 - Cambiar el modo de fusión de la textura a "Difference" añadir una capa "Hue/Sat" y bajar el Hue al mínimo. 
 
-**Tip 3:** 
+## **Tip 3:** 
 - Añadir una textura muy compleja y establecer el modo de fusión en "Saturation"
 - Intentar combinar 2 texturas y si es muy caotico añair una capa "Hue/Sat" y jugar con los valores hasta conseguir un buen resultado.
 
@@ -67,7 +72,7 @@ ___
 
 # **Displacement Maps**
 ___
-En lugar de simplemente añadir una textura, guardarla como .PSD ir a Filter>Distort>Displace y elegir el psd, una mejor forma es:
+**En lugar de simplemente añadir una textura, guardarla como .PSD ir a Filter>Distort>Displace y elegir el psd, una mejor forma es:**
 
 1) Abrir un archivo nuevo con el mismo tamaño del poster
 2) Añadir una capa y convertirla en "Smart object" y Filter>Render>Fibers..
@@ -79,7 +84,7 @@ En lugar de simplemente añadir una textura, guardarla como .PSD ir a Filter>Dis
 # **Images to Textures**
 ___
 1) En la imagen deseada; Filter>Camera Raw y establecer los siguientes valores como referencia:
-**Light:**
+### **Light:**
 - Exposure: -2,25
 - Contrast: -95
 - Hightlights: +44
@@ -87,7 +92,7 @@ ___
 - Whites: -100
 - Blacks: +100
 
-**Efects:**
+### **Efects:**
 - Texture: -100
 - Clarity: +100
 - Dehaze: +100
@@ -96,9 +101,8 @@ ___
 	- Size: 100
 	- ROughness: 92
 
-**Color:** 
+### **Color:** 
 - bajar la saturación al maximo de todos los colores que no se quieren en el poster
-
 2) Seleccionar el modo de fusión a "Hue"
 3) Añadir un color solido debajo de todo y elegir un color dentro de esta área:
  ![[Pasted image 20251216015121.png]]
@@ -107,6 +111,6 @@ ___
 
 # Overlay
 ___
-En lugar de aplicar texturas planas en modo normal, utilizar el modo overlay permiten a la textura interactuar de forma más natural con la capas inferiores, también es importante ajustar la opacidad.
+**En lugar de aplicar texturas planas en modo normal, utilizar el modo overlay permiten a la textura interactuar de forma más natural con la capas inferiores, también es importante ajustar la opacidad.**
 
 ![[Pasted image 20260102214436.png]]

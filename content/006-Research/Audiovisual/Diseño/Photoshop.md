@@ -104,7 +104,12 @@ Igual que al aplicar filtros a un objeto inteligente, los ajustes funcionan igua
 # Effects tier list
 ___
 
-![[[SyntheVisuals] (Photoshop effects tierlist) GyLPAjRXQAAsk6U.jpg]]
+<img
+  src="/media-content/Apuntes/media-diseño/tierlist GyLPAjRXQAAsk6U.jpg"
+  alt="efectos"
+  style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 
 
 

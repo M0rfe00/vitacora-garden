@@ -1,6 +1,5 @@
-# Poster Fundamentals
+# **Formato**
 ___
-### **Formato**
 Tener en cuenta tanto formatos digitales como físicos para poder imprimir si es necesario
 
 | Estilo       | Digital        | Fisico            |
@@ -17,7 +16,7 @@ ___
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Posters/GuideLayout.png" alt="">
 </div>
 
-### **Typography tips:**
+# **Typography tips:**
 ___
 
 1) Normalmente en jerarquía solo se habla de tamaño, grosor y espaciado, pero también se puede crear jerarquía con contexto.
@@ -26,9 +25,9 @@ ___
 
 3) Descargar fuentes "Display", normalmente son experimentales pero otorgan al poster mayor personalidad.
 
-### **Create Color Palettes:**
+# **Create Color Palettes:**
 ___
-###### **Monocromaticas:** 
+## **Monocromaticas:** 
 Elegir un color y complementarlo con neutrales como blanco o negro.
 
 - **Elementos principales:** Titulos, imagenes, iconos, en general lo grande e importante a color para que se lleven la atención.
@@ -37,7 +36,7 @@ Elegir un color y complementarlo con neutrales como blanco o negro.
 
  - **Detalles:** Texturas, formas, relleno, normalmente blanco o negro suele funcionar y pequeños detalles a color solo si ayuda a dirigir la atención.
 
-###### **Analogas:** 
+## **Analogas:** 
 Elegir un color base y mover ligeramente el "Hue" para elegir 2 colores cercanos.
 
 1) **Boost contrast:** ajustar los niveles de color de la imagen con una capa "colors", bajar las sombras y subir la luces
@@ -48,7 +47,7 @@ Elegir un color base y mover ligeramente el "Hue" para elegir 2 colores cercanos
 - **tip:** jugar con los ajustes del gradient map 
 
 
-###### **Complementarios:** 
+## **Complementarios:** 
 Elegir un color y su diagonal, para generar la paleta.
 
 1) Seleccionar dos subtonos para cada uno, dos más claros para el primer color y dos más oscuros para el segundo.
@@ -58,7 +57,7 @@ Elegir un color y su diagonal, para generar la paleta.
 
 
 
-### **Color density**
+# **Color density**
 ___
 La densidad de color es cuan luminoso u oscuro parece un color, se refiere a la absorción de luz, esencialmente es intensidad o riqueza en lugar de la saturación especifica, en otras palabras es buena saturación.
 

@@ -9,11 +9,12 @@ ___
 />
 
 
-# Tipos de tipografías
+# ==Tipos de tipografías==
 ___
-El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
+El mundo tipográfico se divide principalmente en dos grupos, **Serif y Sans Serif**
 
-**Las serif** tienen terminaciones y detalles en cada carácter, su vez dentro de este tipo hay subgrupos como Didone, estilo antiguo, egipcio, moderna, slab...
+## **Serif** 
+tienen terminaciones y detalles en cada carácter, su vez dentro de este tipo hay subgrupos como Didone, estilo antiguo, egipcio, moderna, slab...
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195158.png"
@@ -23,7 +24,8 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 
 
 
-**Las San Serif** se distinguen por no tener estos detalles en los caracteres, a su vez también se dividen en subgrupos como; humanista, geométrica, neo grotesca, gótica
+## **San Serif** 
+se distinguen por no tener estos detalles en los caracteres, a su vez también se dividen en subgrupos como; humanista, geométrica, neo grotesca, gótica
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101195900.png"
@@ -33,7 +35,8 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 
 
 
-**Las Monoespaciadas,** son otro grupo el cual puede ser Serif o San Serif pero se caracteriza por que cada carácter dispone del mismo ancho.
+## **Monoespaciadas** 
+son otro grupo el cual puede ser Serif o San Serif pero se caracteriza por que cada carácter dispone del mismo ancho.
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200105.png"
@@ -43,7 +46,8 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 
 
 
-**Las Display** son otro grupo que puede tener características de Serif o San Serif pero están pensadas para ser vistas en lugares mucho más grandes, como títulos de carteles, textos grandes en una web, no tanto para bloques de texto.
+## **Display** 
+Son otro grupo que puede tener características de Serif o San Serif pero están pensadas para ser vistas en lugares mucho más grandes, como títulos de carteles, textos grandes en una web, no tanto para bloques de texto.
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200316.png"
@@ -52,14 +56,15 @@ El mundo tipográfico se divide principalmente en dos grupos, Serif y Sans Serif
 />
 
 
+>[!Info]
+>
+>Mientras no se tiene suficiente conocimiento tipográfico es mejor no usar más de dos tipografías/fuentes para un diseño, una vez se conocen bien las reglas.
 
-- Mientras no se tiene suficiente conocimiento tipográfico es mejor no usar más de dos tipografías/fuentes para un diseño, una vez se conocen bien las reglas.
 
 
-
-# Combinación de tipografías
+# ==Combinación de tipografías==
 ___
-**Contraste:** El contraste es la clave para combinar tipografías, algunas de las formas más fáciles de combinar tipografías son:
+**El contraste es la clave para combinar tipografías**, algunas de las formas más fáciles de combinar tipografías son:
 
 ## **Combinar 2 tipografías:** San Serif + Serif.
 
@@ -89,9 +94,10 @@ ___
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## Consejo para combinar tipografías:
+## **Consejo para combinar tipografías:**
 
-**Intercalar pesos**, es decir que haya al menos un salto para generar algo de contraste.
+### **Intercalar pesos;**
+Es decir que haya al menos un salto para generar algo de contraste.
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101200959.png"
@@ -100,7 +106,8 @@ ___
 />
 
 
-**Mantener pocas variables**, una para títulos, otra para subtítulos, otra para textos y en caso de ser necesario otra para "call to actions". Esto genera jerarquía y estabilidad y sensación de profesionalidad.
+### **Mantener pocas variables;**
+Una para títulos, otra para subtítulos, otra para textos y en caso de ser necesario otra para "call to actions". Esto genera jerarquía y estabilidad y sensación de profesionalidad.
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101201148.png"
@@ -108,7 +115,8 @@ ___
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-**Mantener el mismo tamaño** en los diferentes bloques de texto, es decir, si hay varios títulos que tengan el mismo tamaño, lo mismo con los subtítulos y párrafos.
+### **Mantener el mismo tamaño;**
+Mismo tamaño en los diferentes bloques de texto, es decir, si hay varios títulos que tengan el mismo tamaño, lo mismo con los subtítulos y párrafos.
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/20260101201437.png"
@@ -117,52 +125,59 @@ ___
 />
 
 
-**Espacio negativo:** En ocasiones hay títulos en los que es mejor dejar el espacio entre letras en negativo (-5, -10, -20) siempre que no lleguen a tocarse.
+### **Espacio negativo:** 
+En ocasiones hay títulos en los que es mejor dejar el espacio entre letras en negativo (-5, -10, -20) siempre que no lleguen a tocarse.
 
-**Observar carteles:** Observar carteles que "no leerlos" es útil para analizar como están diseñados, compuestos, como se ha usado la tipografía, cuantos estilos hay.
+### **Observar carteles:** 
+Observar carteles que "no leerlos" es útil para analizar como están diseñados, compuestos, como se ha usado la tipografía, cuantos estilos hay.
 
-**Respetar jerarquía visual:** gracias a ella se consigue guiar a los ojos del espectador de lo más a menos importante, por ello hay que buscar tipografías que permitan establecer una separación visual entre los diferentes niveles jerárquicos:
+### **Respetar jerarquía visual:**
+Gracias a ella se consigue guiar a los ojos del espectador de lo más a menos importante, por ello hay que buscar tipografías que permitan establecer una separación visual entre los diferentes niveles jerárquicos:
 
 <img
   src="/media-content/Apuntes/media-diseño/tipografias/jerarquia.png"
   alt="tamaños"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-hay que tener en cuenta la fuente, variables tipográficas, tamaño espacio.
+
+>[!info]
+>
+>hay que tener en cuenta la fuente, variables tipográficas, tamaño espacio.
 
 # Como elegir tipografías
 ___
 De la misma forma que hay que elegir el vestuario de acuerdo a la ocasión; causal, formal, extravagante..., en la tipografía pasa igual, hay que preguntarse cosas como:
-- ¿Que tan legible es?, ¿Es para un logo?, ¿Es para un cartel?, ¿Tiene los caracteres completos?, ¿Tiene Ñ? ¿Es para imprimirse o digital?...
+- **¿Que tan legible es?, ¿Es para un logo?, ¿Es para un cartel?, ¿Tiene los caracteres completos?, ¿Tiene Ñ? ¿Es para imprimirse o digital?**...
 
-**Personalidad de las tipografías:**
+>[!Info]
+>
+>No usar fuentes sin licencia para evitar riesgos y dar preferencia a licencias OFL, PGL y Apache.
+
+## **Personalidad de las tipografías:**
 hay tipografías más serias y formales como Times New Roman o Barkerville, las hay más modernas y minimalistas como Helvética o Inter, tambien amigables como Nunito, Quicksand.
 
 Hay que analizar si la tipografía es seria, divertida, sus características...
 
-No usar fuentes sin licencia para evitar riesgos y dar preferencia a licencias OFL, PGL y Apache.
 
-
-
-# Tipografía recomendadas
+# ==Tipografía recomendadas==
 ___
-Proyectos digitales y UI: 
-- Inter: esta hecha para pantallas, muy legible en tamaño pequeño y bien espaciada.
-- Roboto: tipografiad e Android, moderna, neutra y optimizada para pantallas.
-- IBM Plex Sans: cuenta con una familia de fuentes y variantes tecinas enorme.
+## **Proyectos digitales y UI:** 
+- **Inter:** esta hecha para pantallas, muy legible en tamaño pequeño y bien espaciada.
+- **Roboto:** tipografiad e Android, moderna, neutra y optimizada para pantallas.
+- **IBM Plex Sans:** cuenta con una familia de fuentes y variantes tecinas enorme.
 
-**Parrafos y bloques de texto:**
+## **Parrafos y bloques de texto:**
 - **Source sans:** la familia completa de Adobe es ideal para cuerpos de texto, gratuita y versátil.
 - **Merriweather:** fue diseñada para ser atractiva visualmente y fácil de leer en pantalla, con una altura muy grande, formas de letra ligeramente condensadas con un acento diagonal grande, serifas muy robustas y abiertas para facilitar su lectura en textos pequeños.
 - **Noto:** pensada para trabajar en múltiples idiomas y entornos internacionales.
 
-**Títulos, Branding y desarrollo de marca:**
+## **Títulos, Branding y desarrollo de marca:**
 - **Playfair:** sofisticada, clásica, funciona muy bien en titulares con peso.
 - **Space Grotesk:** moderna, estilo sutil y bastante personalidad, recomendada para titulares de estilo contemporáneo.
 - **Anton:** San serif superbold y compacta, ideal para titulares grandes con presencia fuerte.
 
 
-**Para todo tipo de uso:**
+## **Para todo tipo de uso:**
 - **Helvética neue / Neue Hass Grotesk:** clásico, neutral, limpia, profesional.
 
 - **Monserrat:** muy usada en branding, visualmente atractiva pero precaución con los pesos.
@@ -200,28 +215,28 @@ A la hora de instalar una tipografía lo que se adquiere es la posibilidad de us
 
 Las tipografías pueden ser adquiridas en paginas como: google fonts, Adobe fonts, Datfont.
 
-**Código libre/abierto:** ofrecen libertad para usar, modificar y redistribuir bajo ciertos requisitos, generalmente bajo el marco del "Copyleft" siendo algunas de las licencias de software libre más usadas en tipografía OFL, GPL y Apache.
+## **Código libre/abierto:**
+Ofrecen libertad para usar, modificar y redistribuir bajo ciertos requisitos, generalmente bajo el marco del "Copyleft" siendo algunas de las licencias de software libre más usadas en tipografía OFL, GPL y Apache.
 
 
-**Gratuitas para uso comercial** suelen permitir el uso de la fuente en proyectos que generen ingresos a cambio de dar créditos al autor, sin embargo su uso suele ser muy limitado y suelen ser poco atractivas.
+## **Gratuitas para uso comercial**
+Suelen permitir el uso de la fuente en proyectos que generen ingresos a cambio de dar créditos al autor, sin embargo su uso suele ser muy limitado y suelen ser poco atractivas.
 
-**Gratuitas para uso personal:** aunque se ofrecen de forma gratuita su uso es para proyectos no lucrativos siendo un campo ambiguo de justificar.
+## **Gratuitas para uso personal:** 
+aunque se ofrecen de forma gratuita su uso es para proyectos no lucrativos siendo un campo ambiguo de justificar.
 
 **Dominio publico**: sin licencia, uso libre al no estar protegidas por la ley de propiedad intelectual ya sea porque expiraron o renunciaron a sus derechos.
 
-**De pago** pueden dividirse según su uso permitido:
-
-Licencias de escritorio: logos, diseños, envases de producto...
-
-Licencias web: Paginas web, dominios contratados...
-
-Licencias app: Android, IOs, Windows...
-
-Licencias E-doc: Libros, revistas...
-
-Licencias Digital Ads: anuncios de internet, email, marketing
-
-Licencias servidores: alojar la tipografía para que terceros la usan remotamente
+## **De pago** 
+**Pueden dividirse según su uso permitido:**
+- Licencias de escritorio: logos, diseños, envases de producto...
+- Licencias web: Paginas web, dominios contratados...
+- Licencias app: Android, IOs, Windows...
+- Licencias E-doc: Libros, revistas...
+- Licencias Digital Ads: anuncios de internet, email, marketing
+- Licencias servidores: alojar la tipografía para que terceros la usan remotamente
 
 
-- En general todas las licencias se renuevan automáticamente, salvo las de escritorio que son de un unico pago por instalación
+>[!Info] 
+>
+>En general todas las licencias se renuevan automáticamente, salvo las de escritorio que son de un unico pago por instalación
