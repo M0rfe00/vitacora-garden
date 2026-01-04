@@ -278,7 +278,7 @@ a {
     }
     & .page-header,
     & .page-footer {
-      margin-top: 1rem;
+      margin-top: 0;
       margin-bottom: 0;
     }
 
@@ -291,20 +291,6 @@ a {
       }
     }
 
-/*******Header y Footer*******/
-.header {
-  margin-top: 5rem;
-}
-
-.footer {
-  margin: 0 0 0 0;
-  padding-bottom: 0;
-}
-
-.page {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-}
 
 
     & .center > article {
