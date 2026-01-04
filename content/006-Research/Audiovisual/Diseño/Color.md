@@ -140,3 +140,53 @@ ___
 - Representar un cambio como el estado anímico de un personaje o etapas vitales..
 
 - Asociar un color a una idea, como una realidad, idea, estado mental, personas..
+
+
+# ==Simbolismo==
+___
+Generalmente, teniendo en cuenta los usos generales y no los particulares de las distintas culturas y épocas, se le asignan los siguientes usos simbólicos:
+
+## **El rojo** 
+siempre se ha utilizado para representar la energía, la pasión, la ira, la confrontación, la lujuria, la venganza, es decir emociones exaltadas, marte es el planeta que gobierna el color rojo, por lo que se utiliza para incitar a incidentes, incendios, guerras etcétera, es muy utilizado para el fortalecimiento de la magia negra, el rojo es el elemento fuego, tanto el rojo como el blanco gobiernan el chakra base.
+
+## **El naranja** 
+Simboliza la creatividad, el entusiasmo, la energía y la resistencia, es el color de los cambios, se suponía que el naranja ayudaba con la adaptabilidad, la estimulación, el entusiasmo, la creatividad, la energía tomar el control, cambiar de suerte y reclamar por justicia, el sol es el regente del color naranja y también pertenece al elemento fuego.
+
+## **El amarillo**
+Ha sido considerado a través de los tiempos como el color de la sabiduría y el intelecto, gobierna el chakra solar de la voluntad y es equiparado con el planeta mercurio, en la antigüedad era utilizado en las áreas de estudio o donde se realizaban actividades como la meditación, el amarillo pertenece al elemento aire y para los antiguos chinos simbolizaba la buena suerte y a menudo se lo asociaba con el oro.
+
+## **El verde**
+Ha sido tradicionalmente y a través del tiempo, considerado el color de la fertilidad, la salud, la curación y la comunicación con los espíritus de la naturaleza, venus rige sobre el color verde y es el color del chakra del corazón.
+
+## **EL color azul**
+La referencia más antigua la encontramos en el antiguo imperio egipcio, donde se lo asociaba con el dios Amón, es el color de los océanos y de los cielos, contrariamente del color rojo, el azul evoca sentimientos de calma paz y tranquilidad, simboliza lealtad y confianza, se creía que el efecto que tenía el color azul sobre la psique humana lo convertía en un color perfecto para espacios donde hay que conseguir descanso y calma, los religiosos de diversas culturas apreciaron el color azul y lo vincularon con las ideas del ser superior y lo divino.
+
+## **El color índigo** 
+Se considera esotéricamente el color de las habilidades psíquicas, la telepatía, la lectura mental, la comunicación con espíritus, etcétera, la luna es el regente del color índigo y pertenece al elemento del espíritu, el éter, es el color del tercer ojo, el sexto chakra junto con los colores plata y blanco.
+
+## **El violeta** 
+Supo ser el color de la realeza o la nobleza los reyes y las reinas a menudo se representaban en su máxima expresión utilizando el color púrpura, ampliamente usado para reflejar sabiduría espiritual adivinación y trabajo psíquicos, un color del que siempre se ha creído en distintas escuelas, eficaz para lidiar con energías difíciles de manejar, Júpiter es el regente del color violeta y representa el chakra de la corona.
+
+___
+
+# Color Fotografia
+___
+![[02-Color]]
+
+
+
+# Herramientas de color
+___
+![[01-Color Herramientas]]`)
+
+
+# Trabajar el color
+___
+![[02-Color - Proceso]])
+
+# Color y Esoterismo
+___
+
+![[Color y Esoterismo]]`)
+
+)
