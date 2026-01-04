@@ -79,7 +79,9 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: 1,
+        scale: 2,
         removeTags: ["hideInExplorer"],
+        enableRadial: true,
       },
       globalGraph: {
         drag: true,
