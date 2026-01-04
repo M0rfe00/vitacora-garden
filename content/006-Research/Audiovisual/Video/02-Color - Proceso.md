@@ -1,3 +1,8 @@
+---
+tags:
+  - Color
+  - Davinci
+---
 # **Trabajar el color:**
 ___
 - ==**Corrección de color y etalonaje:**== La corrección de color se basa en corregir los posibles errores de color de un clip, mientras que el etalonaje es más creativo y subjetivo.
