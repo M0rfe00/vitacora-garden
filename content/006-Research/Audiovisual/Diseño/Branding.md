@@ -4,32 +4,32 @@ El branding no se reduce solo a un logo, también es la voz, la ropa, la forma d
 
 El branding es la construcción de una marca, no solo los aspectos visuales elementos, también los conceptuales. Todo aquello que la gente percibe al entrar en contacto con la marca:
 
-Elementos visuales:
+**Elementos visuales:**
 - Tipografías.
 - Logos.
 - Iconos.
 - Colores.
 
-Conceptuales:
+**Conceptuales:**
 - Tono de voz.
 - Comportamiento.
 - Valores.
 
-## Esencia
+## **Esencia**
 ___
 El branding no solo es un marketing con productos mas guais, es dieño; crear una identidad visual, verbal y sensorial coherente que diga algo incluso cuando no se dice nada, ser consciente de que todo el rato se esta comunicando.
 
 El branding no es añadir el logo a todo, es hacer que la gente te reconozca.
 
 
-## Experiencia
+## **Experiencia**
 ___
 El branding no solo se ve, también se siente, no solo se recuerda un logo sino una experiencia completa, desde el packagin hasta la atención al detalle en una web, todo comunica.. 
 
 Una marca no debe ser solo reconocible sino también recordable.
 
 
-# Concepto
+## **Concepto**
 ___
 **Lo que no se define se termina improvisando** **El concepto es el norte al que volver al estar perdido, el concepto responde preguntas ¿Cuál es mi concepto?
 
@@ -41,19 +41,19 @@ La marca no empieza en un programa de diseño sino con preguntas,:
 
 
 
-# Forma
+## **Forma**
 ___
 **Consiste en traducir visual y verbalmente el concepto**: tono de voz, logos, colores, tipografías, animaciones, palabras.
 
 Las decisiones no deben ser solamente estéticas, también deben ser coherentes; organizar, transmitir, comunicar.
 
 
-# Percepción
+## **Percepción**
 ___
 Aunque se haya trabajado en todos los aspectos de la marca pero no se entiende no sirve de nada, no sirve con decir nuestra marca es "premium" hay que demostrarlo con el packagin, experiencia en local, producto.
 
 
-# Marca personal
+## **Marca personal**
 ___
 Trabajando en un sector creativo, ofreciendo servicios o queriendo generar confianza y comunidad es recomendable crear una marca personal.
 
@@ -68,7 +68,7 @@ Un logo ha de tener un propósito, no es únicamente un dibujo atractivo, es una
 No ha de justificarse arbitrariamente, debe ser representativo y no necesariamente literal, ej (Apple no es un ordenador) (Starbucks no es café)
 
 
-# Tipos
+## **Tipos**
 ___
 El logo el termino utilizado para referirse al signo gráfico que representa una empresa, producto, proyecto, evento. Según su construcción pueden ser:
  
@@ -88,14 +88,14 @@ El logo el termino utilizado para referirse al signo gráfico que representa una
 
 **Monogramas:** Simbolo hecho de letras
 
-# Simplicidad
+## **Simplicidad**
 ___
 La simpleza en un logo es importante ya que lo hace fácil de recordar, reconocer y reproducir.
 
 Aunque el logo ha de representar el espíritu de la marca, no significa que todos los valores de la marca en el logo, incluso es posible no poner ninguno evidente.
 
 
-# Escalabilidad
+## **Escalabilidad**
 ___
 La escalabilidad ha de ser técnica y conceptual, ya que el logo ha de poder ampliarse infinitamente y ha de poder adaptarse al soporte necesario, fotos de perfil, camisetas, etiquetas, banners.
 
