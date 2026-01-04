@@ -73,6 +73,8 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
   ],
+
+
   right: [
     Component.Graph({
       localGraph: {
@@ -84,6 +86,7 @@ export const defaultContentPageLayout: PageLayout = {
         centerForce: 0.1, // how much force to use when trying to center the nodes
         removeTags: ["hideInExplorer"],
         enableRadial: true,
+        
       },
       globalGraph: {
         drag: true,
@@ -96,6 +99,25 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 }
+
+/**************Codigo para el zoom del graph view************/
+setTimeout(() => {
+  // Local Graph
+  const localSVG = document.querySelector<SVGSVGElement>(".quartz-local-graph svg");
+  const localZoom = (window as any).d3?.zoom; // acceso a D3
+  if (localSVG && localZoom) {
+    const d3Selection = (window as any).d3.select(localSVG);
+    d3Selection.call((window as any).d3.zoom().scaleTo, 1.5);
+  }
+
+  // Global Graph
+  const globalSVG = document.querySelector<SVGSVGElement>(".quartz-global-graph svg");
+  if (globalSVG && localZoom) {
+    const d3Selection = (window as any).d3.select(globalSVG);
+    d3Selection.call((window as any).d3.zoom().scaleTo, 1.2);
+  }
+}, 100);
+
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
