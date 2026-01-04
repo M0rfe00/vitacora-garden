@@ -1,30 +1,31 @@
 
 # **Propiedades de la Luz**
 ____
-##### **Dureza:** 
+## **Dureza:** 
 La dureza de la luz puede ser determinante para darle a nuestro retrato el aspecto que queremos 
 - Una luz más dura nos proporcionará retratos más agresivos, dramáticos o potentes.  
 - Una luz más difusa generalmente nos ofrecerá retratos más suaves, tiernos y bellos. 
 - Para difuminar tu fuente de luz deberás utilizar un [difusor](https://www.dzoom.org.es/descubre-que-es-un-softbox-para-que-sirve-y-las-diferencias-existentes-con-un-paraguas/) o [rebotarla contra una superficie clara](https://www.dzoom.org.es/8-consejos-para-mejorar-tus-fotos-con-la-tecnica-del-flash-rebotado/). Si, en cambio, pretendes hacerla más dura que simplemente usándola sin difusor, puedes optar por utilizar [grids o panales de abeja](https://www.dzoom.org.es/grid-y-snoot-2-modificadores-de-luz-de-flash-que-puedes-construir-tu-mismo/) para concentrar más el haz de luz.
 
-##### **Intensidad:** 
+## **Intensidad:** 
 La intensidad de la luz también va a cambiar nuestro retrato por completo e incluso transmitir sensaciones muy diferentes. 
 - Una luz intensa puede transmitir potencia o belleza, ya que realzará mucho la presencia de nuestro sujeto. 
 - Una luz más tenue puede transmitirnos soledad, tristeza, dramatismo, pero también intimidad o sensualidad. 
 - Puedes jugar con la potencia de tus fuentes de luz e incluso alejarlas o acercarlas a tu sujeto si no son regulables. Incluso puedes atreverte con una [clave alta](https://www.dzoom.org.es/como-conseguir-tu-autorretrato-en-clave-alta-paso-a-paso/) o una [clave baja](https://www.dzoom.org.es/como-hacer-un-autorretrato-en-clave-baja-paso-a-paso/).
 
-##### **Temperatura de color:** 
+## **Temperatura de color:** 
 La [temperatura de color](https://www.dzoom.org.es/la-temperatura-del-color/) de la luz también va a cambiar el aspecto de nuestro retrato, ya que influirá en su [balance de blancos](https://www.dzoom.org.es/el-balance-de-blancos/). 
 - Un balance frío puede transmitir seriedad o elegancia, e incluso también calma.
 - Un balance cálido puede proyectar ternura, tranquilidad, pero también pasión en ocasiones. 
 - Un balance neutro , por su parte, transmitirá pureza o limpieza. Aunque, como siempre, todo dependerá del resto de nuestra fotografía y de la ambientación que le demos.
 
-##### **Dirección:** 
+## **Dirección:** 
 Dependiendo de la dirección y angulación en la que la luz incida sobre nuestro sujeto, su cara puede cambiar de manera radical. En eso se basan los esquemas de iluminación.
 
 
-## **Nociones sobre iluminación**
-##### **Ley de la inversa del cuadrado de la distancia**
+# ==**Nociones sobre iluminación**==
+___
+## **Ley de la inversa del cuadrado de la distancia**
 A medida que un sujeto se aleje de la fuente emisora de luz, la intensidad de dicha luz va a disminuir en relación inversa al cuadrado de la distancia.
 
 En caso de querer conseguir un fondo oscuro, habrá que poner al sujeto muy lejos del fondo. Al alejar la fuente de luz del sujeto, se disminuye la intensidad de luz que le llega y todo estará más oscuro.
@@ -32,25 +33,25 @@ En caso de querer conseguir un fondo oscuro, habrá que poner al sujeto muy lejo
 En resumen, cuanto más se aleja la luz, la intensidad va disminuyendo más y más, de manera exponencial.
 
 <img      
-  src="../media-content/Apuntes/media-foto/Iluminacion2/20251214184636.png"
+  src="../media-content/Apuntes/media-foto/iluminacion2/20251214184636.png"
   alt="Inverselaw"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
 
-##### **Direccionalidad**
+## **Direccionalidad**
 La direccionalidad afecta mucho sobre un sujeto, ya que con ella cambiamos cómo le llega la luz.
 
 No es lo mismo tener una luz frontal y que pega directamente sobre el rostro de un sujeto, que tener una fuente de luz emisora a 45º, como ya hemos visto. Esto cambia radicalmente el mensaje que se quiere transmitir con el retrato.
 
-##### **Luz Dura vs Luz Suave**
+## **Luz Dura vs Luz Suave**
 **La luz dura** ofrece sombras muy marcadas y habrá transiciones muy rápidas entre las partes que están en sombra y aquellas que estén iluminadas.
 
 **La luz suave**, no creará sombras tan duras y las transiciones entre zonas iluminadas y sombreadas van a ser muy ligeras y sutiles.
 
 Ambas luces se consiguen teniendo en cuenta el tamaño relativo de la fuente de luz y la distancia de la fuente de luz respecto a la persona. Así que depende del tamaño de la fuente emisora de luz, cambia radicalmente cómo de dura o suave es la luz. De hecho, es posible modificar la dureza o suavidad de una fuente de luz con ciertos accesorios o complementos. Si te interesa, sigue leyendo.
 
-##### **BALANCE DE BLANCOS**
+## **BALANCE DE BLANCOS**
 Según la temperatura el color puede variar, esta se mide en escala kelvin, cuanto menor sea el valor más cálido será la luz y viceversa \[2500K-Atardecer, 5500K-Mediodia, 10000K-Cielo azul\], alrededor de los 4/5K más neutra será la luz. (temperatura baja = añadir calidez)
 
 | Luz de vela  | 1000-2000K    |
@@ -62,7 +63,48 @@ Según la temperatura el color puede variar, esta se mide en escala kelvin, cuan
 | Dia nublado  | 6500 - 8000K  |
 | Sombra       | 9000 – 10000K |
 
-# Esquemas de iluminación
+
+
+# **==BALANCE DE BLANCOS Preproducción==**
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqNr79BkAAU?si=WI_4MJ2EhKeGtgZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ov7YvCKqono?si=ltIowrWTib1LCUv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+A lo largo del día la iluminación va cambiando, cuando el sol sale comienza cálido y a medida que se acerca al medio día para al espectro más frio o neutro, pero cuando se pone vuelve a bajar al más cálido y cuando se ha ido completamente vuelve azul.
+
+Utilizar el balance automático en condiciones de iluminación variable ya que el cambio puede ser drástico y verse poco natural por lo que es mejor utilizar un valor estático.
+
+Dejar el balance para la postpo es poco optimo ya que, aunque existe rango de manipulación sigue habiendo un límite al forzar los colores sin deteriorar la imagen.
+
+El balance debe realizarse antes de colocar filtros/objetivos ya que modifican el color.
+
+Si hay una luz a 3200K ajusta la temperatura a 3200K la volvería blanca, por eso hay que subir la temperatura alrededor de 4500K para unos tonos cálidos.
+
+Independientemente del momento del día hay que tener en cuenta las condiciones atmosféricas, el amanecer y atardecer suelen ser más cálidos \[4500 y 5600K\], en un día soleado \[5600 – 6200K - 7000K\] un día nublado \[6500 - 7500K\], Sombra \[7000K\] cielo azul tras la puesta del sol \[7500K\].
+
+Cuanto más tarde sea en la noche más alto habrá que subir la temperatura, pero esto hará los blancos verse blancos haciéndolo parecer de día, para que parezca que se ha grabado de noche habrá que bajar la temperatura un poco a tonos cálidos para marcar los azules
+
+Para una iluminación balanceada en un entorno controlado hay que hacer coincidir el balance con la temperatura, esto puede cambiarse si se quiere tender a un tono.
+
+En una escena con predominancia de un color este puede causar reflejos y tintar la imagen, esto se puede compensar añadiendo el color opuesto en la cámara.
+
+# ==**BALANCE DE BLANCOS Postproducción==**
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqmOQXbmoi4?si=Kcgk-0z14c0nRHfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Generalmente cuando se empieza a corregir el color se realizan ajustes sin pensar en lo que se está haciendo hasta que se vea bien, el problema de esto es que los ojos nos engañan ya que tienden a acostumbrarse a una corrección entorpeciendo el proceso.
+
+Una forma de realizar el balance es; si es video grabado en LOG convertir el espacio cromático a rec709, utilizar el vectorscopio para ver los niveles de luz y saturación, seleccionar una zona blanca de la imagen con una máscara y modificar los valores del vectorscopio hasta situar el blanco en el centro.
+
+Sin embargo, esta forma puede tener problemas como que no haya nada blanco en la imagen, la solución sería abrir la visualización RGB y observar si los tres valores están al mismo nivel igualarlos guiándose con esta grafica.
+
+Pero esta otra forma presenta el problema de que si hay un color dominante en natural que su valor en la gráfica RGB sea más alto por ello eso se utilizan paleta para calibrar.
+
+Uno de los problemas al realizar el balance de blancos es hacer coincidir el blanco de una escena con un blanco independientemente de las características de esta, ya que si se hace balancea a blanco en una escena con una iluminación fría o cálida el resultado se verá artificial ya que en con iluminación fría los blancos serian azulados y en una cálida rojizos y eso es lo que hay que intentar simular.
+
+Al alterar demasiado el color, la imagen se volverá irregular y con grano empeorando el uso del espacio de color de la cámara por lo que herramientas como el vectorscopio solo hay que utilizarlas con ajustes muy suaves o para calcar referencias y hay que intentar conseguir el mejor resultado al realizar el video.
+
+# ==Esquemas de iluminación==
 ___
 ## **Esquemas para retratos**
 Con los esquemas de iluminación tan solo vamos a ver las diferentes maneras de dirigir nuestra luz sobre la cara de nuestro sujeto. Sin embargo, **usando un mismo esquema podremos conseguir retratos muy diferentes si variamos el resto de propiedades de la luz**.
@@ -71,9 +113,9 @@ Por ejemplo, un retrato con luz suave será muy diferente de un retrato con luz 
 
 **También es posible emplear [luz natural para retratos](https://www.dzoom.org.es/como-analizar-y-entender-la-luz-natural-de-la-que-dispones-para-conseguir-grandes-imagenes/)** e ir cambiando la posición del sujeto en lugar de la posición de las luces, e incluso [combinar luz natural con luz artificial](https://www.dzoom.org.es/retratos-exterior-flash-mano/).
 
-### **Esquemas de Iluminación con 1 Fuente de Luz**
+## ==**Esquemas de Iluminación con 1 Fuente de Luz**==
 
-##### **1. Rembrandt** (45º)
+### **1. Rembrandt** (45º)
 Consiste en **situar una fuente de luz a 45º** respecto a la nariz de nuestro sujeto, de tal manera que la sombra que proyecte su nariz cree un triángulo de luz en la mejilla en sombra.
 
 Al incidir de manera diagonal sobre el rostro, este tipo de iluminación favorece mucho, ya que las sombras van apareciendo de manera gradual marcando los volúmenes pero sin exagerarlos, obteniendo así un retrato muy compensado.
@@ -85,7 +127,7 @@ Al incidir de manera diagonal sobre el rostro, este tipo de iluminación favorec
 />
 
 
-##### **2. Luz lateral** (90º)
+### **2. Luz lateral** (90º)
 La luz lateral se sitúa a 90º respecto a la nariz de nuestro sujeto, es decir, de manera completamente lateral a él.
 
 Este tipo de iluminación **realza mucho las texturas y crea sombras muy marcadas**, dando lugar a retratos con mucha fuerza y dramatismo. Esto se acrecenta todavía más si además utilizamos una luz dura.
@@ -100,7 +142,7 @@ Además, si usamos una intensidad baja y nuestro modelo colabora con su pose, po
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **3. Contraluz** 
+### **3. Contraluz** 
 Para crear un contraluz situaremos la fuente de luz justo detrás de nuestro sujeto. Con esto conseguiremos **realzar su contorno, su silueta**. También puedes situar el contraluz de manera diagonal por detrás para realzar tan solo una de las partes de la silueta de tu sujeto.
 
 **En este esquema nos encontraremos con dos opciones:**
@@ -115,7 +157,7 @@ Este tipo de iluminación es muy útil para remarcar una bonita silueta, un cuer
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **4. Butterfly** 
+### **4. Butterfly** 
 El esquema de iluminación Butterfly es uno de los más usados para moda y retratos tipo [_beauty_](https://www.dzoom.org.es/el-beauty-en-fotografia-publicitaria/). Situaremos la fuente de luz de manera frontal, pero elevada por encima de la cabeza de nuestro sujeto.
 
 Este tipo de iluminación, sobre todo si se usa luz difusa, favorece mucho al rostro, porque **aplana las facciones de nuestro modelo, haciéndolas más delicadas y suaves**. Se le llama "Butterfly" por la sombra en forma de mariposa que se genera justo debajo de la nariz.
@@ -128,7 +170,7 @@ Cabe destacar que ésta es una iluminación pensada para retratos en [primer pl
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **5. Rembrandt Elevado** 
+### **5. Rembrandt Elevado** 
 Este esquema sería una mezcla entre los esquemas Rembrandt y Butterfly. Consiste en situar el flash a 45º, como en el esquema Rembrandt, pero elevado por encima de la cabeza de nuestro sujeto, como en el esquema Butterfly.
 
 Con esta iluminación conseguiremos **suavizar las facciones de nuestro sujeto pero no aplanarlas del todo** como con el esquema Butterfly.
@@ -140,10 +182,10 @@ Con esta iluminación conseguiremos **suavizar las facciones de nuestro sujeto 
 />
 
 
-### **Esquemas de Iluminación con 2 Fuentes de Luz**
+## ==**Esquemas de Iluminación con 2 Fuentes de Luz**==
 Cualquiera de los esquemas que hemos visto con una sola fuente de luz puede ser complementado con un segundo flash que ilumine el fondo.
 
-##### **6. 1 Fuente + Iluminar el Fondo** 
+### **6. 1 Fuente + Iluminar el Fondo** 
 Este flash encarado hacia el fondo te ayudará a quemar el fondo para conseguir que sea blanco puro. También puedes añadirle un gel de color para teñir el fondo del color que quieras.
 
 <img
@@ -152,7 +194,7 @@ Este flash encarado hacia el fondo te ayudará a quemar el fondo para conseguir 
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **7. Luces a 45º y a -45º** 
+### **7. Luces a 45º y a -45º** 
 Podemos rellenar las sombras que produce el esquema Rembrandt con un flash situado justo al contrario que el flash principal; es decir, a -45º respecto a la nariz de nuestro sujeto. 
 
 Será importante que la **luz de relleno tenga menor intensidad que la principal**, para suavizar las sombras pero no matarlas del todo. También podemos sustituir esta luz de relleno por un reflector 5 en 1 si no contamos con una fuente de luz extra.
@@ -160,12 +202,12 @@ Será importante que la **luz de relleno tenga menor intensidad que la principa
 Con este esquema de iluminación conseguiremos que las sombras generadas por el esquema Rembrandt no estén tan marcadas, generando así un **retrato menos duro, más compensado**.
 
 <img
-  src="../../../media-content/Apuntes/media-foto/iluminacion2/20251214173734.png"
+  src="../media-content/Apuntes/media-foto/iluminacion2/20251214173734.png"
   alt="45&45"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **8. Rembrandt + Luz Frontal** 
+### **8. Rembrandt + Luz Frontal** 
 Si queremos **paliar un poco las sombras generadas por el esquema Rembrandt**, una buena manera es usar una fuente de luz situada de manera frontal.
 
 Eso sí, será interesante que esta luz frontal tenga una intensidad más baja que la luz principal, para ganar información en esas sombras pero no eliminarlas por completo.
@@ -178,7 +220,7 @@ Así pues, la luz frontal actuará como luz de relleno.
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **9. Rembrandt + Luz lateral** 
+### **9. Rembrandt + Luz lateral** 
 También podemos complementar el esquema Rembrandt colocando la luz de relleno de manera lateral al lado contrario, para **paliar sombras y marcar contorno**.
 
 Sobre todo si quieres usar un reflector como luz de relleno te será más sencillo rebotar la luz del Rembrandt de esta manera que con el esquema anterior.
@@ -189,7 +231,7 @@ Sobre todo si quieres usar un reflector como luz de relleno te será más sencil
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **10. Rembrandt + Contraluz** 
+### **10. Rembrandt + Contraluz** 
 Otra opción también es complementar el esquema Rembrandt con un contraluz, para **realzar la silueta o darle volumen al cabello** de nuestro sujeto.
 
 Puedes optar por situar el contraluz completamente detrás de tu sujeto, o situarlo ligeramente ladeado para marcar su contorno pero evitar el aura que genera el contraluz completo.
@@ -200,7 +242,7 @@ Puedes optar por situar el contraluz completamente detrás de tu sujeto, o situa
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **11. Luz frontal+ Contraluz** 
+### **11. Luz frontal+ Contraluz** 
 El contraluz sirve para crear siluetas y realzar contornos. Pero **si queremos que nuestro sujeto no sea simplemente una silueta** podemos utilizar una luz frontal para ganar información en las sombras. Esto nos servirá para **remarcar su silueta, despegarlo del fondo y darle vida a su cabello**.
 
 También puedes optar por usar un reflector 5 en 1 justo en frente de tu sujeto, en vez de usar una fuente de luz. Así, este reflector rebotará la luz del contraluz directamente sobre nuestro sujeto, iluminando también la parte frontal.
@@ -211,7 +253,7 @@ También puedes optar por usar un reflector 5 en 1 justo en frente de tu sujeto,
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **12. Luz lateral + Luz frontal** 
+### **12. Luz lateral + Luz frontal** 
 Si queremos **ganar un poco de información en las sombras** cuando utilizamos una iluminación lateral, podemos usar una luz frontal tenue para iluminar ligeramente las zonas en sombra.
 
 También se puede sustituir esta fuente de luz frontal por un reflector 5 en 1, para rebotar la luz residual de la luz lateral y reflejarla directamente sobre la cara de tu sujeto.
@@ -225,7 +267,7 @@ Este tipo de iluminación será ideal si queremos **conservar la fuerza que tra
 />
 
 
-##### **13. 2 Luces laterales** 
+### **13. 2 Luces laterales** 
 Si, en el esquema anterior, en vez de situar la luz de relleno de manera frontal la situamos justo al lado contrario del flash, es decir, justo al otro lateral de nuestro sujeto, conseguiremos una iluminación muy interesante y original.
 
 **Realzaremos los dos lados de la silueta de nuestro sujeto, dejando la parte central en sombra**.
@@ -239,7 +281,7 @@ Igual que en otros esquemas, se puede sustituir la luz de relleno por un reflect
 />
 
 
-##### **14. Clamshell** 
+### **14. Clamshell** 
 Consiste simplemente en rellenar las sombras de la iluminación Butterfly.
 
 Para ello, colocaremos la luz principal igual que en el esquema Butterfly, por encima de la frente de nuestro sujeto y mirando hacia él; y situaremos otra fuente de luz con intensidad más baja debajo de la barbilla de nuestro sujeto, mirando también hacia él.
@@ -255,7 +297,7 @@ Con este tipo de iluminación conseguiremos una **iluminación muy plana y uni
 />
 
 
-##### **15. Butterfly + Contraluz** 
+### **15. Butterfly + Contraluz** 
 Otra manera de complementar el esquema Butterfly es con un contraluz. Con un contraluz conseguirás conservar ese toque beauty del esquema Butterfly pero **darle volumen al cabello de tu sujeto y remarcar su silueta**, despegándolo así del fondo.
 
 <img
@@ -264,7 +306,7 @@ Otra manera de complementar el esquema Butterfly es con un contraluz. Con un con
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **16. Doble Contraluz** 
+### **16. Doble Contraluz** 
 En vez de situar un contraluz justo detrás de nuestro sujeto podemos situar dos contraluces a 45º y -45º por detrás de nuestro sujeto.
 
 Con ello conseguiremos remarcar toda su silueta y conseguir así que quede perfectamente definida sin crear ese aura que genera el flash situado totalmente por detrás.
@@ -276,19 +318,18 @@ Con ello conseguiremos remarcar toda su silueta y conseguir así que quede perfe
 />
 
 
-### **Esquemas de Iluminación con 3 Fuentes de Luz**
+## ==**Esquemas de Iluminación con 3 Fuentes de Luz**==
 
-##### **17. 1 Fuente + Doble Contraluz** 
+### **17. 1 Fuente + Doble Contraluz** 
 Con 3 fuentes de iluminación podemos usar cualquiera de los esquemas de iluminación con una sola fuente de luz que hemos visto y agregarle el doble contraluz que acabamos de comentar en el punto anterior.
 <img
   src="../media-content/Apuntes/media-foto/iluminacion2/20251214175519.png"
   alt="3luces"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
-![[Pasted image 20251214175519.png]]
 
 
-##### **18. 2 Fuentes + Iluminar Fondo** 
+### **18. 2 Fuentes + Iluminar Fondo** 
 Igualmente, cualquiera de los esquemas de iluminación anteriores con 2 fuentes de luz puede ser complementado con un tercer flash encarado hacia el fondo, ya sea para quemarlo como para teñirlo con algún gel de colores.
 
 <img
@@ -298,7 +339,7 @@ Igualmente, cualquiera de los esquemas de iluminación anteriores con 2 fuentes 
 />
 
 
-##### **19. Luces a 45º y -45º + Contraluz** 
+### **19. Luces a 45º y -45º + Contraluz** 
 Las luces a 45º y -45º crean un retrato muy compensado y equilibrado. Añadiendo un contraluz, conseguiremos además **despegar a nuestro sujeto del fondo, remarcar su silueta y darle volumen a su cabello**.
 
 Puedes elegir entre colocar tu contraluz justamente detrás de tu sujeto, o ladearlo para dar volumen solo por una parte y evitar el aura que crea el flash trasero.
@@ -310,7 +351,7 @@ Puedes elegir entre colocar tu contraluz justamente detrás de tu sujeto, o lade
 />
 
 
-##### **20. Rembrandt + Luz Lateral o Luz Frontal + Contraluz**
+### **20. Rembrandt + Luz Lateral o Luz Frontal + Contraluz**
 También podemos complementar con un contraluz otros esquemas de 2 luces que hemos visto antes, como el Rembrandt + Luz lateral o el Rembrandt + Luz Frontal.
 
 Al igual que con el esquema anterior, con el contraluz conseguiremos además **despegar a nuestro sujeto del fondo, remarcar su silueta y darle volumen a su cabello**.
@@ -323,7 +364,7 @@ Puedes elegir entre colocar tu contraluz justamente detrás de tu sujeto, o lade
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **21. 2 Luces Laterales + Luz Frontal**
+### **21. 2 Luces Laterales + Luz Frontal**
 El esquema con una luz lateral a cada lado de nuestro sujeto crea una iluminación muy curiosa, dejando una franja oscura al centro.**
 
 Si queremos **ganar un poco de información en esa zona en sombra**, podemos situar una fuente de luz de relleno a baja intensidad para suavizar esa sombra, pero sin eliminarla.
@@ -334,7 +375,7 @@ Si queremos **ganar un poco de información en esa zona en sombra**, podemos si
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **22. 2 Luces Laterales + Contraluz**
+### **22. 2 Luces Laterales + Contraluz**
 También podemos complementar el esquema de 2 luces laterales con un contraluz en vez de con una luz de relleno frontal. 
 
 Así seguiremos manteniendo esta franja en sombra si nos gusta su efecto, pero **remarcaremos todavía más la silueta de nuestro sujeto**.
@@ -345,7 +386,7 @@ Así seguiremos manteniendo esta franja en sombra si nos gusta su efecto, pero 
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **23. Clamshell+ Contraluz**
+### **23. Clamshell+ Contraluz**
 El esquema Clamshell nos proporciona una iluminación muy suave y plana.
 
 Si queremos **darle un poco de volumen al cabello de nuestro sujeto y despegarlo del fondo**, complementar este esquema con un contraluz será lo ideal.
@@ -357,8 +398,8 @@ Si queremos **darle un poco de volumen al cabello de nuestro sujeto y despegarl
 />
 
 
-### **Esquemas de Iluminación con 4 (o más) Fuentes de Luz**
-##### **24. Iluminar Fondo**
+## ==**Esquemas de Iluminación con 4 (o más) Fuentes de Luz**==
+### **24. Iluminar Fondo**
 Cualquiera de los esquemas anteriores se puede complementar con una cuarta fuente de iluminación que mire directamente hacia el fondo.
 
 Incluso, si contamos con más de ellas, podemos utilizar más de una para rellenar más el fondo o las sombras que proyecte nuestro sujeto en él, si con una sola no lo abarcamos por completo.
@@ -371,7 +412,7 @@ Con ello conseguiremos, por ejemplo, **quemar un fondo blanco** para conseguir
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **25. Doble contraluz**
+### **25. Doble contraluz**
 A cualquiera de los esquemas con contraluz que hemos visto antes podemos agregarle dos contraluces en lugar de uno solo.
 
 Los situaremos a 45º y -45º por detrás de nuestro sujeto, para **realzar ambos lados de su contorno.**
@@ -382,8 +423,9 @@ Los situaremos a 45º y -45º por detrás de nuestro sujeto, para **realzar amb
 />
 
 
-### **Esquemas de Iluminación imprescindibles**
-##### **Esquema completo de 3 puntos**
+# ==**Esquemas de Iluminación imprescindibles**==
+___
+## **Esquema completo de 3 puntos**
 Uno de los esquemas más tradicionales, aplicable a un montón de situaciones, incluso cuando trabajes con luz natural. Cuenta con 3 puntos de luz:
 
 <img
@@ -404,7 +446,7 @@ Este sería el esquema más típico y de los más utilizados en fotografía, per
 4. **Luz de fondo**: Esto es útil, sobre todo si no quieres tener en tu escena un fondo muy neutro o muy oscuro. Puedes crear un degradado o incluir alguna luz funcional (lámparas, neones, etc.).
 
 
-##### **Iluminación cenital**
+## **Iluminación cenital**
 En este esquema, la iluminación viene desde arriba. Es muy natural, ya que casi en cualquier lugar la luz acaba incidiendo sobre un objeto o sujeto desde arriba. Da un resultado muy cotidiano y natural.
 
 La luz incide desde arriba, pero también de forma frontal. En fotos de retrato, si se quiere ganar un poco de volumen, se puede ladear la fuente de luz. Un beauty dish es muy típico, por ejemplo.
@@ -419,7 +461,7 @@ Con este tipo de iluminación, también se estiliza la figura, se resaltan los p
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **Iluminación Clamshell**
+## **Iluminación Clamshell**
 Es una variante de la iluminación cenital, ya que además de haber una luz proveniente desde arriba, también se incluye una luz por debajo del rostro de la persona.
 
 Con esta iluminación se consigue estilizar igualmente la figura, pero además se le da menos dramatismo y las sombras son mucho más suaves.
@@ -435,7 +477,7 @@ También puedes jugar con la direccionalidad, dependiendo del efecto que quieras
 />
 
 
-##### **Iluminación butterfly**
+## **Iluminación butterfly**
 En esta ocasión, la luz cenital hay que moverla un poco más abajo para que la imagen sea menos dramática y se siga estilizando la figura, sin sombras pronunciadas.
 
 Las luces duras encajan mejor en este esquema y el beauty dish es una gran opción para llevarlo a cabo.
@@ -449,7 +491,7 @@ Al seguir siendo una luz frontal y algo elevada, se crean sombras por debajo de 
 />
 
 
-##### **Iluminación Loop**
+## **Iluminación Loop**
 La luz se baja un poco más todavía respecto a la iluminación previa de mariposa, poniéndola 30º hacia un lado de la línea que se crea entre la cámara y el sujeto.
 
 Justo al lado de la nariz se creará una sombra ligera en forma de gancho o lazo. Se utiliza en muchas situaciones, incluso en carátulas de películas. Es algo más dramática y frontal, que la iluminación Rembrandt, por ejemplo.
@@ -460,7 +502,7 @@ Justo al lado de la nariz se creará una sombra ligera en forma de gancho o lazo
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **Iluminación Rembrandt**
+## **Iluminación Rembrandt**
 Teniendo como origen la iluminación loop, se puede colocar la luz a unos 45º de la línea entre la cámara y el sujeto, en un lado u otro, y entonces la sombra que se crea al lado de la nariz se une a la sombra de la mejilla, dejando un pequeño triángulo ligeramente iluminado debajo del ojo contrario al que incide la luz.
 
 Es una transición de luz ligera y suave. Puedes seguir jugando con la direccionalidad en este esquema e incluso incluir una luz de relleno o de contra, por detrás de la persona. Todo es cuestión de gustos.
@@ -471,7 +513,7 @@ Es una transición de luz ligera y suave. Puedes seguir jugando con la direccion
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-##### **Iluminación con 2 Luces a 90º** (Lateral)
+## **Iluminación con 2 Luces a 90º** (Lateral)
 Colocando una luz a 90º entre la línea que hay entre la cámara y el sujeto, se ofrece un mayor dramatismo sobre el sujeto, ya que se dejaría la mitad del rostro completamente en sombra. Da un toque más rudo y masculino a la fotografía.
 
 Ahora bien, si se utilizan dos luces a 90º, una en cada lado entre la línea de la cámara y el sujeto, ya no habría tanto dramatismo, puesto que surgiría una transición más dinámica entre las partes muy iluminadas hasta la parte central del rostro que está más en sombra. Todos los rasgos se van a amplificar mucho. Por ello, este esquema favorece más los rostros masculinos, a diferencia del esquema clamshell, por ejemplo.
@@ -483,9 +525,9 @@ Ahora bien, si se utilizan dos luces a 90º, una en cada lado entre la línea de
 />
 
 
-## **Esquemas para Productos**
-
-### **Productos Mate**
+# ==**Esquemas para Productos**==
+___
+## **Productos Mate**
 Si el producto es mate y no nos va a crear grandes brillos, lo ideal es colocar una de las luces en posición cenital, encargada de iluminar el fondo y la parte superior del producto, y la otra en un lateral, cuya función será dar profundidad al objeto fotografiado con un degradado de luz. Ambas deben colocarse en un ángulo de 90º respecto al producto que queramos fotografiar.
 
 <img
@@ -502,7 +544,7 @@ Otra opción es eliminar la luz superior, haciendo que el fondo pierda iluminaci
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 
-### **Productos brillantes**
+## **Productos brillantes**
 Si lo que queremos fotografiar es un objeto que nos pueda crear brillos, como por ejemplo una botella de cristal, deberemos usar una aproximación distinta, algo más complicada. Para esto necesitaremos cuatro ventanas de luz.
 
 El esquema más estándar es disponer de dos luces la cada lado del producto, ligeramente a la contra, de forma que nos perfile el objeto y que nos dibuje franjas blancas en los laterales. Una luz semilateral debe encargarse de iluminar la parte frontal y darle un cierto volumen, mientras que la cenital se encargará, de nuevo, del fondo.
@@ -528,19 +570,6 @@ Es importante que la habitación esté completamente apagada, para evitar tener 
   alt="Brillantes3"
   style="margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

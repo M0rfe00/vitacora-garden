@@ -133,3 +133,10 @@ En la rueda de color rojo y verde son opuestos, pero sin embargo el opuesto al r
 - **Blanco y Negro**
 
 - **Dorado y Pateado**
+
+
+# **Utilidades Narrativas del color:**
+___
+- Representar un cambio como el estado anímico de un personaje o etapas vitales..
+
+- Asociar un color a una idea, como una realidad, idea, estado mental, personas..
