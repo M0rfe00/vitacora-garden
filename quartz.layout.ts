@@ -79,7 +79,8 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: 1,
-        scale: 4,
+        scale: 2.2,
+        fontSize: 1.2, // what size should the node labels be?
         removeTags: ["hideInExplorer"],
         enableRadial: true,
       },
