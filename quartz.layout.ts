@@ -100,24 +100,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-/**************Codigo para el zoom del graph view************/
-setTimeout(() => {
-  // Local Graph
-  const localSVG = document.querySelector<SVGSVGElement>(".quartz-local-graph svg");
-  const localZoom = (window as any).d3?.zoom; // acceso a D3
-  if (localSVG && localZoom) {
-    const d3Selection = (window as any).d3.select(localSVG);
-    d3Selection.call((window as any).d3.zoom().scaleTo, 1.5);
-  }
-
-  // Global Graph
-  const globalSVG = document.querySelector<SVGSVGElement>(".quartz-global-graph svg");
-  if (globalSVG && localZoom) {
-    const d3Selection = (window as any).d3.select(globalSVG);
-    d3Selection.call((window as any).d3.zoom().scaleTo, 1.2);
-  }
-}, 100);
-
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
