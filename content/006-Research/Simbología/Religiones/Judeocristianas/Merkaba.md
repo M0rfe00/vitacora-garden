@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 Es imposible describir o explicar que es la cábala sin hablar primero del misticismo de la marcaba, el misticismo de la merca va fue una suerte de pre cábala, fue la corriente que más influyó en esa reinterpretación mística de textos sagrados que es la cábala, esta corriente se basaba en la creencia de la posibilidad de hacer un viaje sublime hacia el mismo dios en un carro celestial que era precisamente la marcaba y en la capacidad para bajar y manipular poderes divinos a la tierra.
 
 Es imposible describir o explicar que es la cábala sin hablar primero del misticismo de la marcaba, el misticismo de la merca va fue una suerte de pre cábala, fue la corriente que más influyó en esa reinterpretación mística de textos sagrados que es la cábala, esta corriente se basaba en la creencia de la posibilidad de hacer un viaje sublime hacia el mismo dios en un carro celestial que era precisamente la marcaba y en la capacidad para bajar y manipular poderes divinos a la tierra.

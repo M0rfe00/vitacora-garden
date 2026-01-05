@@ -4,12 +4,12 @@ tags:
 ---
 # Web Resources for  3D
 ___
-### **REFERENCIAS - POSES**
+## **REFERENCIAS - POSES**
 - [PoseManiacs](https://www.artstation.com/) - Referencias anatómicas de poses.
 - [MagicPoser](https://magicposer.com/) - Referencias anatómicas de poses.
 - [justsketch](app.justsketch.me) - Referencias anatómicas de poses.
 
-### **TEXTURAS:**
+## **TEXTURAS:**
 - [AmbientCG](https://ambientcg.com/) - Textures, PBR Surfaces, HDRIs, 3D Assets, Substances.
 - [Poly Haven](polyhaven) - Textures, HDRIs, 3D Models.
 - [Textures.com](https://www.textures.com/library) - Texturas y  PBR utiles que funcionan bien en Blender. 
@@ -22,7 +22,7 @@ ___
 - [textures-resource](https://textures.spriters-resource.com/)  - Texturas de juegos retro.
 - [spriters-resource](https://www.spriters-resource.com/)  - Sprites de juegos retro.
 
-### **ASSETS 3D:**
+## **ASSETS 3D:**
 - [Render State](https://render-state.to/) - 3D Assets for Daz characters.
 - [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
 - [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
@@ -38,7 +38,7 @@ ___
 - [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
 - [blendswap](https://blendswap.com/categories)
 
-### **OTROS:**
+## **OTROS:**
 - **Figma** - Diseño de interfaz, planificación de proyectos, presentaciones...
 - **Borisfx** - Plugins para After Effects faciles de usar y potentes, ej: Sapphire.
 - [**Ddingone**](https://ddingone.gumroad.com/) - Creator who makes plugins for C4D, easy to use and usefull.
@@ -46,21 +46,21 @@ ___
 
 # **Plugins for Blender:**
 ___
-### **Camera**
+## **Camera**
 - Camera Shakify
-- **==[PRO LENS](https://superhivemarket.com/products/pro-lens-2)==**
-- **==[CAM-FX](https://superhivemarket.com/products/camfx)==**
+- [**==PRO LENS==**](https://superhivemarket.com/products/pro-lens-2)
+- [**==CAM-FX==**](https://superhivemarket.com/products/camfx)
 
-### **Lightning/Vibe**
+## **Lightning/Vibe**
 - [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
 - [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
 - **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
 - Alt-tab easy fog
 
-### **Materials**
+## **Materials**
 - Blenderkit (free)
 
-### **Characters**
+## **Characters**
 - [**==Humanify==**](https://superhivemarket.com/products/humanify---one-click-realism)
 - [**==Diffeomorphic==**](https://diffeomorphic.blogspot.com/)
 - **Daz To Blender**
@@ -69,7 +69,7 @@ ___
 - GNS RIG
 - Wiggle 2
 
-### **Foliage/Enviorment**
+## **Foliage/Enviorment**
 - ANT landscape (free, built-in)
 - Botaniq
 - gscatter 
@@ -79,7 +79,7 @@ ___
 - FLVER 
 - Animation 
 - Landscape
-### **Others**
+## **Others**
 - Rokoko
 - CATS
 - MMD
@@ -92,7 +92,7 @@ ___
 
 # Software
 ___
-##### **Software to create industry Standard type render, with same tools in CGI  movies:**
+### **Software to create industry Standard type render, with same tools in CGI  movies:**
 - **Zbrush** - Sculpting
 - **ZWrap** - Plugin for geometry wrapping
 - **Texturing XYZ vFace maps** - Textures
@@ -105,7 +105,7 @@ ___
 - **Octane later switched to Redshift** - Rendering
 - Substance Painter - Textures
 
-##### **Other Softwares:**
+### **Other Softwares:**
 - **Clo3D / Marvelous Designer**
 - **Cascadeur**
 - **Unreal Engine**

@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Corrientes orientales
+---
 Dentro del sintoísmo o mejor dicho Sinto, “Kami” es uno de los conceptos clave, es un término muy simple y complejo a la vez ya que no existe una traducción directa que haga justicia a su verdadero significado, la traducción oficial seria dios, sin embargo, esta es una traducción un tanto forzada implementada a principio del siglo XIX.
 
 Los kamis tratan de incontables entidades, ya sean verdaderos dioses o deidades, ciertos espíritus representantes de sí mismos o ciertos seres vivos e incluso inertes, algunos de estos kamis son, el monte Fuji, el emperador, cada árbol, cada animal, las rocas, el rio, el viento, todo tiene un kami, incluso las personas al morir pueden convertirse en kamis.

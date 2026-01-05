@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Corrientes orientales
+---
 # **INTRODUCCIÓN**
 ___
 En siglo VI a.c. en una región llamada Lumbini situada en lo que hoy es Nepal, nació un príncipe, según la tradición budista este príncipe creció rodeado de lujo y comodidad y su padre, el rey hizo todo lo posible para que nunca experimentará el sufrimiento y las dificultades de la vida, así el príncipe llamado Siddhartha Gautama creció en un ambiente de riqueza y confort rodeado de sirvientes y lujos a pesar de esta vida privilegiada Siddhartha comenzó a sentir una creciente inquietud preguntándose sobre el propósito de la vida y el sufrimiento humano y a la edad de 29 años decidió abandonar su vida en la corte para empezar una nueva búsqueda espiritual y encontrar una el sufrimiento humano.

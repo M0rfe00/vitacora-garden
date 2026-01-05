@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # Johannes Bureus
 En el siglo XVI cuando la biblia dejo de ser considerada como una fuente histórica fiable y paso a ser considerada únicamente como un texto religioso, un libro de fe, en esa época un polimata llamado Johannes Bureus, comenzo a vagar por Suecia copiando las inscripciones rúnicas que encontraba.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Corrientes orientales
+---
 # Entender el Taoísmo. Carlos Pedro Bernat
 ___
 

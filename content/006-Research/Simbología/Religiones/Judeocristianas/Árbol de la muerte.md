@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # El Árbol de la Muerte y las Qlifot: El Lado Oscuro de la Cábala 
 ___
 El árbol de la muerte es la versión inversa del árbol de la vida cabalístico, un diagrama que presenta a las Qlifot como las contrapartes malignas de los Sephiroths, como fuerzas adversarias de las 10 emanaciones divinas. 

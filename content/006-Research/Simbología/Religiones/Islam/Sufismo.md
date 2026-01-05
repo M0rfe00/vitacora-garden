@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Islam
+---
 # El Sufismo - Antigua Tradición Secreta #7
 ___
 En todo oriente próximo desde la arabia preislámica hasta la edad de oro islámica y el período otomano, el pensamiento religioso se vio influenciado en mayor o menor medida por la antigua tradición secreta, manifestada a veces en la filosofía esotérica y los misterios de ciertas corrientes, creencias que ya en la época islámica se difundieron en pequeños círculos entre la élite científica y muchos príncipes, especialmente en las cortes omeya y abasí.

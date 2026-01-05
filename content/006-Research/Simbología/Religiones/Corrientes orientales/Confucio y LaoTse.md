@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Corrientes orientales
+---
 # Confucio | Manuel Fraijó Fundación Juan March
 ___
 Si algo era importante para Confucio eran los antepasados, lo que habían venido antes que nosotros, aquellos a los que les debíamos tanto, eran tan importantes que al budismo le costó mucho trabajo entrar en china justo porque los confucianos y el mundo chino en general les resultaba enormemente extraño y doloroso el pensar que sus seres queridos y antepasados se pudieran reencarnar (doctrina budista) en un insecto por ejemplo o en un animal, también les resultaba dura la cremación tan propia del budismo, el confucianismo era inhumación y todo esto hizo que le costara mucho al budismo entrar en China, los chinos también pensaba  que en el cristianismo que la relación con los antepasados y los difuntos era demasiado tenue , demasiado difusa, en el confucianismo y taoísmo esta relación es muy viva siguen tratando a los difuntos como si estuvieran presentes, como si estuvieran vivos.
