@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Fotografía
+---
 # **Propiedades de la Luz**
 ____
 ## **Dureza:** 
@@ -23,7 +26,7 @@ La [temperatura de color](https://www.dzoom.org.es/la-temperatura-del-color/) 
 Dependiendo de la dirección y angulación en la que la luz incida sobre nuestro sujeto, su cara puede cambiar de manera radical. En eso se basan los esquemas de iluminación.
 
 
-# ==**Nociones sobre iluminación**==
+# ==Nociones sobre iluminación==
 ___
 ## **Ley de la inversa del cuadrado de la distancia**
 A medida que un sujeto se aleje de la fuente emisora de luz, la intensidad de dicha luz va a disminuir en relación inversa al cuadrado de la distancia.
@@ -65,10 +68,14 @@ Según la temperatura el color puede variar, esta se mide en escala kelvin, cuan
 
 
 
-# **==BALANCE DE BLANCOS Preproducción==**
+# ==BALANCE DE BLANCOS Preproducción==
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqNr79BkAAU?si=WI_4MJ2EhKeGtgZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ov7YvCKqono?si=ltIowrWTib1LCUv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqNr79BkAAU?si=WI_4MJ2EhKeGtgZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ov7YvCKqono?si=ltIowrWTib1LCUv7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 A lo largo del día la iluminación va cambiando, cuando el sol sale comienza cálido y a medida que se acerca al medio día para al espectro más frio o neutro, pero cuando se pone vuelve a bajar al más cálido y cuando se ha ido completamente vuelve azul.
 
@@ -88,9 +95,11 @@ Para una iluminación balanceada en un entorno controlado hay que hacer coincidi
 
 En una escena con predominancia de un color este puede causar reflejos y tintar la imagen, esto se puede compensar añadiendo el color opuesto en la cámara.
 
-# ==**BALANCE DE BLANCOS Postproducción==**
+# ==BALANCE DE BLANCOS Postproducción==
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BqmOQXbmoi4?si=Kcgk-0z14c0nRHfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqmOQXbmoi4?si=Kcgk-0z14c0nRHfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 Generalmente cuando se empieza a corregir el color se realizan ajustes sin pensar en lo que se está haciendo hasta que se vea bien, el problema de esto es que los ojos nos engañan ya que tienden a acostumbrarse a una corrección entorpeciendo el proceso.
 
@@ -113,7 +122,7 @@ Por ejemplo, un retrato con luz suave será muy diferente de un retrato con luz 
 
 **También es posible emplear [luz natural para retratos](https://www.dzoom.org.es/como-analizar-y-entender-la-luz-natural-de-la-que-dispones-para-conseguir-grandes-imagenes/)** e ir cambiando la posición del sujeto en lugar de la posición de las luces, e incluso [combinar luz natural con luz artificial](https://www.dzoom.org.es/retratos-exterior-flash-mano/).
 
-## ==**Esquemas de Iluminación con 1 Fuente de Luz**==
+## **==Esquemas de Iluminación con 1 Fuente de Luz==**
 
 ### **1. Rembrandt** (45º)
 Consiste en **situar una fuente de luz a 45º** respecto a la nariz de nuestro sujeto, de tal manera que la sombra que proyecte su nariz cree un triángulo de luz en la mejilla en sombra.
@@ -182,7 +191,7 @@ Con esta iluminación conseguiremos **suavizar las facciones de nuestro sujeto 
 />
 
 
-## ==**Esquemas de Iluminación con 2 Fuentes de Luz**==
+## **==Esquemas de Iluminación con 2 Fuentes de Luz==**
 Cualquiera de los esquemas que hemos visto con una sola fuente de luz puede ser complementado con un segundo flash que ilumine el fondo.
 
 ### **6. 1 Fuente + Iluminar el Fondo** 
@@ -318,7 +327,7 @@ Con ello conseguiremos remarcar toda su silueta y conseguir así que quede perfe
 />
 
 
-## ==**Esquemas de Iluminación con 3 Fuentes de Luz**==
+## **==Esquemas de Iluminación con 3 Fuentes de Luz==**
 
 ### **17. 1 Fuente + Doble Contraluz** 
 Con 3 fuentes de iluminación podemos usar cualquiera de los esquemas de iluminación con una sola fuente de luz que hemos visto y agregarle el doble contraluz que acabamos de comentar en el punto anterior.
@@ -398,7 +407,7 @@ Si queremos **darle un poco de volumen al cabello de nuestro sujeto y despegarl
 />
 
 
-## ==**Esquemas de Iluminación con 4 (o más) Fuentes de Luz**==
+## **==Esquemas de Iluminación con 4 (o más) Fuentes de Luz==**
 ### **24. Iluminar Fondo**
 Cualquiera de los esquemas anteriores se puede complementar con una cuarta fuente de iluminación que mire directamente hacia el fondo.
 
@@ -423,7 +432,7 @@ Los situaremos a 45º y -45º por detrás de nuestro sujeto, para **realzar amb
 />
 
 
-# ==**Esquemas de Iluminación imprescindibles**==
+# **==Esquemas de Iluminación imprescindibles==**
 ___
 ## **Esquema completo de 3 puntos**
 Uno de los esquemas más tradicionales, aplicable a un montón de situaciones, incluso cuando trabajes con luz natural. Cuenta con 3 puntos de luz:
@@ -525,7 +534,7 @@ Ahora bien, si se utilizan dos luces a 90º, una en cada lado entre la línea de
 />
 
 
-# ==**Esquemas para Productos**==
+# **==Esquemas para Productos==**
 ___
 ## **Productos Mate**
 Si el producto es mate y no nos va a crear grandes brillos, lo ideal es colocar una de las luces en posición cenital, encargada de iluminar el fondo y la parte superior del producto, y la otra en un lateral, cuya función será dar profundidad al objeto fotografiado con un degradado de luz. Ambas deben colocarse en un ángulo de 90º respecto al producto que queramos fotografiar.

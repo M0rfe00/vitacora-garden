@@ -1,3 +1,7 @@
+---
+tags:
+  - Design
+---
 # How to use Textures
 ___
 ## **Textures: first way** 

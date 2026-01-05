@@ -1,3 +1,7 @@
+---
+tags:
+  - Moda
+---
 # **Hoarding:** **la importancia de no acaparar** **- Ché Abjeli**
 ___
 El termino hoarding, o en castellano acaparar, se refiere recolectar, almacenar, guardar, tener cualquier tipo de posesión material a la cual no se le da uso y este estancada y ocupando espacio en el armario.

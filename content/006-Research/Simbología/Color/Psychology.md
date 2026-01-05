@@ -1,6 +1,7 @@
 ---
 tags:
   - Color
+  - Simbologia
 ---
 ## **ROJO**
 <img

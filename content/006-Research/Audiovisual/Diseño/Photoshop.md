@@ -1,3 +1,7 @@
+---
+tags:
+  - Design
+---
 # **Píxel y vector**
 ___
 Las capas de píxel están formadas por pixeles de diferentes colores formado una con mucho detalle, pero pierden detalle al ser transformadas.

@@ -5,7 +5,7 @@ tags:
 ---
 # **Trabajar el color:**
 ___
-- ==**Corrección de color y etalonaje:**== La corrección de color se basa en corregir los posibles errores de color de un clip, mientras que el etalonaje es más creativo y subjetivo.
+- **==Corrección de color y etalonaje:==** La corrección de color se basa en corregir los posibles errores de color de un clip, mientras que el etalonaje es más creativo y subjetivo.
 
 	Antes de empezar a entalonar se suelen realizar algunas correcciones comunes como ajustar la exposición, el contraste, realizar un balance de blancos..., tras esto se puede se puede empezar a entalonar o en otras palabras corregir de forma creativa.
 
@@ -13,9 +13,9 @@ ___
 
 	A la hora de aplicar los nodos de un clip a otros en vez de copiarlos y pegarlos clip a clip, es posible agrupar los clips, lo que creara unas ventanas adicionales en la que podremos pegar los nodos o preferiblemente una captura de ellos (capturándolos, borrándolos de la ventana inicial y aplicando la captura en la ventana “clips posteriores al grupo”) esto permite modificar todos los clips del mismo grupo a la vez de forma procedural al compartir los nodos del post grupo.
 
-- ==**Igualación:**== Para igualar los colores de un plano de referencia a uno de nuestros clips, un método es; capturar el clip de referencia, activar el icono de comparativa para comparar la referencia y nuestro clip, de esta forma al mover la cortinilla de la comparativa también se verá en la representación gráfica, de esta forma se podrá igualar tanto de forma visual viendo directamente ambas imágenes como de forma matemática guiándonos por las diferentes gráficas.
+- **==Igualación:==** Para igualar los colores de un plano de referencia a uno de nuestros clips, un método es; capturar el clip de referencia, activar el icono de comparativa para comparar la referencia y nuestro clip, de esta forma al mover la cortinilla de la comparativa también se verá en la representación gráfica, de esta forma se podrá igualar tanto de forma visual viendo directamente ambas imágenes como de forma matemática guiándonos por las diferentes gráficas.
 
-- ==**Tratamiento de pieles:**== Para tratar las pieles respetando el resto de las correcciones en el plano lo primero que hay que hacer es aislarla, esto se puede hacer con la herramienta Qualifier para seleccionar los tonos de la piel y la máscara para delimitar la selección, también se podría modificar el fondo por separado añadiendo un mezclador de capas.
+- **==Tratamiento de pieles:==** Para tratar las pieles respetando el resto de las correcciones en el plano lo primero que hay que hacer es aislarla, esto se puede hacer con la herramienta Qualifier para seleccionar los tonos de la piel y la máscara para delimitar la selección, también se podría modificar el fondo por separado añadiendo un mezclador de capas.
 
 	Independientemente de la persona la tonalidad de la piel es la misma, lo que cambia de una a otra son los valores de luminosidad, por ello el vectorscopio es realmente útil para esto ya que muestra los diferentes tonos y del centro para fuera la saturación del color, esta grafica viene con un espacio cromático adicional que podemos activar llamado “indicadores de tono de piel” que muestra una referencia de donde debería estar el tono de piel de la selección, lo que se debe hacer es modificar el color para que quede ligeramente por encima de la línea.
 

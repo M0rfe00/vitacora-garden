@@ -1,8 +1,9 @@
 ---
 tags:
   - Color
+  - Design
 ---
-# ==**Luz/color:**==
+# **==Luz/color:==**
 ___
 La luz es una onda electromagnética, dentro del espectro de frecuencias electromagnéticas hay un rango de ondas/luz visible por el ojo humano y el cerebro interpreta como colores.
 
@@ -11,7 +12,7 @@ El espectro electromagnético va de ondas con más energía y por ello mayor fre
 El espectro de luz visible se encuentra entre los 400nm y 700nm
 
 
-# ==**Características del color:**==
+# **==Características del color:==**
 ___
 - **Matiz/Tono:** (HUE): determina el color / longitud de onda dentro del espacio de color.
 
@@ -19,7 +20,7 @@ ___
 
 - **Brillo (Value):** Determina cuanto se acerca el color al blanco o al negro.
 
-# ==**Sistemas de color**==
+# **==Sistemas de color==**
 ___
 **Espacios de color:** Son gamas de colores capaces de representar diferentes paletas colores.
 
@@ -29,7 +30,7 @@ ___
 
 - **RYB:** Sistema de colores primarios que usa (Amarillo rojo y azul) que combinados dan lugar a otros utilizado sobre todo en pintura.
 
-# ==**Rueda del color:**==
+# **==Rueda del color:==**
 ___
 Herramienta formada por tres colores distribuidos en un círculo con una separación de 180º y la suma de sus valores en las posiciones intermedias, logrando asi todas las combinaciones de matices. A la rueda también puede añadirse la posibilidad modificar el del brillo y saturación.
 
@@ -40,7 +41,7 @@ Herramienta formada por tres colores distribuidos en un círculo con una separac
 />
 
 
-# ==**Armonías de color:**==
+# **==Armonías de color:==**
 ___
 <img
   src="/media-content/Apuntes/media-davinci/7e211b4fe5db1db461982d705b962e395acafb3d.png"
@@ -73,7 +74,7 @@ Se forma eligiendo cuatro colores a 90º (cuadrados) en la rueda, generalmente d
 (utilizar proporciones y establecer color dominante, tónico y de mediación para mayor armonía)...
 
 
-# ==**Asociaciones del color:**==
+# **==Asociaciones del color:==**
 ___
 Dependiendo de la cultura e incluso de la persona cada color suele tener una asociación u otra, sin embargo, si se pueden tomar unas líneas generales más asociadas a rasgos comunes de forma global, como el verde a la salud y naturaleza, el azul al cielo, la calma y serenidad, el rojo suele estar asociado a la sangre y la pasión.
 
@@ -86,7 +87,7 @@ Dependiendo de la cultura e incluso de la persona cada color suele tener una aso
 - Combinar colores contrastantes y desagradables al ojo puede ser útil para generar rechazo, angustia e inestabilidad
 
 
-# ==**Leyes de color de Johannes Itten:**==
+# **==Leyes de color de Johannes Itten:==**
 ___
 ## **Contraste tono/color:** 
 Contraste que se da entre colores saturados puros, utilizado en ilustraciones infantiles y logotipos al ser de sencillos y no saturar al cerebro.
@@ -171,6 +172,7 @@ Se considera esotéricamente el color de las habilidades psíquicas, la telepat�
 ## **El violeta 🟣** 
 Supo ser el color de la realeza o la nobleza los reyes y las reinas a menudo se representaban en su máxima expresión utilizando el color púrpura, ampliamente usado para reflejar sabiduría espiritual adivinación y trabajo psíquicos, un color del que siempre se ha creído en distintas escuelas, eficaz para lidiar con energías difíciles de manejar, Júpiter es el regente del color violeta y representa el chakra de la corona.
 
+<!--
 ___
 
 # Color Fotografia
@@ -194,3 +196,5 @@ ___
 ![[0. Color y Esoterismo]]`)
 
 )
+
+-->

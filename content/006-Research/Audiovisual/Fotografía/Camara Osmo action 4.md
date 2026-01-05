@@ -77,7 +77,7 @@ ___
 
 - **Exposición automática:** **condiciones de luz: ISO:** 1-400, **Bit dark:** 1-800, **to dark:** 100-1600, **EV:** +0.0, **SP:** 1/200-1/8000 para obtener buena estabilización
 
-# **LOW LIGHT Filming \| Settings for BEST Results 
+# LOW LIGHT Filming \| Settings for BEST Results 
 ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d36laQxaRHA?si=kDQreHOzH5n833tZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

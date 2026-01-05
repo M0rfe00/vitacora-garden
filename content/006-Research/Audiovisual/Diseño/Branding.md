@@ -1,3 +1,8 @@
+---
+tags:
+  - Design
+  - Branding
+---
 # Branding
 ___
 El branding no se reduce solo a un logo, también es la voz, la ropa, la forma de hablar, una mascota, una playlist.. Un buen branding consiste en ser recordado sin vender humo.

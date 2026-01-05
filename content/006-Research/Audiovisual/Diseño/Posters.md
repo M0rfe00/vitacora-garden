@@ -1,3 +1,7 @@
+---
+tags:
+  - Design
+---
 # **Formato**
 ___
 Tener en cuenta tanto formatos digitales como físicos para poder imprimir si es necesario

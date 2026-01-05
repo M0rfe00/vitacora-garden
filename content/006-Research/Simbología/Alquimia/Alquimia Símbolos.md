@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Alquimia
+---
 # LAS FASES DE LA GRAN OBRA ALQUÍMICA
 ___
 La Gran Obra (Magnum Opus) es el proceso mediante el cual el alquimista busca la transformación, tanto de los metales viles en oro como del alma humana hacia su perfección espiritual. Esta transformación ocurre en varias fases, de las cuales las tres principales son: 

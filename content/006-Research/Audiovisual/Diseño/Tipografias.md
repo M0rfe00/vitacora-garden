@@ -1,3 +1,7 @@
+---
+tags:
+  - Design
+---
 # TIPOGRAFIAS
 ___
 **Fuentes y Tipografías:** las tipografías son las fuentes, por ejemplo **roboto**, arial.. mientras que las fuentes son "roboto bold", "arial italic"...
@@ -158,9 +162,9 @@ hay tipografías más serias y formales como Times New Roman o Barkerville, las 
 
 Hay que analizar si la tipografía es seria, divertida, sus características...
 
-# ==**Jerarquía de tipografía:**==
+# **==Jerarquía de tipografía:==**
 ___
-- ==**primario:**== titulares, ==**secundario:**== subtítulos pequeños bloques de texto, ==**terciario:**== texto principal.
+- **==primario:==** titulares, **==secundario:==** subtítulos pequeños bloques de texto, **==terciario:==** texto principal.
 
 - **Jugar con diferentes tipos de fuentes y estilos y sus variables** como interlineado, cursiva...
 
@@ -168,17 +172,17 @@ ___
 
 - **Respetar como la mente percibe la información visual** como un **conjunto** y no de forma individual para generar armonía o destacar un elemento:
 
-- ==**Orden:**== izquierda derecha, arriba abajo, reconociendo patrones.
+- **==Orden:==** izquierda derecha, arriba abajo, reconociendo patrones.
 
-- ==**Proximidad:**== percibir elementos cercanos u alejados como un grupo.
+- **==Proximidad:==** percibir elementos cercanos u alejados como un grupo.
 
-- ==**Similitud:**== elementos similares en color, forma, tamaño como un grupo o categoría.
+- **==Similitud:==** elementos similares en color, forma, tamaño como un grupo o categoría.
 
-- ==**Continuidad:**== La mente tiende a seguir líneas o patrones continuos
+- **==Continuidad:==** La mente tiende a seguir líneas o patrones continuos
 
-- ==**Cierre:**== La mente completa formas incompletas o vacíos para crear un todo.
+- **==Cierre:==** La mente completa formas incompletas o vacíos para crear un todo.
 
-- ==**Ley de la figura y el fondo:**== La mente distingue un objeto (la figura) de su entorno.
+- **==Ley de la figura y el fondo:==** La mente distingue un objeto (la figura) de su entorno.
 
 
 

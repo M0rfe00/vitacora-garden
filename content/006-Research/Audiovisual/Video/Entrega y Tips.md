@@ -8,11 +8,11 @@ Para renderizar el video final debemos seleccionar el (IN) inicio y (OUT) final,
 
 ### **Los principales elementos de la interfaz de entrega son:**
 
-- ==**Ajustes de renderización:**== panel en el que debemos introducir la configuración de renderizado, como el nombre del archivo, ubicación de destino, tipo de renderizado (un clip o varios) (audio, video), ajustes de video y compresión (formato, códec de codificación de la imagen y codificador) resolución, FPS, Calidad para especificar el número de megas por 1seg/24fps, Fotogramas clave para elegir sobre que fotogramas guiarse para realizar la compresión, Convertir los marcadores en capítulos, Rate control...
+- **==Ajustes de renderización:==** panel en el que debemos introducir la configuración de renderizado, como el nombre del archivo, ubicación de destino, tipo de renderizado (un clip o varios) (audio, video), ajustes de video y compresión (formato, códec de codificación de la imagen y codificador) resolución, FPS, Calidad para especificar el número de megas por 1seg/24fps, Fotogramas clave para elegir sobre que fotogramas guiarse para realizar la compresión, Convertir los marcadores en capítulos, Rate control...
 
 	Todos los ajustes realizados se pueden guardar como plantillas
 
-- ==**Cola de procesamiento:**== Desde este panel podemos visualizar y renderizar los videos que hemos añadido a la cola
+- **==Cola de procesamiento:==** Desde este panel podemos visualizar y renderizar los videos que hemos añadido a la cola
 
 
 # **\[Creación de contenido\]**

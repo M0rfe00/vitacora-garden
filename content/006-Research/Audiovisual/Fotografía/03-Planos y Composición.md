@@ -1,26 +1,30 @@
+---
+tags:
+  - Fotografía
+---
 # **Composición: \[Ini. foto y video\]**
 ___
 **Distribución de los elementos visuales de una imagen para transmitir una idea concreta o dirigir la atención a un elemento concreto, para ello se suele utilizar la regla de los tercios: cuadricula que divide la imagen en un 3x3 para aplicar otras reglas:**
 
-- ==**Centrar los ojos en el tercio superior**==, tanto en formato horizontal y vertical.
+- **==Centrar los ojos en el tercio superior==**, tanto en formato horizontal y vertical.
 
 - **==Dejar espacio por encima del sujeto==**, pero no demasiado, seguir (ojos tercio superior)
 
-- ==**Evitar zonas vacías**==, acercando la cámara al sujeto si es necesario.
+- **==Evitar zonas vacías==**, acercando la cámara al sujeto si es necesario.
 
-- Si el sujeto no está mirando a la cámara ==**dejar espacio en la dirección de su mirada**==.
+- Si el sujeto no está mirando a la cámara **==dejar espacio en la dirección de su mirada==**.
 
-- Si el sujeto mira a cámara ==**posicionarlo simétricamente en el tercio central**==.
+- Si el sujeto mira a cámara **==posicionarlo simétricamente en el tercio central==**.
 
-- En caso de necesitar recortar la imagen, ==**priorizar la boca a el pelo**==.
+- En caso de necesitar recortar la imagen, **==priorizar la boca a el pelo==**.
 
-- ==**Profundidad con capas**==, previa al sujeto, sujeto y tras el sujeto (Planta, persona, pared)
+- **==Profundidad con capas==**, previa al sujeto, sujeto y tras el sujeto (Planta, persona, pared)
 
-- ==**Horizontes y estructuras rectas**== para dar una sensación de orden.
+- **==Horizontes y estructuras rectas==** para dar una sensación de orden.
 
-- Utilizar ==**líneas para guiar la mirada**== (luces, edificios, puentes...)
+- Utilizar **==líneas para guiar la mirada==** (luces, edificios, puentes...)
 
-- ==**Balance visual**== compensando la presencia de elementos en tercios diagonales.
+- **==Balance visual==** compensando la presencia de elementos en tercios diagonales.
 
 <img
   src="/media-content/Apuntes/media-foto/e103e212692d8fe1983c5d79215d6a90e2c56281.png"
@@ -33,21 +37,21 @@ ___
 ___
 - **El ojo fotográfico es la capacidad de previsualizar una buena foto antes de hacerla**, técnica aprensible con la práctica de estos conceptos.
 
-- ==**Saber cuál es el protagonista**== para centrar y dirigir la atención entorno a ese elemento.
+- **==Saber cuál es el protagonista==** para centrar y dirigir la atención entorno a ese elemento.
 
-- ==**Uso de líneas de fuga/fuerza para guiar la mirada**== a un elemento concreto.
+- **==Uso de líneas de fuga/fuerza para guiar la mirada==** a un elemento concreto.
 
-- ==**Equilibrar el peso visual de los elementos**== que generan más atracción visual.
+- **==Equilibrar el peso visual de los elementos==** que generan más atracción visual.
 
 - **==Alinear la línea del horizonte==** en la fila superior para resaltar el suelo y viceversa.
 
-- ==**Alinear el elemento con una de las líneas**== verticales o intersecciones superiores.
+- **==Alinear el elemento con una de las líneas==** verticales o intersecciones superiores.
 
-- ==**Posicionar simétricamente los elementos**== de la imagen sirve incluso sin seguir los 3/3.
+- **==Posicionar simétricamente los elementos==** de la imagen sirve incluso sin seguir los 3/3.
 
-- ==**Un elemento aislado genera suficiente interés**== para no posicionarlo segun los 3/3.
+- **==Un elemento aislado genera suficiente interés==** para no posicionarlo segun los 3/3.
 
-- ==**Hacer coincidir las líneas de fuga== con las esquinas de la imagen.**
+- **==Hacer coincidir las líneas de fuga== con las esquinas de la imagen.**
 
 # **Reglas de Composición aparte de 3/3: \[Pedro Vidal\]**
 ___
@@ -85,23 +89,23 @@ ___
 ___
 **Los planos pueden dividirse principalmente en generales, medios y cortos y son:**
 
-- ==**Primerísimo primer:**== Encuadra una parte específica, generalmente ojos y boca.
+- **==Primerísimo primer:==** Encuadra una parte específica, generalmente ojos y boca.
 
-- ==**Primer:**== enfoca el rostro del personaje generalmente hasta los hombros.
+- **==Primer:==** enfoca el rostro del personaje generalmente hasta los hombros.
 
-- ==**Medio corto:**== encuadra desde la cabeza hasta el pecho.
+- **==Medio corto:==** encuadra desde la cabeza hasta el pecho.
 
-- ==**Medio:**== encuadra desde la cabeza hasta la cintura.
+- **=Medio:==** encuadra desde la cabeza hasta la cintura.
 
-- ==**Americano:**== encuadra desde la cabeza hasta las rodillas.
+- **==Americano:==** encuadra desde la cabeza hasta las rodillas.
 
-- ==**Entero:**== Encuadra el cuerpo completo de pies a cabeza.
+- **==Entero:==** Encuadra el cuerpo completo de pies a cabeza.
 
-- ==**General:**== Encuadra al personaje y al escenario en el que se encuentra.
+- **==General:==** Encuadra al personaje y al escenario en el que se encuentra.
 
-- ==**Panorámico:**== muestra la localización en la que se encuentra.
+- **==Panorámico:==** muestra la localización en la que se encuentra.
 
-- ==**Detalle:**== Capta un detalle concreto del personaje o la escena.
+- **==Detalle:==** Capta un detalle concreto del personaje o la escena.
 
 <img
   src="/media-content/Apuntes/media-foto/e87f6839283c42c89b28b2f8348c8964c00c2532.png"
@@ -110,21 +114,21 @@ ___
 />
 ## **Según la posición de la cámara:**
 
-- ==**Cenital:**== posicionada desde arriba, encima del sujeto, 180º.
+- **==Cenital:==** posicionada desde arriba, encima del sujeto, 180º.
 
-- ==**Picado:**== ligeramente posicionada desde arriba, diagonal al sujeto, 145º aprox.
+- **==Picado:==** ligeramente posicionada desde arriba, diagonal al sujeto, 145º aprox.
 
-- ==**Frontal:**== posicionada frontalmente, frontal al sujeto, 90º.
+- **==Frontal:==** posicionada frontalmente, frontal al sujeto, 90º.
 
-- ==**Escorzo:**== situada tras el sujeto ligeramente elevada
+- **==Escorzo:==** situada tras el sujeto ligeramente elevada
 
-- ==**Contrapicado:**== ligeramente posicionada desde abajo, diagonal,
+- **==Contrapicado:==** ligeramente posicionada desde abajo, diagonal,
 
-- ==**Nadir:**== posicionada desde abajo, bajo el sujeto.
+- **==Nadir:==** posicionada desde abajo, bajo el sujeto.
 
-- ==**Lateral:**== posicionada a un perfil del sujeto.
+- **==Lateral:==** posicionada a un perfil del sujeto.
 
-- ==**Holandés:**== o aberrante, girada ligeramente unos 45º
+- **==Holandés:==** o aberrante, girada ligeramente unos 45º
 
 <img
   src="/media-content/Apuntes/media-foto/994724073ca49e8a66c8115b48a4b2c2ddb8e32b.png"
@@ -136,10 +140,10 @@ ___
 
 ## **Según el punto de vista:**
 
-- ==**Subjetivo:**== POV la cámara muestra lo que ve el personaje.
+- **==Subjetivo:==** POV la cámara muestra lo que ve el personaje.
 
-- ==**Objetual:**== posicionada desde el punto de vista de un objeto.
+- **==Objetual:==** posicionada desde el punto de vista de un objeto.
 
-- ==**Subjetivo Voyeur:**== mezcla entre el subjetivo y objetual, muestra el punto de vista de un personaje a través de un objeto como una cámara o prismáticos.
+- **==Subjetivo Voyeur:==** mezcla entre el subjetivo y objetual, muestra el punto de vista de un personaje a través de un objeto como una cámara o prismáticos.
 
-- ==**Indirecto:**== muestra el punto de vista de un reflejo como un espejo, agua, metal...
+- **I==ndirecto:==** muestra el punto de vista de un reflejo como un espejo, agua, metal...

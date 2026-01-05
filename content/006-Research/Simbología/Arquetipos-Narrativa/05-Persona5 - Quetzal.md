@@ -1,3 +1,8 @@
+---
+tags:
+  - Jung
+  - Arquetipos
+---
 Ovejas eléctricas: Gustav Jung y Persona 5 
 ___
 Persona es la versión jugable las teorías del filósofo y psicólogo suizo Carl Jung, en este video se desarrollan las ideas de Jung más que su adaptación en el videojuego. 

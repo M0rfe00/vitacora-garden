@@ -2,6 +2,7 @@
 tags:
   - Davinci
   - Color
+  - Fotografía
 ---
 # **Luz/color** - Size Matters
 ____

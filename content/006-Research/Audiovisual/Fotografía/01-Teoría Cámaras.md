@@ -3,11 +3,11 @@ tags:
   - Fotografía
 ---
 # **Tipos cámara:** 
-(Las diferencias entre ambas se notan mucho más en video)
-
+___
 - **Mirrorless:** Estándar actual, la luz llega directamente al sensor permitiendo realizar el autoenfoque en él y realizar fotos en ráfaga a mayor velocidad, por lo que son más ligeras.
 
 - **DSLR:** Antiguas, Utilizan un espejo para reflejar al sensor la luz captada por el objetivo, el cual se retira según la velocidad de obturación, han sido el estándar muchos años.
+- (Las diferencias entre ambas se notan mucho más en video)
 
 # **Componentes:**
 
@@ -21,18 +21,18 @@ tags:
 
 	Con aperturas cerradas puede haber problemas de difracción y con más abiertas aberración.
 
-# **Triangulo de exposición**
+# **==Triangulo de exposición==**
 ___
 El triángulo de exposición es un método para **<u>balancear la luz que
 entra al sensor</u>** para que la imagen no quede sobreexpuesta ni subexpuesta, para ello se ajustan el ISO, velocidad de obturación y la apertura del diafragma
 
-- **ISO:** (Luz) determina cuanta luz entra al sensor, a mayor ISO más luz entrara, pero con valores altos empezara a generar ruido, 100-800 máx. recomendado. (directa)
+- **==ISO:==** (Luz) determina cuanta luz entra al sensor, a mayor ISO más luz entrara, pero con valores altos empezara a generar ruido, 100-800 máx. recomendado. (directa)
 
-- **Velocidad de obturación:** (Movimiento) Tiempo que tardara el obturador en abarse y cerrase, cuan mayor sea el valor más tiempo permanecerá abierto el obturador más luz entrara al sensor, se representa con “1/x”. (inversa) (la vel. mínima recomendada es un 1/distancia focal)
+- **==Velocidad de obturación:==** (Movimiento) Tiempo que tardara el obturador en abarse y cerrase, cuan mayor sea el valor más tiempo permanecerá abierto el obturador más luz entrara al sensor, se representa con “1/x”. (inversa) (la vel. mínima recomendada es un 1/distancia focal)
 
 	 **Vel. de obturación video:** (25 FPS / 1/50 proporcionadamente (regla 180º))
 
-- **Apertura diafragma:** (Enfoque) cuan abierto está el diafragma del objetivo, se representa con la letra “f”, a menor “f” mayor será la apertura lo que hará que entre más luz objetivo y la zona de enfoque/profundidad de campo será menor. (inversa).
+- **==Apertura diafragma:==** (Enfoque) cuan abierto está el diafragma del objetivo, se representa con la letra “f”, a menor “f” mayor será la apertura lo que hará que entre más luz objetivo y la zona de enfoque/profundidad de campo será menor. (inversa).
 	- (a menor distancia del objeto menor profundidad de campo) (a mayor distancia focal menor profundidad de campo)
 
 #### **<u>Ejemplos:</u>**
@@ -99,11 +99,12 @@ Exponer a la derecha es una técnica que consiste en aumentar la luz que llega a
 
 - EJ; Teniendo negativos de ISO 500 normalmente medirías la luz y ajustarías la exposición de la cámara para ISO 500, pero con ETTR decides medir la luz como si estuvieses usando ISO 250 lo que hará que necesites más luz, para ello se puede compensar abriendo el diafragma/bajando la velocidad de obturación/aumentando la iluminación de la escena
 
-# **Filtros:** **CPL, ND** (solo los básicos) UV, IR, FX, nocturnos, color...
+# **==Filtros:** **CPL, ND==**  UV, IR, FX, nocturnos, color...
 ___
-- **CPL:** polariza el sensor eliminando reflejos y destellos no deseados, ej; para grabar un interior de un coche, eliminar reflejos de superficies o contrastar nubes del cielo.
+**(solo los básicos)**
+- **==CPL:==** polariza el sensor eliminando reflejos y destellos no deseados, ej; para grabar un interior de un coche, eliminar reflejos de superficies o contrastar nubes del cielo.
 
-- **ND:** densidad neutra, controla la cantidad de luz para que entrara al sensor.
+- **==ND:==** densidad neutra, controla la cantidad de luz para que entrara al sensor.
 
 	**ej;** al abrir la apertura de la lente para obtener menos profundidad de campo se puede sobreexponer el sensor, con el filtro ND se balancea la entrada de luz sin sacrificar la profundidad de campo.
 
@@ -113,39 +114,39 @@ ___
 
 
 
-# **Relación de aspecto y formatos:**
+# **==Relación de aspecto y formatos:==**
 ___
 (8mm, Super 8mm, 16mm, super 16mm, 35mm, 65/70mm)
 
 La relación de aspecto es la relación entre el ancho y alto expresado en forma de fracción o ratio (16:9 = 1.777) siendo el primer valor el ancho y el segundo el alto, ej; un ratio de 16:9 significa que por cada 16 uds horizontales hay 9 uds verticales.
 
-- **4: 3 – 35mm:** 1892, primer estándar utilizado en el origen del cine (18x24mm).
+- **==4: 3 – 35mm:==** 1892, primer estándar utilizado en el origen del cine (18x24mm).
 
-- **1.37:1 - 35mm:** 1932, relación conocida como formato académico, nacida con el cine sonoro, se redujo ligeramente el 35mm para añadir una banda de audio (16x22mm).
+- **==1.37:1 - 35mm:==** 1932, relación conocida como formato académico, nacida con el cine sonoro, se redujo ligeramente el 35mm para añadir una banda de audio (16x22mm).
 
-- **2.59:1 - cinerama:** 1952, formato nacido como reacción a la televisión por parte del cine, introduciendo pantallas más anchas, utilizando tres proyectores en 4:3 con para generar una vista panorámica, descartado rápidamente por su complejidad.
+- **==2.59:1 - cinerama:==** 1952, formato nacido como reacción a la televisión por parte del cine, introduciendo pantallas más anchas, utilizando tres proyectores en 4:3 con para generar una vista panorámica, descartado rápidamente por su complejidad.
 
-- **2.35:1 - cinemascope:** 1953, formato que permitía proyectar una imagen panorámica, utilizando un solo proyector gracias a utilizar un objetivo anamórfico que comprimía la imagen horizontalmente permitiendo grabar en 35mm capturando un mayor campo de vision y utilizando una lente similar al proyectar que compensaba la imagen comprimiéndola verticalmente.
+- **==2.35:1 - cinemascope==:** 1953, formato que permitía proyectar una imagen panorámica, utilizando un solo proyector gracias a utilizar un objetivo anamórfico que comprimía la imagen horizontalmente permitiendo grabar en 35mm capturando un mayor campo de vision y utilizando una lente similar al proyectar que compensaba la imagen comprimiéndola verticalmente.
 
-- **1.85:1 - VistaVision:** 1954, surgió de rotar la pelicula de 35mm permitiendo grabar un area mayor de vision y una mayor nitidez.
+- **==1.85:1 - VistaVision:==** 1954, surgió de rotar la pelicula de 35mm permitiendo grabar un area mayor de vision y una mayor nitidez.
 
-- **1.33:1 - 70mm - :** 1955-1957, surgió de utilizar peliculas de 70mm en vez de 35mm (52x23mm), permitiendo crear nuevas ratios como; Todd AO en 1955 (2.20:1) sin necesidad de utilizar lentes anamórficos, MGM65 y Ultra Panavisión 70 en 1957 (2.76:1).
+- **==1.33:1 - 70mm== - :** 1955-1957, surgió de utilizar peliculas de 70mm en vez de 35mm (52x23mm), permitiendo crear nuevas ratios como; Todd AO en 1955 (2.20:1) sin necesidad de utilizar lentes anamórficos, MGM65 y Ultra Panavisión 70 en 1957 (2.76:1).
 
-- **1.43:1 – IMAX:** 1970, surgió de rotar la pelicula de 70 (48x70mm) dando una resolución de 18K y rellenando el campo visual humano facilitando la inmersión.
+- **==1.43:1 – IMAX:==** 1970, surgió de rotar la pelicula de 70 (48x70mm) dando una resolución de 18K y rellenando el campo visual humano facilitando la inmersión.
 
-- **16:9 - pantallas: 90´s**, con el dvd se pudo ver las peliculas en su formato original en televisiones domesticas necesitando nuevas TVs que sustituyeran las de 4: 3 por 16:9 ya que era un punto medio entre el 4: 3 de la TV y el 2.35:1 del cine, pudiendo reproducir ambas resoluciones sin perder mucho espacio útil y rellenando los huecos con mattes.
+- **==16:9 - pantallas: 90´s==**, con el dvd se pudo ver las peliculas en su formato original en televisiones domesticas necesitando nuevas TVs que sustituyeran las de 4: 3 por 16:9 ya que era un punto medio entre el 4: 3 de la TV y el 2.35:1 del cine, pudiendo reproducir ambas resoluciones sin perder mucho espacio útil y rellenando los huecos con mattes.
 
-- **Ratios verticales:** surgido con las redes sociales y la reproducción de contenido en pantallas móviles popularizándose ratios de 4:5, 9:16 usada en TikTok, Reels y Shorts.
+- **==Ratios verticales:==** surgido con las redes sociales y la reproducción de contenido en pantallas móviles popularizándose ratios de 4:5, 9:16 usada en TikTok, Reels y Shorts.
 
 ##### **Ante las posibilidades de relaciones de aspectos surgen soluciones como:**
 
-- **Pan and Scan:** ampliar la imagen hasta rellenar la pantalla y se trackea la acción reencuadrando la imagen, utilizado en pantallas cuadradas o formatos verticales.
+- **==Pan and Scan:==** ampliar la imagen hasta rellenar la pantalla y se trackea la acción reencuadrando la imagen, utilizado en pantallas cuadradas o formatos verticales.
 
-- **Shoot and protect:** grabar teniendo en cuenta diferentes formatos protegiendo las zonas susceptibles de ser recortadas según las necesidades.
+- **==Shoot and protect:==** grabar teniendo en cuenta diferentes formatos protegiendo las zonas susceptibles de ser recortadas según las necesidades.
 
-- **Reframing:** rehacer la composición grabando de nuevo, común en animación digital.
+- **==Reframing:==** rehacer la composición grabando de nuevo, común en animación digital.
 
-- **Open Matte:** grabar en una ratio más amplio verticalmente como 4: 3 o IMAX y recortar en postproducción recortar panorámicamente para cines y dejar el original para TV.
+- **==Open Matte:==** grabar en una ratio más amplio verticalmente como 4: 3 o IMAX y recortar en postproducción recortar panorámicamente para cines y dejar el original para TV.
 
 
 
