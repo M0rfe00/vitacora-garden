@@ -115,3 +115,27 @@ El concepto de "Logo responsive" es cuanto puede agrandarse y reducirse el logo 
   alt="LogoResponsive"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+
+
+
+# **How to make money as a Graphic designer**
+___
+##### **1. Retainers**
+Monthly retainers give predictable income. You provide monthly work (socials, graphics, ads, etc.) and get paid every month without constantly re-selling yourself.
+
+##### **2. Freelance Clients**
+One-off projects can pay well and build your portfolio. If you´re struggling to land clients, create concept work and reach out to brand you want to desing for.
+
+##### **3. Seel Digital Procucts**
+Brushes, textures, and presets only have to be uild once, but you can sell them forever. Platforms like Grumroad or Shopify amke it super easy to sell and scale.
+
+##### **4. Build an Audience**
+Posting your work, process, and ideas builds trust, and your audience can turn into clients, customers, and opportunities without additional outreach.
+
+##### **5. Partnerships & Sponsored Work**
+Once you build a solid audience, brands can pay you to create content, assets, or campains. Brands like Adobe often partner with creators to support new products.
+
+
+
+*Pick a path, stick with it, and let the results build. Repeat the process and soon enough you'll have multiple revenue streams supporting your career.*
+
