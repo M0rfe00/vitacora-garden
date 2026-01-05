@@ -1,4 +1,8 @@
-#hideInExplorer 
+---
+tags:
+  - Arte
+  - ideInExplorer 
+---
 # **INTRO**
 ___
 Escrito a raíz de pensamientos que tenía escritos en el bloc de notas hará casi dos años y conversaciones que he ido tenido teniendo desde entonces

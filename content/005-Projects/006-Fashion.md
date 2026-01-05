@@ -1,6 +1,7 @@
 ---
 tags:
   - Proyectos
+  - Moda
 ---
 # Designs
 ___

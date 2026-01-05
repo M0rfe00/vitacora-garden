@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 # Asia y Oceanía
 ___
 - **Sak Yant (Tailandia, Camboya, Laos)** – Tatuajes sagrados con geometrías y mantras budistas, aplicados por monjes o ajarns para protección espiritual, poder y suerte.
