@@ -18,9 +18,10 @@
     </div>
   </a>
 </div>
+
 ___
 
-Hello, I'm Gianlucas Sanz, a multidisciplinary designer with experience in digital fashion, garment prototyping, modeling, audiovisual editing, and artistic design. 
+<p style="margin-top: 0;">Hello, I'm Gianlucas Sanz, a multidisciplinary designer with experience in digital fashion, garment prototyping, modeling, audiovisual editing, and artistic design.</p>
 
 I've always been interested in technology and art, just as I learned mechanics in video games, I became interested in certain software programs, captivated by their interfaces and technical complexity, I started learning and continue to learn almost insatiably, as learning new things is what I enjoy most and allows me to stop being a spectator and start creating and expressing myself. 
 
