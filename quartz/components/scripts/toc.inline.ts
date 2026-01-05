@@ -44,19 +44,17 @@ document.addEventListener("nav", () => {
 })
 
 /*************MODIFICACIÓN TABLE OF CONTENTS HIGHLIGHT********** */
-export default () => {
+export default function tocInlineScript() {
   const tocLinks = document.querySelectorAll<HTMLAnchorElement>(
     ".toc a[data-for]"
   )
 
   tocLinks.forEach((link) => {
-    // Evita doble render
     if (link.dataset.rendered === "true") return
 
     const raw = link.textContent
     if (!raw) return
 
-    // Reinyecta como HTML
     link.innerHTML = raw
     link.dataset.rendered = "true"
   })
