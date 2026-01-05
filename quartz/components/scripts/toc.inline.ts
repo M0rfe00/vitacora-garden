@@ -42,3 +42,22 @@ document.addEventListener("nav", () => {
   const headers = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]")
   headers.forEach((header) => observer.observe(header))
 })
+
+/*************MODIFICACIÓN TABLE OF CONTENTS HIGHLIGHT********** */
+export default () => {
+  const tocLinks = document.querySelectorAll<HTMLAnchorElement>(
+    ".toc a[data-for]"
+  )
+
+  tocLinks.forEach((link) => {
+    // Evita doble render
+    if (link.dataset.rendered === "true") return
+
+    const raw = link.textContent
+    if (!raw) return
+
+    // Reinyecta como HTML
+    link.innerHTML = raw
+    link.dataset.rendered = "true"
+  })
+}
