@@ -17,16 +17,12 @@
   </a>
 </div>
 
-
 # About Me
 ___
-<p style="margin-top: 0;">Hello, I'm Gianlucas Sanz, a multidisciplinary designer with experience in digital fashion, garment prototyping, modeling, audiovisual editing, and artistic design.</p>
+Hello, I'm Gianlucas Sanz, a multidisciplinary designer with experience in digital fashion, garment prototyping, modeling, audiovisual editing, and artistic design.
 
 I've always been interested in technology and art, just as I learned mechanics in video games, I became interested in certain software programs, captivated by their interfaces and technical complexity, I started learning and continue to learn almost insatiably, as learning new things is what I enjoy most and allows me to stop being a spectator and start creating and expressing myself. 
 
-I've developed projects that combine creativity and technique, from conceptual collections to digital content for emerging brands. 
-
-I also have knowledge of technical support and IT, which allows me to easily adapt to different work environments.
 
 # Statement
 ___
