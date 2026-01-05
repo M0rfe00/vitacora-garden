@@ -104,6 +104,29 @@ Al aplicar un filtro a una capa inteligente se aplican mediante capas se puede m
 Igual que al aplicar filtros a un objeto inteligente, los ajustes funcionan igual pudiendo modificar su orden, parámetros, modos de fusión y combinar con máscaras.
 
 
+# RESOURCES
+___
+## **Assets:**
+___
+- [ResourceBoy](https://resourceboy.com/)
+- [Onlygfx](onlygfx.com)
+- [Studioaaa](studioaaa.com)
+- [Entivisuals](entivisuals.com)
+
+
+## **Mockup stocks:**
+___
+- [MockUPhone](https://mockuphone.com/)
+- [MockUuups.Studio](https://mockuuups.studio/)
+- [PlaceIt.net](https://placeit.net/)
+- www.mckups.com
+
+
+## **Other pages that might be helpful:**
+___
+- Create designs really fast, they have lots of templates: www.canva.com
+- Upscale pictures (make the resolution bigger): www.icons8.com/upscaler
+
 
 # Effects tier list
 ___
