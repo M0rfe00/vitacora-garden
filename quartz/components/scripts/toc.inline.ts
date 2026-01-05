@@ -101,7 +101,7 @@ document.addEventListener("nav", () => {
   setupToc()
 
   // 🔧 APLICACIÓN DEL FIX DE HIGHLIGHT EN TOC
-  renderTocHtmlHighlights()
+  renderTocHtmlHighlightsAndFixSlugs()  // <<== CORREGIDO
 
   // --- Observer original para resaltar sección activa ---
   observer.disconnect()
