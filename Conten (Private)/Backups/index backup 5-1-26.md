@@ -2,42 +2,42 @@
 title: 000 VitaCora
 ---
 <img src="../media-content/Heart.png" alt="Yo" style="display: block; margin: 0 auto 0.4rem auto; padding: 1%; width: 250px; height: 250px; border-radius: 50%; object-fit: cover;" />
-VitaCora takes its name from the logbook/bitácora, a journal historically used by sailors to record daily events during a journey. The name also combines "Vita" (line, in Latin) and "Cor" (heart), reflecting a personal space focused on daily practice, lived experience and working with intention, following one´s passions while staying grounded.
+El nombre de esta pagina surge del concepto de <strong>cuaderno de bitácora<strong>, un libro que utilizaban los marinos durante sus guardias a modo de diario en un viaje para registrar lo acontecido, también es un juego entre las palabras "Vita" del latín que significa vida, en referencia a lo vital, lo que pasa en el día a día, y la raíz de "Corazón", "Cor" en referencia a hacer las cosas de corazón, algo íntimo, vivir el momento, en resumen, seguir tus pasiones y no perder la cordura.
 
-This digital garden is an ecosystem for organizing and sharing my projects, ideas, and reflections in a mental-digital palace. Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.
+VitaCora sigue la filosofía de los **[[Jardines digitales]]** y su arquitectura esta basada en el sistema <a href="https://es.wikipedia.org/wiki/Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>zettelkasten</strong></a>. Este espacio es muy amplio y puede ser confuso navegar por el, sus espacios principaeles son: <br><br>
 
-VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and its architecture is based on the  <a href="https://es.wikipedia.org/wiki/Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>zettelkasten</strong></a> system. <br><br>
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
 
   <a href="001-About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-       👨🏼‍💻 <strong>About Me</strong>
+       👨🏼‍💻 <strong>Sobre mí</strong>
     </div>
   </a>
 
   <a href="002-Gallery" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-       📸 <strong>Gallery</strong>
+       📸 <strong>Galería</strong>
     </div>
   </a>
 
   
 <a href="003-Diario" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-	📰 <strong>Diary</strong>
+	📰 <strong>Diario</strong>
     </div>
   </a>
 
 <a href="004-Libraries" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-    📚 <strong>Libraries</strong>
+    📚 <strong>Bibliotecas</strong>
     </div>
   </a>
 
 <a href="https://m0rfe00.github.io/vitacora-garden/005-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-       ⚒️ <strong>Projects</strong>
+       ⚒️ <strong>Proyectos</strong>
     </div>
   </a>
 <!--
@@ -56,13 +56,15 @@ VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and it
 </div>
 <br><br>
 
+
 <details class="callout callout-info">
   <summary>
     <span class="callout-icon">ℹ️</span>
-    <span class="callout-title">About this website</span>
+    <span class="callout-title">Sobre esta web</span>
   </summary>
 
   <div class="callout-content">
-    The website is built using Obsidian for content creation and Quartz to publish Markdown as a Static website. It integrates community plugins and custom modifications developed thorught HTML, CSS, GithHub and web server management, using exclusively open-source and free tools.
+    Con este jardín digital pretendo desarrollar un ecosistema para organizar y compartir mis proyectos, ideas y reflexiones en un palacio mental-digital y aportar a otros usuarios compartiendo lo que voy aprendiendo mientras documento mis proyectos, ya sea con los conocimientos teóricos: (softwares útiles, plataformas, recursos gratuitos, creadores de contenido...) o prácticos: (conocimientos en softwares de diseño audiovisual, sobre todo).<br><br>
+    Para la creación de esta página web he utilizado Obsidian para desarrollar el contenido, Quartz4 para convertir el código Markdown a formato web, plugins de la comunidad para adaptarla a mis necesidades además de modificar todo ese código gracias a tener conocimientos sobre HTML, CSS, Github y servidores web para adaptarlo a mis necesidades, todo con herramientas open source y gratuitas.
   </div>
 </details>
