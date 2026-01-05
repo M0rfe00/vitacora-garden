@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # **INTRODUCCIÓN**
 ___
 Para los cristianos Jesús de Nazaret, “El Mesías” difundió unas ideas revolucionarias para la época, en el contexto de una sociedad esclavista y desigual, predicaba entre otras cosas, que todas las personas eran iguales y un mandato de amor al prójimo y perdón a los enemigos.

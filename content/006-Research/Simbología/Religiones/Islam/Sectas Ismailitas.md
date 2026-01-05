@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Islam
+---
 # Antigua tradición secreta #5 - OCULTISMO ISLAMICO
 ___
 La influencia de la tradición secreta tambiém se manifestó en ciertas corrientes musulmanas.

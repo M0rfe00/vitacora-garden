@@ -1,4 +1,8 @@
-___
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 La Goecia Astral de los 72 ángeles y demonios es un sistema mágico operativo que se utiliza como método de exploración de la realidad y como puente entre lo superior y lo inferior, y que a su vez también puede interpretarse como un mapa de la psique y sus arquetipos. 
 
 Este es un sistema muy particular porque su estructura en sí es una síntesis moderna que combina la tradición de magia salomónica con influencias cabalísticas y astrológicas. 

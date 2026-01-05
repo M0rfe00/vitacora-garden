@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 Una de las principales fuentes de información del origen del judaísmo es la biblia, concretamente la biblia hebrea, la cual es muy parecida al antiguo testamento católico y al Tanaj.
 
 El Tanaj es el conjunto de escrituras sagradas canónicas dentro del judaísmo, sus cinco primeros libros son los mismos que los del antiguo testamento.

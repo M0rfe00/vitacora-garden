@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # **Fundación Juan March: Los senderos de la sabiduría de la cábala - Amparo Alba**
 ___
 

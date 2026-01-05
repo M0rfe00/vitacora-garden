@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Corrientes orientales
+---
 El hinduismo es una de las religiones activas más antiguas del mundo, algunos dicen que no es una religion sino que es más una forma de vida, los hindúes lo llaman “Sanatana Dharma”, la tradición eterna.
 
 El hinduismo es el resultado de la antigua cultura del valle Indo y los nómadas que llegaron a la india al rededor del 1500 a.c. sin embargo las fechas son polémicas entre los historiadores, algunos dicen que se podría remontar a muchos años antes.

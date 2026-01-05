@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Islam
+---
 # **INTRODUCCIÓN**
 ___
 El islam es una religión monoteísta que tuvo en el siglo VII y que se originó en la Península arábiga de la mano del profeta Mahoma, a los que profesan el islam se les conoce como musulmanes, que significa “sometidos a la voluntad de alá”

@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # La Cábala Cristiana - Antigua Tradición Secreta #10
 ___
 Al tratar la cuestión de la antigua tradición secreta en occidente en los siglos 15 16 y 17 es necesario darse cuenta de que diversas corrientes relativas a la tradición secreta ya estaban establecidas en Europa, las dos principales vías de penetración, aunque hubo otras pero pequeñas y aisladas fueron los caballeros templarios y el califato omeya en la península ibérica.
