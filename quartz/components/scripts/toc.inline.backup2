@@ -59,38 +59,24 @@ function setupToc() {
    - Ejecutado en el evento `nav`
    ============================================================ */
 
-function renderTocHtmlHighlightsAndFixSlugs() {
+function renderTocHtmlHighlights() {
   const tocLinks = document.querySelectorAll<HTMLAnchorElement>(
     ".toc a[data-for]",
   )
 
   tocLinks.forEach((link) => {
+    // Evita reprocesar el mismo enlace
     if (link.dataset.rendered === "true") return
 
     const raw = link.textContent
     if (!raw) return
 
-    // Decodifica HTML
+    // Decodifica entidades HTML (&lt; &gt; etc.)
     const parser = new DOMParser()
     const decoded = parser.parseFromString(raw, "text/html").body.innerHTML
+
+    // Inyecta HTML real
     link.innerHTML = decoded
-
-    // 🔑 Generar slug limpio automáticamente
-    const slug = decoded
-      .replace(/<[^>]*>/g, "")  // elimina etiquetas HTML
-      .normalize("NFD")          // elimina acentos
-      .replace(/[\u0300-\u036f]/g, "")
-      .toLowerCase()
-      .replace(/\s+/g, "-")      // espacios → guiones
-      .replace(/[^\w-]+/g, "")   // caracteres no alfanuméricos
-    link.setAttribute("href", `#${slug}`)
-
-    // 🔑 Aseguramos que el encabezado también tenga este id
-    const targetHeader = document.getElementById(link.dataset.for!)
-    if (targetHeader) {
-      targetHeader.id = slug
-    }
-
     link.dataset.rendered = "true"
   })
 }
