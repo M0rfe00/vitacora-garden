@@ -65,18 +65,24 @@ function renderTocHtmlHighlights() {
   )
 
   tocLinks.forEach((link) => {
-    // Evita reprocesar el mismo enlace
     if (link.dataset.rendered === "true") return
 
     const raw = link.textContent
     if (!raw) return
 
-    // Decodifica entidades HTML (&lt; &gt; etc.)
+    // 1. Decodificar HTML escapado
     const parser = new DOMParser()
     const decoded = parser.parseFromString(raw, "text/html").body.innerHTML
 
-    // Inyecta HTML real
+    // 2. Reinyectar HTML real (solo visual)
     link.innerHTML = decoded
+
+    // 3. 🔑 FORZAR href correcto usando el slug REAL
+    const slug = link.dataset.for
+    if (slug) {
+      link.setAttribute("href", `#${slug}`)
+    }
+
     link.dataset.rendered = "true"
   })
 }
