@@ -19,6 +19,7 @@
   </a>
 </div>
 
+
 ___
 
 <p style="margin-top: 0;">Hello, I'm Gianlucas Sanz, a multidisciplinary designer with experience in digital fashion, garment prototyping, modeling, audiovisual editing, and artistic design.</p>
