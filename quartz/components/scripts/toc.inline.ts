@@ -1,3 +1,8 @@
+// =======================
+// TOC INLINE SCRIPT (Quartz)
+// =======================
+
+// --- Observador para resaltar entradas del TOC según scroll ---
 const observer = new IntersectionObserver((entries) => {
   for (const entry of entries) {
     const slug = entry.target.id
@@ -5,14 +10,19 @@ const observer = new IntersectionObserver((entries) => {
     const windowHeight = entry.rootBounds?.height
     if (windowHeight && tocEntryElements.length > 0) {
       if (entry.boundingClientRect.y < windowHeight) {
-        tocEntryElements.forEach((tocEntryElement) => tocEntryElement.classList.add("in-view"))
+        tocEntryElements.forEach((tocEntryElement) =>
+          tocEntryElement.classList.add("in-view"),
+        )
       } else {
-        tocEntryElements.forEach((tocEntryElement) => tocEntryElement.classList.remove("in-view"))
+        tocEntryElements.forEach((tocEntryElement) =>
+          tocEntryElement.classList.remove("in-view"),
+        )
       }
     }
   }
 })
 
+// --- Toggle del TOC (original) ---
 function toggleToc(this: HTMLElement) {
   this.classList.toggle("collapsed")
   this.setAttribute(
@@ -24,6 +34,7 @@ function toggleToc(this: HTMLElement) {
   content.classList.toggle("collapsed")
 }
 
+// --- Setup del TOC (original) ---
 function setupToc() {
   for (const toc of document.getElementsByClassName("toc")) {
     const button = toc.querySelector(".toc-header")
@@ -34,32 +45,53 @@ function setupToc() {
   }
 }
 
-document.addEventListener("nav", () => {
-  setupToc()
+/* ============================================================
+   MODIFICACIÓN: Renderizar HTML real en los títulos del TOC
+   ------------------------------------------------------------
+   Problema:
+   - Los títulos con ==highlight== llegan escapados como texto:
+     &lt;span class="text-highlight"&gt;...&lt;/span&gt;
 
-  // update toc entry highlighting
-  observer.disconnect()
-  const headers = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]")
-  headers.forEach((header) => observer.observe(header))
-})
+   Solución:
+   - Decodificar entidades HTML
+   - Reinyectarlas como HTML real
+   - SOLO en el TOC
+   - Ejecutado en el evento `nav`
+   ============================================================ */
 
-/*************MODIFICACIÓN TABLE OF CONTENTS HIGHLIGHT********** */
-export default function tocInlineScript() {
+function renderTocHtmlHighlights() {
   const tocLinks = document.querySelectorAll<HTMLAnchorElement>(
-    ".toc a[data-for]"
+    ".toc a[data-for]",
   )
 
   tocLinks.forEach((link) => {
+    // Evita reprocesar el mismo enlace
     if (link.dataset.rendered === "true") return
 
     const raw = link.textContent
     if (!raw) return
 
-    // Decodificar entidades HTML
+    // Decodifica entidades HTML (&lt; &gt; etc.)
     const parser = new DOMParser()
     const decoded = parser.parseFromString(raw, "text/html").body.innerHTML
 
+    // Inyecta HTML real
     link.innerHTML = decoded
     link.dataset.rendered = "true"
   })
 }
+
+// --- Evento principal de Quartz al cargar / navegar ---
+document.addEventListener("nav", () => {
+  setupToc()
+
+  // 🔧 APLICACIÓN DEL FIX DE HIGHLIGHT EN TOC
+  renderTocHtmlHighlights()
+
+  // --- Observer original para resaltar sección activa ---
+  observer.disconnect()
+  const headers = document.querySelectorAll(
+    "h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]",
+  )
+  headers.forEach((header) => observer.observe(header))
+})
