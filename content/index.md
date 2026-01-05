@@ -4,9 +4,7 @@ title: 000 VitaCora
 <img src="../media-content/Heart.png" alt="Yo" style="display: block; margin: 0 auto 0.4rem auto; padding: 1%; width: 250px; height: 250px; border-radius: 50%; object-fit: cover;" />
 VitaCora takes its name from the logbook/bitácora, a journal historically used by sailors to record daily events during a journey. The name also combines "Vita" (line, in Latin) and "Cor" (heart), reflecting a personal space focused on daily practice, lived experience and working with intention, following one´s passions while staying grounded.
 
-This digital garden is an ecosystem for organizing and sharing my projects, ideas, and reflections in a mental-digital palace. Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.
-
-VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and its architecture is based on the  <a href="https://es.wikipedia.org/wiki/Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>zettelkasten</strong></a> system. <br><br>
+This digital garden is an ecosystem for organizing and sharing my projects, ideas, and reflections in a mental-digital palace. Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br><br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
 
@@ -55,6 +53,7 @@ VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and it
 
 </div>
 <br><br>
+VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and its architecture is based on the  <a href="https://es.wikipedia.org/wiki/Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>zettelkasten</strong></a> system.<br>
 
 <details class="callout callout-info">
   <summary>
