@@ -55,7 +55,11 @@ export default function tocInlineScript() {
     const raw = link.textContent
     if (!raw) return
 
-    link.innerHTML = raw
+    // Decodificar entidades HTML
+    const parser = new DOMParser()
+    const decoded = parser.parseFromString(raw, "text/html").body.innerHTML
+
+    link.innerHTML = decoded
     link.dataset.rendered = "true"
   })
 }
