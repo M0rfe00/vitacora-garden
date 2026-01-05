@@ -1,3 +1,7 @@
+---
+tags:
+  - Moda
+---
 # EQUIPAMIENTO - Grmnt (6)
 ___
 - **Tijeras:** recomendadas italianas o japonesas hechas de acero inoxidable, las superiores a 8/9 inches son recomendables solo para personas con experiencia, se aconseja lubricarlas y limpiar las pelusas después de cada sesión para alargar su vida útil.

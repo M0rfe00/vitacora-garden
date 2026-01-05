@@ -1,3 +1,8 @@
+---
+tags:
+  - Moda
+  - Branding
+---
 # **Grupos de marcas**
 ___
 La creatividad sin negocio cae normalmente en victimización y un negocio sin creatividad es una ***** pérdida de tiempo

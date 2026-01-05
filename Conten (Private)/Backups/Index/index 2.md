@@ -51,7 +51,7 @@ VitaCora sigue la filosofía de los **[[Jardines digitales]]** y su arquitectura
 
 > [!info] [**👨🏼‍💻Portfolio:**](001-Portfolio%20(all%20rrss).md) Información sobre mí, mis proyectos y redes sociales.
 
- >[!info] [**📸Galería:**](002-Galería) Aquí encontraras mis fotografías y diseños.
+ >[!info] [**📸Galería:**](002-Gallery.md) Aquí encontraras mis fotografías y diseños.
 
 >[!info] [**📰 Diario:**](003-Diario) Aquí podrás leer mis notas, pensamientos y reflexiones.
 

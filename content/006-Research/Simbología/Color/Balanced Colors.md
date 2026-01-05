@@ -1,3 +1,8 @@
+---
+tags:
+  - Color
+  - Simbologia
+---
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Balanced Color Schemes/1-How to Use Color in Film - Example of Movie Color Palette and Schemes - Movie Theory Film - Hue Saturation and Value.png"

@@ -16,7 +16,7 @@ VitaCora sigue la filosofía de los **[[Jardines digitales]]** y su arquitectura
     </div>
   </a>
 
-  <a href="002-Galería" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+  <a href="002-Gallery" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        📸 <strong>Galería</strong>
     </div>
@@ -29,13 +29,13 @@ VitaCora sigue la filosofía de los **[[Jardines digitales]]** y su arquitectura
     </div>
   </a>
 
-<a href="004-Bibliotecas" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="004-Libraries" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
     📚 <strong>Bibliotecas</strong>
     </div>
   </a>
 
-<a href="https://m0rfe00.github.io/vitacora-garden/005-Proyectos/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/005-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        ⚒️ <strong>Proyectos</strong>
     </div>

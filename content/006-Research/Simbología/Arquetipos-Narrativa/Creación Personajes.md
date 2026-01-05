@@ -1,3 +1,7 @@
+---
+tags:
+  - Narrativa
+---
 # INTRODUCCION
 ___
 personajes, nos se encantan, son el motor de la ficción, nos identificamos con ellos los, queremos, los despreciamos o soñamos con tenerlos por marido o mujer, invertimos en ellos tantos sentimientos que casi pareciera que son reales, algunos personajes son propios otros ajenos pero siempre son pieles que habitamos para intentar entendernos a nosotros mismos, conocemos más íntimamente a muchos personajes que personas porque a diferencia del arte las personas no se desnudan emocionalmente ni se conocen a sí mismas tanto como el autor conocen sus personajes, se menos de mi de lo que se de mis creaciones.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Tarot
+  - Arquetipos
 ---
 # **INTRODUCCIÓN / ORIGEN DEL TAROT**
 ___

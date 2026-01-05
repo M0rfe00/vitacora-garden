@@ -1,6 +1,7 @@
 ---
 tags:
   - Tattoo
+  - Design
 ---
 # ANATOMIA & DISEÑO
 

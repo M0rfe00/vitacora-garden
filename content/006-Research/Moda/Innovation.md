@@ -1,3 +1,7 @@
+---
+tags:
+  - Moda
+---
 # **Fashion week de parís ss25 – Che abjeli & Orson**
 ___ 
 ## **Heliot** **Emil**

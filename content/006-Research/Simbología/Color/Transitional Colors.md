@@ -1,3 +1,8 @@
+---
+tags:
+  - Color
+  - Simbologia
+---
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Transitional Colors/1-How to Use Color in Film - Example of Movie Color Palette and Schemes - Transitional Colors in Film Definition.jpg"
