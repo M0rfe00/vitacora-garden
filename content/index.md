@@ -55,7 +55,6 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
 
 </div>
 <br><br>
-<br>
 
 <details class="callout callout-info">
   <summary>
