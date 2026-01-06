@@ -3,6 +3,7 @@ tags:
   - Color
   - Simbologia
 ---
+As Bond mentions, many viewers will have predictably similar reactions to certain colors. A strong red color has been shown to raise blood pressure, while a blue color elicits a calming effect.
 ## **ROJO**
 <img
 	loading= "lazy" 
@@ -63,7 +64,8 @@ tags:
 
 
 
-
+A STARTING POINT 
+Although colors do have associated conventions, it’s not dogmatic. There are no absolute rules for color selection. Ultimately, the viewer’s reaction to the color is dependent on how it is defined within the film. For example, in The Sixth Sense, M. Night Shyamalan uses the color red to represent fear, dread and foreshadowing whereas in Pleasantville, David Lynch uses red to represent hope, love and sensuality. Color theory norms should be understood by filmmakers, but never seen as a limitation.
 
 
 
