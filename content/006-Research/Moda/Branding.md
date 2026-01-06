@@ -26,7 +26,7 @@ El segundo grupo de marcas tienen una línea discursiva mucho más en línea al 
 
 <img
   loading= "lazy" 
-  src="../media-content/Apuntes/media-moda/20260102163848.pn"
+  src="../media-content/Apuntes/media-moda/20260102163848.png"
   alt="Artistico"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
