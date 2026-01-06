@@ -60,13 +60,33 @@ ___
 
 # YELLOW
 ___
-
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Amabilidad.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Avaricia.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Celos.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Divertido.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Egoismo.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Envidia.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Infidelidad.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Mentira.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Amarillo/Optimismo.png" alt="">
+</div>
 
 
 
 # ORANGE
 ___
-
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Acogedor.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Aromatico.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Diversion.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Inadecuado.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Llamativo.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Otoño.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Placer.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/Sociabilidad.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Naranja/" alt="">
+</div>
 
 
 
