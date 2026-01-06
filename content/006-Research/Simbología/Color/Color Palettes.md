@@ -17,7 +17,7 @@ ___
 
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Azul/Efectos/Amistad.png" alt="">
-<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Azul/EfectosAnhelo.png" alt="">
+<img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Azul/Efectos/Anhelo.png" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Azul/Efectos/Armonia.png" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Azul/Efectos/Fantasia.png" alt="">
 <img loading= "lazy" src="../media-content/Apuntes/media-diseño/Colores/Azul/Efectos/Fidelidad.png" alt="">
