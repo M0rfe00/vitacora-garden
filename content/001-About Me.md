@@ -19,9 +19,9 @@
 
 # About Me
 ___
-Hello, I'm Gianlucas Sanz, a multidisciplinary designer with experience in digital fashion, garment prototyping, modeling, audiovisual editing, and artistic design.
+Hello, I'm Lucas, a multidisciplinary designer with experience in digital fashion, audiovisual arts, and computer science.
 
-I've always been interested in technology and art, just as I learned mechanics in video games, I became interested in certain software programs, captivated by their interfaces and technical complexity, I started learning and continue to learn almost insatiably, as learning new things is what I enjoy most and allows me to stop being a spectator and start creating and expressing myself. 
+I've always been interested in technology and arts, just as I learned mechanics in video games, I started learning and continue to learn almost insatiably, as learning new things is what I enjoy most and allows me to stop being a spectator and start creating and expressing myself. 
 
 
 # Statement
@@ -33,6 +33,6 @@ Vitacora is the name of my website, but also my philosophy. [[content/index|Lear
 
 # How I work
 ___
-I am currently working on a project in which I am trying to combine all my artistic interests and the software I have learned and continue to learn on my own, inspired by the concept of total artwork.
+I am currently trying to combine all my artistic interests and the software I have learned and continue to learn on my own, inspired by the concept of total artwork.
 
-To do this, I use CLO3D for clothing design and pattern making, Blender to create scenes, 3D models, and rendering, Daz Studio to create digital avatars, Davinci for video editing, Photoshop and Lightroom for image editing and graphic design, Illustrator for mockups and clothing designs, and Quartz/Obsidian for my website.
+To do this, I use CLO3D for clothing design and pattern making, Blender to create scenes, 3D models, and rendering, Daz Studio to create digital avatars, Davinci for video editing, Photoshop and Lightroom for image editing and graphic design, Illustrator for mockups and clothing designs, Quartz/Obsidian for my website and in progress...
