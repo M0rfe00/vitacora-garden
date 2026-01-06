@@ -24,7 +24,7 @@ Although single, recurring colors can hold a deeper meaning, a more fleshed out 
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **Analogues**
+# **Analogues**
 ___
 Analogous colors neighbor each other on the color wheel (i.e. red / violet or yellow / lime green). Since the colors don’t have the contrast and tension of the complementary colors, they create an overall harmonious and soothing viewing experience. 
 
@@ -54,7 +54,7 @@ Analogous colors are easy to take advantage of in landscapes and exteriors as th
   alt="Balanced"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-## **Complementay**
+# **Complementay**
 ___
 Contrasting drama (i.e. warm vs. cool). Complementary colors live opposite each other on the color wheel.
 
@@ -75,7 +75,7 @@ The dueling colors are often associated with conflict, whether internal or exter
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **Monochromatic**
+# **Monochromatic**
 ___
 Monochromatic color schemes come in shades of a single color such as red, dark red, and pink. They create a deeply harmonious feeling that is soft, lulling and soothing. The Matrix is a good example of a monochromatic movie color scheme. 
 
@@ -112,7 +112,7 @@ Nearly every scene set within the world of the matrix has a green hue. Shades of
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **Triadic**
+# **Triadic**
 ___
 Vibrant and colorful, Triadic colors are three colors arranged evenly spaced around the color wheel (i.e. red, blue and yellow). One color should be dominant and the others accented. 
 

@@ -4,7 +4,7 @@ tags:
   - Simbologia
 ---
 As Bond mentions, many viewers will have predictably similar reactions to certain colors. A strong red color has been shown to raise blood pressure, while a blue color elicits a calming effect.
-## **ROJO**
+# **ROJO**
 <img
 	loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/1-How to Use Color in Film - Example of Movie Color Palette and Scheme - Red.jpg"
@@ -12,7 +12,7 @@ As Bond mentions, many viewers will have predictably similar reactions to certai
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **ROSA**
+# **ROSA**
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/2-How to Use Color in Film - Example of Movie Color Palette and Scheme - Pink.jpg"
@@ -20,7 +20,7 @@ As Bond mentions, many viewers will have predictably similar reactions to certai
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **NARANJA**
+# **NARANJA**
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/3-How to Use Color in Film - Example of Movie Color Palette and Scheme - Orange.jpg"
@@ -28,7 +28,7 @@ As Bond mentions, many viewers will have predictably similar reactions to certai
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **AMARILLO**
+# **AMARILLO**
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/4-How to Use Color in Film - Example of Movie Color Palette and Scheme - Yellow.jpg"
@@ -36,7 +36,7 @@ As Bond mentions, many viewers will have predictably similar reactions to certai
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **VERDE**
+# **VERDE**
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/5-How to Use Color in Film - Example of Movie Color Palette and Scheme - Green.jpg"
@@ -44,7 +44,7 @@ As Bond mentions, many viewers will have predictably similar reactions to certai
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **AZUL**
+# **AZUL**
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/6-How to Use Color in Film - Example of Movie Color Palette and Scheme - Blue.jpg"
@@ -52,7 +52,7 @@ As Bond mentions, many viewers will have predictably similar reactions to certai
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-## **MORADO**
+# **MORADO**
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-foto/color/Color Psychology/7-How to Use Color in Film - Example of Movie Color Palette and Scheme - Purple.jpg"
