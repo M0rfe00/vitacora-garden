@@ -28,7 +28,7 @@ I've always been interested in technology and arts, just as I learned mechanics 
 ___
 Some time ago, I decided that I would not follow the easy path, but rather the one that made me happy, and that I would not stop until I found my own way. It is not ambition, it´s a need to pursue my dreams. 
 
-Vitacora is the name of my website, but also my philosophy. [[content/index|Learn More]]
+Vitacora is the name of my website, but also my philosophy. [[index|Learn More]]
 
 
 # How I work
