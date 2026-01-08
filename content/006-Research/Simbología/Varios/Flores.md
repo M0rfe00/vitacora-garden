@@ -1,10 +1,12 @@
 # APPLE BLOSSOM - Malus
 ___
-<img 
-  src="../media-content/Research/Simbologia/Floriografia/APPLE BLOSSOM.png" 
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/" 
   alt="Apple Blossom – Malus"
   class="entry-image"
 />
+
 #### **Meaning:**
 Preference
 
@@ -17,8 +19,9 @@ Pansy to show the recipient you’re thinking of them Zinnia for a gift for a be
 
 # ASPHODEL - Asphodelus
 ___
-<img 
-  src="../media-content/Research/Simbologia/Floriografia/ASPHODEL.png" 
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/" 
   alt="Apple Blossom – Malus"
   class="entry-image"
 />
@@ -34,6 +37,13 @@ Cypress or marigold to indicate mourning and despair Rosemary to indicate eterna
 
 # ASTER - Symphyotrichum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ASTER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Daintiness
 
@@ -45,6 +55,13 @@ Daisy for a gift for a young girl Buttercup to compliment someone’s charming d
 
 # AZALEA - Rhododendron
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/AZALEA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Fragility Temperance
 
@@ -56,6 +73,13 @@ Mint or snowdrop to console a fragile state of mind Heather to show the recipien
 
 # BABY’S BREATH - Gypsophila
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BABY’S BREATH.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Purity Innocence
 
@@ -67,6 +91,13 @@ Lily as a gift for new parents Queen Anne’s lace as a gift for a godparent, to
 
 # BASIL - Ocimum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BASIL.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Hate
 
@@ -78,6 +109,13 @@ Lavender for betrayal Oleander as a warning to someone you distrust
 
 # BEGONIA - Begonia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BEGONIA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 To repay a favor A warning
 
@@ -89,6 +127,13 @@ Sweet pea as a gift for the host of a party Oleander to emphasize caution in a n
 
 # BELLADONNA - Atropa belladonna
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BELLADONNA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Silence
 
@@ -100,6 +145,13 @@ Columbine and begonia to urge someone to keep a secret Rue to warn the recipient
 
 # BLUEBELL - Hyacinthoides
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BLUEBELL.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Humility Faithfulness
 
@@ -111,6 +163,13 @@ Peony for forgiveness for violating societal norms Passionflower as a gift for s
 
 # BUTTERCUP - Ranunculus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BUTTERCUP.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 You are radiant with charm
 
@@ -122,6 +181,13 @@ Cowslip to show a newfound affection Datura to show that you will not be fooled 
 
 # CAMELLIA - Camellia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CAMELLIA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Longing for you
 
@@ -133,6 +199,13 @@ Daffodil to show longing for an unrequited love Zinnia as a gift for a friend wh
 
 # CARNATION - Dianthus caryophyllus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CARNATION.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Mother’s eternal love Heartache
 
@@ -144,6 +217,13 @@ Mint or snowdrop to console the loss of a child Heather for a child going off to
 
 # CATTAIL - Typha latifolia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CATTAIL.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Peace and prosperity
 
@@ -155,6 +235,13 @@ Wheat for a promotion at work Laurel for success in a new venture
 
 # CHAMOMILE - Matricaria
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CHAMOMILE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Energy in adversity
 
@@ -166,6 +253,13 @@ Dogwood to show that your love will overcome all obstacles Rose to indicate the 
 
 # CHRYSANTHEMUM - Chrysanthemum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CHRYSANTHEMUM.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Condolences
 
@@ -177,6 +271,13 @@ Willow for a friend in grief Gladiolus for a broken heart
 
 # CLEMATIS - Clematis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CLEMATIS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Ingenuity Cleverness
 
@@ -188,6 +289,13 @@ Rosemary and clover as a good luck gift before an exam Mistletoe to show your cl
 
 # CLOVER - Trifolium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CLOVER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Good luck
 
@@ -199,6 +307,13 @@ Heather and wheat for good luck with a new business venture Apple blossom and da
 
 # COLUMBINE - Aquilegia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/COLUMBINE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Foolishness
 
@@ -210,6 +325,13 @@ Asphodel to ask for forgiveness for an imprudent mistake Protea to show you’re
 
 # CORNFLOWER - Centaurea cyanus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CORNFLOWER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Hope in love
 
@@ -221,6 +343,13 @@ Lilac as a gift for a first love Sweet William to show you will always be true
 
 # COWSLIP - Primula veris
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/COWSLIP.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Winning grace
 
@@ -232,6 +361,13 @@ Hawthorn for hope in a new prospect Honeysuckle as a gift when meeting your sign
 
 # CROCUS - Crocus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CROCUS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Cheerfulness Youthful glee
 
@@ -243,6 +379,13 @@ Daisy for the start of a new school year Buttercup as a gift for a charming youn
 
 # CYPRESS - Cupressus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/CYPRESS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Death Mourning
 
@@ -254,6 +397,13 @@ Marigold and ivy for a grieving friend Orange blossom to indicate your eternal d
 
 # DAFFODIL - Narcissus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/DAFFODIL.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Unrequited love
 
@@ -265,6 +415,13 @@ Clover for hope for change Sweet pea to indicate giving up on an ill-suited roma
 
 # DAHLIA - Dahlia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/DAHLIA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Eternal love Commitment
 
@@ -276,6 +433,13 @@ Tulip for a newly engaged couple Myrtle to show love and devotion
 
 # DAISY - Bellis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/DAISY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Innocence Childhood Purity
 
@@ -287,6 +451,13 @@ Baby’s breath as a gift for a newborn baby Peony and violet for an expression 
 
 # DANDELION - Taraxacum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/DANDELION.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Divination Fortune-telling
 
@@ -298,6 +469,13 @@ Ferns for a magical solstice celebration Foxglove and holly to indicate the abil
 
 # DATURA - Datura
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/DATURA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Deceitful charms
 
@@ -309,6 +487,13 @@ Wormwood for a spurned lover Thistle for a friend going through a breakup
 
 # DOGWOOD - Cornus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/DOGWOOD.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Our love will overcome adversity
 
@@ -320,6 +505,13 @@ Hellebore for strength to overcome scandal Monkshood for chivalry in the face of
 
 # EDELWEISS - Leontopodium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/EDELWEISS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Courage Daring
 
@@ -331,6 +523,13 @@ Lily and laurel for a friend embarking on a new career Sweet William to show the
 
 # EUCALYPTUS - Eucalyptus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/EUCALYPTUS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Protection
 
@@ -342,6 +541,13 @@ Heather for good luck to a friend embarking on a journey Queen Anne’s lace to 
 
 # FERN - Adiantum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/FERN.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Magic Secrecy
 
@@ -353,6 +559,13 @@ Foxglove for a secret love Poppy to show the recipient you think of them in your
 
 # FORGET-ME-NOT - Myosotis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/FORGET-ME-NOT.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Forget me not
 
@@ -364,6 +577,13 @@ Zinnia for a friend who is moving away Larkspur to say “remember the good time
 
 # FOXGLOVE - Digitalis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/FOXGLOVE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Riddles Secrets
 
@@ -375,6 +595,13 @@ Lavender to warn a friend of an unfaithful love Hyacinth to ask for forgiveness 
 
 # GLADIOLUS - Gladiolus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/GLADIOLUS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 You pierce my heart
 
@@ -386,6 +613,13 @@ Yarrow to heal a broken heart Anemone and daffodil for an unrequited love Hemloc
 
 # HAWTHORN - Crataegus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HAWTHORN.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Hope
 
@@ -397,6 +631,13 @@ Camellia to indicate hope that a lost love will return Orange blossom to show ho
 
 # HEATHER - Calluna
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HEATHER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Luck Protection
 
@@ -408,6 +649,13 @@ Rose as you begin a new relationship Cattail for good health for a friend awaiti
 
 # HELLEBORE - Helleborus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HELLEBORE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 We shall overcome scandal and slander
 
@@ -419,6 +667,13 @@ Begonia to warn of future challenges Edelweiss for courage in the face of what�
 
 # HEMLOCK - Conium maculatum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HEMLOCK.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Death
 
@@ -430,6 +685,13 @@ Chrysanthemum for condolences upon the loss of a loved one Nettle for a loved on
 
 # HOLLY - Ilex
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HOLLY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Foresight
 
@@ -441,6 +703,13 @@ Eucalyptus to indicate looking out for a friend Lily of the valley to show that 
 
 # HONEYSUCKLE - Lonicera
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HONEYSUCKLE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Devotion Affection
 
@@ -452,6 +721,13 @@ Orchid to show gratitude for a gift you treasure Cornflower to show your true de
 
 # HYACINTH - Hyacinthus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HYACINTH.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Please forgive me
 
@@ -463,6 +739,13 @@ Olive to ask for peace and forgiveness Pansy to indicate your betrayal haunts yo
 
 # HYDRANGEA - Hydrangea
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HYDRANGEA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Boastfulness Heartlessness
 
@@ -474,6 +757,13 @@ Tansy and petunia to indicate your displeasure at a recent turn of events Fern t
 
 # HYSSOP - Hyssopus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/HYSSOP.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Cleanliness
 
@@ -485,6 +775,13 @@ Lily and Queen Anne’s lace when housesitting to show you’ll keep things clea
 
 # IRIS - Iris
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/IRIS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Valor Wisdom Faith
 
@@ -496,6 +793,13 @@ Bluebells to show humility in victory Clematis to indicate admiration for ingenu
 
 # IVY - Hedera
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/IVY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Fidelity Attachment
 
@@ -507,6 +811,13 @@ Dahlia to honor a long-lasting relationship Hellebore to say that nothing will e
 
 # ASMINE - Jasminum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/JASMINE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Amiability Cheerfulness
 
@@ -518,6 +829,13 @@ Iris to show admiration for a friend’s strength of character Crocus for a kind
 
 # LADY SLIPPER - Cypripedium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LADY SLIPPER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Capriciousness
 
@@ -529,6 +847,13 @@ Hawthorn for hope for a good outcome Snapdragon to encourage a friend in an unpr
 
 # LARKSPUR - Delphinium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LARKSPUR.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Levity
 
@@ -540,6 +865,13 @@ Protea to indicate better days are ahead Begonia to assure someone that all past
 
 # LAUREL - Laurus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LAUREL.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Glory Victory Success
 
@@ -551,6 +883,13 @@ Oak and edelweiss to encourage bravery in new territory Chamomile for energy to 
 
 # LAVENDER - Lavandula
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LAVENDER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Distrust
 
@@ -562,6 +901,13 @@ Foxglove to encourage a friend to reconsider their choices Datura to tell someon
 
 # LILAC - Syringa
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LILAC.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 First love Reminiscence
 
@@ -573,6 +919,13 @@ Monkshood to honor your first true love Tulip to declare being in love for the f
 
 # LILY - Lilium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LILY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Purity
 
@@ -584,6 +937,13 @@ Orange blossom for a wedding anniversary Sweet William to honor an act of pure g
 
 # LILY OF THE VALLEY - Convallaria
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/LILY OF THE VALLEY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Return of happiness
 
@@ -595,6 +955,13 @@ Protea to transform a bad situation into a good one Yarrow to help soothe a brok
 
 # MAGNOLIA - Magnolia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MAGNOLIA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Dignity
 
@@ -606,6 +973,13 @@ Belladonna to ask a friend to keep your secret Olive as a reminder to maintain y
 
 # MARIGOLD - Tagetes
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MARIGOLD.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Grief
 
@@ -617,6 +991,13 @@ Willow to indicate sorrow at the loss of a loved one Rue to apologize for the pa
 
 # MINT - Mentha
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MINT.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Consolation
 
@@ -628,6 +1009,13 @@ Passionflower for faith that circumstances will improve Cornflower to tell a fri
 
 # Meaning: - Surmounting all difficulties
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MISTLETOE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 
 #### **Origin:**
 In Norse mythology, the beloved god Balder was haunted by dreams of his impending death, so his devoted mother, Frigga, made everything in nature promise not to hurt him. Sadly, she overlooked the mistletoe plant. Loki, god of mischief, created an arrow from the plant and tricked Balder’s brother into killing him with it. In her grief, Frigga begged the other gods to bring Balder back, which they did, proving he could surmount all difficulties, even death itself. The now common use of mistletoe as decoration during Christmastime is a holdover from Druidic winter solstice celebrations. The bright winter berry, cut from the oak tree, was seen as a symbol of hope during the darkest, most difficult time of year.
@@ -637,6 +1025,13 @@ Amaryllis for the confidence to overcome a challenge Lady slipper to indicate yo
 
 # MONKSHOOD - Aconitum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MONKSHOOD.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Chivalry
 
@@ -648,6 +1043,13 @@ Honeysuckle to show a friend you’ll do anything for them Dogwood or mistletoe 
 
 # MYRTLE - Myrtus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MYRTLE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Love
 
@@ -659,6 +1061,13 @@ Dahlia for your one true love Carnation for a Mother’s Day gift
 
 # NETTLE - Urtica
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/NETTLE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Cruelty
 
@@ -670,6 +1079,13 @@ Oleander to warn someone that their betrayal has been discovered Petunia to tell
 
 # OAK - Quercus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/OAK.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Bravery
 
@@ -681,6 +1097,13 @@ Sweet William and monkshood for someone you admire Clematis to indicate apprecia
 
 # OLEANDER - Nerium oleander
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/OLEANDER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Caution
 
@@ -692,6 +1115,13 @@ Azalea to warn someone they’re about to make a poor choice Sunflower to cautio
 
 # OLIVE - Olea
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/OLIVE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Peace
 
@@ -703,6 +1133,13 @@ Hawthorn and rue to ask for forgiveness Queen Anne’s lace as a housewarming gi
 
 # ORANGE BLOSSOM - Citrus sinensis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ORANGE BLOSSOM.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Eternal love
 
@@ -714,6 +1151,13 @@ Dogwood for an anniversary gift after a difficult year Ivy for a long-lasting re
 
 # ORCHID - Orchis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ORCHID.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Elegance Beauty
 
@@ -725,6 +1169,13 @@ Camellia for a friend you miss Magnolia as a gift for someone you admire
 
 # PANSY - Viola tricolor var. hortensis
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/PANSY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 You occupy my thoughts
 
@@ -736,6 +1187,13 @@ Chrysanthemum for a loved one going through a rough time Forget-me-not as a gift
 
 # PASSIONFLOWER - Passiflora
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/PASSIONFLOWER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Faith
 
@@ -747,6 +1205,13 @@ Edelweiss to indicate faith that someone will make the right choice, even if it 
 
 # PEONY - Paeonia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/PEONY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Bashfulness
 
@@ -758,6 +1223,13 @@ Hyacinth and violet to apologize and ask for forgiveness Foxglove as a gift for 
 
 # PETUNIA - Petunia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/PETUNIA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Anger Resentment
 
@@ -769,6 +1241,13 @@ Wormwood to indicate displeasure at an outcome Rosemary to show you will not for
 
 # POPPY - Papaver somniferum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/POPPY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Eternal sleep
 
@@ -780,6 +1259,13 @@ Snowdrop for the loss of a loved one Dahlia to mark the grave of a cherished com
 
 # PROTEA - Protea
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/PROTEA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Transformation
 
@@ -791,6 +1277,13 @@ Laurel to congratulate a friend on their life-altering achievement Lily of the v
 
 # QUEEN ANNE’S LACE - Daucus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/QUEEN ANNE’S LACE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Sanctuary
 
@@ -802,6 +1295,13 @@ Cattail for a housewarming gift Apple blossom for a friend purchasing a new home
 
 # ROSE - Rosa
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ROSE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Love
 
@@ -813,6 +1313,13 @@ Baby’s breath for a wedding celebration Cornflower for hope in a new romantic 
 
 # ROSEMARY - Salvia rosmarinus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ROSEMARY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meanings:**
 Remembrance Wisdom
 
@@ -824,6 +1331,13 @@ Crocus to reminisce about the past Clematis for confidence in scholarly pursuits
 
 # RUE - Ruta
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/RUE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Regret
 
@@ -835,6 +1349,13 @@ Hyacinth to ask for forgiveness Willow and chrysanthemum as a gift for a friend 
 
 # SNAPDRAGON - Antirrhinum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/SNAPDRAGON.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Presumption
 
@@ -846,6 +1367,13 @@ Asphodel to apologize for a lack of discretion Holly to indicate your oversight 
 
 # SNOWDROP - Galanthus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/SNOWDROP.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Consolation Hope
 
@@ -857,6 +1385,13 @@ Carnation for a broken heart Mistletoe to indicate endurance through difficult t
 
 # SUNFLOWER - Helianthus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/SUNFLOWER.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 False riches
 
@@ -868,6 +1403,13 @@ Bluebell and columbine to show humility for foolish past behavior Lavender to in
 
 # SWEET PEA - Lathyrus odoratus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/SWEET PEA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Thank you for a lovely time
 
@@ -879,6 +1421,13 @@ Hyssop and orchid to thank a friend for inviting you to their home Zinnia as a t
 
 # SWEET WILLIAM - Dianthus barbatus
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/SWEET WILLIAM.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Gallantry
 
@@ -890,6 +1439,13 @@ Eucalyptus to show you will protect a loved one in the face of adversity Honeysu
 
 # TANSY - Tanacetum vulgare
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/TANSY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Hostility
 
@@ -901,6 +1457,13 @@ Anemone for a spurned lover Snapdragon for someone giving you a difficult time
 
 # THISTLE - Cirsium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/THISTLE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Misanthropy
 
@@ -912,6 +1475,13 @@ Rosemary to indicate you see through someone’s facade Pansy to show you’re t
 
 # TULIP - Tulipa
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/TULIP.png"
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 I declare my love for you
 
@@ -923,6 +1493,13 @@ Buttercup to indicate affection for a charming new love Ivy as a gift for a newl
 
 # VIOLET - Viola odorata
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/VIOLET.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Modesty
 
@@ -934,6 +1511,13 @@ Bluebell for a humble friend who means the world to you Laurel to show a friend 
 
 # WHEAT - Triticum
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/WHEAT.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Riches Abundance
 
@@ -945,6 +1529,13 @@ Clover for good luck in a new venture Begonia to repay a favor
 
 # WILLOW - Salix
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/WILLOW.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Mourning
 
@@ -956,6 +1547,13 @@ Forget-me-not and cypress for a funeral Gladiolus for a broken heart
 
 # WORMWOOD - Artemisia absinthium
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/WORMWOOD.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Bitterness
 
@@ -967,6 +1565,13 @@ Larkspur and hyacinth to tell someone that things aren’t as bad as they think 
 
 # YARROW - Achillea
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/YARROW.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Cure for a broken heart
 
@@ -978,6 +1583,13 @@ Hawthorn for hope that things will get better Protea to indicate the tide will t
 
 # ZINNIA - Zinnia
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ZINNIA.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 Everlasting friendship
 
@@ -987,13 +1599,196 @@ Because zinnias are easy to grow and reseed with abundance, the Victorians assoc
 #### **Pair with . . .**
 Jasmine to tell a friend they bring you joy Chamomile to show appreciation for a friendship that has survived adversity
 
-  
+ 
+# A BOUQUET FOR FRIENDSHIP
+______
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/FRIENDSHIP.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
 
+Assemble this bouquet for a best friend, as a celebration of your friendship, to brighten their day, or to let them know they’re on your mind.
+
+**Combine the following in a bouquet fastened with a teal chiffon ribbon:**  
+Zinnia for everlasting friendship  
+Apple blossom for preference  
+Pansy for a friend you think of often  
+Eucalyptus for protection and to strengthen the bond of friendship, so that it may last throughout the years
+
+
+
+# A BOUQUET FOR COURTING
+______
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/COURTING.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+This is the perfect bouquet to share with a new love, to thrill them or to solidify your exclusivity.
+
+**Combine the following in a bouquet fastened with a silky red ribbon:**  
+Blush roses for a blossoming romance  
+Cornflower for hope in love  
+Sweet William for gallantry  
+Honeysuckle for devoted affection
+
+
+
+# A BOUQUET FOR MARRIAGE
+______
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/MARRIAGE.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+This arrangement may be used by a bride walking down the aisle, as a gift for newlyweds, or as décor at an engagement celebration.
+
+**Combine the following in a bouquet fastened with a white lace bow:**  
+Red roses for true love  
+Ivy for fidelity  
+Myrtle for hope and love in marriage  
+Dahlia for commitment and eternal love
+
+
+
+# A BOUQUET FOR SYMPATHY
+______
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/SYMPATHY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+Assemble this arrangement for a loved one in grief, to commemorate a loss, or as a gift of tender affection during a difficult time.
+
+**Combine the following in a bouquet fastened with a black velvet ribbon:**  
+Chrysanthemum for condolences  
+Marigold for grief  
+Lily of the valley to show that better days are ahead  
+Cypress for mourning  
+Mint for consolation
+
+
+
+# A BOUQUET FOR REGRET AND SORROW
+_____
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/REGRET AND SORROW.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+This bouquet is suitable for a loved one enduring heartache or separation, to comfort and console, or to remind someone that they are loved.
+
+**Combine the following in a bouquet fastened with a thin black bow:**  
+Asphodel to indicate your regret will follow you to the grave  
+Azalea for fragility in a difficult time  
+Snowdrop for consolation and hope of better days ahead  
+Rue for regret  
+Willow for mourning
+
+
+
+# A BOUQUET FOR APOLOGY
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/APOLOGY.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+Use this arrangement to apologize for a wrongdoing or mistake, to ask for forgiveness, or to make amends.
+
+**Combine the following in a bouquet fastened with a blue cloth braid:**  
+Hyacinth to ask for forgiveness  
+Bluebell for humility  
+Peony for bashfulness  
+Olive branch to ask for peace
+
+
+# A BOUQUET FOR FORGOTTEN OBLIGATIONS
+______
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/FORGOTTENOBLIGATIONS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+Assemble this arrangement to apologize for missing an important celebration or for forgetting a social engagement.
+
+**Combine the following in a bouquet fastened with green garland:**  
+Columbine for foolishness  
+Rue for regret  
+Anemone for forsaken love  
+Forget-me-not to indicate you won’t forget again  
+Rosemary for remembrance
+
+
+
+# A BOUQUET FOR WARNINGS
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/WARNINGS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+This bouquet is useful for warning someone you distrust or indicating that trouble is on the horizon.
+
+**Combine the following in a bouquet fastened with a bright red band:**  
+Begonia for warning  
+Oleander for caution  
+Lavender for distrust  
+Foxglove for secrecy
+
+
+
+# A BOUQUET FOR BITTER ENDS
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/BITTER ENDS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+This arrangement is a final, lasting reminder of your departure from a friendship or relationship that ended poorly.
+
+**Combine the following in a bouquet fastened with twine:**  
+Petunias for anger and resentment  
+Datura for deceitful charms  
+Tansy for hostility  
+Thistle for misanthropy  
+Wormwood for bitterness 
+
+
+# A BOUQUET FOR NEW BEGINNINGS
+___
+This is the perfect bouquet to celebrate a new addition to the family or a new venture in someone’s life. It also makes a beautiful housewarming gift.
+
+**Combine the following in a bouquet fastened with a yellow tassel:**
+Crocus for youthful glee
+Daisy for innocence and childhood purity
+Lilac for first love
+Baby’s breath for purity and innocence
+Wheat for riches
 
 
 
 # A
 ___
+<p>
 Abedul (Betula) – Mansedumbre, gracia
 Abelia (Abelia) – Devoción
 Abeto (Abies) – Elevación
@@ -1054,8 +1849,7 @@ Alstremèria (Alstroemeria) – Devoción, amistad
 Altamisa, o matricaria (Tanacetum parthenium) – Calor, buena salud
 Altareina, o altarcina (Filipendula ulmaria) – Inutilidad
 Altea (Althaea) – Imbuido en el amor
-Altea de Siria; también rosa de Siria, suspiro, granado blanco, malva
-real de Sevilla, malvavisco arbóreo, avispa (Hibiscus syriacus) – Persuasión
+Altea de Siria; también rosa de Siria, suspiro, granado blanco, malva  real de Sevilla, malvavisco arbóreo, avispa (Hibiscus syriacus) – Persuasión
 Amapola (Papaver) – Consolación
 Amapola, escarlata (Papaver) – Extravagancia fantástica
 Amapola, roja (Papaver) – Placer
@@ -1087,8 +1881,7 @@ San Juan y madra (Artemisia) – Dignidad, felicidad
 Asclepia; también algodoncillo, bandera española, platanillo, hierba
 María (Asclepias) – Dejame ir, renacimiento
 Asclepia, o flor de sangre (Asclepias tuberosa) – Cura de angustia
-Asfódelos, o gamones (Asphodelus) – Mis arrepentimientos te
-siguen hasta la tumba, lamenta más allá de la tumba
+Asfódelos, o gamones (Asphodelus) – Mis arrepentimientos te siguen hasta la tumba, lamenta más allá de la tumba
 Asperilla (Galium odoratum) – Humildad
 Asphodelin amarillo; también palo de Jacob, flor la lanza del rey
 (Asphodeline) – El pesar
@@ -1107,10 +1900,11 @@ Azafrán (Crocus sativus) – Cuidado con el exceso, risa
 Azahar, naranja (Citrus sinensis) – Generosidad
 Azahar, flor (Citrus sinensis) – Amor eterno, amor puro
 Azalea (Rhododendron) – Cuidado, feminidad, romance
-
+</p>
 
 # B
 ___
+
 Babiana (Babiana) – Placer
 Bálsamo de Galaad (Cedronella triphylla) – Curación
 Bambú (Bambuseae) – Longevidad, riqueza, felicidad
@@ -1157,6 +1951,7 @@ Buvardia (Bouvardia) – Entusiasmo
 
 # C
 ___
+
 Cactus (Opuntia) – Resistencia, afecto
 Cala; también cala de Etiopía, alcatraz, aro de Etiopía, lirio de agua,
 cartucho, flor de pato, flor del jarro (Zantedeschia aethiopica) –
@@ -1177,8 +1972,7 @@ Camelia, roja (Camellia) – Calidez innata, fidelidad
 Camelia, blanca (Camellia) – Amistad, gratitud, eres adorable
 Campanas de Irlanda (Moluccella laevis) – Buena suerte
 Campanula, o campanillas (Campanula) – Gratitud
-Campanillas de cantil (Campanula rotundifolia) – Delicada como
-esta flor
+Campanillas de cantil (Campanula rotundifolia) – Delicada como esta flor
 Caña (Poales) – Música
 Caña roja, o archibebe, chamizo colorado (Adenostoma
 sparsifolium) – Paciencia
@@ -1186,10 +1980,8 @@ Candelabra (Brunsvigia Orientalis) – Quedar asombrado
 Canela (Cinnamon) – Amor, belleza
 Canna indica; también achira, achera, sagú, capacho, biri, cucuyús,
 juquián, risgua, caña de India, caña de cuentas, cañacoro, flor del
-cangrejo, yerba del rosario, papantla (Canna) – Confianza en los
-cielos
-Capiquí, o pamplina, hierba gallinera (Stellaria media) – Me aferro a
-ti
+cangrejo, yerba del rosario, papantla (Canna) – Confianza en los cielos
+Capiquí, o pamplina, hierba gallinera (Stellaria media) – Me aferro a ti
 Capuchina (Tropaeolum majus) – Patriotismo, heroísmo
 Caqui (Diospyros kaki) – Hermoso lugar de descanso
 Cardamine, o berro amargo (Cardamine) – Error paternal
@@ -1231,13 +2023,11 @@ Ciruela árbol (Prunus domestica) – Mantener la promesa
 Ciruela árbol, salvaje (Prunus domestica) – Independencia
 Clarkia (Clarkia) – La variedad de tu conversación me deleita
 Clavel (Dianthus caryophyllus) – Fascinación, amor devoto
-Clavel, rosado (Dianthus caryophyllus) – El amor de la mujer, el
-amor eterno de la madre
+Clavel, rosado (Dianthus caryophyllus) – El amor de la mujer, el amor eterno de la madre
 Clavel, rojo (Dianthus caryophyllus) – Admiración, amor divino
 Clavel, púrpura (Dianthus caryophyllus) – Capricho
 Clavel, color sólido (Dianthus caryophyllus) – Sí
-Clavel, blanco (Dianthus caryophyllus) – Dulce y encantadora, amor
-puro.
+Clavel, blanco (Dianthus caryophyllus) – Dulce y encantadora, amor puro.
 Clavel, amarillo (Dianthus caryophyllus) – Rechazo
 Clavel coronado (Dianthus plumarius) – Afecto puro
 Clavel coronado, clavo (Dianthus plumarius) – Dignidad
@@ -1259,10 +2049,8 @@ Clivia (Clivia miniata) – Buena fortuna
 Coco, árbol (Cocos nucifera) – Encontrando el tesoro interior
 Cola de león (Leonurus) – Amor secreto
 Cola de zorro (Eremurus) – Soportante
-Colombinas (Aquilegia) – Inocencia de María, Espíritu Santo,
-sabiduría
-Cólquico, o narciso de otoño (Colchicum autumnale) – Mis mejores
-días han pasado
+Colombinas (Aquilegia) – Inocencia de María, Espíritu Santo, sabiduría
+Cólquico, o narciso de otoño (Colchicum autumnale) – Mis mejores días han pasado
 Comino (Cuminum) – Fidelidad
 Confeti blanco, arbusto (Coleonema album) – Purificación
 Consuelda, o consolida (Consolida) – Ligereza, corazón abierto
@@ -1282,8 +2070,10 @@ Crisantemo, blanco (Chrysanthemum) – Verdad, amor devoto
 Crisantemo, amarillo (Chrysanthemum) – Amor despreciado
 Crocus, o la flor del azafrán (Crocus) – Alegría
 Cuscuta; también pelillo, tiña (Cascuta) – Bajeza
+
 # D
 ___
+
 Dalia (Dahlia) – Por siempre tuyo, dignidad y elegancia.
 Daphne (Daphne) – Gloria
 Daphne odora (Daphne odora) – Dulces al dulce
@@ -1306,6 +2096,7 @@ Dulcamara (Solanum dulcamara) – La verdad, el amor platónico
 Durillo (Viburnum tinus) – Jovialidad
 # E
 ___
+
 Ebúrnea (Gaultheria) – Ánimo
 Edelweiss, o flor de las nieves (Leontopodium alpinum) – Coraje noble, devoción
 Eléboro, o Rosa de Navidad, Rosa de Cuaresma (Helleborus) –
@@ -1339,8 +2130,10 @@ Eucalipto (Eucalyptus) – Protección
 Eupatoria (Eupatorium) – Regeneración, Fortalecimiento
 Euphorbia (Euphorbia) – Persistencia
 Evónimo, o Bonetero (Euonymus) – Tu imagen está grabada en mi corazón
+
 # F
 ___
+
 Flor de cera (Hoya) – Escultura
 Flor de cuclillo (Lychnis flos-cuculi) – Ingenio
 Flor de guisante (Pisum) – Reunión designada
@@ -1363,6 +2156,7 @@ Fucsias; también aretillos, pendientes, zarcillos de la Reina
 (Fuchsia) – Amor humilde, frugal
 # G
 ___
+
 Galax (Galax) – Ánimo
 Galanto, o campanilla de invierno (Galanthus) – Consolación y
 esperanza
@@ -1405,6 +2199,7 @@ Guisante de olor, o arvejilla (Lathyrus odoratus) – Salida
 Guayacana (Diospyros lotus) – Resistencia
 # H
 ___
+
 Hamamelis (Hamamelis) – Un hechizo
 Haya (Fagus) – Prosperidad
 Helecho, general – Fascinación, confianza, refugio, “Mi casa su
@@ -1437,6 +2232,7 @@ Hosta; también planta de Lidia (Hosta) – Devoción
 Hustonia; también señoras cuáqueras (Houstonia) – Contentamiento
 # I
 ___
+
 Iberis, o carraspique (Iberis) – Indiferencia
 Iris (Iris) – Sabiduría, fe, valor
 Iris, alemán (Iris) – Llama
@@ -1444,6 +2240,7 @@ Iris, amarillo (Iris) – Pasión
 Ixia (Ixia) – Felicidad
 # J
 ___
+
 Jacinto, azul (Hyacinthus orientalis) – Constancia
 Jacinto, púrpura (Hyacinthus orientalis) – Por favor perdoname
 Jacinto, roja (Hyacinthus orientalis) – Alegría
@@ -1461,6 +2258,7 @@ Jengibre (Zingiber) – Fuerza
 Juniper (Juniperus) – Perfecta belleza
 # K
 ___
+
 Kalmia, o Laurel de montaña (Kalmia latifolia) – Traición
 Karité, árbol (Vitellaria paradoxa) – Sanación de mente, cuerpo y espíritu
 Kennedia (Kennedia) – Belleza intelectual
@@ -1468,6 +2266,7 @@ Kiwi, árbol (Actinidia) – Bendiciones de un futuro próspero
 Koekemakranka (Genthyllis afra) – Virilidad
 # L
 ___
+
 Laburno, o lluvia de oro (Laburnum anagyroides) – Belleza
 pensativa
 Lantana (Lantana) – Rigor
@@ -1517,6 +2316,7 @@ Lychnis flos-cuculi, o flor del cuclillo (Lychnis) – Entusiasmo espiritual
 
 # M
 ___
+
 Madreselvas (Lonicera) – Vínculo de amor, devoción
 Madreselvas, Coral (Lonicera) – El color de mi destino.
 Madreselvas, Francés (Hedysarum coronarium) – Belleza rustica
@@ -1591,6 +2391,7 @@ Myrica (Myrica) – Instrucción
 
 # N
 ___
+
 Nabo de campo (Brassica rapa) – Caridad
 Nandina, o Bambú sagrado (Nandina) – Amor cálido
 Narciso (Narcissus) – Caballerosidad, respeto. También amor propio
@@ -1610,6 +2411,7 @@ Nueza negra (Dioscorea) – Sea mi apoyo
 
 # O 
 ___
+
 Oca, o vinagrera (Oxalis) – Gozo
 Ojo brillante (Euphrasia) – Alegrarse
 Olíbano (Boswellia sacra árbol) – El incienso de un corazón fiel
@@ -1635,6 +2437,7 @@ Osmunda (Osmunda) – Sueños
 
 # P
 ___
+
 Palma, hojas (Arecaceae) – Victoria, éxito
 Palomilla de tintes (Alkanna tinctoria) – Purificación
 Passiflora, o flor de la pasión (Passiflora) – Fe
@@ -1683,10 +2486,12 @@ Pyxie (Pyxidanthera) – La vida es dulce
 
 # Q
 ___
+
 Quina, o quinaquina (Cinchona) – Suerte
 
 # R
 ___
+
 Ranúnculo (Ranunculus) – Resplandor, encantador, riquezas
 Regaliz, o regalicia, paloduz, palolú (Glycyrrhiza glabra) – Yo declaro contra ti
 Remolacha (Beta Vulgaris) – Amor
@@ -1770,6 +2575,7 @@ Rosa de navidad (Helleborus) – Hermoso año por delante
 
 # S
 ___
+
 Salvia (Salvia officinalis) – Sabiduría, buena salud y larga vida
 Salvia azul de la montaña (Salvia Stenophylla) – Claridad
 Sandía (Citrullus) – Volumen
@@ -1804,6 +2610,7 @@ Sumac, o zumaque (Rhus) – Esplendor
 
 # T
 ___
+
 Tagete, o clavel moro (Calendula) – Pasión, creatividad
 Tanaceto, o tansi, hierba lombriguera (Tanacetum) – Resistencia
 Tarragón, o estragón, dragoncillo (Artemisia) – Altruismo, generosidad
@@ -1840,10 +2647,12 @@ Tuya occidental, o tuya del Canadá (Thuja occidentalis) – Amistad inmutable
 
 # U
 ___
+
 Uva (Vitis) – Caridad
 
 # V
 ___
+
 Valeriana (Valeriana) – Considerado, disposición complaciente
 Vara de oro (Solidago) – Ánimo
 Venus, o dionea (Dionaea muscipula) – Atrapado al fin
@@ -1867,19 +2676,23 @@ Violeta de Agua, o Flor de Bach (Justicia americana) – Libertad
 
 # W
 ___
+
 Watsonia (Watsonia zeyheri) – Castidad, pureza
 
 # X
 ___
+
 Xeranthemum, o flor inmortal (Xeranthemum) – Eternidad, la
 inmortalidad
 # Y
 ___
+
 Yohimbe (Yohimbe) – Amor
 Yuca (Yucca) – Transmutación, Purificación
 
 # Z
 ___
+
 Zanahoria, flor (Daucus) – No me rechaces
 Zapatito de Dama (Cypripedium) – Belleza caprichosa
 
@@ -1896,6 +2709,7 @@ Zapatito de Dama (Cypripedium) – Belleza caprichosa
 
 # INDEX  - FLORIOGRAPHY - By Meaning
 ___
+
 ## **APOLOGY AND FORGIVENESS**
 Asphodel . . . My regrets follow you to the grave
 Bluebell . . . Humility; Faithfulness
