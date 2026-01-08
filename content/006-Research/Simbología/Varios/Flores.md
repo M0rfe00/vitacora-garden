@@ -9,8 +9,20 @@ The apple’s connection to preference comes from the fable of the Golden Apple 
 #### **Pair with . . .**
 Pansy to show the recipient you’re thinking of them Zinnia for a gift for a best friend
 
+<img 
+  src="../media-content/Research/Simbologia/Floriografia/APPLE BLOSSOM.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 # ASPHODEL - Asphodelus
 ___
+<img 
+  src="../media-content/Research/Simbologia/Floriografia/ASPHODEL.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
 #### **Meaning:**
 My regrets follow you to the grave
 
