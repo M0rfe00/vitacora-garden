@@ -1070,3 +1070,28 @@ details.callout[open] .callout-content {
 .callout-danger {
   border-left-color: #ef4444;
 }
+
+
+.entry-image {
+  float: right;
+  width: 220px;
+  max-width: 45%;
+  margin: 0.5rem 0 1rem 1.5rem;
+
+  border-radius: 0.75rem;
+  object-fit: cover;
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  opacity: 0.95;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .entry-image {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto;
+  }
+}
