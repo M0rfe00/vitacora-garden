@@ -1,5 +1,12 @@
-# AMARYLLIS
+La floriografía (o lenguaje de las flores) es un método de comunicación codificado que utiliza el significado simbólico de las flores y arreglos florales para transmitir mensajes, sentimientos o secretos, popularizándose enormemente en la época victoriana para expresar lo que no se podía decir abiertamente debido a las estrictas normas sociales, y aunque hoy se usa menos, el simbolismo de flores como las rosas rojas para el amor sigue vigente.
 
+El regalo de las flores existe en la mayoría de las civilizaciones, ya sea un regalo o un acto religioso. En algunas culturas, el lenguaje de las flores recibe un simbolismo especial, que le da a cada uno un significado. 
+
+Por lo tanto, la composición de un ramo puede guiarse por preguntas de colores y aromas, o por el significado que se le da a cada flor. Los significados de las flores han evolucionado con el tiempo y no son los mismos en las diferentes culturas.
+
+A continuación se muestra algunos significados asociados durante la sociedad victoriana: 
+
+# AMARYLLIS
 ___
 <img
   loading= "lazy" 
@@ -3001,10 +3008,6 @@ Tulip . . . I declare my love for you
 
 
 #INTRODUCCIÓN - ORIGEN SIGNIFICADOS.
-___
-El regalo de las flores existe en la mayoría de las civilizaciones, ya sea un regalo o un acto religioso. En algunas culturas, el lenguaje de las flores recibe un simbolismo especial, que le da a cada uno un significado. 
-
-Por lo tanto, la composición de un ramo puede guiarse por preguntas de colores y aromas, o por el significado que se le da a cada flor. Los significados de las flores han evolucionado con el tiempo y no son los mismos en las diferentes culturas.
 ___
 
 A respirar el aire embalsamado
