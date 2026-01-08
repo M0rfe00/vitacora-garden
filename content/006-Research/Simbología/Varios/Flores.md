@@ -1,8 +1,50 @@
+# AMARYLLIS
+
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/AMARYLLIS.png" 
+  alt="Apple Blossom – Malus"
+  class="entry-image"
+/>
+
+#### **Meaning:**
+Pride
+
+#### **Origin:**
+The Victorians associated amaryllis with pride by virtue of its grand, tall stalks topped with bright blooms that towered over other flowers. Amaryllis, with its often leafless stems, is also known for withstanding drought. It is a strong and hearty plant, too prideful to perish under harsh conditions.
+
+#### **Pair with . . .**
+Hydrangea to indicate boastful pride
+
+Clematis to show the recipient should be proud of their cleverness
+
+
+# ANEMONE
+___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Floriografia/ANEMONE.png"
+  class="entry-image"
+/>
+
+#### **Meaning:**
+Forsaken love
+
+#### **Origin:**
+The anemone’s association with forsaken love can be traced back to Greek mythology. The flower is said to have sprung from Aphrodite’s tears as she mourned the loss of her beloved Adonis. He was killed by the jealous gods over his relationship with the goddess of love.
+
+#### **Pair with . . .**
+Camellia to show longing for what could have been
+
+Yarrow to help heal a broken heart
+
+
 # APPLE BLOSSOM - Malus
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Floriografia/" 
+  src="../media-content/Research/Simbologia/Floriografia/APPLE BLOSSOM.png" 
   alt="Apple Blossom – Malus"
   class="entry-image"
 />
@@ -21,7 +63,7 @@ Pansy to show the recipient you’re thinking of them Zinnia for a gift for a be
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Floriografia/" 
+  src="../media-content/Research/Simbologia/Floriografia/ASPHODEL.png" 
   alt="Apple Blossom – Malus"
   class="entry-image"
 />
@@ -2955,3 +2997,43 @@ Queen Anne’s Lace . . . Sanctuary
 Rose . . . Love
 Rosemary . . . Remembrance; Wisdom
 Tulip . . . I declare my love for you
+
+
+
+#INTRODUCCIÓN - ORIGEN SIGNIFICADOS.
+___
+El regalo de las flores existe en la mayoría de las civilizaciones, ya sea un regalo o un acto religioso. En algunas culturas, el lenguaje de las flores recibe un simbolismo especial, que le da a cada uno un significado. 
+
+Por lo tanto, la composición de un ramo puede guiarse por preguntas de colores y aromas, o por el significado que se le da a cada flor. Los significados de las flores han evolucionado con el tiempo y no son los mismos en las diferentes culturas.
+___
+
+A respirar el aire embalsamado
+Antes que naica el alba pura, ven:
+El beso de las flores ha cambiado
+Nuestras auras en auras del Edén.
+Lamartine.
+
+
+Las flores tienen un lenguaje elocuente que revela la creación, eleva el alma y está al alcance de todo el mundo; ellas tienen también otro lenguaje más misterioso y que no es comprendido sino por algunos iniciados. Los primeros hombres conocieron que la palabra no era siempre un medio de comunicarse; buscaron el modo de pintar a la vista sus pensamientos e inventaron jeroglíficos, imágenes de plantas, de animales, etc. Con una espiga de trigo significaban la cosecha, y por consiguiente la riqueza, la abundancia. La cizaña, planta que sofoca las mieses, simbolizaba el vicio; la más bella de las flores hasta entonces conocida significaba belleza. La Escritura Santa está llena de estas alegorías.
+
+La civilización, perfeccionándose, creó nuevas necesidades: fue necesario desde entonces aumentar el vocabulario escrito, hacerlo más claro, más preciso: inventáronse los tipos. Los progresos de la civilización produjeron algunos vicios: el hombre abusó de sus fuerzas y sometió a su dominio los seres más débiles; las mujeres del Oriente fueron encerradas en serrallos, y para comunicar sus pensamientos sin que sus carceleros lo supiesen, imaginaron el lenguaje de las flores. Así, un lirio blanco significaba no me olvides; una margarita sencilla expresaba lo pensaré; una corona de rosas, recompensa a la virtud; una rosa marchita era un emblema de la desgracia.
+
+También los paladines y las damas de la Edad Media adoptaron este idioma.
+
+La naturaleza creó las flores, así como las mujeres, para brillar en este mundo, para encantar nuestra vista con su hermosura, nuestros sentidos con sus perfumes; a la vista de una flor, como al solo aspecto de una mujer, nuestros ojos se animan, nuestro corazón palpita, y parécenos tomar un nuevo ser; si hay en las palabras mujeres y flores un no sé qué delicado, tierno, armonioso, que halaga y seduce nuestros oídos, ¿por qué extrañar entonces las frecuentes comparaciones que los poetas y los amantes han hecho entre estas dos privilegiadas maravillas?
+
+La brillantez, la suavidad, el colorido, las sensaciones, los amores de las flores han servido de emblema a la hermosura, a la gracia, al contento, a la virtud y a las pasiones de las mujeres. Las unas han llegado a ser el espejo fiel de las otras. Leemos en el seno de las flores todos los misterios que oculta el corazón de las mujeres. Las flores tienen su lenguaje, su elocuencia, su moral y su filosofía; filosofía dulce, amable, atractiva como la de las mujeres.
+
+Hay dos maneras de emplear el lenguaje de las flores: pueden formarse ramilletes, ya dibujados o ya de flores naturales; pero en este caso el sentido es, algunas veces, difícil de comprender, y con mucha frecuencia se cometen equivocaciones leyendo una flor antes que otra cuya lectura debió preceder. Cuando se quiere dibujar un ramillete, es mejor colocar las flores separadamente o seguidas unas de otras, como en el ejemplo siguiente:
+
+Clavel rosado. Jazmín. Rosa. Yedra. Mirto.
+PREFERENCIA. AMABILIDAD. BELLEZA. AMISTAD. AMOR.
+Preferid la amabilidad a la belleza, la amistad al amor.
+
+La política se ha servido muchas veces de este lenguaje misterioso: usáronse el cardo en Escocia, la rosa encarnada y la rosa blanca en Inglaterra, en Francia la azucena y después la violeta para designar diversos partidos y principios. El autor del Poema de los meses, el desgraciado Foucher, encarcelado en tiempo del terrorismo, mitigaba con las flores los fastidios de su prisión. Antes de subir al cadalso, envió a su hija dos azucenas disecadas, emblemas de la inocencia de su alma y de la triste suerte que le esperaba.
+
+Una flor tomada en su posición natural conserva su significación propia; invertida tiene un sentido contrario. El heliotropio, por ejemplo, quiere decir yo os amo; si se voltea hacia abajo, dirá yo os odio; una rama de alfalfa significa vida, invertida significará muerte; un botón de rosa encarnada con sus espinas y sus hojas dice temo, pero espero; vuelto dirá no hay que esperar ni que temer; si le despojamos de sus espinas significará es muy de esperarse; si de sus hojas, es muy de temer. Se puede cambiar el significado de casi todas las flores variando su posición.
+
+La caléndula, por ejemplo, colocada en la cabeza, indica melancolía; en el corazón, celos; en el seno, fastidio. En fin, el pronombre yo se expresa tomando la flor con la mano derecha, y el pronombre tú con la izquierda.
+
+Lo que es difícil de retener en la memoria es el sentido simbólico apropiado a cada flor. Se podría componer un diccionario muy extenso, pero no daremos aquí sino la lista de aquellas que son ya conocidas en el país, y cuyo uso es más frecuente entre nuestras amables sudamericanas.
