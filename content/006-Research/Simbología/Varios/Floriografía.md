@@ -3007,9 +3007,15 @@ Tulip . . . I declare my love for you
 
 
 
-#INTRODUCCIÓN - ORIGEN SIGNIFICADOS.
+# INTRODUCCIÓN - ORIGEN SIGNIFICADOS.
 ___
+Chrysanthemums are for condolences, rue is for regret, and rosemary is for remembrance.
 
+The Victorian language of flowers—also called floriography— emerged as a clandestine method of communication at a time when proper etiquette discouraged open and flagrant displays of emotion. First emerging in 1819 with Charlotte de la Tour’s Le langage des fleurs, this coded “language” was used widely throughout the nineteenth century in both England and America and today is synonymous with Victorian tradition and culture. Flower meanings were taken from literature, mythology, religion, medieval legend, and even the shapes of the blooms themselves. Often, florists would invent symbolism to accompany new additions to their inventory, and occasionally, flowers had different meanings depending on the location and time. Young women of high society in this era embraced the practice, sending bouquets as tokens of love or warning, wearing flowers in their hair or tucked into their gowns, and celebrating all things floral. Many of them created small arrangements of flowers, called tussie-mussies or nosegays, by combining a few blooms in a small bouquet. Worn or carried as accessories, these coded messages of affection, desire, or sorrow allowed Victorians to show their true feelings in an enigmatic and alluring display.
+
+As the era came to an end and the First World War began, the language of flowers faded in popularity. Traces of the tradition remain, however. We still use roses to convey love at weddings and on Valentine’s Day, lilies for peace, and mums for condolences. The elegance and beauty of flowers have not dwindled—only our knowledge of their coded meanings. I hope this book, apart from offering a view into the history of floriography, will encourage readers to look at flowers and herbs in a new way, perhaps assigning their own meanings to the blooms that inspire them most.
+
+___
 A respirar el aire embalsamado
 Antes que naica el alba pura, ven:
 El beso de las flores ha cambiado
