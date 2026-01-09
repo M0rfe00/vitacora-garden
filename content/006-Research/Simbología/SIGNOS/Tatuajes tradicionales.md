@@ -2,9 +2,9 @@
 tags:
   - Tattoo
 ---
-![[([Galdrastafir] Sorcerer's screed _ the Icelandic book of magic spells.pdf]]
+![[Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells.pdf]]
 
-![[[Galdrabokinn (Es)].pdf]]
+![[Galdrabokinn (Es).pdf]]
 
 # JUDEOCRISTIANOS
 ___
@@ -21,9 +21,9 @@ ___
 # VEVES
 ___
 
-![[[Veve vodou].pdf]]
+![[Veve vodou.pdf]]
 
-![[[Loas y veves del vudu].pdf]]
+![[Loas y veves del vudu.pdf]]
 
 
 ![[MAGIA, MITO Y REALIDAD DEL VEVER.pdf]]
