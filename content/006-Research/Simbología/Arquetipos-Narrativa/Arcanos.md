@@ -7,7 +7,7 @@ ____
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar01.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A youthful figure in the robe of a magician, having the countenance of divine Apollo, with smile of confidence and shining eyes. Above his head is the mysterious sign of the Holy Spirit, the sign of life, like an endless cord, forming the figure 8 in a horizontal position . About his waist is a serpent-cincture, the serpent appearing to devour its own tail. This is familiar to most as a conventional symbol of eternity, but here it indicates more especially the eternity of attainment in the spirit. In the Magician's right hand is a wand raised towards heaven, while the left hand is pointing to the earth. This dual sign is known in very high grades of the Instituted Mysteries; it shews the descent of grace, virtue and light, drawn from things above and derived to things below. The suggestion throughout is therefore the possession and communication of the Powers and Gifts of the Spirit.
 
 On the table in front of the Magician are the symbols of the four Tarot suits, signifying the elements of natural life, which lie like counters before the adept, and he adapts them as he wills. Beneath are roses and lilies, the flos campi and lilium convallium, changed into garden flowers, to shew the culture of aspiration. This card signifies the divine motive in man, reflecting God, the will in the liberation of its union with that which is above. It is also the unity of individual being on all planes, and in a very high sense it is thought, in the fixation thereof. With further reference to what I have called the sign of life and its connexion with the number 8, it may be remembered that Christian Gnosticism speaks of rebirth in Christ as a change "unto the Ogdoad." The mystic number is termed Jerusalem above, the Land flowing with Milk and Honey, the Holy Spirit and the Land of the Lord. According to Martinism, 8 is the number of Christ.
@@ -18,7 +18,7 @@ ____
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar02.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The High Priestess She has the lunar crescent at her feet, a horned diadem on her head, with a globe in the middle place, and a large solar cross on her breast. The scroll in her hands is inscribed with the word Tora, signifying the Greater Law, the Secret Law and the second sense of the Word. It is partly covered by her mantle, to shew that some things are implied and some spoken. She is seated between the white and black pillars--J. and B.--of the mystic Temple, and the veil of the Temple is behind her: it is embroidered with palms and pomegranates. The vestments are flowing and gauzy, and the mantle suggests light--a shimmering radiance. She has been called occult Science on the threshold of the Sanctuary of Isis, but she is really the Secret Church, the House which is of God and man. She represents also the Second Marriage of the Prince who is no longer of this world; she is the spiritual Bride and Mother, the daughter of the stars and the Higher Garden of Eden. She is, in fine, the Queen of the borrowed light, but this is the light of all. She is the Moon nourished by the milk of the Supernal Mother.
 
 In a manner, she is also the Supernal Mother herself--that is to say, she is the bright reflection. It is in this sense of reflection that her truest and highest name in bolism is Shekinah--the co-habiting glory. According to Kabalism, there is a Shekinah both above and below. In the superior world it is called Binah, the Supernal Understanding which reflects to the emanations that are beneath. In the lower world it is MaIkuth--that world being, for this purpose, understood as a blessed Kingdom that with which it is made blessed being the Indwelling Glory. Mystically speaking, the Shekinah is the Spiritual Bride of the just man, and when he reads the Law she gives the Divine meaning. There are some respects in which this card is the highest and holiest of the Greater Arcana.
@@ -30,7 +30,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar03.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A stately figure, seated, having rich vestments and royal aspect, as of a daughter of heaven and earth. Her diadem is of twelve stars, gathered in a cluster. The symbol of Venus is on the shield which rests near her. A field of corn is ripening in front of her, and beyond there is a fall of water. The sceptre which she bears is surmounted by the globe of this world. She is the inferior Garden of Eden, the Earthly Paradise, all that is symbolized by the visible house of man. She is not Regina coeli, but she is still refugium peccatorum, the fruitful mother of thousands. There are also certain aspects in which she has been correctly described as desire and the wings thereof, as the woman clothed with the sun, as Gloria Mundi and the veil of the Sanctum Sanctorum; but she is not, I may add, the soul that has attained wings, unless all the symbolism is counted up another and unusual way. She is above all things universal fecundity and the outer sense of the Word. This is obvious, because there is no direct message which has been given to man like that which is borne by woman; but she does not herself carry its interpretation.
 
 In another order of ideas, the card of the Empress signifies the door or gate by which an entrance is obtained into this life, as into the Garden of Venus; and then the way which leads out therefrom, into that which is beyond, is the secret known to the High Priestess: it is communicated by her to the elect. Most old attributions of this card are completely wrong on the symbolism--as, for example, its identification with the Word, Divine Nature, the Triad, and so forth.
@@ -42,7 +42,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar04.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He has a form of the Crux ansata for his sceptre and a globe in his left hand. He is a crowned monarch--commanding, stately, seated on a throne, the arms of which axe fronted by rams' heads. He is executive and realization, the power of this world, here clothed with the highest of its natural attributes. He is occasionally represented as seated on a cubic stone, which, however, confuses some of the issues. He is the virile power, to which the Empress responds, and in this sense is he who seeks to remove the Veil of Isis; yet she remains virgo intacta.
 
 It should be understood that this card and that of the Empress do not precisely represent the condition of married life, though this state is implied. On the surface, as I have indicated, they stand for mundane royalty, uplifted on the seats of the mighty; but above this there is the suggestion of another presence. They signify also--and the male figure especially--the higher kingship, occupying the intellectual throne. Hereof is the lordship of thought rather than of the animal world. Both personalities, after their own manner, are "full of strange experience," but theirs is not consciously the wisdom which draws from a higher world. The Emperor has been described as (a) will in its embodied form, but this is only one of its applications, and (b) as an expression of virtualities contained in the Absolute Being--but this is fantasy.
@@ -55,7 +55,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar05.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He wears the triple crown and is seated between two pillars, but they are not those of the Temple which is guarded by the High Priestess. In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives the well-known ecclesiastical sign which is called that of esotericism, distinguishing between the manifest and concealed part of doctrine. It is noticeable in this connexion that the High Priestess makes no sign. At his feet are the crossed keys, and two priestly ministers in albs kneel before him. He has been usually called the Pope, which is a particular application of the more general office that he symbolizes. 
 
 He is the ruling power of external religion, as the High Priestess is the prevailing genius of the esoteric, withdrawn power. The proper meanings of this card have suffered woeful admixture from nearly all hands. Grand Orient says truly that the Hierophant is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; but he is certainly not the prince of occult doctrine, as another commentator has suggested. He is rather the summa totius theologiæ, when it has passed into the utmost rigidity of expression; but he symbolizes also all things that are righteous and sacred on the manifest side. As such, he is the channel of grace belonging to the world of institution as distinct from that of Nature, and he is the leader of salvation for the human race at large. 
@@ -69,7 +69,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar06.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down influences. In the foreground are two human figures, male and female, unveiled before each other, as if Adam and Eve when they first occupied the paradise of the earthly body. Behind the man is the Tree of Life, bearing twelve fruits, and the Tree of the Knowledge of Good and Evil is behind the woman; the serpent is twining round it. The figures suggest youth, virginity, innocence and love before it is contaminated by gross material desire. 
 
 This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life. It replaces, by recourse to first principles, the old card of marriage, which I have described previously, and the later follies which depicted man between vice and virtue. In a very high sense, the card is a mystery of the Covenant and Sabbath. The suggestion in respect of the woman is that she signifies that attraction towards the sensitive life which carries within it the idea of the Fall of Man, but she is rather the working of a Secret Law of Providence than a willing and conscious temptress. 
@@ -84,7 +84,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar07.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 An erect and princely figure carrying a drawn sword and corresponding, broadly speaking, to the traditional description which I have given in the first part. On the shoulders of the victorious hero are supposed to be the Urim and Thummim. He has led captivity captive; he is conquest on all planes--in the mind, in science, in progress, in certain trials of initiation. He has thus replied to the sphinx, and it is on this account that I have accepted the variation of Éliphas Lévi; two sphinxes thus draw his chariot. He is above all things triumph in the mind. 
 
 It is to be understood for this reason (a) that the question of the sphinx is concerned with a Mystery of Nature and not of the world of Grace, to which the charioteer could offer no answer; (b) that the planes of his conquest are manifest or external and not within himself; (c) that the liberation which he effects may leave himself in the bondage of the logical understanding; (d) that the tests of initiation through which he has passed in triumph are to be understood physically or rationally; and (e) that if he came to the pillars of that Temple between which the High Priestess is seated, he could not open the scroll called Tora, nor if she questioned him could he answer. He is not hereditary royalty and he is not priesthood.
@@ -97,7 +97,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar08.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A woman, over whose head there broods the same symbol of life which we have seen in the card of the Magician, is closing the jaws of a lion. The only point in which this design differs from the conventional presentations is that her beneficent fortitude has already subdued the lion, which is being led by a chain of flowers. For reasons which satisfy myself, this card has been interchanged with that of justice, which is usually numbered eight. As the variation carries nothing with it which will signify to the reader, there is no cause for explanation. Fortitude, in one of its most exalted aspects, is connected with the Divine Mystery of Union; the virtue, of course, operates in all planes, and hence draws on all in its symbolism. 
 
 It connects also with innocentia inviolata, and with the strength which resides in contemplation. These higher meanings are, however, matters of inference, and I do not suggest that they are transparent on the surface of the card. They are intimated in a concealed manner by the chain of flowers, which signifies, among many other things, the sweet yoke and the light burden of Divine Law, when it has been taken into the heart of hearts. The card has nothing to do with selfconfidence in the ordinary sense, though this has been suggested--but it concerns the confidence of those whose strength is God, who have found their refuge in Him. There is one aspect in which the lion signifies the passions, and she who is called Strength is the higher nature in its liberation. It has walked upon the asp and the basilisk and has trodden down the lion and the dragon.
@@ -110,7 +110,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar09.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The variation from the conventional models in this card is only that the lamp is not enveloped partially in the mantle of its bearer, who blends the idea of the Ancient of Days with the Light of the World It is a star which shines in the lantern. I have said that this is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence. Therefore the Hermit is not, as Court de Gebelin explained, a wise man in search of truth and justice; nor is he, as a later explanation proposes, an especial example of experience. His beacon intimates that "where I am, you also may be." 
 
 It is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of personal magnetism against admixture. This is one of the frivolous renderings which we owe to Éliphas Lévi. It has been adopted by the French Order of Martinism and some of us have heard a great deal of the Silent and Unknown Philosophy enveloped by his mantle from the knowledge of the profane. In true Martinism, the significance of the term Philosophe inconnu was of another order. It did not refer to the intended concealment of the Instituted Mysteries, much less of their substitutes, but--like the card itself--to the truth that the Divine Mysteries secure their own protection from those who are unprepared.
@@ -123,7 +123,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar10.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 In this symbol I have again followed the reconstruction of Éliphas Lévi, who has furnished several variants. It is legitimate--as I have intimated--to use Egyptian symbolism when this serves our purpose, provided that no theory of origin is implied therein. I have, however, presented Typhon in his serpent form. 
 
 The symbolism is, of course, not exclusively Egyptian, as the four Living Creatures of Ezekiel occupy the angles of the card, and the wheel itself follows other indications of Lévi in respect of Ezekiel's vision, as illustrative of the particular Tarot Key. 
@@ -141,7 +141,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar13.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 As this card follows the traditional symbolism and carries above all its obvious meanings, there is little to say regarding it outside the few considerations collected in the first part, to which the reader is referred. It will be seen, however, that the figure is seated between pillars, like the High Priestess, and on this account it seems desirable to indicate that the moral principle which deals unto every man according to his works--while, of course, it is in strict analogy with higher things;--differs in its essence from the spiritual justice which is involved in the idea of election. The latter belongs to a mysterious order of Providence, in virtue of which it is possible for certain men to conceive the idea of dedication to the highest things. 
 
 The operation of this is like the breathing of the Spirit where it wills, and we have no canon of criticism or ground of explanation concerning it. It is analogous to the possession of the fairy gifts and the high gifts and the gracious gifts of the poet: we have them or have not, and their presence is as much a mystery as their absence. The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice open into one world and the pillars of the High Priestess into another.
@@ -154,7 +154,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The gallows from which he is suspended forms a Tau cross, while the figure--from the position of the legs--forms a fylfot cross. There is a nimbus about the head of the seeming martyr. It should be noted (1) that the tree of sacrifice is living wood, with leaves thereon; (2) that the face expresses deep entrancement, not suffering; (3) that the figure, as a whole, suggests life in suspension, but life and not death. 
 
 It is a card of profound significance, but all the significance is veiled. One of his editors suggests that Éliphas Lévi did not know the meaning, which is unquestionable nor did the editor himself. It has been called falsely a card of martyrdom, a card a of prudence, a card of the Great Work, a card of duty; but we may exhaust all published interpretations and find only vanity. 
@@ -170,7 +170,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar14.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The veil or mask of life is perpetuated in change, transformation and passage from lower to higher, and this is more fitly represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton. Behind it lies the whole world of ascent in the spirit. The mysterious horseman moves slowly, bearing a black banner emblazoned with the Mystic Rose, which signifies life. 
 
 Between two pillars on the verge of the horizon there shines the sun of immortality. The horseman carries no visible weapon, but king and child and maiden fall before him, while a prelate with clasped hands awaits his end. There should be no need to point out that the suggestion of death which I have made in connection with the previous card is, of course, to be understood mystically, but this is not the case in the present instance. The natural transit of man to the next stage of his being either is or may be one form of his progress, but the exotic and almost unknown entrance, while still in this life, into the state of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate. The existing occult explanations of the 13th card are, on the whole, better than usual, rebirth, creation, destination, renewal, and the rest.
@@ -184,7 +184,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A winged angel, with the sign of the sun upon his forehead and on his breast the square and triangle of the septenary. I speak of him in the masculine sense, but the figure is neither male nor female. It is held to be pouring the essences of life from chalice to chalice. It has one foot upon the earth and one upon waters, thus illustrating the nature of the essences. A direct path goes up to certain heights on the verge of the horizon, and above there is a great light, through which a crown is seen vaguely. Hereof is some part of the Secret of Eternal Life, as it is possible to man in his incarnation. All the conventional emblems are renounced herein. 
 
 So also are the conventional meanings, which refer to changes in the seasons, perpetual movement of life and even the combination of ideas. It is, moreover, untrue to say that the figure symbolizes the genius of the sun, though it is the analogy of solar light, realized in the third part of our human triplicity. It is called Temperance fantastically, because, when the rule of it obtains in our consciousness, it tempers, combines and harmonises the psychic and material natures. Under that rule we know in our rational part something of whence we came and whither we are going.
@@ -198,7 +198,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar15.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The design is an accommodation, mean or harmony, between several motives mentioned in the
 first part. The Horned Goat of Mendes, with wings like those of a bat, is standing on an altar. At
 the pit of the stomach there is the sign of Mercury. The right hand is upraised and extended, being
@@ -226,7 +226,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar16.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Occult explanations attached to this card are meagre and mostly disconcerting. It is idle to indicate that it depicts min in all its aspects, because it bears this evidence on the surface. It is said further that it contains the first allusion to a material building, but I do not conceive that the Tower is more or less material than the pillars which we have met with in three previous cases. I see nothing to warrant Papus in supposing that it is literally the fall of Adam, but there is more in favour of his alternative--that it signifies the materialization of the spiritual word. The bibliographer Christian imagines that it is the downfall of the mind, seeking to penetrate the mystery of God. I agree rather with Grand Orient that it is the ruin of the House of We, when evil has prevailed therein, and above all that it is the rending of a House of Doctrine. I understand that the reference is, however, to a House of Falsehood. It illustrates also in the most comprehensive way the old truth that "except the Lord build the house, they labour in vain that build it."
 
 There is a sense in which the catastrophe is a reflection from the previous card, but not on the side of the symbolism which I have tried to indicate therein. It is more correctly a question of analogy; one is concerned with the fall into the material and animal state, while the other signifies destruction on the intellectual side. The Tower has been spoken of as the chastisement of pride and the intellect overwhelmed in the attempt to penetrate the Mystery of God; but in neither case do these explanations account for the two persons who are the living sufferers. The one is the literal word made void and the other its false interpretation. In yet a deeper sense, it may signify also the end of a dispensation, but there is no possibility here for the consideration of this involved question.
@@ -240,7 +240,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar17.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A great, radiant star of eight rays, surrounded by seven lesser stars--also of eight rays. The female
 figure in the foreground is entirely naked. Her left knee is on the land and her right foot upon the
 water. She pours Water of Life from two great ewers, irrigating sea and land. Behind her is rising
@@ -265,7 +265,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar18.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The distinction between this card and some of the conventional types is that the moon is increasing
 on what is called the side of mercy, to the right of the observer. It has sixteen chief and sixteen
 secondary rays. The card represents life of the imagination apart from life of the spirit. The path
@@ -289,7 +289,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar19.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The naked child mounted on a white horse and displaying a red standard has been mentioned
 already as the better symbolism connected with this card. It is the destiny of the Supernatural East
 and the great and holy light which goes before the endless procession of humanity, coming out
@@ -316,7 +316,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar20.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 I have said that this symbol is essentially invariable in all Tarot sets, or at least the variations do
 not alter its character. The great angel is here encompassed by clouds, but he blows his bannered
 trumpet, and the cross as usual is displayed on the banner. The dead are rising from their tombs--a
@@ -343,7 +343,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar00.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 With light step, as if earth and its trammels had little power to restrain him, a young man in
 gorgeous vestments pauses at the brink of a precipice among the great heights of the world; he
 surveys the blue distance before him-its expanse of sky rather than the prospect below. His act of
@@ -376,7 +376,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar21.jp" 
   alt=""
   class="entry-image"
-/>
+/><br>
 As this final message of the Major Trumps is unchanged--and indeed unchangeable--in respect of
 its design, it has been partly described already regarding its deeper sense. It represents also the
 perfection and end of the Cosmos, the secret which is within it, the rapture of the universe when it
@@ -413,7 +413,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/waki.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The physical and emotional nature to which this card is attributed is dark, ardent, lithe, animated, impassioned, noble. The King uplifts a flowering wand, and wears, like his three correspondences in the remaining suits, what is called a cap of maintenance beneath his crown. He connects with the symbol of the lion, which is emblazoned on the back of his throne. 
 
 **Divinatory Meanings:** Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long. 
@@ -428,7 +428,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/waqu.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The Wands throughout this suit are always in leaf, as it is a suit of life and animation. Emotionally and otherwise, the Queen's persona**lity corresponds to that of the King, but is more magnetic. 
 
 Divinatory Meanings: A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business. 
@@ -444,7 +444,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wakn.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He is shewn as if upon a journey, armed with a short wand, and although mailed is not on a warlike errand. He is passing mounds or pyramids. The motion of the horse is a key to the character of its rider, and suggests the precipitate mood, or things connected therewith.
 
 **Divinatory Meanings:** Departure, absence, flight, emigration. A dark young man, friendly. Change of residence. 
@@ -461,7 +461,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wapa.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 In a scene similar to the former, a young man stands in the act of proclamation. He is unknown but faithful, and his tidings are strange. 
 
 **Divinatory Meanings:** Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence. 
@@ -478,7 +478,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa10.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A man oppressed by the weight of the ten staves which he is carrying. 
 
 **Divinatory Meanings:** A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss. 
@@ -495,7 +495,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa09.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other staves--erect, in orderly disposition, like a palisade. 
 
 Divinatory Meanings: The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts--delay, suspension, adjournment. 
@@ -511,7 +511,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa08.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The card represents motion through the immovable-a flight of wands through an open country; but they draw to the term of their course. That which they signify is at hand; it may be even on the threshold. 
 
 Divinatory Meanings: Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love. 
@@ -528,7 +528,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa07.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below. 
 
 Divinatory Meanings: It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him. 
@@ -545,7 +545,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa06.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A laurelled horseman bears one staff adorned with a laurel crown; footmen with staves are at his side. 
 
 Divinatory Meanings: The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth. 
@@ -560,7 +560,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa05.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A posse of youths, who are brandishing staves, as if in sport or strife. It is mimic warfare, and hereto correspond the 
 
 Divinatory Meanings: Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence. 
@@ -577,7 +577,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa04.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 From the four great staves planted in the foreground there is a great garland suspended; two female figures uplift nosegays; at their side is a bridge over a moat, leading to an old manorial house. 
 
 Divinatory Meanings: They are for once almost on the surface--country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these. 
@@ -593,7 +593,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa03.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A calm, stately personage, with his back turned, looking from a cliff's edge at ships passing over the sea. Three staves are planted in the ground, and he leans slightly on one of them. 
 
 Divinatory Meanings: He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you. 
@@ -608,7 +608,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/wa02.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A tall man looks from a battlemented roof over sea and shore; he holds a globe in his right hand, while a staff in his left rests on the battlement; another is fixed in a ring. The Rose and Cross and Lily should be noticed on the left side. 
 
 Divinatory Meanings: Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.
@@ -626,7 +626,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Bastos/waac.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A hand issuing from a cloud grasps a stout wand or club. 
 
 Divinatory Meanings: Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.
@@ -646,7 +646,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cuki.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards.
 
 Divinatory Meanings: Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence. 
@@ -661,7 +661,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cuqu.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream. 
 
 Divinatory Meanings: Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother. 
@@ -676,7 +676,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cukn.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision.
 
 Divinatory Meanings: Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement. Reversed: Trickery, artifice, subtlety, swindling, duplicity, fraud.
@@ -690,7 +690,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cupa.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the pictures of the mind taking form. 
 
 Divinatory Meanings: Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business. 
@@ -708,7 +708,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu10.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Appearance of Cups in a rainbow; it is contemplated in wonder and ecstacy by a man and woman below, evidently husband and wife. His right arm is about her; his left is raised upward; she raises her right arm. The two children dancing near them have not observed the prodigy but are happy after their own manner. There is a home-scene beyond. 
 
 Divinatory Meanings: Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent. 
@@ -723,7 +723,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu09.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects. 
 
 Divinatory Meanings: Concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made. 
@@ -740,7 +740,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu08.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A man of dejected aspect is deserting the cups of his felicity, enterprise, undertaking or previous concern. 
 
 Divinatory Meanings: The card speaks for itself on the surface, but other readings are entirely antithetical--giving joy, mildness, timidity, honour, modesty. In practice, it is usually found that the card shews the decline of a matter, or that a matter which has been thought to be important is really of slight consequence--either for good or evil. 
@@ -755,7 +755,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu07.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Strange chalices of vision, but the images are more especially those of the fantastic spirit. 
 
 Divinatory Meanings: Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested. 
@@ -771,7 +771,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu06.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Children in an old garden, their cups filled with flowers. 
 
 Divinatory Meanings: A card of the past
@@ -791,7 +791,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu05.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. 
 
 Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration. 
@@ -808,7 +808,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu04.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discon tent with his environment. 
 
 Divinatory Meanings: Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure. 
@@ -825,7 +825,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cu03.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Maidens in a garden-ground with cups uplifted, as if pledging one another. 
 
 Divinatory Meanings: The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing, 
@@ -841,7 +841,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A youth and maiden are pledging one another, and above their cups rises the Caduceus of Hermes, between the great wings of which there appears a lion's head. It is a variant of a sign which is found in a few old examples of this card. Some curious emblematical meanings are attached to it, but they do not concern us in this place. 
 
 Divinatory Meanings: Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and--as a suggestion apart from all offices of divination--that desire which is not in Nature, but by which Nature is sanctified.
@@ -856,7 +856,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Copas/cuac.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana. 
 
 Divinatory Meanings: House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof. 
@@ -873,7 +873,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/swki.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He sits in judgment, holding the unsheathed sign of his suit. He recalls, of course, the conventional Symbol of justice in the Trumps Major, and he may represent this virtue, but he is rather the power of life and death, in virtue of his office. 
 
 Divinatory Meanings: Whatsoever arises out of the idea of judgment and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth. 
@@ -888,7 +888,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/swqu.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Her right hand raises the weapon vertically and the hilt rests on an arm of her royal chair the left hand is extended, the arm raised her coun## **tenance is se**vere but chastened; it suggests familiarity with sorrow. It does not represent mercy, and, her sword notwithstanding, she is scarcely a symbol of power. 
 
 Divinatory Meanings: Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation. 
@@ -906,7 +906,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/swkn.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart. 
 
 Divinatory Meanings: Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality. 
@@ -922,7 +922,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/swpa.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment. 
 
 Divinatory Meanings: Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging. 
@@ -937,7 +937,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw10.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A prostrate figure, pierced by all the swords belonging to the card. 
 
 Divinatory Meanings: Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death. 
@@ -953,7 +953,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw09.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation. 
 
 Divinatory Meanings: Death, failure, miscarriage, delay, deception, disappointment, despair. 
@@ -969,7 +969,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw08.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage. 
 
 Divinatory Meanings: Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness. 
@@ -986,7 +986,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw07.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A man in the act of carrying away five swords rapidly; the ## two others of the card remain stuck in the ground. A camp is close at hand. 
 
 Divinatory Meanings: Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other. 
@@ -1002,7 +1002,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw06.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength. 
 
 Divinatory Meanings: journey by water, route, way, envoy, commissionary, expedient. 
@@ -1018,7 +1018,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw05.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field. 
 
 Divinatory Meanings: Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these. 
@@ -1034,7 +1034,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw04.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The effigy of a knight in the attitude of prayer, at full length upon his tomb. 
 
 Divinatory Meanings: Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design. 
@@ -1052,7 +1052,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw03.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Three swords piercing a heart; cloud and rain behind. 
 
 Divinatory Meanings: Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration. 
@@ -1067,7 +1067,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/sw02.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A hoodwinked female figure balances two swords upon her shoulders. 
 
 Divinatory Meanings: Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs. 
@@ -1085,7 +1085,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Espadas/swac.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A hand issues from a cloud, grasping as word, the point of which is encircled by a crown. 
 
 Divinatory Meanings: Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling. 
@@ -1105,7 +1105,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/peki.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The figure calls for no special description the face is rather dark, suggesting also courage, but somewhat lethargic in tendency. The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram,typifying the correspondence of the four elements in human nature and that by which they may be governed.  In many old Tarot packs this suit stood for current coin, money, deniers. I have not invented the substitution of pentacles and I have no special cause to sustain in respect of the alternative. But the consensus of divinatory meanings is on the side of some change, because the cards do not happen to deal especially with questions of money. 
 
 Divinatory Meanings: Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths. 
@@ -1119,7 +1119,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pequ.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein. 
 
 Divinatory Meanings: Opulence, generosity, magnificence, security, liberty. 
@@ -1134,7 +1134,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pekn.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 He rides a slow, enduring, heavy horse, to which his own aspect corresponds. He exhibits his symbol, but does not look therein. 
 
 Divinatory Meanings: Utility, serviceableness, interest, responsibility, rectitude-all on the normal and external plane. 
@@ -1150,7 +1150,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pepa.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him. 
 
 Divinatory Meanings: Application, study, scholarship, reflection another reading says news, messages and the bringer thereof; also rule, management. 
@@ -1164,7 +1164,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe10.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them. 
 
 Divinatory Meanings: Gain, riches; family matters, archives, extraction, the abode of a family.
@@ -1180,7 +1180,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe09.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things. Possibly it is her own possession and testifies to material well-being. 
 
 Divinatory Meanings: Prudence, safety, success, accomplishment, certitude, discernment. 
@@ -1196,7 +1196,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe08.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 An artist in stone at his work, which he exhibits in the form of trophies. 
 
 Divinatory Meanings: Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage. 
@@ -1211,7 +1211,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe07.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A young man, leaning on his staff, looks in## **tently at sev**en pentacles attached to a clump of
 greenery on his right; one would say that these were his treasures and that his heart was there.
 
@@ -1230,7 +1230,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe06.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed. It is a testimony to his own success in life, as well as to his goodness of heart. 
 
 **Divinatory Meanings:** Presents, gifts, gratification another account says at tention, vigilance now is the accepted time, present prosperity, etc. 
@@ -1246,7 +1246,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe05.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 Two mendicants in a snow-storm pass a lighted casement. 
 
 Divinatory Meanings: The card foretells material trouble above all, whether in the form illustrated--that is, destitution--or otherwise. For some cartomancists, it is a card of love and lovers-wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized. 
@@ -1261,7 +1261,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe04.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A crowned figure, having a pentacle over his crown, clasps another with hands and arms; two
 pentacles are under his feet. He holds to that which he has. 
 
@@ -1278,7 +1278,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe03.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest. 
 
 Divinatory Meanings: Métier, trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory. 
@@ -1293,7 +1293,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/pe02.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A young man, in the act of dancing, has a pentacle in either hand, and they are joined by that endless cord which is like the number 8 reversed. 
 
 Divinatory Meanings: On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment. 
@@ -1307,7 +1307,7 @@ ___
   src="../media-content/Research/Simbologia/Arcanos&Triumfos/Oros/peac.jpg" 
   alt=""
   class="entry-image"
-/>
+/><br>
 A hand--issuing, as usual, from a cloud--holds up a pentacle. 
 
 Divinatory Meanings: Perfect contentment, felicity, ecstasy; also speedy intelligence; gold. 
