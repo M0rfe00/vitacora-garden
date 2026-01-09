@@ -1387,7 +1387,7 @@ ___
 </div>
 </div>
 
-
+<!--
 # MOODBOARDS
 ___
 ![[Accesorios-Moodboard.pdf]]
@@ -1401,3 +1401,5 @@ ___
 ![[MakeupMoodboard.pdf]]
 
 ![[TatooMoodboard.pdf]]
+
+-->
