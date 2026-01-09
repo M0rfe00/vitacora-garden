@@ -1,4 +1,10 @@
-#hideInExplorer 
+---
+tags:
+  - IA
+  - Tecnologia
+  - hideInExplorer 
+---
+
 ![[Pasted image 20260106053634.png]]![[Pasted image 20260106053641.png]]
 
 Prompt:  

@@ -1,3 +1,9 @@
+---
+tags:
+  - Color
+  - Simbologia
+  - References
+---
 # OPUESTOS
 ___
 
