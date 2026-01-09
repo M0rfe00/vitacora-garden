@@ -236,8 +236,8 @@ body.lightbox-open {
                   }
                 });
 
-                // Añadimos click a las imágenes dentro de .galeria
-                const galleryImages = document.querySelectorAll('.galeria img');
+                // Añadimos click a las imágenes dentro de .galeria, .galeria2
+                const galleryImages = document.querySelectorAll('.galeria img', .galeria img2');
                 galleryImages.forEach(img => {
                   img.style.cursor = 'pointer';
                   img.addEventListener('click', (e) => {
