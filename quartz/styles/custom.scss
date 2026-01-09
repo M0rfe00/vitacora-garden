@@ -1113,7 +1113,7 @@ details.callout[open] .callout-content {
 .entry-image {
   float: right;
   max-width: 50%;
-  margin: 0 .75rem 0.75rem 0.75rem; /* ← único espacio real */
+  margin: 0 .75rem 0.75rem 1rem; /* ← único espacio real */
   padding: 0;              /* ← fuerza reset */
   display: block;
   border-radius: 0.5rem;
