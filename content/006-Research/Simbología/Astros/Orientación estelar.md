@@ -1,3 +1,7 @@
+---
+tags:
+  - Astronomía
+---
 ___
 Los astros que no titilan son planeas, estos también se ven al amanecer y atardecer.
 
@@ -17,7 +21,8 @@ Aunque se estima que a ojo desnudo se pueden ver alrededor de 9000 estrellas, in
 
 # **NORTE:**
 ___
-**La estrella polar:** Al estar tan cerca del eje de rotación permite saber que al dirigirse hacia ella se va en dirección al norte, fijándose en lo baja que esta en el horizonte permite saber la latitud en la que te encuentras.
+## **La estrella polar:** 
+Al estar tan cerca del eje de rotación permite saber que al dirigirse hacia ella se va en dirección al norte, fijándose en lo baja que esta en el horizonte permite saber la latitud en la que te encuentras.
 
 Es la cola de la osa menor
 <img
@@ -33,7 +38,8 @@ Aunque habitualmente se utiliza la osa mayor para ubicarla
 />
 
 
-**Cefeo:** teniendo localizada Polaris, la punta de la osa menor, inclinado hacia el mango del cazo se encuentra Cefeo, constelación en forma de casa.
+## **Cefeo:** 
+Teniendo localizada Polaris, la punta de la osa menor, inclinado hacia el mango del cazo se encuentra Cefeo, constelación en forma de casa.
 <img
   src="../media-content/astronomia/20251014223929.png"
   alt="Cefeo"
@@ -47,7 +53,8 @@ Con buenas condiciones puede observarse una estrella anaranjada.
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-**El dragón:** entre las dos osas se encuentra la cola de la constelación del draco
+## **El dragón:** 
+entre las dos osas se encuentra la cola de la constelación del draco
 <img
   src="../media-content/astronomia/20251014224322.png"
   alt="El dragon"
@@ -58,11 +65,13 @@ Alcor en si mismo, es un sistema binario, mientras que Mizar es un sistema cuád
 
 
 <img
-  src="../media-content/astronomia/220251014224346.png"
+  src="../media-content/astronomia/20251014224346.png"
   alt="El dragon"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-**Cefeo y la corona boreal:** Utilizando la cabeza del dragón como referencia se puede encontrar a Cefeo.
+
+## **Cefeo y la corona boreal:** 
+Utilizando la cabeza del dragón como referencia se puede encontrar a Cefeo.
 
 <img
   src="../media-content/astronomia/20251014225339.png"
@@ -77,7 +86,8 @@ Al otro lado, se encuentran unas estrellas que forman un semicirculo, la Corona 
 />
 
 
-**Hercules:** entre la cabeza del dragón y la corona se puede identificar un cuadrado, el cual es el cuerpo de Hércules
+## **Hercules:** 
+entre la cabeza del dragón y la corona se puede identificar un cuadrado, el cual es el cuerpo de Hércules
 <img
   src="../media-content/astronomia/20251014225536.png"
   alt="Hercules"
@@ -111,14 +121,16 @@ Es un cúmulo globular, los cuales son grupos de miles de estrellas que se encue
 
 # Visibles en ambos hemisferios
 ___
-**Orión:** Las estrellas de su cinturón son muy brillantes e identificables, y Betelgeuse, una gigante roja en su hombro también puede ayudar.
+## **Orión:** 
+Las estrellas de su cinturón son muy brillantes e identificables, y Betelgeuse, una gigante roja en su hombro también puede ayudar.
 <img
   src="../media-content/astronomia/20251014230038.png"
   alt="Hercules"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-**Tauro:** Frente a Orión se encuentra otra gigante roja, Aldebarán.
+## **Tauro:** 
+Frente a Orión se encuentra otra gigante roja, Aldebarán.
 <img
   src="../media-content/astronomia/20251014230232.png"
   alt="Tauro"
@@ -132,7 +144,8 @@ Aldebarán forma parte de la cabeza del toro, pudiendo trazar los cuernos con la
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-**Pléyades:** Tras Tauro se encuentran las Pléyades, un grupo de estrellas muy pegadas.
+## **Pléyades:** 
+Tras Tauro se encuentran las Pléyades, un grupo de estrellas muy pegadas.
 <img
   src="../media-content/astronomia/20251014230439.png"
   alt="Pleyades"
@@ -145,7 +158,8 @@ Aldebarán forma parte de la cabeza del toro, pudiendo trazar los cuernos con la
 />
 
 
-**Casiopea:** Cerca de Cefeo se encuentra Casiopea, la cual puede aparecer en forma de W o M
+## **Casiopea:** 
+Cerca de Cefeo se encuentra Casiopea, la cual puede aparecer en forma de W o M
 <img
   src="../media-content/astronomia/20251014230701.png"
   alt="Casiopea"
@@ -154,7 +168,8 @@ Aldebarán forma parte de la cabeza del toro, pudiendo trazar los cuernos con la
 
 
 
-**Vía Láctea:** Tras Casiopea puede observarse una zona más iluminada en el firmamento, es nuestra propia galaxia vista de perfil, el brillo acumulado de las millones de estrellas de la galaxia apagado por su lejanía, en el ecuador y hemisferio sur puede observarse con mayor detalle
+## **Vía Láctea:** 
+Tras Casiopea puede observarse una zona más iluminada en el firmamento, es nuestra propia galaxia vista de perfil, el brillo acumulado de las millones de estrellas de la galaxia apagado por su lejanía, en el ecuador y hemisferio sur puede observarse con mayor detalle
 <img
   src="../media-content/astronomia/20251014230744.png"
   alt="ViaLactea"
@@ -178,7 +193,9 @@ Uniendo el borde del carro con el medio de Casiopea se encuentra a la mitad la e
 <br>
 # SUR
 ____
-**La cruz del sur:** aunque en el hemisferio sur no hay una estrella justo en el sur celeste, se puede localizar utilizando la cruz del sur, cogiendo su eje mayor y prolongándolo 4,5 veces
+
+## **La cruz del sur:** 
+aunque en el hemisferio sur no hay una estrella justo en el sur celeste, se puede localizar utilizando la cruz del sur, cogiendo su eje mayor y prolongándolo 4,5 veces
 <img
   src="../media-content/astronomia/20251014223827.png"
   alt="Cruz del sur"
@@ -186,7 +203,8 @@ ____
 />
 
 
-**Centauro:** Poniendo la cruz del sur recta, prologando su eje menor a la izquierda, se encuentran dos estrellas muy brillantes, Beta y Centauri, la estrella más cercana a la tierra.
+## **Centauro:** 
+Poniendo la cruz del sur recta, prologando su eje menor a la izquierda, se encuentran dos estrellas muy brillantes, Beta y Centauri, la estrella más cercana a la tierra.
 <img
   src="../media-content/astronomia/20251014224837.png"
   alt="Centauro"
@@ -202,7 +220,8 @@ Beta y Centauri son las patas delanteras de la constelación del centauro.
 />
 
 
-**Escorpio:** Siguiendo la mirada del centauro se encuentra una estrella brillante y anaranjada, Antares
+## **Escorpio:** 
+Siguiendo la mirada del centauro se encuentra una estrella brillante y anaranjada, Antares
 <img
   src="../media-content/astronomia/20251014224956.png"
   alt="Escorpio"
@@ -222,23 +241,29 @@ Antares es el torso de la constelación de escorpio
 
 # Otros
 ___
-**Buscar Horizonte:** Ver al Sol o a la Luna ponerse en el horizonte permite conocer el Oeste y a partir de ahí sacar el resto de puntos cardinales
+## **Buscar Horizonte:** 
+Ver al Sol o a la Luna ponerse en el horizonte permite conocer el Oeste y a partir de ahí sacar el resto de puntos cardinales
 
-**Buscar la eclíptica:** las constelaciones zodiacales pasan justo por el plano de la orbita terrestre, es decir el plano en el que gira la tierra alrededor del sol a lo largo de un año, este plano es conocido como eclíptica.
+## **Buscar la eclíptica:** 
+las constelaciones zodiacales pasan justo por el plano de la orbita terrestre, es decir el plano en el que gira la tierra alrededor del sol a lo largo de un año, este plano es conocido como eclíptica.
 
 Observar el movimiento del Sol en un día, de este a oeste, permite hacerse una idea de donde esta la eclíptica y así encontrar las constelaciones y orientarnos.
 
 Por donde van saliendo las nuevas zodiacales es el este, y por donde se ocultan las viejas el oeste, conociendo algunas constelaciones zodiacales se puede saber donde esta el este y oeste.
 
-Sagitarios es muy fácil de ver en verano, pareciendo una taza de té derramándose sobre la vía láctea
+## **Sagitario:**
+es muy fácil de ver en verano, pareciendo una taza de té derramándose sobre la vía láctea
 
-**Planetas:** En la eclíptica también se encuentran los planetas.
+## **Planetas:** 
+En la eclíptica también se encuentran los planetas.
 <img
   src="../media-content/astronomia/20251014233833.png"
   alt="PlanetasEliptica"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
+# Sol a lo largo del año
+___
 Representaciones de como el sol tapa las estaciones según la estación
 <img
   src="../media-content/astronomia/20251014233214.png"
@@ -257,11 +282,9 @@ Representaciones de como el sol tapa las estaciones según la estación
 />
 
 
-
-
-Las constelaciones visibles en el hemisferio norte varían según la estación: ==en invierno destacan Orión, Canis Major y Tauro;== ==en primavera, Leo, Virgo y la Osa Mayor;== ==en verano, Cygnus, Lyra y Aquila;== ==y en otoño, Cassiopeia, Pegaso y Andrómeda==. Algunas, como la Osa Mayor y la [Osa Menor](https://www.google.com/search?cs=1&sca_esv=e43c86de5287e939&sxsrf=AE3TifP1SHaXYOdW_TzUQatTwBnKoODdqA%3A1760481780041&q=Osa+Menor&sa=X&ved=2ahUKEwi1-evY4aSQAxXIfKQEHVV6CGIQxccNegQIBxAB&mstk=AUtExfBjxRuQAeaXtP9X2jn5DhFnoeJOPMw14THBLgNKgEmAmxcA-8kIZYlKIYX-YQZ8N09laObgQ4ls3CtKp5Zgro8lKpLIvXPTrD_hzfOhtPY9qqrDgb7u9mcs2Dq6G6cjf_kM2noBh4rtVK0mpcFF6a13tdE-ug4ctrDcs4yzV-MRp0U&csui=3), son circumpolares y visibles todo el año. 
-
-Constelaciones por estación
+# Constelaciones por estación
+___
+Las constelaciones visibles en el hemisferio norte varían según la estación: ==en invierno destacan Orión, Canis Major y Tauro;== ==en primavera, Leo, Virgo y la Osa Mayor;== ==en verano, Cygnus, Lyra y Aquila;== ==y en otoño, Cassiopeia, Pegaso y Andrómeda==. Algunas, como la Osa Mayor y la [Osa Menor](https://www.google.com/search?cs=1&sca_esv=e43c86de5287e939&sxsrf=AE3TifP1SHaXYOdW_TzUQatTwBnKoODdqA%3A1760481780041&q=Osa+Menor&sa=X&ved=2ahUKEwi1-evY4aSQAxXIfKQEHVV6CGIQxccNegQIBxAB&mstk=AUtExfBjxRuQAeaXtP9X2jn5DhFnoeJOPMw14THBLgNKgEmAmxcA-8kIZYlKIYX-YQZ8N09laObgQ4ls3CtKp5Zgro8lKpLIvXPTrD_hzfOhtPY9qqrDgb7u9mcs2Dq6G6cjf_kM2noBh4rtVK0mpcFF6a13tdE-ug4ctrDcs4yzV-MRp0U&csui=3), son circumpolares y visibles todo el año.
 
 - **Invierno:** Orión, Canis Major, Tauro.
 - **Primavera:** Leo, Virgo, Osa Mayor, [Boyero](https://www.google.com/search?cs=1&sca_esv=e43c86de5287e939&sxsrf=AE3TifP1SHaXYOdW_TzUQatTwBnKoODdqA%3A1760481780041&q=Boyero&sa=X&ved=2ahUKEwi1-evY4aSQAxXIfKQEHVV6CGIQxccNegQIFxAB&mstk=AUtExfBjxRuQAeaXtP9X2jn5DhFnoeJOPMw14THBLgNKgEmAmxcA-8kIZYlKIYX-YQZ8N09laObgQ4ls3CtKp5Zgro8lKpLIvXPTrD_hzfOhtPY9qqrDgb7u9mcs2Dq6G6cjf_kM2noBh4rtVK0mpcFF6a13tdE-ug4ctrDcs4yzV-MRp0U&csui=3).
@@ -271,8 +294,8 @@ Constelaciones por estación
 
 En el hemisferio norte, ==Venus, Marte, Júpiter y Saturno son visibles a simple vista, aunque su posición y visibilidad varían según la hora del día y la época del año==. Mercurio es visible brevemente antes del amanecer o después del anochecer, dependiendo de su posición orbital. Para observar planetas como Urano y Neptuno, se necesitan binoculares o un telescopio. 
 
-Planetas visibles a simple vista
-
+# Planetas visibles a simple vista
+___
 - **[Venus](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&cs=1&sxsrf=AE3TifNqZxMLbLHjWkzaTH5v4QobUDHSxw%3A1760481837917&q=Venus&sa=X&ved=2ahUKEwjD0qn04aSQAxXnVKQEHZ56FuIQxccNegQIDxAB&mstk=AUtExfCX6Qk6oM_kRSI5_asBYVDZgnMqNZqOlydhx11VJ9UKUcM4-tM0H52aMgh7mBwR8zbnMloGgKcNzDxOWmQ3ki6TsePM7D3H78X1AaoD0nOMl5gpOypVfi4DRvj8rPdezHAbI5WRBNwcmKtCqp5G9pBveuoD_rya99yGyDXfdRYFxUtT7fHiFUW13R70XLLw6Zocg22Zw6rTHn8iJiUcm_x6enVnDZiw2OsxWUUjv8oRuIZTMOcQFZY_UuoSHpm19QXKWtCbnsjAtcafLJX11BJC&csui=3):** 
     Generalmente visible cerca del sol, ya sea por la mañana o por la tarde, es uno de los objetos más brillantes en el cielo después del Sol y la Luna.
 

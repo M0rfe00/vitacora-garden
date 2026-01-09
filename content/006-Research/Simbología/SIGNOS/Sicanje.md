@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos-Símbolos
+---
 # Apéndice
 ___
 ## **1. Križ (cruz):**

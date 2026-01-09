@@ -1,3 +1,7 @@
+---
+tags:
+  - Tarot
+---
 # THE TRUMPS MAJOR AND THEIR INNER SYMBOLISM
 ___
 # I The Magician
