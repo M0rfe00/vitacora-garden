@@ -2,14 +2,28 @@
 tags:
   - Signos-Símbolos
 ---
+https://www.sak-yant.com/sak-yant/about-sacred-yant/
+https://www.sak-yant.com/108-sacred-yant/
 # Yant yord mongkut
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/5.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Yant Yord Mongut is a version of Yant Mongkut Praputtajao (Buddhas Crown) This Yant was commonly inscribed on both the in and outsides of a headscarf, and worn for protection in battle, also supposed to have good fortune qualities (Choke Laap) and Maettha.
 
 The Yant with the lotus leaves on the perimeter is the front side. This Yant can be tattooed, normally on the top of the head, but can also be placed on the shoulder if wished.
 
 # Yant paedt tidt 
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/4.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 This version of the Yant Paed Tidt is the one created by Luang Por Phern of Wat Bang Pra
 
 The Kata is written in a circle around the centre of the Yant,and reads as follows; 
@@ -58,6 +72,13 @@ Pa – means Pakawaathi
 ___
 Ten Directional Yant – this is an alternative to the Yant Paed Tidt, which is commonly used by almost all Ajarn Sak. This version protects in the 10 directions instead of eight only (addition of above and below, as well as a deeper, interdimensional meaning too).
 
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/yant108-sip-tid.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
+
 The following is a synopsis of the phonetic translation for each Khmer Agkara letter (known as Pasa Khom in Thailand), reading in a clockwise direction. This is, however, not always the way a Kata is read in a Sacred Yant; Sometimes you must intuitively realise which kata is hidden therein, and extract it in this, intuitive way. The Kata will reveal itself to the dedicated Practitioner. 
 
 Phonetic Translation of Khmer Agkara Lettering (Pasa Khom) 
@@ -67,6 +88,13 @@ Sa (lower letter top central sector at 12 O-Clock), A (upper letter in the top c
 # Four Spires Yantra - Yant See Yord 
 ___
 Apart from being tattooed, Yant See Yord can be inscribed on lead, copper silver or gold leaf or plate. After inscribing the Yant, make the metallic leaf and roll it up into a scroll (Takrut) – you can then wear it on your person, either around your neck, waist, or in your pocket.
+
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/seeyord-800x531.gif" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Chant this Kata for empowerment of the Yant. 
 
@@ -78,6 +106,14 @@ To avoid enemies and dangers, wipe the takrut on your front. If to heal sickness
 
 # Yant Mahaniyom
 ___
+
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/yantmahaniyom.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
+
 Yant Mahaniyom is also known as the great Preference Yantra – this is because of the fact that is posesses the powert of Metta Mahaniyom; The word “Niyom” in Thai means to prefer.. it can also be used for meaning that something is Popular. Si in fact you could translate “Yant Maha Niyom as two different names – 1. Great Preference Yantra, and 2. Popular Yantra. In reality the word Niyom in this case relates to the fact that when the magic of the Yant instills compassion and loving friendliness in the hearts and minds of those who behold it’s wearer, then preferential treatment is obviously one of the effects that you will recieve from the people around you.
 
 Yant Mahaniyom means “Great Preference Yantra”.
@@ -95,6 +131,13 @@ These katas are not really just sentences of words with meaning, rather scramble
 ___
 Yant Maha Amnaj exists in many versions. This one is a triangular shaped one, with three ‘Ongk Pra‘ images surrounding it. The word ‘Amnaj’ in Thai means ‘Commanding power’. This Yant is good for people in positions of authority be it in ones profession or even in the household or public environment. This kind of Yantra is also good for people who don’t seem to get nboticed and need to impose more authority.
 
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/yantmaha-amnaj.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
+
 This Yant also serves as a Maha Ud Gunstopper. Good for those in Military, Police or Personal Security professions such as Bodyguards to use for protection and power over ones underlings.
 
 # Yant Ongk Pra 
@@ -102,6 +145,13 @@ ___
 ‘Ongk Pra’ is A simple Buddha Yantra used both as an Individual blessing and also as an embellishment to other, larger Sacred Yant designs. Commonly seen as 9 small Buddhas sitting on the nine spires of the Gao Yord Sak yant tattoo. 
 
 Yant Ongk Pra is one of the most commmonly tattooed images in Sak Yant, due to the fact that it is used to place under the Unalome in many Yantra, and is thus tattooed in multiple numbers on most Looksit. But this Ongk Pra design is a more complex larger one for applying as a free-standing Yantra in itself.
+
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/images.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
 
 The lower section of the three ovals of the Buddha, contain the Kata **Na Ma Pa Ta Ja Pa Ga Sa I Ga Wi Dti Put Ta Sang Mi**
 
@@ -111,6 +161,13 @@ The lower section of the three ovals of the Buddha, contain the Kata **Na Ma Pa 
 # Yant Suea Tiger Sak Yant Tattoo 
 ___
 Pair of Twin Tigers Sak yant Tattoo designs- this design is from Ajarn Noo Ganpai
+
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/Yant-Suea-Koo-Ajarn-Noo-Kanpai-600x570.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
 
 The two tigers represent “Amnaj” (power over one’s subordinates), and is often used by Soldiers and Policemen in commanding positions. Between the two tigers is “Yant Putsoorn” or sometimes also called Yant Prajao Ha Praongk, due to the fact that it contains the 5 syllable mantra of the aforesaid “Na Moe Put Taa Ya” within it. ” Putsoorn”, means “Buddha concentrically aligned” this is because each letter of the Kata is written around the previous one, resulting in a concentric circle of letters. The “Sacred Na” abelow the yant Putsoorn, is “Na Hua Jai Suea” (Na of the tigers heart). I am not sure which is the Sacred Na above the Putsoorn Yant.
 
@@ -127,6 +184,13 @@ Yant Ha taew has differing Katas with many masters, and is often especially comp
 The tattooed version should of course, stands vertically, instead of horizontally (as shown in this page, i laid it on it’s side for those who wish to study the Khom Script). In addition, it should have the Sacred “Unalome” (zig zag spirals at the end of each line), that are commonly used with all yant as a finishing method.
 
 This is the Version used by Ajarn Lao (Singapore-Thailand)
+
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/yant-ha-taew.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
 
 Kata Yant Ha Taew (using Chang Prasom Khlong)
 I Dti Bparamidta Dtingsaa
@@ -149,6 +213,13 @@ Pha Yant Ha Taew (Ajarn Thoy Dabos)
 
 Yant Ha Taew – Five Pillars, or Rows Yantra, as made popular by the Actress Angelina Jolie, after visiting Ajarn Noo Ganpai to receive this yant. The design below is basically what the Yant Ha Taew from Ajarn Noo Ganpai looks like, but don’t go rushing to your artist with a printout of this to copy, as the Kata are deliberately shuffled around leaving a few of the consonants and syllables disjointed and out of place.
 
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/3.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 I conclude it to be therefore, probable Khmer Origin as far as the syllables are concerned. It is perhaps also possible that he wrote it wrong deliberately as this has been rumored to happen at his samnak, in order to confuse copycats. The first row prevents punishment in court cases, and cleans and protects your abode. Second line reverses bad horoscope constellations and bad Karma, third row protects against black magic and curses – fourth line is for luck and fortune, and success in one’s projects – fifth and last row is an attraction charm to make you attractive loveable, and also boosts the luck and fortune already laid out in the 4th row kata, and prevents curses as in the 3rd row kata.
 
 The Yant Ha Thaew is designed to improve your Karma and Line of Fate in five different aspects of life.
@@ -161,11 +232,25 @@ The Yant Ha Thaew is designed to improve your Karma and Line of Fate in five dif
 
 # Sak Yant Gao Yord
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/Sak Yant Gao Yord.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 *Sak Yant Gao Yord Nine Peaks of ount Meru Sakyant Tattoo Design by Ajarn Off*
 
 Yant Gao Yord is the Yant Kroo of many of the Great Samnak Sak Yant around Thailand and South East Asia, and is perhaps the most well known of all Sak Yant designs, along with the Yant Paed Tidt eight directional Yantra, and Yant Suea Paen leaping tiger Yantra. With Foreigners, the Yant Gao Yord is certainly the most commonly seen tattoo, far above the leaping tiger, which is usually placed on the chest. Foreigners tend to go more for the more aesthetic looking Suea Koo Maha Amnaj on the flanks of the back, than the big pirate-like leaping tiger on the chest.
 
 The are many different versions of Yant Gao Yord, the most common being formed as a pyramid like structure, but some can also be formed in a flat alignment, such as in the case of the Yant Gao Yord of the Mong Hilltribe People of the Lanna Sorcery traditions of the Northern Regions of Thailand.
+
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/17e3654f6cbf9f896c4be050efdbba86.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
 
 Kata Says;
 Gu Ti Gu Ya Ta Saa Wae Taa Saa Gu
@@ -186,11 +271,22 @@ These spires are known as “Unalome” and represent the crown of the Arahants 
 
 # Yant Mongkut Gaew – Crystal Crown yantra
 ___
-
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/images (1).jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
 
 # Yant Ga Sak Noi (rear face) – Necromantic Animist Black Magick Spell
 ___
 
+<img
+  loading= "lazy" 
+  src="../media-content/Research/Simbologia/Sakyant/Yant Ga Sak Noi (rear face) – Necromantic Animist Black.jpg" 
+  alt=""
+  style="margin: 0 auto; padding: 0; width: 50%; height: auto;"
+/>
 
 # Types of Yant
 ___
