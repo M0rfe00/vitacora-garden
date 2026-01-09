@@ -1,3 +1,8 @@
+---
+tags:
+  - Astrología
+  - Astronomía
+---
 # Acuario
 ___
 <div class="galeria2">

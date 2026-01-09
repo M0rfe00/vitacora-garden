@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos-Símbolos
+---
 # Yant yord mongkut
 ___
 Yant Yord Mongut is a version of Yant Mongkut Praputtajao (Buddhas Crown) This Yant was commonly inscribed on both the in and outsides of a headscarf, and worn for protection in battle, also supposed to have good fortune qualities (Choke Laap) and Maettha.
