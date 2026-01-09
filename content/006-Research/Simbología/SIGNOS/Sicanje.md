@@ -7,7 +7,7 @@ Se puede encontrar formando parte de una composición o aislado.74
 
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Tattos/Kritz.png" 
+  src="../media-content/Research/Simbologia/Tattoos/Kritz.png" 
   alt=""
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -19,7 +19,7 @@ Según algunos investigadores, esto podría ser una representación gráfica de 
 
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Tattos/Kolo.png" 
+  src="../media-content/Research/Simbologia/Tattoos/Kolo.png" 
   alt=""
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -33,7 +33,7 @@ El diseño puede variar desde uno simple, compuesto por puntos y líneas, hasta 
 
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Tattos/Naruvika.png" 
+  src="../media-content/Research/Simbologia/Tattoos/Naruvika.png" 
   alt=""
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -44,7 +44,7 @@ El diseño semicircular generalmente viene acompañado de un motivo separado, co
 
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Tattos/Ograda.png" 
+  src="../media-content/Research/Simbologia/Tattoos/Ograda.png" 
   alt=""
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -57,7 +57,7 @@ La mayoría de las veces se utiliza para completar los diseños mencionados ante
 
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Tattos/Granica.png" 
+  src="../media-content/Research/Simbologia/Tattoos/Granica.png" 
   alt=""
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
