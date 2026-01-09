@@ -17,9 +17,14 @@ ___
   alt="Blazer"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+
 ### [**Vol.1 - Entendiendo El Universo Musical de Ghouljaboy**🔗](https://drive.google.com/file/d/1cK7NRxIBxqVLWCV5yDd4MF8_uOZIyx0-/view)
 ### [**Vol.2 - Lore de Dante Technicolor**🔗](https://drive.google.com/file/d/1qFJQqSUt4wUQ9Av7FLqxlLC8pMrd5KzL/view)
 
+<!--
+![[Lore Dante Technicolor.pdf]]
+![[El universo musical de Ghouljaboy.pdf]]
+-->
 
 # Promotial Card Deck
 ___

@@ -1,7 +1,7 @@
 # EL Libro de los conjuros
 ___
 El Galdrabok o libro de los conjuros, es el documento más importante conocido para entender la práctica de la magia en la Islandia de la edad media, es de gran importancia porque nos brinda una visión dentro de los elementos mágico religiosos de la tradición nórdica, no otro documento es comparable en detalles mágicos y prácticas, este ofrece una variedad extensa de símbolos para el mago moderno, como sabemos este libro es una copelación casi como un registro histórico así como las runas que nos guían en la práctica de la magia ceremonial rúnica.
-![[([Galdrastafir] Sorcerer's screed _ the Icelandic book of magic spells.pdf]]
+![[Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells.pdf]]
 Este libro es una preservación de las antiguas tradiciones germanas, y de prácticas de la herencia nórdica, por tanto juega un papel importante como gran libro de referencia de práctica mágica o guía mágico, al ser una recopilación tiene una combinación entre los sigilos y las magias rúnicas Nórdicas llevadas al límite, al ser escrito los GALDRAMANN o magos islandeses conocían ambos sistemas profundamente y ellos combinaron el sistema de símbolos, por tanto para llegar a una comprensión amplia en su manejo y secretos, debemos empezar por profundizar en sus secretos, para conseguirlo deberemos examinar las bases de la magia de los sigilos y de cómo fueron empleados por los magos islandeses, esta versión del Galdrabok es una versión moderna y reestructurada para su ejecución, no solo se aplican hechizos islandeses sino también runas enlazadas o amarradas de la actualidad.
 
 
