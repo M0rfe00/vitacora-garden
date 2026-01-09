@@ -1,6 +1,6 @@
 # Acuario
 ___
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/aquarius.png"
   alt=""
@@ -32,7 +32,7 @@ Tiene dos estrellas poco brillantes sobre la cabeza, una sobre cada uno de los h
 # Águila
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/aquila.png"
   alt=""
@@ -63,7 +63,7 @@ Tiene cuatro estrellas, de las cuales la que está en el centro es la más brill
 # Altar
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/ara.png"
   alt=""
@@ -90,7 +90,7 @@ Tiene dos estrellas sobre las brasas, y otras dos en la base. Suman un total de 
 # Andromeda
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/andromeda.png"
   alt=""
@@ -121,7 +121,7 @@ Sófocles y Eurípides escribieron varias tragedias a partir de la historia y su
 # Antlia
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/antlia.jpg"
   alt=""
@@ -143,7 +143,7 @@ Denominada Antlia Pneumática (máquina neumática) como el invento del físico 
 # Apus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/apus.png"
   alt=""
@@ -164,7 +164,7 @@ Apus se refiere al ave del paraíso que se conoció como Ave de la India. Otros 
 # Aries
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/aries.jpg"
   alt=""
@@ -200,7 +200,7 @@ Lleva una estrella sobre la cabeza, tres en el hocico, dos en la cerviz, una bri
 # Auriga
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/auriga.png"
   alt=""
@@ -252,7 +252,7 @@ Lleva una estrella en la cabeza, otra sobre cada hombro (la del izquierdo es muy
 # Boyero
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/bootes.png"
   alt=""
@@ -290,7 +290,7 @@ Tiene en la mano derecha cuatro estrellas que jamás desaparecen de la vista, un
 # Caelum
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/caelum.png"
   alt=""
@@ -340,7 +340,7 @@ La estrella Sirio, la más importante del Can Mayor, cuyo nombre significa «abr
 # Can Menor
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/canis-minor.png"
   alt=""
@@ -361,7 +361,7 @@ La estrella más brillante de esta constelación lleva el nombre de Procyon que 
 # Cáncer (Asnos y Pesebre)
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/cancer.png"
   alt=""
@@ -392,7 +392,7 @@ Cáncer tiene dos estrellas muy brillantes sobre su caparazón, que son los Asno
 # Canes Venatici
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/canes-venatici.png"
   alt=""
@@ -411,7 +411,7 @@ Representan a Asterion y Chara, los dos perros sostenidos por el [Boyero](https
 # Capricornio
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/capricornus.png"
   alt=""
@@ -444,7 +444,7 @@ Tiene una estrella brillante en cada cuerno (y otra sobre los ollares), dos sobr
 # Carina
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/carina.png"
   alt=""
@@ -464,7 +464,7 @@ Carina (la quilla), en castellano Quilla, es una constelación austral que forma
 
 # Casiopea
 ___
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/cassiopeia.png"
   alt=""
@@ -490,7 +490,7 @@ Tiene una estrella brillante sobre la cabeza, una también brillante sobre cada 
 
 # Cefeo
 ___
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/cepheus.png"
   alt=""
@@ -518,7 +518,7 @@ Posee dos estrellas brillantes sobre la cabeza, una en cada hombro, una sobre ca
 60. Cefeo y Casiopea fueron los padres de Andrómeda, reyes de los etíopes. El dios del oráculo egipcio de Amón profetizó que sólo podrían calmar al monstruo enviado por Posidón (padre de las Nereidas) si mediaba el sacrificio de la joven Andrómeda. Así, ésta fue encadenada sobre un peñasco, mas Perseo convirtió en piedra al monstruo mostrándole la cabeza de la gorgona Medusa y rescató a Andrómeda.
 # Centauro
 ___
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/centaurus.png"
   alt=""
@@ -553,7 +553,7 @@ Dicen algunos que se trata de un odre de vino que Quirón liba sobre el altar en
 # Ceto (Ballena)
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/cetus.png"
   alt=""
@@ -579,7 +579,7 @@ Lleva dos estrellas brillantes en la cola; desde la cola hasta la convexidad del
 # Chamaeleon
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/chamaeleon.png"
   alt=""
@@ -598,7 +598,7 @@ Chamaeleon (latín de Camaleón) es una constelación menor del Sur. La constela
 # Circinus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/circinus.jpg"
   alt=""
@@ -618,7 +618,7 @@ Esta constelación fue creada en el siglo XVIII, y fue introducida por Nicolas L
 # Cisne
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/cygnus.png"
   alt=""
@@ -655,7 +655,7 @@ Tiene una estrella brillante en la cabeza, una también brillante en el cuello, 
 # Columba
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/columba.png"
   alt=""
@@ -674,7 +674,7 @@ Columba, Latín para paloma, es una pequeña constelación justo al sur de Canis
 # Coma Berenices
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/coma-berenices.png"
   alt=""
@@ -696,7 +696,7 @@ Pero por la noche alguien llegó hasta el templo y robó la cabellera. Se rumore
 # Corona Austral
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/corona-australis.png"
   alt=""
@@ -715,7 +715,7 @@ Representa la corona de laurel que perteneció a Quirón el centauro y algunas v
 # Corona Boreal
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/corona-borealis.png"
   alt=""
@@ -747,7 +747,7 @@ La Corona posee nueve estrellas dispuestas en forma de círculo; de ellas son mu
 # Corvus 
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/corvus.png"
   alt=""
@@ -813,7 +813,7 @@ Lleva una estrella sobre su cabeza, a la que llaman Isis, y otra sobre la lengua
 # Cráter
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/crater.jpg"
   alt=""
@@ -834,7 +834,7 @@ ___
 # Cruz del sur
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/crux.jpg"
   alt=""
@@ -871,7 +871,7 @@ Varias culturas indígenas de América del Sur consideraron a esta constelación
 # Delphinus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/delphinus.png"
   alt=""
@@ -904,7 +904,7 @@ Lleva una estrella en la boca, dos en su aleta dorsal, tres en las aletas ventra
 # Doradus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/doradus.png"
   alt=""
@@ -927,7 +927,7 @@ Dorado es una constelación austral, creada por Pieter Dirkszoon Keyser y Freder
 # Draco
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/draco.png"
   alt=""
@@ -963,7 +963,7 @@ Tiene tres estrellas brillantes sobre la cabeza, doce a lo largo de todo el cuer
 # Equuleus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/equuleus.png"
   alt=""
@@ -986,7 +986,7 @@ Equuleus es asociado con el potro Celeris, que fue el hermano del caballo alado�
 # Erídano
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/eridanus.jpg"
   alt=""
@@ -1017,7 +1017,7 @@ Tiene tres estrellas en su primer meandro, otras tres en el segundo, y desde el 
 # Escorpio
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/scorpius.jpg"
   alt=""
@@ -1047,7 +1047,7 @@ En cada pinza tiene dos estrellas, muy brillantes las delanteras y más apagadas
 # Fenix
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/phoenix.png"
   alt=""
@@ -1069,7 +1069,7 @@ Fénix, (el Fénix) es una constelación menor del sur, introducida por los nave
 # Fornax
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/fornax.png"
   alt=""
@@ -1092,7 +1092,7 @@ Esta constelación fue introducida por Nicolas Louis de Lacaille bajo el nombre 
 # Géminis
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/gemini.png"
   alt=""
@@ -1125,7 +1125,7 @@ El que se encuentra a continuación de Cáncer tiene una estrella brillante sobr
 # Grus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/grus.png"
   alt=""
@@ -1147,7 +1147,7 @@ Grus (la grulla), es una constelación austral. Es una de las 20 constelaciones 
 # Hércules
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/hercules.png"
   alt=""
@@ -1179,7 +1179,7 @@ Posee una brillante estrella sobre la cabeza, otra también de mucho brillo sobr
 # Hidra
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/hydra.png"
   alt=""
@@ -1202,7 +1202,7 @@ La Hidra fue también identificada por los griegos con la Hidra de Lerna (vencid
 # Horologium
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/horologium.jpg"
   alt=""
@@ -1223,7 +1223,7 @@ Originalmente llamado Horologium Oscillitorium por Nicolas Louis de Lacaille, el
 # Hydrus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/hydrus.png"
   alt=""
@@ -1246,7 +1246,7 @@ Hydrus (Latín para Hidra, también se refiera al "Hidra macho" o "pequeño Hidr
 # Indus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/indus.jpg"
   alt=""
@@ -1268,7 +1268,7 @@ Es una de las 20 constelaciones creadas por Pieter Dirkszoon Keyser y Frederick 
 # Lacerta
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/lacerta.png"
   alt=""
@@ -1291,7 +1291,7 @@ Antes de que Johannes Hevelius adoptara el nombre de Lacerta, otros nombres se p
 # Leo
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/leo.jpg"
   alt=""
@@ -1325,7 +1325,7 @@ Se divisan igualmente por encima de Leo siete estrellas de escaso brillo formand
 # Leo Menor
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/leo-minor.png"
   alt=""
@@ -1346,7 +1346,7 @@ Leo Minor (latín de León Menor) es de las constelaciones más pequeñas: apena
 # Lepus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/lepus.png"
   alt=""
@@ -1372,7 +1372,7 @@ Lleva una estrella sobre cada una de las orejas, tres en el cuerpo (la más bril
 # Libra
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/libra.png"
   alt=""
@@ -1393,7 +1393,7 @@ La constelación, que originalmente formaba parte de las pinzas de [Escorpio](h
 # Lira
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/lyra.png"
   alt=""
@@ -1429,7 +1429,7 @@ Tiene una estrella sobre cada uno de los peines, también una sobre cada uno de 
 # Lepus
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/lupus.png"
   alt=""
@@ -1450,7 +1450,7 @@ Según la leyenda se trata del rey de Arcadia, Licaón, que fue transformado en 
 # Lynx
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/lynx.png"
   alt=""
@@ -1471,7 +1471,7 @@ ___
 # Mensa
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/mensa.png"
   alt=""
@@ -1494,7 +1494,7 @@ Mensa (latín para Mesa) es un constelación austral, que fue introducida por Ni
 # Mircroscopio
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/microscopium.png"
   alt=""
@@ -1515,7 +1515,7 @@ Microscopium (latín de microscopio) es una pequeña constelación austral intro
 # Monoceros
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/monoceros.jpg"
   alt=""
@@ -1536,7 +1536,7 @@ Monoceros es una constelación moderna, cuyo nombre se atribuye el astrónomo y 
 # Musca
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/musca.png"
   alt=""
@@ -1556,7 +1556,7 @@ Musca («Mosca» en latín) es una de las constelaciones menores del sur. La con
 # Norma
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/norma.png"
   alt=""
@@ -1577,7 +1577,7 @@ Norma es el nombre en latín de una constelación ubicada en el hemisferio sur e
 # Octante
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/octans.png"
   alt=""
@@ -1597,7 +1597,7 @@ Octans (latín de octante) es una constelación discreta presentada por Nicolas 
 # Ofiuco
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/ophiuchus.png"
   alt=""
@@ -1629,7 +1629,7 @@ Lleva una estrella muy luminosa en la cabeza, una brillante sobre cada hombro, t
 # Orión
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/orion.png"
   alt=""
@@ -1675,7 +1675,7 @@ Tiene tres estrellas en la cabeza, poco visibles, una brillante sobre cada hombr
 # Osa Mayor
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/ursa-major.png"
   alt=""
@@ -1704,7 +1704,7 @@ La constelación tiene siete estrellas de escaso brillo en su cabeza, dos sobre 
 # Osa menor
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/ursa-minor.png"
   alt=""
@@ -1733,7 +1733,7 @@ Muestra una estrella brillante en cada ángulo del cuadrilátero, y tres tambié
 # Pavonis
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/pavo.jpg"
   alt=""
@@ -1754,7 +1754,7 @@ Pavo, es una constelación del Hemisferio sur. La constelación fue una de las v
 # Pegaso
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/pegasus.png"
   alt=""
@@ -1793,7 +1793,7 @@ Lleva dos estrellas tenues sobre el hocico, una brillante en la cabeza, otra sob
 # Perseo
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/perseus.png"
   alt=""
@@ -1845,7 +1845,7 @@ Tiene sobre cada hombro una estrella de brillo intenso, otra también brillante 
 # Pictor
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/pictor.png"
   alt=""
@@ -1866,7 +1866,7 @@ Dado que fue creada por Nicolas Louis de Lacaille en el siglo XVII, no fue visib
 # Piscis
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/pisces.png"
   alt=""
@@ -1895,7 +1895,7 @@ El pez boreal posee doce estrellas, y el austral quince. El sedal que los retien
 # Piscis Austriunus (Pez Austral)
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/piscis-austrinus.jpg"
   alt=""
@@ -1930,7 +1930,7 @@ Lleva cuatro estrellas en la zona de popa, sobre un solo remo hay otras cinco es
 # Puppis
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/puppis.png"
   alt=""
@@ -1952,7 +1952,7 @@ Dado que Puppis fue originalmente parte de Argo Navis, no tiene mitologías rela
 # Pyxis
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/pyxis.png"
   alt=""
@@ -1973,7 +1973,7 @@ Pyxis (latín para brújula) es una constelación menor del sur, introducida por
 # Reticulum
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/reticulum.png"
   alt=""
@@ -1994,7 +1994,7 @@ Reticulum del (Latín: retículo), es una de las menores constelaciones australe
 # Sagitario
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/sagittarius.png"
   alt=""
@@ -2030,7 +2030,7 @@ Lleva dos estrellas en la cabeza, dos en el arco, dos en la flecha, una sobre el
 # Sagitta (Flecha)
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/sagitta.png"
   alt=""
@@ -2060,7 +2060,7 @@ Parece que entonces esta flecha ascendió al cielo llena de sazonados frutos. He
 # Sculptor
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/sculptor.png"
   alt=""
@@ -2080,7 +2080,7 @@ Sculptor es una constelación menor del sur, que fue presentada por Nicolas Loui
 # Sctum
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/scutum.png"
   alt=""
@@ -2100,7 +2100,7 @@ El Escudo es una constelación moderna, inventada a finales del siglo XVII. Por 
 # Serpens
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/serpens.png"
   alt=""
@@ -2121,7 +2121,7 @@ Serpens es la serpiente que tiene agarrada [Ofiuco](https://historiasdeastronom
 # Sextante
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/sextans.png"
   alt=""
@@ -2141,7 +2141,7 @@ ___
 # Tauro (Híades, Pléyades)
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/taurus.png"
   alt=""
@@ -2191,7 +2191,7 @@ De entre las primeras, tres se unieron a Zeus (Electra, de la que nació Dárdan
 # Telescopium
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/telescopium.png"
   alt=""
@@ -2211,7 +2211,7 @@ Telescopium (del latín) es una constelación menor del sur identificada y nombr
 # Triangulum
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/triangulum.png"
   alt=""
@@ -2240,7 +2240,7 @@ Posee tres estrellas, una en cada uno de los vértices del triángulo, todas muy
 #  Triangulum Australe
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/triangulum 1.jpg"
   alt=""
@@ -2262,7 +2262,7 @@ Triangulum Australe es una pequeña constelación austral cuyas tres estrellas m
 # Tucana
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/tucana.jpg"
   alt=""
@@ -2284,7 +2284,7 @@ Fue creada por los navegantes holandeses Pieter Dirkszoon Keyser y Frederick de 
 # Vela
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/vela.png"
   alt=""
@@ -2306,7 +2306,7 @@ Vela es una constelación austral, una de las cuatro partes en que fue dividida 
 # Virgo
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/virgo.png"
   alt=""
@@ -2345,7 +2345,7 @@ Tiene una estrella sin brillo sobre la cabeza, una sobre cada uno de los hombros
 # Volans
 ___
 
-<div class="galeria">
+<div class="galeria2">
 <img
   src="../media-content/astronomia/volans.png"
   alt=""
