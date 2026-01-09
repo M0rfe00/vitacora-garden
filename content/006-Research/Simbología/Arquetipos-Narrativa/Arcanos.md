@@ -138,7 +138,7 @@ Behind the general notion expressed in the symbol there lies the denial of chanc
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar13.jpg" 
+  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar11.jpg" 
   alt=""
   class="entry-image"
 /><br>
@@ -151,7 +151,7 @@ The operation of this is like the breathing of the Spirit where it wills, and we
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Arcanos&Triumfos/" 
+  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar12.jpg" 
   alt=""
   class="entry-image"
 /><br>
@@ -167,7 +167,7 @@ I will say very simply on my own part that it expresses the relation, in one of 
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar14.jpg" 
+  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar13.jpg" 
   alt=""
   class="entry-image"
 /><br>
@@ -181,7 +181,7 @@ Between two pillars on the verge of the horizon there shines the sun of immortal
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Arcanos&Triumfos/" 
+  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar14.jpg" 
   alt=""
   class="entry-image"
 /><br>
@@ -373,7 +373,7 @@ insensate stage.
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar21.jp" 
+  src="../media-content/Research/Simbologia/Arcanos&Triumfos/ar21.jpg" 
   alt=""
   class="entry-image"
 /><br>
