@@ -1842,7 +1842,7 @@ Wheat for riches
 
 # A
 ___
-<p>
+<pre>
 Abedul (Betula) – Mansedumbre, gracia
 Abelia (Abelia) – Devoción
 Abeto (Abies) – Elevación
@@ -1954,11 +1954,11 @@ Azafrán (Crocus sativus) – Cuidado con el exceso, risa
 Azahar, naranja (Citrus sinensis) – Generosidad
 Azahar, flor (Citrus sinensis) – Amor eterno, amor puro
 Azalea (Rhododendron) – Cuidado, feminidad, romance
-</p>
+</pre>
 
 # B
 ___
-
+<pre>
 Babiana (Babiana) – Placer
 Bálsamo de Galaad (Cedronella triphylla) – Curación
 Bambú (Bambuseae) – Longevidad, riqueza, felicidad
@@ -2002,10 +2002,10 @@ Buglosa; también viborera, chupamieles, hierba azul, lengua de
 vaca (Echium vulgare) – Falsedad
 Búgula (Ajuga) – Anima el corazon, salud
 Buvardia (Bouvardia) – Entusiasmo
-
+</pre>
 # C
 ___
-
+<pre>
 Cactus (Opuntia) – Resistencia, afecto
 Cala; también cala de Etiopía, alcatraz, aro de Etiopía, lirio de agua,
 cartucho, flor de pato, flor del jarro (Zantedeschia aethiopica) –
@@ -2124,10 +2124,11 @@ Crisantemo, blanco (Chrysanthemum) – Verdad, amor devoto
 Crisantemo, amarillo (Chrysanthemum) – Amor despreciado
 Crocus, o la flor del azafrán (Crocus) – Alegría
 Cuscuta; también pelillo, tiña (Cascuta) – Bajeza
+</pre>
 
 # D
 ___
-
+<pre>
 Dalia (Dahlia) – Por siempre tuyo, dignidad y elegancia.
 Daphne (Daphne) – Gloria
 Daphne odora (Daphne odora) – Dulces al dulce
@@ -2148,9 +2149,11 @@ Dragón verde (Arisaema dracontium) – Ardor
 Drosera, o rocío del sol (Drosera) – Rocío del sol
 Dulcamara (Solanum dulcamara) – La verdad, el amor platónico
 Durillo (Viburnum tinus) – Jovialidad
+</pre>
+
 # E
 ___
-
+<pre>
 Ebúrnea (Gaultheria) – Ánimo
 Edelweiss, o flor de las nieves (Leontopodium alpinum) – Coraje noble, devoción
 Eléboro, o Rosa de Navidad, Rosa de Cuaresma (Helleborus) –
@@ -2184,10 +2187,11 @@ Eucalipto (Eucalyptus) – Protección
 Eupatoria (Eupatorium) – Regeneración, Fortalecimiento
 Euphorbia (Euphorbia) – Persistencia
 Evónimo, o Bonetero (Euonymus) – Tu imagen está grabada en mi corazón
+</pre>
 
 # F
 ___
-
+<pre>
 Flor de cera (Hoya) – Escultura
 Flor de cuclillo (Lychnis flos-cuculi) – Ingenio
 Flor de guisante (Pisum) – Reunión designada
@@ -2208,9 +2212,11 @@ Fresia (Freesia) – Amistad duradera, inocencia
 Fresno (Fraxinus) – Prudencia, Protección
 Fucsias; también aretillos, pendientes, zarcillos de la Reina
 (Fuchsia) – Amor humilde, frugal
+</pre>
+
 # G
 ___
-
+<pre>
 Galax (Galax) – Ánimo
 Galanto, o campanilla de invierno (Galanthus) – Consolación y
 esperanza
@@ -2251,9 +2257,11 @@ Grosella (Ribes) – Anticipación
 Grosellero ornamental, o grosellero de flor (Ribes sanguineum) – Me satisfaces
 Guisante de olor, o arvejilla (Lathyrus odoratus) – Salida
 Guayacana (Diospyros lotus) – Resistencia
+</pre>
+
 # H
 ___
-
+<pre>
 Hamamelis (Hamamelis) – Un hechizo
 Haya (Fagus) – Prosperidad
 Helecho, general – Fascinación, confianza, refugio, “Mi casa su
@@ -2284,17 +2292,21 @@ Hop (Hops) – Injusticia
 Hortensia (Hydrangea) – Gracia
 Hosta; también planta de Lidia (Hosta) – Devoción
 Hustonia; también señoras cuáqueras (Houstonia) – Contentamiento
+</pre>
+
 # I
 ___
-
+<pre>
 Iberis, o carraspique (Iberis) – Indiferencia
 Iris (Iris) – Sabiduría, fe, valor
 Iris, alemán (Iris) – Llama
 Iris, amarillo (Iris) – Pasión
 Ixia (Ixia) – Felicidad
+</pre>
+
 # J
 ___
-
+<pre>
 Jacinto, azul (Hyacinthus orientalis) – Constancia
 Jacinto, púrpura (Hyacinthus orientalis) – Por favor perdoname
 Jacinto, roja (Hyacinthus orientalis) – Alegría
@@ -2310,17 +2322,21 @@ Jazmín de Madagascar (Stephanotis floribunda) – La felicidad en el
 matrimonio
 Jengibre (Zingiber) – Fuerza
 Juniper (Juniperus) – Perfecta belleza
+</pre>
+
 # K
 ___
-
+<pre>
 Kalmia, o Laurel de montaña (Kalmia latifolia) – Traición
 Karité, árbol (Vitellaria paradoxa) – Sanación de mente, cuerpo y espíritu
 Kennedia (Kennedia) – Belleza intelectual
 Kiwi, árbol (Actinidia) – Bendiciones de un futuro próspero
 Koekemakranka (Genthyllis afra) – Virilidad
+</pre>
+
 # L
 ___
-
+<pre>
 Laburno, o lluvia de oro (Laburnum anagyroides) – Belleza
 pensativa
 Lantana (Lantana) – Rigor
@@ -2367,10 +2383,11 @@ Loto sagrado, o loto indio, rosa del Nilo (Nelumbo nucifera) – Pureza
 Lunaria (Lunaria biennis) – Olvido
 Lupino (Lupinus) – Imaginación, siempre feliz
 Lychnis flos-cuculi, o flor del cuclillo (Lychnis) – Entusiasmo espiritual
+</pre>
 
 # M
 ___
-
+<pre>
 Madreselvas (Lonicera) – Vínculo de amor, devoción
 Madreselvas, Coral (Lonicera) – El color de mi destino.
 Madreselvas, Francés (Hedysarum coronarium) – Belleza rustica
@@ -2442,10 +2459,11 @@ Muguete (Epigaea repens) – Bienvenido, hospitalidad
 Musgo (Bryopsida) – Amor maternal
 Musgo saxifrage (Saxifraga bryoides) – Afecto
 Myrica (Myrica) – Instrucción
+</pre>
 
 # N
 ___
-
+<pre>
 Nabo de campo (Brassica rapa) – Caridad
 Nandina, o Bambú sagrado (Nandina) – Amor cálido
 Narciso (Narcissus) – Caballerosidad, respeto. También amor propio
@@ -2462,10 +2480,11 @@ Nopal (Opuntia) – Sátira
 Nuez (Juglans) – Intelecto
 Nuez de la India; también árbol candil, kukui (Aleurites Moluccanus) – Iluminación
 Nueza negra (Dioscorea) – Sea mi apoyo 
+</pre>
 
 # O 
 ___
-
+<pre>
 Oca, o vinagrera (Oxalis) – Gozo
 Ojo brillante (Euphrasia) – Alegrarse
 Olíbano (Boswellia sacra árbol) – El incienso de un corazón fiel
@@ -2488,10 +2507,11 @@ Orquídea piramidal (Anacamptis) – Belleza refinada
 Orquídea salvaje (Orchidaceae) – Tu eres belle
 Ortiga (Urtica) – Unidad
 Osmunda (Osmunda) – Sueños
+</pre>
 
 # P
 ___
-
+<pre>
 Palma, hojas (Arecaceae) – Victoria, éxito
 Palomilla de tintes (Alkanna tinctoria) – Purificación
 Passiflora, o flor de la pasión (Passiflora) – Fe
@@ -2537,15 +2557,17 @@ Protea (Protea) – Coraje
 Pulmonaria (Pulmonaria) – Eres mi vida
 Pulsatilla, o flor de Pasqua (Pulsatilla) – Estas sin pretensiones
 Pyxie (Pyxidanthera) – La vida es dulce
+</pre>
 
 # Q
 ___
-
+<pre>
 Quina, o quinaquina (Cinchona) – Suerte
+</pre>
 
 # R
 ___
-
+<pre>
 Ranúnculo (Ranunculus) – Resplandor, encantador, riquezas
 Regaliz, o regalicia, paloduz, palolú (Glycyrrhiza glabra) – Yo declaro contra ti
 Remolacha (Beta Vulgaris) – Amor
@@ -2626,10 +2648,11 @@ Rosa sin espinas – Apego temprano, amor a primera vista
 Rosa salvaje – Simplicidad, Poesía
 Rosa salvaje geranio (Pelargonium capitum) – Equilibrio
 Rosa de navidad (Helleborus) – Hermoso año por delante
+</pre>
 
 # S
 ___
-
+<pre>
 Salvia (Salvia officinalis) – Sabiduría, buena salud y larga vida
 Salvia azul de la montaña (Salvia Stenophylla) – Claridad
 Sandía (Citrullus) – Volumen
@@ -2661,10 +2684,11 @@ Statice, o estátice (Limonium) – Recuerdo
 Struthiola (Struthiola argentea) – Atractivo
 Suelda consuelda (Symphytum officinale) – Dinero
 Sumac, o zumaque (Rhus) – Esplendor
+</pre>
 
 # T
 ___
-
+<pre>
 Tagete, o clavel moro (Calendula) – Pasión, creatividad
 Tanaceto, o tansi, hierba lombriguera (Tanacetum) – Resistencia
 Tarragón, o estragón, dragoncillo (Artemisia) – Altruismo, generosidad
@@ -2697,7 +2721,7 @@ Tulipán estrellado amarillo (Calochortus monophyllus) – Intuición
 Tusilago; también fárfara, pie de caballo, uña de caballo (Tussilago) – El amor maternal, cuidando
 Tuya (Thuja) – Inmortalidad, árbol de la vida
 Tuya occidental, o tuya del Canadá (Thuja occidentalis) – Amistad inmutable
-
+</pre>
 
 # U
 ___
@@ -2706,7 +2730,7 @@ Uva (Vitis) – Caridad
 
 # V
 ___
-
+<pre>
 Valeriana (Valeriana) – Considerado, disposición complaciente
 Vara de oro (Solidago) – Ánimo
 Venus, o dionea (Dionaea muscipula) – Atrapado al fin
@@ -2727,6 +2751,7 @@ Violeta, blanco (Viola) – Modestia
 Violeta, amarilla (Viola) – Valor modesto
 Violeta citrina (Cheiranthus) – Fidelidad, amistad
 Violeta de Agua, o Flor de Bach (Justicia americana) – Libertad
+</pre>
 
 # W
 ___
@@ -2736,20 +2761,20 @@ Watsonia (Watsonia zeyheri) – Castidad, pureza
 # X
 ___
 
-Xeranthemum, o flor inmortal (Xeranthemum) – Eternidad, la
-inmortalidad
+Xeranthemum, o flor inmortal (Xeranthemum) – Eternidad, la inmortalidad
 # Y
 ___
-
+<pre>
 Yohimbe (Yohimbe) – Amor
 Yuca (Yucca) – Transmutación, Purificación
+</pre>
 
 # Z
 ___
-
+</pre>
 Zanahoria, flor (Daucus) – No me rechaces
 Zapatito de Dama (Cypripedium) – Belleza caprichosa
-
+</pre>
 
 
 
@@ -2765,6 +2790,7 @@ Zapatito de Dama (Cypripedium) – Belleza caprichosa
 ___
 
 ## **APOLOGY AND FORGIVENESS**
+<pre>
 Asphodel . . . My regrets follow you to the grave
 Bluebell . . . Humility; Faithfulness
 Columbine . . . Foolishness
@@ -2779,8 +2805,10 @@ Protea . . . Transformation
 Rue . . . Regret
 Snapdragon . . . Presumption
 Sunflower . . . False riches
+</pre>
 
 ## **ENCOURAGEMENT**
+</pre>
 Amaryllis . . . Pride
 Chamomile . . . Energy in adversity
 Clematis . . . Ingenuity; Cleverness
@@ -2808,8 +2836,10 @@ Queen Anne’s Lace . . . Sanctuary
 Rosemary . . . Remembrance; Wisdom
 Snowdrop . . . Consolation; Hope
 Yarrow . . . Cure for a broken heart
+</pre>
 
 ## **FAITH AND SPIRITUALITY**
+<pre>
 Baby’s Breath . . . Purity; Innocence
 Bluebell . . . Humility; Faithfulness
 Carnation . . . Mother’s eternal love; Heartache
@@ -2819,8 +2849,10 @@ Dandelion . . . Divination; Fortune-telling
 Fern . . . Magic; Secrecy
 Iris . . . Valor; Wisdom; Faith
 Passionflower . . . Faith
+</pre>
 
 ## **FRIENDSHIP**
+<pre>
 Apple Blossom . . . Preference
 Aster . . . Daintiness
 Bluebell . . . Humility; Faithfulness
@@ -2858,8 +2890,10 @@ Sweet Pea . . . Thank you for a lovely time
 Sweet William . . . Gallantry
 Violet . . . Modesty
 Zinnia . . . Everlasting friendship
+</pre>
 
 ## **GRATITUDE**
+<pre>
 Begonia . . . To repay a favor; A warning
 Honeysuckle . . . Devotion; Affection
 Iris . . . Valor; Wisdom; Faith
@@ -2869,8 +2903,10 @@ Sweet Pea . . . Thank you for a lovely time
 Violet . . . Modesty
 Wheat . . . Riches; Abundance
 Zinnia . . . Everlasting friendship
+</pre>
 
 ## **GRIEF AND SYMPATHY**
+<pre>
 Asphodel . . . My regrets follow you to the grave
 Azalea . . . Fragility; Temperance
 Carnation . . . Mother’s eternal love; Heartache
@@ -2889,8 +2925,10 @@ Poppy . . . Eternal sleep
 Snowdrop . . . Consolation; Hope
 Willow . . . Mourning
 Yarrow . . . Cure for a broken heart
+</pre>
 
 ## **HEARTBREAK**
+<pre>
 Anemone . . . Forsaken love
 Azalea . . . Fragility; Temperance
 Basil . . . Hate
@@ -2914,8 +2952,10 @@ Thistle . . . Misanthropy
 Willow . . . Mourning
 Wormwood . . . Bitterness
 Yarrow . . . Cure for a broken heart
+</pre>
 
 ## **LOVE AND ROMANCE**
+<pre>
 Apple Blossom . . . Preference
 Buttercup . . . You are radiant with charm
 Camellia . . . Longing for you
@@ -2942,8 +2982,10 @@ Peony . . . Bashfulness
 Rose . . . Love
 Sweet William . . . Gallantry
 Tulip . . . I declare my love for you
+</pre>
 
 ## **PARENTS AND CHILDREN**
+<pre>
 Amaryllis . . . Pride
 Aster . . . Daintiness
 Baby’s Breath . . . Purity; Innocence
@@ -2956,8 +2998,10 @@ Heather . . . Luck; Protection
 Lily . . . Purity
 Myrtle . . . Love
 Queen Anne’s Lace . . . Sanctuary
+</pre>
 
 ## **WARNING AND DISPLEASURE**
+<pre>
 Basil . . . Hate
 Begonia . . . To repay a favor; A warning
 Belladonna . . . Silence
@@ -2981,8 +3025,10 @@ Sunflower . . . False riches
 Tansy . . . Hostility
 Thistle . . . Misanthropy
 Wormwood . . . Bitterness
+</pre>
 
 ## **WELL-WISHES AND CONGRATULATIONS**
+<pre>
 Amaryllis . . . Pride
 Apple Blossom . . . Preference
 Carnation . . . Mother’s eternal love; Heartache
@@ -3009,7 +3055,7 @@ Queen Anne’s Lace . . . Sanctuary
 Rose . . . Love
 Rosemary . . . Remembrance; Wisdom
 Tulip . . . I declare my love for you
-
+</pre>
 
 
 # INTRODUCCIÓN - ORIGEN SIGNIFICADOS.
