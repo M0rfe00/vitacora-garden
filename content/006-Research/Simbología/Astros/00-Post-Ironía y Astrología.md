@@ -50,7 +50,8 @@ Durante la muerte y resurrección de la astrología surgió la escuela de los pl
 
 El renacimiento de la astrología se produce a finales del siglo xix acompañado de un periodo de crisis en la percepción social de la ciencia, que no del propio desarrollo científico, en este periodo surgen figuras importantes como Elena Blavatsky, teósofa y ocultista, la que pertenecía a un círculo que empezaba a hacer publicaciones de horóscopos diarios en periódicos.
 
-	Bajo la continua psicologización de la astrología Theodor adorno hace su investigación “bajo el signo de los astros” en la que estudia cómo la astrología, todas las creencias mágicas y pseudociencias tienen una explicación en un contexto capitalista avanzado, donde las personas no tienen autonomía o libertad de hacer lo que quieren ya que están determinados por fuerzas económicas y sociales que trascienden a su voluntad, es mucho más fácil agarrarse a predicciones o determinismos cósmicos que llevar a cabo una crítica del sistema social que es el que verdaderamente determina el futuro de las personas.  
+>[!Info] Theodor Adorno
+>Bajo la continua psicologización de la astrología Theodor adorno hace su investigación “bajo el signo de los astros” en la que estudia cómo la astrología, todas las creencias mágicas y pseudociencias tienen una explicación en un contexto capitalista avanzado, donde las personas no tienen autonomía o libertad de hacer lo que quieren ya que están determinados por fuerzas económicas y sociales que trascienden a su voluntad, es mucho más fácil agarrarse a predicciones o determinismos cósmicos que llevar a cabo una crítica del sistema social que es el que verdaderamente determina el futuro de las personas.  
 
 
 # **Regreso Post irónico de la Astrología**

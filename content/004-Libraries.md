@@ -1242,7 +1242,7 @@ ___
   </div>
   </div>
 
-<br><br>
+
 # Cine (Letterboxd)
 ___
 <div class="lists-row">
@@ -1386,3 +1386,18 @@ ___
   </a>
 </div>
 </div>
+
+
+# MOODBOARDS
+___
+![[Accesorios-Moodboard.pdf]]
+
+![[Clooth Moodboard NEW.pdf]]
+
+![[DigitalAvatarsMoodboard.pdf]]
+
+![[FashionEditorialMoodboard.pdf]]
+
+![[MakeupMoodboard.pdf]]
+
+![[TatooMoodboard.pdf]]

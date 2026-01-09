@@ -2,7 +2,7 @@
 tags:
   - Astrología
 ---
-# **ASTROLOGÍA BABILONICA**
+# **==ASTROLOGÍA BABILONICA==**
 ___
 Magos caldeos: desarrolladores de la astrología y la numerología
 
@@ -172,7 +172,7 @@ El fragmento también contiene otros elementos de interés como una categorizaci
 Lo cierto es que es imposible pasar por alto sus paralelismos con los escritos herméticos, de un modo o de otro estos textos son obras puras de astrología del siglo II a.c. que no sólo asimilaron los conocimientos mesopotámicos y egipcios sobre los astros sino que supieron también incorporar las tradiciones egipcias en un sistema astrológico de conjunto, este sistema tenía una orientación más mitológica quede otro orden y en general tampoco presentaba cálculos astronómicos demasiado complejos, es decir, ya se trataba de astrología pura la astronomía era accesoria y por todo esto podemos decir que fueron los autores egipcios helenísticos los que supieron unir la astrología la numerología y la geometría con las concepciones filosóficas religiosas de la antigüedad y que por fin dieron forma a lo que hoy conocemos como astrología clásica, la astrología de horóscopos basada en el sistema zodiacal.
 
 
-# **ASTROLOGIA GRIEGA**
+# **==ASTROLOGIA GRIEGA==**
 ___
 
 ## **Introducción**
@@ -226,7 +226,7 @@ Aristóteles hizo socialmente aceptable la disciplina que Claudio Ptolomeo llam�
 A Aristóteles se lo puede posicionar fácilmente entre los cuatro o cinco intelectuales más influyentes de la historia de la humanidad o por lo menos de los que se puede probar que verdaderamente existieron y la escuela de pensamiento aristotélica fue la corriente filosófica dominante en occidente desde la antigüedad clásica hasta la era de la ilustración.
 
 
-# **ASTROLOGIA ROMANA**
+# **==ASTROLOGIA ROMANA==**
 ___
 ## **Introducción**
 después del perfeccionamiento del esquema zodiacal y el nacimiento de la astrología clásica occidental en Grecia, llega a roma vía Grecia no sólo sería incorporada como una de las siete artes en el canon romano de las ciencias, sino que se desarrollaría hasta convertirse en una práctica muy popular de aquel tiempo y que se practicaría y se enseñaría en las más diferentes regiones del imperio.
@@ -301,7 +301,7 @@ En el año 62 Poppea había alcanzado el objetivo todos los opositores habían s
 Finalmente, el matrimonio entre Poppea y Nerón tampoco tuvo buena estrella, ya que la emperatriz fue asesinada por su esposo y luego Nerón mismo la siguió el 9 de junio del año 68 poniendo fin a su historia por propia mano con lo cual a su vez puso fin a su dinastía.
 
 
-# **CAIDA DE LA ASTROLOGIA ROMANA**
+# **==CAIDA DE LA ASTROLOGIA ROMANA==**
 ___
 ## **Introducción**
 La astrología se transformó en una fuente permanente de consulta del poder romano y muchos autores antiguos atestiguan la influencia de los astrólogos también llamados caldeos, Tras de Nerón la dinastía Flavia fue adicta a la astrología, esta dinastía no sucedió directamente a Nerón, en el medio tuvieron lugar los reinados de Galba, Othón y Vitelio, pero entre los tres reinados llegaron a sumar un poco más de un año, así que se tendrán muy en cuenta.
@@ -372,7 +372,7 @@ Esta reformulación del discurso sobre la astrología no sólo se manifestó en 
 
 Antes ya hubieron intentos de reglamentación pero sólo entonces se designó a todos los que se dedicaban a la astrología como herejes excluyéndolos entre otras cosas del bautismo y finalmente en las constituciones apóstolicas reunidas en el año 380 se prohibió terminantemente orar al sol, la luna o a las estrellas y cualquier disciplina relacionada con los astros, cuestión que indirectamente también atraso a todo occidente en el desarrollo de la astronomía científica y de las matemáticas, también muy relacionadas con esta última, de hecho en términos generales aunque hubieron contadas excepciones las matemáticas quedaron relegadas a las finanzas del estado y a la arquitectura aunque en el último caso sólo dentro del gremio de constructores romanos.
 
-# **ASTROLOGIA Y GNOSTICISMO**
+# **==ASTROLOGIA Y GNOSTICISMO==**
 ___
 ## **Introducción**
 La posición anti astrológica en el discurso del cristianismo Romano representó solo una de las variadas actitudes que asumieron los distintos grupos cristianos de la antigüedad frente a la astrología.
@@ -463,7 +463,7 @@ Resumiendo en su religión Mani recurrió ampliamente a las doctrinas astrológi
 En definitiva la importancia histórica y cultural del maniqueísmo no residió en una transmisión fiel de la astrología de la antigüedad sino en la continuación de la doctrina astrológica, de conceptos esotéricos y de doctrinas hermético gnósticas y todo esto en una composición teológica de estética e inspiración cristiana, es decir abrió juego para muchas cosas que habrían de venir, ya que de ese modo el maniqueísmo hizo un aporte considerable al establecimiento de la astrología en territorio del islam y no menos importante en las agrupaciones místicas cristianas de la edad Media.
 
 
-# **EL ZODIACO**
+# **==EL ZODIACO==**
 ___
 ## **Introducción**
 Para poder entender bien el zodiaco hay un concepto sobre la astrología primitiva mesopotámica que deberíamos aclarar, en su sentido más amplio y general la astrología antigua investigaba yo pretendía explicar la relación existente entre las manifestaciones celestes y los acontecimientos que se daban en la tierra, focalizándose en los relacionados con las personas.
@@ -582,7 +582,7 @@ Probablemente los horóscopos babilonios hayan comenzado como una ampliación y 
 
 Por esto hoy en día se considera que las viejas afirmaciones de que la astrología de alto nivel fue producto de la tradición griega y de qué Mesopotamia sólo contribuyó con un culto hasta el difuso y la inclusión de las constelaciones ya no son sostenibles, lo real es en cambio que los astrólogos grecorromanos supieron mejorar y adaptar a su manera el material proveniente de la tradición babilónica, de ese modo mucho de la gran filosofía mitología y geometría helenística se incorporaron en la naciente astrología clásica y formaron de ahí en adelante una unidad inseparable con ella.
 
-# **RESUMEN**
+# **==RESUMEN==**
 ___
 ## **Introducción**
 Qué tienen en común los antiguos babilonios, los filósofos griegos y los reyes del renacimiento, pues que todos, ellos miraron al cielo en busca de respuestas, pero de dónde viene la creencia de que las estrellas pueden influir en nuestra vida, cómo pasó la astrología de ser una práctica sagrada a ser considerada una pseudociencia.

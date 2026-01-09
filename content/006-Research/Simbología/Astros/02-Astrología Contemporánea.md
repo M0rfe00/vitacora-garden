@@ -40,32 +40,32 @@ Al factor de la casa se añaden los aspectos, estos son la posición relativa de
 <img
   src="/media-content/Research/Simbologia/img-astrologia/20250714005624.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/img-astrologia/20250714005632.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/img-astrologia/20250714005641.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/img-astrologia/20250714005648.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/img-astrologia/20250714005654.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/img-astrologia/20250714005659.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 https://www.cosmograma.com/ciencia-astrologia.php
