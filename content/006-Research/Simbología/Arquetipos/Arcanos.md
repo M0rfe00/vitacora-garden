@@ -1,6 +1,7 @@
 ---
 tags:
   - Tarot
+  - References
 ---
 # THE TRUMPS MAJOR AND THEIR INNER SYMBOLISM
 ___

@@ -1,6 +1,7 @@
 ---
 tags:
   - Signos-Símbolos
+  - References
 ---
 La floriografía (o lenguaje de las flores) es un método de comunicación codificado que utiliza el significado simbólico de las flores y arreglos florales para transmitir mensajes, sentimientos o secretos, popularizándose enormemente en la época victoriana para expresar lo que no se podía decir abiertamente debido a las estrictas normas sociales, y aunque hoy se usa menos, el simbolismo de flores como las rosas rojas para el amor sigue vigente.
 
