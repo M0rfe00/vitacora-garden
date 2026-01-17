@@ -1,4 +1,10 @@
-De la púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay.
+---
+tags:
+  - Color
+  - Simbologia
+---
+==De la púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay.==
+___
 
 ¿Cuántos violetas conoce usted? 41 tonos de violeta
 1. Color mixto, sentimientos ambivalentes
@@ -26,7 +32,7 @@ ___
 El color lila contiene siempre blanco.
 
 Nombres del violeta en el lenguaje ordinario y en el de los pintores:
-
+<pre>
 Azul brezo
 Azul violáceo
 Barniz de granza oscuro
@@ -68,7 +74,7 @@ Violeta púrpura
 Violeta rojizo
 Violeta sólido
 Violeta ultramarino
-
+</pre>
 
 # 1. Color mixto, sentimientos ambivalentes
 ___

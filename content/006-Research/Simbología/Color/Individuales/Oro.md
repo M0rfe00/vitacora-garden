@@ -1,5 +1,10 @@
-Dinero, felicidad, lujo. Mucho más que un color.
-
+---
+tags:
+  - Color
+  - Simbologia
+---
+==Dinero, felicidad, lujo. Mucho más que un color.==
+___
 
 ¿Cuántos tonos de oro conoce usted? 19 tonos de oro
 1. Oro: mucho más que un color
@@ -23,7 +28,7 @@ Dinero, felicidad, lujo. Mucho más que un color.
 # ¿Cuántos tonos de oro conoce usted? 19 tonos de oro
 ___
 Son pocos los tonos de oro, y sólo los orfebres, los joyeros y los restauradores pueden distinguirlos a la primera. Y el tono de oro nada dice sobre el contenido de oro de una aleación. Nombres del color oro en el lenguaje ordinario y en el de los pintores:
-
+<pre>
 Amarillo dorado
 Amarillo topacio
 Cobre dorado
@@ -43,7 +48,7 @@ Pardo dorado
 Purpurina dorada
 Rubio dorado
 Rubio platino
-
+</pre>
 
 # 1. Oro: mucho más que un color
 ___

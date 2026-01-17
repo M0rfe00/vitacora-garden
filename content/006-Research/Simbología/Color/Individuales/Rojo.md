@@ -1,4 +1,10 @@
-El color de todas las pasiones —del amor al odio. El color de los reyes y del comunismo, de la alegría y del peligro.
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color de todas las pasiones —del amor al odio. El color de los reyes y del comunismo, de la alegría y del peligro.==
+___
 
 ¿Cuántos rojos conoce usted? 105 tonos de rojo
 1. Al principio fue el rojo
@@ -33,6 +39,7 @@ cubre perfectamente las superficies, mientras que el carmesí queda
 siempre transparente.
 
 Nombres del rojo en el lenguaje ordinario y en el de los pintores:
+<pre>
 Anaranjado rojizo
 Bermellón
 Carmín
@@ -138,7 +145,7 @@ Sangre de buey
 Siena tostado
 Terracota
 Violeta rojizo
-
+</pre>
 
 # 1. Al principio fue el rojo 
 ___

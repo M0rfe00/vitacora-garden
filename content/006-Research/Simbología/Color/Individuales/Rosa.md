@@ -1,6 +1,12 @@
-Dulce y delicado, escandaloso y cursi. 
+---
+tags:
+  - Color
+  - Simbologia
+---
+==Dulce y delicado, escandaloso y cursi.== 
 
-Del rosa masculino al rosa femenino.
+==Del rosa masculino al rosa femenino.==
+___
 
 ¿Cuántos rosas conoce usted? 50 tonos de rosa
 1. Más que el “pequeño rojo”
@@ -22,7 +28,7 @@ ___
 Por ejemplo, el barniz de granza no es una pintura, sino un barniz oscurecedor hecho con la raíz pulverizada de la granza o rubia. El color de este barniz es muy usado en la acuarela.
 
 Nombres del rosa en el lenguaje ordinario y en el de los pintores:
-
+<pre>
 Barniz de granza
 Begonia
 Brezo
@@ -73,7 +79,7 @@ Rosé
 Rouge
 Salmón
 Shocking pink
-
+</pre>
 
 # 1. Más que el “pequeño rojo”
 ___

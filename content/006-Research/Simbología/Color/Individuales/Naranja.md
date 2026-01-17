@@ -1,5 +1,12 @@
-El color de la diversión y del budismo.
-Exótico y llamativo, pero subestimado.
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color de la diversión y del budismo.==
+
+==Exótico y llamativo, pero subestimado.==
+___
 
 ¿Cuántos naranjas conoce usted? 45 tonos de naranja
 1. En todas partes más naranja del que se ve: el color subestimado
@@ -20,6 +27,7 @@ ___
 Muchos de los colores Figde la tierra, como el “siena natural”, que contamos entre los tonos marrones, pueden contarse entre los naranjas. Incluso tonos rojos, como el rojo escarlata pueden considerarse tonos anaranjados por su alto contenido de amarillo. El artista lo sabe: junto a un rojo azulado, un rojo con una pizca de amarillo parece siempre naranja, y ese mismo rojo, con su poco de amarillo, parece, junto al amarillo, un rojo puro.
 
 Nombres del naranja en el lenguaje ordinario y en el de los pintores:
+<pre>
 Albaricoque
 Amarillo azafrán
 Amarillo caléndula
@@ -65,7 +73,7 @@ Rojo langosta
 Rojo zorro
 Sanguina
 Siena natural
-
+</pre>
 
 # 1. En todas partes más naranja del que se ve: el color subestimado
 ___

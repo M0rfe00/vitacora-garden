@@ -1,5 +1,10 @@
-El color de la velocidad, del dinero y de la Luna.
-
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color de la velocidad, del dinero y de la Luna.==
+___
 ¿Cuántos tonos de plata conoce usted? 20, tonos de plateado
 1. El último color en que se piensa
 2. Siempre comparado con el dorado
@@ -21,7 +26,7 @@ ___
 Todos los metales de aspecto plateado brillan cada uno de distinta manera, pero distinguimos los metales, no el tono plateado. 
 
 Nombres del color plateado en el lenguaje ordinario y en el de los pintores:
-
+<pre>
 Aluminio
 Blanco plateado
 Blanco platino
@@ -42,7 +47,7 @@ Rubio plateado
 Titanio
 Tubo brillante
 Zinc
-
+</pre>
 
 # 1. El último color en que se piensa
 ___

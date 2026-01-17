@@ -1,6 +1,15 @@
-El color de la fertilidad, de la esperanza y de la burguesía.
-Verde sagrado y verde venenoso.
-El color intermedio
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color de la fertilidad, de la esperanza y de la burguesía.==
+
+==Verde sagrado y verde venenoso.==
+
+==El color intermedio==
+___
+
 ¿Cuántos verdes conoce usted? 100 tonos de verde
 1. Verde bonito y verde feo
 2. El color intermedio
@@ -30,6 +39,7 @@ ____
 ¿Cuántos verdes necesita un artista? A muchos profesionales les basta con el “verde de óxido de cromo vivo” y el “verde de óxido de cromo apagado”. Estos colores, mezclados con amarillo, azul, rojo y blanco, dan todos los verdes del mundo. 
 
 Nombres del verde en lenguaje coloquial y en la jerga de los pintores:
+<pre>
 Caqui
 Gris oliva
 Tierra verde
@@ -130,6 +140,7 @@ Verde veneno
 Verde veronés
 Verde victoria
 Verde viridiano
+</pre>
 
 # 1. Verde bonito y verde feo
 ___

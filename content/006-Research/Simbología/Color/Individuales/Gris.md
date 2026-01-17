@@ -1,6 +1,12 @@
-El color del aburrimiento, de lo anticuado y de la crueldad. 
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color del aburrimiento, de lo anticuado y de la crueldad.== 
 
-Los tests psicológicos con colores y la teoría de Goethe.
+==Los tests psicológicos con colores y la teoría de Goethe.==
+___
 
 ¿Cuántos grises conoce usted? 65 tonos de gris
 1. El color sin carácter
@@ -29,6 +35,7 @@ Por ejemplo, gris cálido y gris frío: una diferencia muy importante para los p
 En la naturaleza hay muchas cosas grises, principalmente el gris del cielo nuboso con todas sus variantes. Y muchas son también las palabras grises que hay en el lenguaje coloquial, y aún más en la lírica. 
 
 Nombres del gris en el lenguaje ordinario y en el de los pintores:
+<pre>
 Blanco grisáceo
 Cendré
 Gris acero
@@ -94,7 +101,7 @@ Gris tormenta
 Gris turbio
 Gris uniforme
 Sepia
-
+</pre>
 
 # **1. El color sin carácter**
 ___

@@ -1,8 +1,16 @@
-El color del poder, de la violencia y de la muerte. 
-El color favorito de los diseñadores y de la juventud. 
-El color de la negación y de la elegancia. 
-¿Es el negro propiamente un color?
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color del poder, de la violencia y de la muerte.== 
 
+==El color favorito de los diseñadores y de la juventud.== 
+
+==El color de la negación y de la elegancia.== 
+
+==¿Es el negro propiamente un color?==
+___
 
 ¿Cuántos negros conoce usted? 50 tonos de negro
 1. ¿Es el negro un color?
@@ -37,7 +45,7 @@ ___
 ¿Negro marfil? “¡El marfil es blanco!”, piensa el lego —antes se tostaban astillas de marfil en recipientes de hierro, obteniéndose un polvo negro profundo.
 
 Nombres del negro en el lenguaje ordinario y en el de los pintores:
-
+<pre>
 Ébano
 Negro alquitrán
 Negro antracita
@@ -88,7 +96,7 @@ Negro violeta
 Negro zarzamora
 Tinta de calamar
 Tinta china
-
+</pre>
 
 # 1. ¿Es el negro un color?
 ___

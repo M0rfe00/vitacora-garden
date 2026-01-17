@@ -1,9 +1,14 @@
-El color preferido. El color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante. 
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color preferido. El color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante.== 
 
-El color femenino y el color de las virtudes espirituales. Del azul real al azul de los tejanos.
+==El color femenino y el color de las virtudes espirituales. Del azul real al azul de los tejanos.==
+___
 
 ¿Cuántos azules conoce usted? 111 tonos de azul 
-
 1. El color preferido 
 2. El color de la simpatía y la armonía 
 3. ¿Por qué el azul parece lejano e infinito? 
@@ -34,7 +39,7 @@ El color femenino y el color de las virtudes espirituales. Del azul real al azul
 # ¿Cuántos azules conoce usted? 111 tonos de azul 
 ___
 ¿Cuál es el azul del cielo? El azul celeste, naturalmente, pero los expertos en colores hablan de azul coeli, cyan, ultramar... De los nombres aquí listados, unos son populares y pertenecen al lenguaje corriente, y otros son nombres establecidos para los colores que usan los artistas. Los artistas conocen muy bien la diferencia entre el azul cobalto, el azul ultramarino y el azul phthalo.
-
+<pre>
 Azul acero
 Azul aciano
 Azul acuático
@@ -145,6 +150,7 @@ Turquesa
 Turquesa cobalto
 Verde azulado
 Violeta azulado
+</pre>
 
 # 1. El color preferido 
 ____

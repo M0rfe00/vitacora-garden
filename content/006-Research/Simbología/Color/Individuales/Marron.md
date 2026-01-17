@@ -1,4 +1,10 @@
-Color de lo acogedor, de lo corriente y de la necedad.
+---
+tags:
+  - Color
+  - Simbologia
+---
+==Color de lo acogedor, de lo corriente y de la necedad.==
+___
 
 ¿Cuántos marrones conoce usted? 95 tonos de marrón
 1. Marrón: el color menos apreciado, pero que está en todas partes
@@ -21,7 +27,7 @@ ___
 Nunca se nos ocurriría decir que el café es de color tabaco, o que el tabaco es de color nogal. Las ideas que tenemos de estos colores son inseparables de sus contextos.
 
 Nombres de tonos marrones en el lenguaje ordinario y en el de los pintores:
-
+<pre>
 Almagre
 Amarillo intenso
 Amarillo viejo
@@ -117,6 +123,7 @@ Terra Pozzuoli
 Terracota
 Tierra verde
 Vino de Madeira
+</pre>
 
 * “Marrón” es un galicismo cuyo empleo en el castellano actual se ha hecho tan frecuente, que ha dejado en lugar secundario al tradicional “castaño”. En la presente traducción se usa “marrón” como el nombre más genérico, y “castaño” y “pardo” en los casos en que es más común, o normativo, el uso de una de estas dos últimas palabras (p.e., “cabello castaño”, “oso pardo”). [N. del T.]
 

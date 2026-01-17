@@ -1,4 +1,10 @@
-El color femenino de la inocencia. El color del bien y de los espíritus. El color más importante de los pintores.
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color femenino de la inocencia. El color del bien y de los espíritus. El color más importante de los pintores.==
+___
 
 ¿Conoce usted más blancos que los esquimales? 67 tonos de blanco
 1. ¿No es el blanco un color? ¿O es un color primario?
@@ -25,7 +31,7 @@ El color femenino de la inocencia. El color del bien y de los espíritus. El col
 # ¿Conoce usted más blancos que los esquimales? 67 tonos de blanco
 ___
 ¿Conoce usted más blancos que los esquimales? 67 tonos de blanco
-
+<pre>
 Albayalde
 Blanco abedul
 Blanco alabastro
@@ -93,7 +99,7 @@ Piel pálida
 Rubio oxigenado
 Rubio platino
 Ultrablanco
-
+</pre>
 
 # 1. ¿No es el blanco un color? ¿O es un color primario?
 ___

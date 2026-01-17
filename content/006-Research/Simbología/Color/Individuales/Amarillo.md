@@ -1,10 +1,16 @@
-El color más contradictorio. 
+---
+tags:
+  - Color
+  - Simbologia
+---
+==El color más contradictorio.== 
 
-Optimismo y celos. 
+==Optimismo y celos.== 
 
-El color de la diversión, del entendimiento y de la traición. 
+==El color de la diversión, del entendimiento y de la traición.== 
 
-El amarillo del oro y el amarillo del azufre.
+==El amarillo del oro y el amarillo del azufre.==
+___
 
 ¿Cuántos amarillos conoce usted? 115 tonos de amarillo
 1. El color más contradictorio
@@ -29,7 +35,7 @@ El amarillo del oro y el amarillo del azufre.
 ___
 ¿Cuál es el amarillo de un canario? ¿Y el de un girasol? 
 Van Gogh pintó la mayoría de sus girasoles con amarillo de cromo porque raras veces podía permitirse usar el amarillo de cadmio.
-
+<pre>
 Amarillo absenta
 Amarillo albaricoque
 Amarillo albumen
@@ -145,7 +151,7 @@ Rubio oxigenado
 Rubio pajizo
 Topacio
 Yellow
-
+</pre>
 
 # 1. El color más contradictorio
 ___
