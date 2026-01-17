@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color del poder, de la violencia y de la muerte.== 
 

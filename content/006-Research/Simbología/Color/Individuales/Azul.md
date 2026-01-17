@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color preferido. El color de la simpatía, la armonía y la fidelidad, pese a ser frío y distante.== 
 

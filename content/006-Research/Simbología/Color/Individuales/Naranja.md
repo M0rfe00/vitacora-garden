@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color de la diversión y del budismo.==
 

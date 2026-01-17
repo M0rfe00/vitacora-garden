@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color femenino de la inocencia. El color del bien y de los espíritus. El color más importante de los pintores.==
 ___

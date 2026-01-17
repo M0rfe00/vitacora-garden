@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color más contradictorio.== 
 

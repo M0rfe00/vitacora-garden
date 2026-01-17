@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color del aburrimiento, de lo anticuado y de la crueldad.== 
 

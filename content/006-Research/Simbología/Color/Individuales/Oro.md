@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==Dinero, felicidad, lujo. Mucho más que un color.==
 ___

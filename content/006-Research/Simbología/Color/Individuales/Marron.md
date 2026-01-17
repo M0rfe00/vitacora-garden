@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==Color de lo acogedor, de lo corriente y de la necedad.==
 ___

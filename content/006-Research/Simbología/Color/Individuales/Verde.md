@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color de la fertilidad, de la esperanza y de la burguesía.==
 

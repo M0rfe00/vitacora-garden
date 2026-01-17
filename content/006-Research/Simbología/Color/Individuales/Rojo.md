@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==El color de todas las pasiones —del amor al odio. El color de los reyes y del comunismo, de la alegría y del peligro.==
 ___

@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==Dulce y delicado, escandaloso y cursi.== 
 

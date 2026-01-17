@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
 ---
 ==De la púrpura del poder al color de la teología, la magia, el feminismo y el movimiento gay.==
 ___
