@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Armonias
 ---
 Although single, recurring colors can hold a deeper meaning, a more fleshed out film palette of colors (aka “color scheme”) is most effective in communicating the thematic context. Balanced color schemes refer to the harmonious relationships of colors on a color wheel. A balanced movie color palette creates unity and promotes a cohesive tone. The four most common types of color schemes are described below.
 

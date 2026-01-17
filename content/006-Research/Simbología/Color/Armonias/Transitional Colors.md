@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Armonias
 ---
 When a recurring film palette or color shifts over the course of the film, it often represents a transformation in the character, story, or theme. This is a powerful way to subliminally communicate a character or story arc in a visual manner.
 

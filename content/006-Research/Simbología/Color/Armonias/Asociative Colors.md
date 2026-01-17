@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Armonias
 ---
 Having considered the various components color theory, we can now look at color selection on a larger scale – not just in a single scene, but over the course of the entire story. 
 

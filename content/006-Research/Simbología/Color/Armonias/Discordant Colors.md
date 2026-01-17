@@ -1,7 +1,7 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Armonias
 ---
 Discordance is a deliberate choice by the director to deviate from the balanced movie color schemes mentioned above to refocus attention. Discording colors can help a character, detail, or moment stand out from the rest of the film. For example, the color blue in Amelie, or the color red in the Sixth Sense.
 

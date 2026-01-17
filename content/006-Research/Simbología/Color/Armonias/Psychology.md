@@ -1,7 +1,8 @@
 ---
 tags:
   - Color
-  - Simbologia
+  - Psicologia
+  - Armonias
 ---
 As Bond mentions, many viewers will have predictably similar reactions to certain colors. A strong red color has been shown to raise blood pressure, while a blue color elicits a calming effect.
 # **ROJO**
