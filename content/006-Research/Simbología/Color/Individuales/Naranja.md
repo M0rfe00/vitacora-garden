@@ -12,12 +12,12 @@ Exótico y llamativo, pero subestimado.
 8. El “tipo otoño”
 9. La intensificación del amarillo
 10. El color de la transformación y del budismo
-11. La diversidad de colores naranjas en la India
+11. La diversidad de colores Fignaranjas en la India
 12. El color de los Orange y de los protestantes
 
 # ¿Cuántos naranjas conoce usted? 45 tonos de naranja
 ___
-Muchos de los colores de la tierra, como el “siena natural”, que contamos entre los tonos marrones, pueden contarse entre los naranjas. Incluso tonos rojos, como el rojo escarlata pueden considerarse tonos anaranjados por su alto contenido de amarillo. El artista lo sabe: junto a un rojo azulado, un rojo con una pizca de amarillo parece siempre naranja, y ese mismo rojo, con su poco de amarillo, parece, junto al amarillo, un rojo puro.
+Muchos de los colores Figde la tierra, como el “siena natural”, que contamos entre los tonos marrones, pueden contarse entre los naranjas. Incluso tonos rojos, como el rojo escarlata pueden considerarse tonos anaranjados por su alto contenido de amarillo. El artista lo sabe: junto a un rojo azulado, un rojo con una pizca de amarillo parece siempre naranja, y ese mismo rojo, con su poco de amarillo, parece, junto al amarillo, un rojo puro.
 
 Nombres del naranja en el lenguaje ordinario y en el de los pintores:
 Albaricoque
@@ -35,7 +35,7 @@ Color mandarina
 Color melocotón
 Color salmón
 Color teja
-Colores de peces
+Colores Figde peces
 Minio
 Naranja amarillento
 Naranja cinabrio
@@ -136,7 +136,7 @@ ___
 
 Entre las pocas cosas en que a muchos se les ocurre primero pensar con relación al color naranja, está lo llamativo. Con este mismo sentido forma también parte de los acordes de → la extraversión y → la presuntuosidad, para las que se nombra el naranja junto al presuntuoso oro.
 
-Naturalmente, el llamativo naranja era el color que menos agradaba a la estética de colores decentes de la época de Goethe. Goethe llama al naranja “rojo amarillento”. A veces lo llama también “cinabrio” o “minio”, tal como lo llamaban los artistas de su época, o también “rojo escarlata”, que es un rojo con una pizca de amarillo. El “rojo amarillento” es para Goethe “el color en su máxima energía”, el que gusta a los niños, a los primitivos y a los bárbaros. Goethe escribe: “No es extraño que a los hombres enérgicos, sanos y rudos les guste especialmente este color. Se ha observado la predilección por el mismo en los pueblos salvajes. Y cuando los niños empiezan a pintar a su aire siempre agotan el cinabrio y el minio.”
+Naturalmente, el llamativo naranja era el color que menos agradaba a la estética de colores Figdecentes de la época de Goethe. Goethe llama al naranja “rojo amarillento”. A veces lo llama también “cinabrio” o “minio”, tal como lo llamaban los artistas de su época, o también “rojo escarlata”, que es un rojo con una pizca de amarillo. El “rojo amarillento” es para Goethe “el color en su máxima energía”, el que gusta a los niños, a los primitivos y a los bárbaros. Goethe escribe: “No es extraño que a los hombres enérgicos, sanos y rudos les guste especialmente este color. Se ha observado la predilección por el mismo en los pueblos salvajes. Y cuando los niños empiezan a pintar a su aire siempre agotan el cinabrio y el minio.”
 
 Con toda seguridad, Goethe pensaba también en sí mismo cuando escribió: “También he conocido personas cultivadas que no podían soportar el encontrarse en un día gris con alguien vestido con casaca escarlata.” En la época de Goethe, la “casaca escarlata” era siempre la chaqueta de un uniforme: el encuentro con un policía o cualquier otro representante del Estado autoritario pudo despertar sentimientos poco agradables por motivos independientes del color.
 
@@ -155,11 +155,11 @@ El naranja, color de la diversión, es el color que se toma menos en serio. Por 
 
 Bhagwan Shree Rajneesh, fundador de la secta Bhagwan, ordenaba a sus adeptos que vistieran de color naranja, pero el propio Bhagwan nunca vestía de naranja, sino siempre de blanco, como si fuese Dios. Aunque Bhagwan poseía un centenar de Rolls-Royces, ninguno era de color naranja. Un Rolls-Royce naranja sería una contradicción: este color haría ridículo el lujo del automóvil.
 
-El naranja es el más inadecuado de todos los colores, y esto tiene su base en la experiencia: durante decenios ha sido el color típico de los plásticos. Al comenzar la era del plástico, hacia 1970, los fabricantes estaban orgullosos de sus materiales artificiales, y como no hay ningún material natural naranja, este color se convirtió en el color típico de todos los plásticos. Entre los objetos de plástico, desde cubos hasta exprimidores de limones, no faltaban los de color naranja, y algunos eran a menudo exclusivamente anaranjados. Desde los destornilladores hasta las batidoras, todos tenían mangos o asas naranjas. Pero había un inconveniente: los compradores no podían elegirlos de otros colores. Al principio, el naranja era el color de la vanguardia del diseño moderno, y con el tiempo ha pasado a ser el color identificador del diseño de ayer y de anteayer.
+El naranja es el más inadecuado de todos los colores,Fig y esto tiene su base en la experiencia: durante decenios ha sido el color típico de los plásticos. Al comenzar la era del plástico, hacia 1970, los fabricantes estaban orgullosos de sus materiales artificiales, y como no hay ningún material natural naranja, este color se convirtió en el color típico de todos los plásticos. Entre los objetos de plástico, desde cubos hasta exprimidores de limones, no faltaban los de color naranja, y algunos eran a menudo exclusivamente anaranjados. Desde los destornilladores hasta las batidoras, todos tenían mangos o asas naranjas. Pero había un inconveniente: los compradores no podían elegirlos de otros colores.Fig Al principio, el naranja era el color de la vanguardia del diseño moderno, y con el tiempo ha pasado a ser el color identificador del diseño de ayer y de anteayer.
 
-Quien desconoce la hostilidad que los publicitarios sienten hacia la investigación, cree ver, detrás de estas modas cromáticas, astutas estrategias comerciales. Pero la realidad es que los estrategas comerciales se imitan unos a otros, esperando cada uno que el otro haya investigado los deseos de los usuarios. El fin de la era anaranjada no llegó porque se supo que el comprador deseaba ver otros colores, sino porque se demostró que los plásticos naranjas contienen colorantes muy tóxicos.
+Quien desconoce la hostilidad que los publicitarios sienten hacia la investigación, cree ver, detrás de estas modas cromáticas, astutas estrategias comerciales. Pero la realidad es que los estrategas comerciales se imitan unos a otros, esperando cada uno que el otro haya investigado los deseos de los usuarios. El fin de la era anaranjada no llegó porque se supo que el comprador deseaba ver otros colores,Fig sino porque se demostró que los plásticos naranjas contienen colorantes muy tóxicos.
 
-Como color de vestimenta, el naranja es de aquellos colores que, a diferencia del marrón o el gris, no se pueden llevar “naturalmente”. No es un color que, como el negro o el blanco, se pueda llevar sin riesgo en todo momento y ocasión. Quien viste de naranja, quiere llamar la atención. Por eso es éste el color de lo frívolo o de lo original.
+Como color de vestimenta, el naranja es de aquellos colores Figque, a diferencia del marrón o el gris, no se pueden llevar “naturalmente”. No es un color que, como el negro o el blanco, se pueda llevar sin riesgo en todo momento y ocasión. Quien viste de naranja, quiere llamar la atención. Por eso es éste el color de lo frívolo o de lo original.
 
 
 
@@ -177,7 +177,7 @@ A pesar de las recomendaciones de los expertos en seguridad vial, nadie elige un
 ___
 Las prendas de vestir de color naranja se ven más en mujeres que en hombres, aunque a pocas mujeres les sienten bien. El naranja es un color presente en la moda veraniega, especialmente adecuado para mujeres de piel oscura o bronceada. En las de piel clara, el anaranjado resalta sobre la persona que lo lleva, que parece quedar en segundo plano.
 
-En general sólo hay un tipo de mujer al que el naranja sienta de forma óptima, y es el llamado “tipo otoño” en el esquema de Jackson → Rosa 12. Al “tipo otoño” pertenecen aquellas cuya piel es de un tono naranja-dorado —incluso sin haberse bronceado al sol. Es difícil determinar el tono de la piel, y en todo caso sólo puede hacerse con luz natural. Las prendas que mejor sientan a los tipos “otoño” son las de tonos naranjas y marrones, pues estos colores subrayan el tono natural, naranja-dorado, de su piel.
+En general sólo hay un tipo de mujer al que el naranja sienta de forma óptima, y es el llamado “tipo otoño” en el esquema de Jackson → Rosa 12. Al “tipo otoño” pertenecen aquellas cuya piel es de un tono naranja-dorado —incluso sin haberse bronceado al sol. Es difícil determinar el tono de la piel, y en todo caso sólo puede hacerse con luz natural. Las prendas que mejor sientan a los tipos “otoño” son las de tonos naranjas y marrones, pues estos colores Figsubrayan el tono natural, naranja-dorado, de su piel.
 
 Como en Alemania son muy apreciadas las prendas marrones, muchas alemanas creen pertenecer al “tipo otoño”, pero la verdad es que este tipo es muy infrecuente. A él pertenecen Sofía Loren y Sarah Ferguson, duquesa de York. La duquesa es una auténtica “personalidad anaranjada”: su cabello es rojo naranja, sus pecas son anaranjadas, y su divertida manera de ser es anaranjada. Nunca ofrece mejor aspecto que cuando viste de color naranja.
 
@@ -212,7 +212,7 @@ Los filósofos chinos interpretaron la vida y sus problemas en el I Ching, el li
 
 Ningún otro color simboliza mejor una transformación que el naranja. El amarillo y el rojo son opuestos, pero también están emparentados, se pertenecen, recíprocamente como el fuego y la luz, como los sentidos y el espíritu. A diferencia del cristianismo, el confucianismo no ve en los sentidos una fuerza enemiga del espíritu.
 
-En el arte asiático, el naranja desempeña el mismo papel que en el arte europeo el acorde de colores rojo-azul. El acorde rojo-azul, de tan múltiples significados, en nuestra cultura es capaz de representar todas las oposiciones. En la pintura asiática vemos por todas partes dioses y hombres vestidos de naranja. Hasta el cielo puede ser naranja.
+En el arte asiático, el naranja desempeña el mismo papel que en el arte europeo el acorde de colores Figrojo-azul. El acorde rojo-azul, de tan múltiples significados, en nuestra cultura es capaz de representar todas las oposiciones. En la pintura asiática vemos por todas partes dioses y hombres vestidos de naranja. Hasta el cielo puede ser naranja.
 
 En la misma época que Confucio (551-479 a.C.) vivió Buda (560-480 a.C.). La religión monástica india no tardó en propagarse a China. Entre confucianos y budistas jamás hubo una guerra de religión. En el budismo, el naranja —el color azafrán— es el color de la iluminación, que según el pensamiento budista representa el grado supremo de perfección.
 
@@ -226,11 +226,11 @@ La razón más importante del gran aprecio que tienen en la India por el color n
 
 
 
-# 11. La diversidad de colores naranja en la India
+# 11. La diversidad de colores Fignaranja en la India
 ___
-En la India se percibe el color naranja de manera más diferenciada que en Europa. Lo que para nosotros es un tono de amarillo, es en la India un tono de naranja. El “amarillo indio” obtenido de la orina de las vacas es el mismo tono naranja claro que Delaunay empleó en su cuadro _La alegría de vivir_ → fig. 66. En la pintura India, muchos colores térreos, como el “ocre tostado” o la “terra di Siena”, son tonos naranjas, pero para los europeos son tonos pardos.
+En la India se percibe el color naranja de manera más diferenciada que en Europa. Lo que para nosotros es un tono de amarillo, es en la India un tono de naranja. El “amarillo indio” obtenido de la orina de las vacas es el mismo tono naranja claro que Delaunay empleó en su cuadro _La alegría de vivir_ → fig. 66. En la pintura India, muchos colores Figtérreos, como el “ocre tostado” o la “terra di Siena”, son tonos naranjas, pero para los europeos son tonos pardos.
 
-Hay muchas plantas que tiñen de color naranja. La más importante es el azafrán, originaria de la India oriental. En Europa, el azafrán era demasiado caro para teñir vestimentas enteras, pero en la India los nobles vestían enteramente con prendas teñidas de azafrán, y los tintoreros eran capaces de teñir de todos los colores que van del amarillo al rojo naranja intenso. Más barato era el alazor, el “falso azafrán” o “azafrán bastardo”, cuyo uso estuvo muy extendido. El alazor es un cardo con flores anaranjadas que se cultivó por primera vez en la India y en China. De sus flores secas se obtienen dos colorantes distintos: uno amarillo, soluble en agua, y otro rojo, soluble sólo en alcohol. El amarillo es poco estable a la luz y palidece con el lavado. El rojo es estable a la luz y a los lavados. En Europa se separaron ambos colorantes; el amarillo disuelto en agua se utilizaba para teñir de este color y el colorante restante servía para teñir de rojo escarlata. En Asia no se separaban los dos colorantes. Se apreciaba el característico cambio de color que sufrían los tejidos teñidos con alazor: cuanto más se lavaban más enrojecían. La separación de los colorantes habría significado una contradicción para el pensamiento asiático, pues, con el alazor, el amarillo se convierte en un color pasajero, cuando el amarillo es, según el simbolismo oriental, el color de los valores eternos.
+Hay muchas plantas que tiñen de color naranja. La más importante es el azafrán, originaria de la India oriental. En Europa, el azafrán era demasiado caro para teñir vestimentas enteras, pero en la India los nobles vestían enteramente con prendas teñidas de azafrán, y los tintoreros eran capaces de teñir de todos los colores Figque van del amarillo al rojo naranja intenso. Más barato era el alazor, el “falso azafrán” o “azafrán bastardo”, cuyo uso estuvo muy extendido. El alazor es un cardo con flores anaranjadas que se cultivó por primera vez en la India y en China. De sus flores secas se obtienen dos colorantes distintos: uno amarillo, soluble en agua, y otro rojo, soluble sólo en alcohol. El amarillo es poco estable a la luz y palidece con el lavado. El rojo es estable a la luz y a los lavados. En Europa se separaron ambos colorantes; el amarillo disuelto en agua se utilizaba para teñir de este color y el colorante restante servía para teñir de rojo escarlata. En Asia no se separaban los dos colorantes. Se apreciaba el característico cambio de color que sufrían los tejidos teñidos con alazor: cuanto más se lavaban más enrojecían. La separación de los colorantes habría significado una contradicción para el pensamiento asiático, pues, con el alazor, el amarillo se convierte en un color pasajero, cuando el amarillo es, según el simbolismo oriental, el color de los valores eternos.
 
 También es posible teñir de naranja con las cápsulas de las semillas de un arbusto llamado bija. Las cápsulas, del tamaño de una ciruela, son maceradas y sometidas a fermentación en agua, y se obtiene una pasta roja empleada también como colorante de comestibles. La corteza roja del queso de bola sigue tiñéndose hoy día con bija.
 
@@ -250,7 +250,7 @@ El más famoso de los Orange, el príncipe Guillermo I, organizó en 1568 la luc
 
 Como todos los de su casa, Guillermo de Orange era protestante, y por eso se llamó a los protestantes en Inglaterra y en Irlanda _orangemen_. El naranja se convirtió así en el color de la lucha contra los católicos. El color de los católicos irlandeses era el verde, el color nacional de Irlanda, que no podía sino ser también el color de la religión tradicional del país → Verde 19. La bandera irlandesa es tricolor: verde-blanco-naranja. La banda blanca entre el católico verde y el naranja protestante simboliza la paz entre las dos religiones.
 
-El reino de Holanda tiene en su bandera nacional los colores rojo, blanco y azul —aunque, en honor de los Orange, a este rojo se le llama naranja, y los holandeses dicen que su bandera es _oranje-blanje-bleue_.
+El reino de Holanda tiene en su bandera nacional los colores Figrojo, blanco y azul —aunque, en honor de los Orange, a este rojo se le llama naranja, y los holandeses dicen que su bandera es _oranje-blanje-bleue_.
 
 Cuando un miembro de la casa real cumple años, los leales súbditos colocan banderitas anaranjadas. La reina Beatriz aparece en muchas fotografías con rosas anaranjadas, y suele vestir también de color naranja, con tonos que pueden ir desde un delicado color albaricoque hasta un rojo con un poco de amarillo. En las competiciones deportivas internacionales, los fans holandeses animan a sus equipos vistiendo camisetas anaranjadas, y se hacen llamar los _oranjehemden_ (camisetas anaranjadas). En Holanda, el naranja goza de mucha más predilección que en Alemania.
 
@@ -261,7 +261,7 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/60.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig60.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -269,7 +269,7 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/61.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig61.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -277,7 +277,7 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/62.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig62.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -285,7 +285,7 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/63.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig63.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -293,7 +293,7 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/64.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig64.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -301,23 +301,23 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/65.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig65.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
-65 Matisse pintó El gozo de vivir con los colores del acorde de lo divertido: naranja-rojoamarillo. 
+65 Matisse pintó El gozo de vivir con los colores Figdel acorde de lo divertido: naranja-rojoamarillo. 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/66.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig66.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
-66 La alegría de vivir, de Delaunay; cuadro abstracto, pero con los mismos colores que el de Matisse. 
+66 La alegría de vivir, de Delaunay; cuadro abstracto, pero con los mismos colores Figque el de Matisse. 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/67.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig67.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -325,7 +325,7 @@ FIGS:
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/68.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig68.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

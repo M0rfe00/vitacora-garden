@@ -523,7 +523,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/53.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig53.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -531,7 +531,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/54.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig54.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -539,7 +539,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/55.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig55.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -547,7 +547,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/56.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig56.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -555,7 +555,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/57.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig57.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -563,7 +563,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/58.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig58.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -571,7 +571,7 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/59.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig59.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

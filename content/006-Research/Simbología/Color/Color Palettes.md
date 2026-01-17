@@ -4,6 +4,22 @@ tags:
   - Simbologia
   - References
 ---
+# COLORES MÁS APRECIADOS
+___
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/Mas"
+  alt="Mas"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+# COLORES MENOS APRECIADOS
+___
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/Menos"
+  alt="Menos"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 # OPUESTOS
 ___
 

@@ -327,7 +327,7 @@ Pero quien ha encontrado los colores correspondientes a su tipo de piel se asomb
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/78.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig78.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -340,7 +340,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/79.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig79.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -348,7 +348,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/80.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig80.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -356,7 +356,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/81.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig81.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -364,7 +364,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/82.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig82.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -372,7 +372,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/83.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig83.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -380,7 +380,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/84.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig84.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -388,7 +388,7 @@ Los tonos cálidos son amarillentos, y los fríos azulados.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/85.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig85.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

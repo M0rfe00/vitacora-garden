@@ -494,7 +494,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/34.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig34.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -502,7 +502,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/35.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig35.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -510,7 +510,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/36.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig36.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -518,7 +518,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/37.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig37.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -526,7 +526,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/38.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig38.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -534,7 +534,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/39.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig39.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -542,7 +542,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/40.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig40.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -550,7 +550,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/41.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig41.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -558,7 +558,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/42.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig42.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -566,7 +566,7 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/43.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig43.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

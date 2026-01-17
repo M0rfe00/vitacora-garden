@@ -415,7 +415,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/69.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig69.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -423,7 +423,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/70.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig70.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -431,7 +431,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/71.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig71.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -439,7 +439,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/72.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig72.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -447,7 +447,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/73.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig73.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -455,7 +455,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/74.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig74.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -463,7 +463,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/75.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig75.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -471,7 +471,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/76.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig76.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -479,7 +479,7 @@ _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy cél
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/77.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig77.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

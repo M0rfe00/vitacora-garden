@@ -628,7 +628,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/14.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig14.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -636,7 +636,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/15.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig15.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -644,7 +644,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/16.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig16.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -652,7 +652,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/17.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig17.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -660,7 +660,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/18.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig18.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -668,7 +668,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/19.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig19.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -676,7 +676,7 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/20.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig20.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -684,14 +684,14 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/21.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig21.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 21 Sólo con colores desconocidos puede lo conocido llamar la atención. 
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/22.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig22.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

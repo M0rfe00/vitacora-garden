@@ -600,7 +600,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/44.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig44.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -608,7 +608,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/45.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig45.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -616,7 +616,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/46.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig46.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -624,7 +624,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/47.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig47.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -632,7 +632,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/48+49.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig48+49.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -640,7 +640,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/50.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig50.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -648,7 +648,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/51.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig51.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -656,7 +656,7 @@ Todo efecto es una suma de experiencias.
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/52.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig52.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

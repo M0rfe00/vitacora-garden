@@ -355,7 +355,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/86.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig86.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -363,7 +363,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/87.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig87.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -371,7 +371,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/88.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig88.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -379,7 +379,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/89.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig89.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -387,7 +387,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/90.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig90.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -395,7 +395,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/91.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig91.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -403,7 +403,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/92.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig92.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -411,7 +411,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/93.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig93.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -419,7 +419,7 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/94.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig94.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

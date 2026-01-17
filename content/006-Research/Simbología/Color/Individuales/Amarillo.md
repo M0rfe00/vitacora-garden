@@ -598,7 +598,7 @@ FIGS:
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig30.jpg"
-  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: 200px;"
 />
 
 30 La falsa serpiente de color amarillo pálido, junto al árbol de la ciencia. Amarillo-negro: el acorde de las señales de advertencia. 
@@ -606,7 +606,7 @@ FIGS:
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig31.jpg"
-  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: 200px;"
 />
 
 31 El acorde ideal para un pegamento. 

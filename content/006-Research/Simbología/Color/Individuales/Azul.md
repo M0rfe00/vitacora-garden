@@ -642,7 +642,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/1.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig1.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -650,7 +650,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/2.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig2.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -658,7 +658,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/3.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig3.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -666,7 +666,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/4.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig4.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -674,7 +674,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/5.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig5.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -682,7 +682,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/6.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig6.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -690,7 +690,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/7.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig7.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -698,7 +698,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/8+9.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig8+9.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -707,7 +707,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/10.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig10.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -715,7 +715,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/11.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig11.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -723,7 +723,7 @@ Hoy se sabe que todos los pueblos tienen la misma capacidad para ver colores, co
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/12.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig12.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

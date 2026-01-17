@@ -591,7 +591,7 @@ No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Poca
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/101.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig101.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -599,7 +599,7 @@ No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Poca
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/102.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig102.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -607,7 +607,7 @@ No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Poca
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/103.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig103.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -615,7 +615,7 @@ No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Poca
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/104.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig104.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -623,7 +623,7 @@ No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Poca
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/105.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig105.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -631,7 +631,7 @@ No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Poca
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/106.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig106.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 

@@ -358,7 +358,7 @@ Durante mucho tiempo fue común cubrir los cuadros, una vez limpios, de un barni
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/95.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig95.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -366,7 +366,7 @@ Durante mucho tiempo fue común cubrir los cuadros, una vez limpios, de un barni
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/96.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig96.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -374,7 +374,7 @@ Durante mucho tiempo fue común cubrir los cuadros, una vez limpios, de un barni
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/97.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig97.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -382,7 +382,7 @@ Durante mucho tiempo fue común cubrir los cuadros, una vez limpios, de un barni
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/98.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig98.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
@@ -390,7 +390,7 @@ Durante mucho tiempo fue común cubrir los cuadros, una vez limpios, de un barni
 
 <img
   loading= "lazy" 
-  src="/media-content/Apuntes/media-diseño/Colores/99.jpg"
+  src="/media-content/Apuntes/media-diseño/Colores/Fig99.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
 
