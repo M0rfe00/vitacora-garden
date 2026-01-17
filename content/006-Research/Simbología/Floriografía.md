@@ -2725,8 +2725,9 @@ Tuya occidental, o tuya del Canadá (Thuja occidentalis) – Amistad inmutable
 
 # U
 ___
-
+<pre>
 Uva (Vitis) – Caridad
+</pre>
 
 # V
 ___
@@ -2755,13 +2756,16 @@ Violeta de Agua, o Flor de Bach (Justicia americana) – Libertad
 
 # W
 ___
-
+<pre>
 Watsonia (Watsonia zeyheri) – Castidad, pureza
+</pre>
 
 # X
 ___
-
+<pre>
 Xeranthemum, o flor inmortal (Xeranthemum) – Eternidad, la inmortalidad
+</pre>
+
 # Y
 ___
 <pre>
