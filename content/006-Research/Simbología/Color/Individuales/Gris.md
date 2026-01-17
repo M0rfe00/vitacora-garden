@@ -589,15 +589,50 @@ Para los pintores de las generaciones actuales, la validez de la teoría de Goet
 
 No hay ninguna estética intemporal, ninguna sensibilidad sin experiencias. Pocas han sido las épocas como la de Goethe, en las que la pintura aspirara a una armonía que resolviera las contradicciones. Es quizá significativo de la época del clasicismo, que mira al pasado, que el gris, el color del conformismo, fuera el color fundamental. Hoy no podría el gris ser el comienzo de todo color, sino más bien el fin.
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/101.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 101 Así preparan los pintores el color gris en la pintura al óleo. Estos siete colores son para muchos pintores los colores básicos de la pintura. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/102.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 102 El anillo parece uniformemente gris. Pero si se tapa la línea de separación, se ven dos grises distintos, porque el tono del gris está determinado por el fondo. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/103.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 103 Los bodegones de Morandi, con su predominio del gris, son cuadros que expresan quietud; pintura y contemplación artística se han convertido en meditación. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/104.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 104 Los daltónicos reconocen la figura de la mujer, pero la ven sin el bikini. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/105.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 105 El gris se adapta a todo. El gris que está en medio es igual que los otros dos. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/106.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 106 Cuando Picasso pintó este autorretrato grisáceo, sabía que pronto iba a morir.

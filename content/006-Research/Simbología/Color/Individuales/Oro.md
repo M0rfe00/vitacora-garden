@@ -353,20 +353,74 @@ El oro es atributo del bien y de lo bueno. En Alemania Goldmarie y Pechmarie son
 
 **FIGS**
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/86.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 86 La princesa Diana con un elegante traje plateado. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/87.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 87 Marilyn Monroe con un traje dorado menos elegante por ser demasiado llamativo. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/88.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 88 Las máximas distinciones son de oro: la Cruz Federal al Mérito Civil (Alemania). 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/89.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 89 Los signos máximos del poder son de oro: el globo imperial alemán. Todo lo engastado o enmarcado en oro es valioso: 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/90.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 90 El color plata es inseparable de la velocidad. En este Mercedes, el color plata tiene más fuerza que el color oro. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/91.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 91 El rizo de una persona querida. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/92.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 92 Un escorpión, encarnación de una diosa. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/93.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 93 Los más importantes objetos sagrados son de oro o han sido dorados: la piedra dorada de Birmania. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/94.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 94 El color oro simboliza los sentimientos más elevados: El beso, de Gustav Klimt.

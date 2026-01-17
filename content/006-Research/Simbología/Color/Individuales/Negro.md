@@ -598,18 +598,66 @@ Todo efecto es una suma de experiencias.
 
 **FIGS**
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/44.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 44 La bandera alemana es incorrecta según las leyes de la heráldica: el dorado debería hallarse entre el negro y el rojo, pues en los escudos, que han de esmaltarse, los colores deben estar separados unos de otros por espacios de metal desnudo. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/45.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 45 La estrella negra, símbolo africano de la libertad. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/46.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 46 La bandera de Bélgica es, heráldicamente, correcta. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/47.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 47 La Kaaba de La Meca. En ella está encerrada la piedra negra, símbolo de todos los pecados. La construcción sagrada está cubierta de una gigantesca tela de seda negra, que se renueva cada año. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/48+49.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 48 + 49 El negro es más fuerte que el blanco; por eso, en la figura de la izquierda, lo primero que se reconoce son los perfiles, y en la de la derecha, el vaso. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/50.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 50 Los colores básicos en las artes gráficas y sus nombres internacionales: Y = yellow (amarillo), M = magenta (rojo), C = cian (azul), B = black (negro). 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/51.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 51 La legibilidad de los textos según su color: 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/52.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 52 El círculo de los colores. En él se reconocen los colores complementarios. Este sencillo círculo contiene los tres colores fundamentales puros: rojo, amarillo y azul, y tres colores mixtos: naranja, verde y violeta. Cada color mixto es resultado de la mezcla de los colores puros que tiene a cada lado; así, el verde se encuentra entre el azul y el amarillo. Los colores que están uno frente a otro constituyen los llamados colores complementarios. Éstos són: rojo y verde; azul y naranja; amarillo y violeta. Ver también → fig. 95.

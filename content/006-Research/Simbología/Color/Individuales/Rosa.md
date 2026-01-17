@@ -325,6 +325,12 @@ Las dificultades en la determinación del tono de piel y las dificultades en la 
 
 Pero quien ha encontrado los colores correspondientes a su tipo de piel se asombra de lo bien que le sientan los colores óptimos para su tipo. Y quien ha formado su vestuario con los tonos apropiados a su tipo de piel comprueba que, de repente, todo armoniza con todo, cualquiera que sea el color, pues cada color contiene las mismas mezclas en un mismo tono subyacente —como la tonalidad en que está compuesta una obra musical—, y todo se combina en un orden que da una impresión global de armonía.
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/78.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 78 Los asesores de moda recomiendan elegir el color de la ropa según el color de la piel. Por ejemplo los siguientes tonos de rosa: 
 un cálido rosa melocotón para el “tipo primavera”, 
 un cálido rosa salmón para el “tipo otoño”, 
@@ -332,16 +338,58 @@ un frío rosa pastel para el “tipo verano”, y un frío pink para el “tipo 
 
 Los tonos cálidos son amarillentos, y los fríos azulados. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/79.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 79 Su color atípico hizo famosa a la Pantera Rosa. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/80.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 80 Alteración de colores: símbolo de lo venenoso en colores infantiles —¿advertencia contra los caramelos? 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/81.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 81 En un principio, el rosa era un color masculino. Por eso, el Niño Jesús viste a menudo de rosa y nunca de azul celeste. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/82.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 82 Configuración cromática ideal: un rosa fuerte y, dulce y un violeta erótico para bombones con alcohol. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/83.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 83 Con violeta y negro, el rosa resulta erótico. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/84.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 84 Las hijas de la reina Victoria. El bebé es la princesa Elena. Hasta 1900, el color de las niñas era el azul celeste el color de la Virgen. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/85.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 85 Periódicos típicamente masculinos, como el Financial Times y la Gazzetta dello Sport, siguen imprimiéndose, conforme a la antigua tradición, en papel rosado.

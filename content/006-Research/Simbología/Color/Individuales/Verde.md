@@ -492,22 +492,82 @@ Los acordes que se muestran en este libro deben entenderse de la misma manera qu
 
 **FIGS**
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/34.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 34 El verde típico de los que prefieren este color. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/35.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 35 El verde típico de los que rechazan este color. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/36.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 36 El rojo parece cercano, el azul lejano, y el verde parece estar en medio. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/37.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 37 Como color intermedio, el verde es también el color de la burguesía. La señora Arnolfini, miembro de la burguesía, se casó con vestimenta verde. La cama roja del fondo es un mueble que revela el elevado estatus del matrimonio: las ropas rojas sólo estaban permitidas a la nobleza, pero una cama roja, del color protector contra el mal de ojo, podía tenerla quien podía permitírsela, pues las telas rojas eran carísimas. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/38.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 38 Los colores de la primavera: los más nombrados en la encuesta. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/39.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 39 Los colores de la primavera de Itten: con sus cuadros sobre las 4 estaciones, demostró que en todas las personas se da la misma valoración de los colores. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/40.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 40 El verde demoniaco: el diablo más original de la pintura medieval — obsérvese su trasero. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/41.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 41 El verde, color sagrado del Islam. Era el color preferido de Mahoma, aquí representado, como siempre, con el rostro cubierto. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/42.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 42 Arabia Saudí era la patria de Mahoma, y en su bandera hay esta inscripción “No hay más que un Dios, y Mahoma es su profeta”. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/43.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 43 El dios egipcio Osiris, dios de la vida y de la fertilidad, tiene la piel verde.

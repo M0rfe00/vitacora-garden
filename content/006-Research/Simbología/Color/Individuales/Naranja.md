@@ -259,22 +259,74 @@ Y, naturalmente, esto se muestra también en el lenguaje: para los holandeses, l
 
 FIGS:
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/60.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 60 Monjas budistas con hábito color naranja. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/61.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 61 Los dioses de la India no tienen la piel rosada ni blanca, sino anaranjada, pues tal es el color (idealizado) de la piel de los hindúes. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/62.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 62 Uso creativo del color: una forma típica (pera) combinada con un color atípico llama siempre la atención. El naranja es frecuente en las cosa alegres. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/63.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 63 Bailarina de can-can, por Toulouse-Lautrec. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/64.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 64 Siempre alegre con su cara anaranjada: Epi, de Barrio Sésamo. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/65.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 65 Matisse pintó El gozo de vivir con los colores del acorde de lo divertido: naranja-rojoamarillo. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/66.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 66 La alegría de vivir, de Delaunay; cuadro abstracto, pero con los mismos colores que el de Matisse. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/67.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 67 Con el negro, el naranja se vuelve intimidatorio. Signo de advertencia: nocivo para la salud. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/68.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 68 Muchos alimentos son anaranjados. Por eso es el naranja tan gustoso. El huevo frito de yema naranjada parece tener mejor sabor que el de yema amarilla.

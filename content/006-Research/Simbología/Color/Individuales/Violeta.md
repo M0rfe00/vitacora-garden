@@ -413,22 +413,75 @@ El lila y el violeta se emplean con frecuencia en el diseño de las cajas y los 
 
 _Purple Heart_ (Corazón violeta), se llama una condecoración militar, muy célebre por ser la más concedida. La reciben los soldados estadounidenses que fueron heridos por el enemigo, o los parientes más cercanos si el soldado murió a causa de sus heridas. El violeta es aquí el color que está entre la vida y la muerte.
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/69.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 69 ¿Cuál de estos dos colores es el púrpura? Los alemanes señalarían inmediatamente el rojo, y los ingleses y esta-dounidenses el violeta. ¿Por qué? Originariamente, el púrpura era violeta, pero en Alemania se cambió el nombre del color. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/70.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 70 Las coronas inglesas están guarnecidas con terciopelo violeta, el color de la púrpura en Inglaterra. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/71.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 71 La emperatriz Teodora vestida de púrpura — violeta aquí también. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/72.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 72 El violeta del antiguo color púrpura se convirtió en color de la Iglesia evangélica. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/73.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 73 El púrpura violeta se extraía de un molusco marino. A partir de 1500, el tinte rojo de cochinillas era el más caro. La Iglesia cambió entonces la jerarquía de sus colores: desde entonces, los cardenales vistieron de rojo, y los obispos de un violeta que ya no era el verdadero púrpura. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/74.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 74 Uso creativo del color: la famosa vaca de Milka. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/75.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 75 El movimiento feminista comenzó luchando por el derecho al voto. Símbolos de las sufragistas de 1908. El púrpura inglés simboliza la libertad y la dignidad. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/76.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 76 Símbolo del poder femenino en torno a 1970. Aquí, el violeta simboliza la unión de lo masculino y lo femenino. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/77.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 77 El pintor surrealista Brauner pintó el signo de Géminis como un ser doble, masculino y femenino. El naranja simboliza la transformación, y el violeta la magia.
 

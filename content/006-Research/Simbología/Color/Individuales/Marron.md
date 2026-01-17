@@ -356,13 +356,42 @@ Estamos acostumbrados a que los cuadros antiguos tengan un tono pardo, y creemos
 
 Durante mucho tiempo fue común cubrir los cuadros, una vez limpios, de un barniz pardo para que parecieran antiguos. Este barniz se denominaba “pátina”, también conocido como tono de galería o museo. Hoy se le llama despectivamente “sopa marrón”. La diferencia entre los colores cubiertos por la pátina y los originales se puso de manifiesto de forma impresionante cuando se restauraron los frescos de Miguel Ángel en la Capilla Sixtina. Los tonos de la piel, antes de un color pardo grisáceo, se tornaron rosáceos; los tonos ocres de las vestiduras, amarillos luminosos; y el gris se convirtió en azul. Esta explosión de colores les pareció a los conservadores espantosamente moderna, pero son los auténticos colores de Miguel Ángel →fig. 97.
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/95.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 95 Mezcla sustractiva de colores: cuando se mezclan colores materiales(los de tubos y latas de pintura), lamezcla es cada vez más oscura. Los colores complementarios dan siempre color marrón. Si se mezclan los tres colores primarios —rojo, azul y amarillo—, el resultado es (casi) negro, pues cada vez que se añade un color, la mezcla absorbe —sustrae— más luz. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/96.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 96 El marrón no es un color neutro que se adapte a todo: arriba, azul frío/marrón frío; abajo, naranja/marrón cálido. Los tonos cálidos y fríos no armonizan entre sí aunque sean tonos atenuados: el contraste entre ellos es demasiado fuerte. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/97.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 97 Los amantes del arte poco informados se indignaron con el resultado de los trabajos de restauración de la Capilla Sixtina. Muchos creían que Miguel Ángel había pintado a Dios, a los santos y el cielo mismo con colores parduscos. Los nuevos colores les parecían demasiado vivos, si no kitsch, pero así eran los colores de Miguel Ángel. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/98.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 98 Falsa creatividad: pastel de mármol rojo y azul. Nadie soporta colores insólitos en los alimentos. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/99.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 99 Los colores del otoño más nombrados en la encuesta. Este acorde es tan inequívoco en sus colores como el cuadro de Itten que está junto a él. 100 Los colores del otoño según Itten.

@@ -521,16 +521,58 @@ Las invitadas a una boda deben tener en cuenta sobre todo que para ellas hay un 
 
 **FIGS**
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/53.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 53 La reina de Inglaterra viste de blanco en las grandes ocasiones. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/54.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 54 Fuera de la iglesia, el Papa viste siempre de blanco, y dentro de ella sólo en las festividades “blancas”. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/55.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 55 La muerte viste de blanco cuando la envía Dios, y de negro cuando la envía el diablo. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/56.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 56 El gran problema de Goethe: la mezcla aditiva de colores. Los colores de la luz se mezclan de distinta manera que los colores materiales, es decir, las pinturas. Los colores de la luz son los del arco iris, los de los proyectores de luz de color y también los de la televisión. Los colores fundamentales son el naranja, el violeta y el verde. Mezclándolos se obtiene, en cada caso, el color que tienen en común, por ejemplo, luz naranja + luz verde = luz amarilla. Si se añade otro color más, la luz obtenida es más clara, pues se añade más luz. Y con los tres colores mencionados se obtiene luz blanca. Goethe se negó a creer esto. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/57.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 57 Mediante placebos (medicamentos fingidos), se comprobó que las píldoras y cápsulas blancas parecen calmar el dolor, las azules producir efecto tranquilizante, y las amarillas y las rojas ser excitantes. Las píldoras rosas y rojas parecen hacer más efecto que las azules, las de dos colores más que las de un solo color, y las cápsulas resultan más eficaces que los comprimidos. Pero estos pseudoefectos duran poco tiempo. Con simples colores no se consiguen efectos verdaderos. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/58.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 58 Los colores son menos luminosos sobre blanco que sobre negro. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/59.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 59 Un clásico de la elegancia en blanco y negro.

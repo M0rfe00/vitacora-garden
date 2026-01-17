@@ -538,69 +538,91 @@ Propuestas para etiquetas y símbolos con colores creativos: un Sol azul, una Lu
 
 
 FIGS:
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig23.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto; "
 />
+
 23 Símbolo del yin y el yang. En China, el contrario del negro es el amarillo. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig24.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 24 Los cinco colores simbólicos chinos: el amarillo es el color más noble; el azul no tiene ningún significado propio, y el verde es más importante porque contiene amarillo. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig25.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 25 Jinetes con los colores simbólicos chinos: delante, los colores masculinos rojo, amarillo y verde, y detrás los colores femeninos de China: blanco y negro. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig26.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 26 Smile-button en el color simbólico del optimismo. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig27.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 27 El dios indio Krishna y su amante terrenal. La piel azul y las ropas doradas lo identifican como dios. El doble simbolismo cristiano: 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig28.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 28 El amarillo de la iluminación. El ojo en el triángulo amarillo simboliza a Dios. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig29.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 29 El amarillo pálido identifica al traidor. Abajo, Judas de amarillo y sin aureola. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig30.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 30 La falsa serpiente de color amarillo pálido, junto al árbol de la ciencia. Amarillo-negro: el acorde de las señales de advertencia. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig31.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 31 El acorde ideal para un pegamento. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig32.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 32 Señal de advertencia: materiales explosivos. 
+
 <img
   loading= "lazy" 
   src="/media-content/Apuntes/media-diseño/Colores/Fig33.jpg"
   style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
 />
+
 33 En el arte egipcio, la mujer coloca siempre el brazo sobre el hombre. Las mujeres aparecen también con la piel de color amarillo, color típicamente femenino entre los egipcios. → fig. 22.

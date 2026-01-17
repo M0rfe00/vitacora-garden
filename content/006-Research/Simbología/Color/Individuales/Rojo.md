@@ -626,20 +626,73 @@ La astrología se enfrenta al problema de que siempre se descubren nuevos planet
 
 **FIGS**
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/14.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 14 El rojo es símbolo de energía y vigor. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/15.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 15 Los guantes de boxeo son tradicionalmente rojos. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/16.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 16 Mala utilización del rojo en publicidad: el texto en rojo se lee mal y parece desvanecerse. El uso desacertado de un color invierte el sentido del mensaje que se quiere transmitir. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/17.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 17 Según una antigua superstición, las ropas y los gorritos rojos protegen a los bebés de todos los males. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/18.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 18 La jerarquía de colores en el cristianismo: cuando aparecen representados Dios Padre, Jesús y María, Dios Padre viste del color más preciado, el rojo púrpura violado, Jesús de rojo luminoso, y María de azul. El Espíritu Santo aparece como una paloma blanca, aunque su color simbólico es el verde del fondo. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/19.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 19 Durante siglos, el color rojo en la vestimenta fue privilegio exclusivo de la nobleza. Todavía en 1700 sólo los nobles podían llevar zapatos con tacones rojos, como éstos de Luis XIV. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/20.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
+
 20 Uso creativo del color: este clavel puede simbolizar Francia. 
 
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/21.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 21 Sólo con colores desconocidos puede lo conocido llamar la atención. 
+
+<img
+  loading= "lazy" 
+  src="/media-content/Apuntes/media-diseño/Colores/22.jpg"
+  style="margin: 0 auto; padding: 0; max-width: 50%; height: auto;"
+/>
 
 22 Simbolismo egipcio de los colores: la piel de los hombres es rojiza, y la de las mujeres amarillenta. → fig. 33.
