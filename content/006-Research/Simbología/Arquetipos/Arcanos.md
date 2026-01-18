@@ -5,7 +5,7 @@ tags:
 ---
 # THE TRUMPS MAJOR AND THEIR INNER SYMBOLISM
 ___
-# I The Magician
+# I. The Magician
 ____
 <img
   loading= "lazy" 
@@ -24,7 +24,7 @@ On the table in front of the Magician are the symbols of the four Tarot suits, s
 This card signifies the divine motive in man, reflecting God, the will in the liberation of its union with that which is above. It is also the unity of individual being on all planes, and in a very high sense it is thought, in the fixation thereof. With further reference to what I have called the sign of life and its connexion with the number 8, it may be remembered that Christian Gnosticism speaks of rebirth in Christ as a change "unto the Ogdoad." 
 
 The mystic number is termed Jerusalem above, the Land flowing with Milk and Honey, the Holy Spirit and the Land of the Lord. According to Martinism, 8 is the number of Christ.
-#  II
+#  II. The High Priestess
 ____
 <img
   loading= "lazy" 
@@ -44,7 +44,7 @@ In the superior world it is called Binah, the Supernal Understanding which refle
 
 Mystically speaking, the Shekinah is the Spiritual Bride of the just man, and when he reads the Law she gives the Divine meaning. There are some respects in which this card is the highest and holiest of the Greater Arcana.
 
-# III The Empress
+# III. The Empress
 ___
 <img
   loading= "lazy" 
@@ -62,7 +62,7 @@ She is above all things universal fecundity and the outer sense of the Word. Thi
 
 In another order of ideas, the card of the Empress signifies the door or gate by which an entrance is obtained into this life, as into the Garden of Venus; and then the way which leads out therefrom, into that which is beyond, is the secret known to the High Priestess: it is communicated by her to the elect. Most old attributions of this card are completely wrong on the symbolism--as, for example, its identification with the Word, Divine Nature, the Triad, and so forth.
 
-# IV The Emperor
+# IV. The Emperor
 ___
 <img
   loading= "lazy" 
@@ -79,7 +79,7 @@ It should be understood that this card and that of the Empress do not precisely 
 Hereof is the lordship of thought rather than of the animal world. Both personalities, after their own manner, are "full of strange experience," but theirs is not consciously the wisdom which draws from a higher world. The Emperor has been described as (a) will in its embodied form, but this is only one of its applications, and (b) as an expression of virtualities contained in the Absolute Being--but this is fantasy.
 
 
-# V The Hierophant
+# V. The Hierophant
 ___
 <img
   loading= "lazy" 
@@ -101,7 +101,7 @@ He is the order and the head of the recognized hierarchy, which is the reflectio
 
 He is not, as it has been thought, philosophy-except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression.
 
-# VI The Lovers
+# VI. The Lovers
 ___
 <img
   loading= "lazy" 
@@ -120,7 +120,7 @@ In a very high sense, the card is a mystery of the Covenant and Sabbath. The sug
 It is through her imputed lapse that man shall arise ultimately, and only by her can he complete himself. The card is therefore in its way another intimation concerning the great mystery of womanhood. The old meanings fall to pieces of necessity with the old pictures, but even as interpretations of the latter, some of them were of the order of commonplace and others were false in symbolism.
 
 
-# VII The Chariot
+# VII. The Chariot
 ___
 <img
   loading= "lazy" 
@@ -135,7 +135,7 @@ He has thus replied to the sphinx, and it is on this account that I have accepte
 It is to be understood for this reason (a) that the question of the sphinx is concerned with a Mystery of Nature and not of the world of Grace, to which the charioteer could offer no answer; (b) that the planes of his conquest are manifest or external and not within himself; (c) that the liberation which he effects may leave himself in the bondage of the logical understanding; (d) that the tests of initiation through which he has passed in triumph are to be understood physically or rationally; and (e) that if he came to the pillars of that Temple between which the High Priestess is seated, he could not open the scroll called Tora, nor if she questioned him could he answer. He is not hereditary royalty and he is not priesthood.
 
 
-# VIII Strength, or Fortitude
+# VIII. Strength, or Fortitude
 ___
 <img
   loading= "lazy" 
@@ -154,7 +154,7 @@ They are intimated in a concealed manner by the chain of flowers, which signifie
 There is one aspect in which the lion signifies the passions, and she who is called Strength is the higher nature in its liberation. It has walked upon the asp and the basilisk and has trodden down the lion and the dragon.
 
 
-# IX The Hermit
+# IX. The Hermit
 ___
 <img
   loading= "lazy" 
@@ -173,7 +173,7 @@ It has been adopted by the French Order of Martinism and some of us have heard a
 It did not refer to the intended concealment of the Instituted Mysteries, much less of their substitutes, but--like the card itself--to the truth that the Divine Mysteries secure their own protection from those who are unprepared.
 
 
-# X Wheel of Fortune
+# X. Wheel of Fortune
 ___
 <img
   loading= "lazy" 
@@ -193,7 +193,7 @@ Behind the general notion expressed in the symbol there lies the denial of chanc
 
 
 
-# XI Justice
+# XI. Justice
 ___
 <img
   loading= "lazy" 
@@ -214,7 +214,7 @@ It is analogous to the possession of the fairy gifts and the high gifts and the 
 The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice open into one world and the pillars of the High Priestess into another.
 
 
-# XII The Hanged Man
+# XII. The Hanged Man
 ___
 <img
   loading= "lazy" 
@@ -232,7 +232,7 @@ He who can understand that the story of his higher nature is imbedded in this sy
 
 
 
-# XIII Death
+# XIII. Death
 ___
 <img
   loading= "lazy" 
@@ -248,7 +248,7 @@ The natural transit of man to the next stage of his being either is or may be on
 
 
 
-# XIV Temperance
+# XIV. Temperance
 ___
 <img
   loading= "lazy" 
@@ -266,7 +266,7 @@ It is called Temperance fantastically, because, when the rule of it obtains in o
 
 
 
-# XV The Devil
+# XV. The Devil
 ___
 <img
   loading= "lazy" 
@@ -296,7 +296,7 @@ What it does signify is the Dweller on the Threshold without the Mystical Garden
 
 
 
-# XVI The Tower
+# XVI. The Tower
 ___
 <img
   loading= "lazy" 
@@ -318,7 +318,7 @@ In yet a deeper sense, it may signify also the end of a dispensation, but there 
 
 
 
-# XVII The Star
+# XVII. The Star
 ___
 <img
   loading= "lazy" 
@@ -342,7 +342,7 @@ But she is in reality the Great Mother in the Kabalistic Sephira Binah, which is
 
 
 
-# XVIII The Moon
+# XVIII. The Moon
 ___
 <img
   loading= "lazy" 
@@ -364,7 +364,7 @@ The face of the mind directs a calm gaze upon the unrest below; the dew of thoug
 
 
 
-# XIX The Sun
+# XIX. The Sun
 ___
 <img
   loading= "lazy" 
@@ -388,7 +388,7 @@ In that simplicity, he bears the seal of Nature and of Art; in that innocence, h
 
 
 
-# XX The Last Judgment
+# XX. The Last Judgment
 ___
 <img
   loading= "lazy" 
@@ -413,7 +413,7 @@ What is that within us which does sound a trumpet and all that is lower in our n
 
 
 
-# 0 ZERO The Fool
+# 0. The Fool
 ___
 <img
   loading= "lazy" 
@@ -446,7 +446,7 @@ a peculiar satire its subsidiary name was at one time the alchemist, as depictin
 
 
 
-# XXI The World
+# XXI. The World
 ___
 <img
   loading= "lazy" 
