@@ -212,3 +212,13 @@ Al final de cada mano las ciegas se mueven a la siguiente posición, por lo que 
 
 **Variación 6 jugadores**
 ![[Posición6.png]]
+
+
+
+
+
+
+
+# Probabilidad
+___
+![[Probabilidades.png]]
