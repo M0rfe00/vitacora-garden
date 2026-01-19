@@ -47,9 +47,9 @@ Al finalizar la mano tendrán que realizar lo mismo otros dos jugadores.
 Tras la ciegas se reparten dos cartas a cada jugador siendo primero en hablar el situado a la izquierda de la ciega grande. 
 
 Cada jugador por turnos tendrá la opción de:
-- Retirarse (Fold)
-- Pagar (Call)
-- Apostar (Bet) en caso de no haber apuesta anterior
+- **Retirarse (Fold)**
+- **Pagar (Call):** consiste en igualar la apuesta más alta hasta el momento
+- **Apostar (Bet)** en caso de no haber apuesta anterior: acción de invertir dinero o fichas de nuestro stack en el bote con el objetivo de forzar al rival a decidir si quieren pagar con la mano que tengan o retirarse.
 - Subir (Raise) en caso de haber una apuesta previa
 ![[Pasted image 20260119191503.png]]
 
