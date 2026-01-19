@@ -92,6 +92,7 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
+        scale: 0.9,
         repelForce: 0.2, // how much nodes should repel each other
         centerForce: 1.5, // how much force to use when trying to center the nodes
         removeTags: ["hideInExplorer"],
