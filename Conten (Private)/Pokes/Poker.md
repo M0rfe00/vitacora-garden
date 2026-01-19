@@ -214,11 +214,18 @@ Al final de cada mano las ciegas se mueven a la siguiente posición, por lo que 
 ![[Posición6.png]]
 
 
-
-
-
+![[Pasted image 20260120001520.png]]
+![[Pasted image 20260120001614.png]]
 
 
 # Probabilidad
 ___
 ![[Probabilidades.png]]
+
+# Estilos de jugador
+___
+![[EstilosJugador.png]]
+
+# Factores Decisión
+___
+![[FactoresDecisión.png]]

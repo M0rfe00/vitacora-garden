@@ -93,8 +93,8 @@ export const defaultContentPageLayout: PageLayout = {
         zoom: true,
         depth: -1,
         scale: 1,
-        repelForce: 0.2, // how much nodes should repel each other
-        centerForce: 2.5, // how much force to use when trying to center the nodes
+        repelForce: 0.3, // how much nodes should repel each other
+        centerForce: 1.9, // how much force to use when trying to center the nodes
         removeTags: ["hideInExplorer"],
         enableRadial: true, // whether to constrain the graph, similar to Obsidian
       },
