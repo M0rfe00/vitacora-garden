@@ -27,3 +27,9 @@ ___
 Tener la mejor mano al mostrar tus cartas (showdown)
 
 Lograr que los rivales se retiren ante tu apuesta.
+
+
+# Dinamica
+___
+Antes de empezar la partida
+![[Pasted image 20260119190916.png]]
