@@ -93,7 +93,7 @@ export const defaultContentPageLayout: PageLayout = {
         zoom: true,
         depth: -1,
         repelForce: 0.4, // how much nodes should repel each other
-        centerForce: 1.1, // how much force to use when trying to center the nodes
+        centerForce: 3, // how much force to use when trying to center the nodes
         removeTags: ["hideInExplorer"],
       },
     }),
