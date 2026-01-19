@@ -92,10 +92,11 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: -1,
+        scale: 1,
         repelForce: 0.5, // how much nodes should repel each other
         centerForce: 1.5, // how much force to use when trying to center the nodes
         removeTags: ["hideInExplorer"],
+        enableRadial: true, // whether to constrain the graph, similar to Obsidian
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
