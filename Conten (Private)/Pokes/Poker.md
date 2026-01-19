@@ -46,32 +46,45 @@ Al finalizar la mano tendrán que realizar lo mismo otros dos jugadores.
 
 Tras la ciegas se reparten dos cartas a cada jugador siendo primero en hablar el situado a la izquierda de la ciega grande. 
 
-Cada jugador por turnos tendrá la opción de:
-- **Retirarse (Fold)**
+**Cada jugador por turnos tendrá la opción de:**
+- **Retirarse (Fold):** acción de retirarse del bote perdiendo el derecho a ganarlo, teniendo que esperar a la siguiente mano para poder jugar de nuevo.
 - **Pagar (Call):** consiste en igualar la apuesta más alta hasta el momento
 - **Apostar (Bet)** en caso de no haber apuesta anterior: acción de invertir dinero o fichas de nuestro stack en el bote con el objetivo de forzar al rival a decidir si quieren pagar con la mano que tengan o retirarse.
-- Subir (Raise) en caso de haber una apuesta previa
+- **Subir (Raise)** en caso de haber una apuesta previa: acción de resubir la apuesta de un rival a una cantidad superior a la que él ha apostado.
+- **Pasar (Check):** Consiste en pasar el turno, se realiza cuando no nos enfrentamos a una apuesta ni se tenga interés en apostar.
 ![[Pasted image 20260119191503.png]]
 
 **Fold:** El jugador que no este dispuesto a completar la apuesta más grande hasta el momento no puede seguir en la mano y deberá retirarse, entregar sus cartas, perder todo el dinero apostado hasta el momento y no tendrá posibilidad de ganar el bote.
 
-## **Preflop y Bote:** 
-Cuando todos los jugadores por turno han decidido que hacer se completa la primera ronda de apuestas llamada preflop, el dinero se une formando el "Bote/Pot"
-![[Pasted image 20260119192114.png]]
+## **1. Preflop:** 
+En esta primera ronda todos los jugadores tienen la oportunidad de decidir si quieren jugar sus manos y realizar apuestas.
 
-## **Flop:** 
+El primer jugador en hablar siempre será el jugador a la derecha de la ciega grande.
+
+**Bote:** Cuando todos los jugadores por turno han decidido que hacer se completa la primera ronda de apuestas llamada "preflop", el dinero se une formando el "Bote/Pot"
+![[Pasted image 20260119213855.png]]
+
+## **2. Flop:** 
 Tras el preflop se reparten 3 cartas en la mesa llamado "Flop" y se hace una segunda ronda de apuestas.
 
-El primero en hablar será siempre el que este a la derecha del botón puediendo pasar, apostar o retirarse.
-![[Pasted image 20260119192601.png]]
+En esta ronda los jugadores deben razonas si sud dos cartas han mejorado o tienen el potencial de hacerlo.
 
-## **Turn:** 
+El primero en hablar será siempre el que este a la derecha del botón (ciega pequeña) pudiendo pasar, apostar o retirarse.
+![[Pasted image 20260119213915.png]]
+
+## **3. Turn:** 
 Tras la segunda ronda de apuestas se reparte una cuarta carta en la mesa llamada "Turn" y se realiza una tercera ronda de apuestas.
-![[Pasted image 20260119192634.png]]
+
+Los jugadores que continúen en el bote deben analizar como afecta la nueva carta a su jugada y si deben realizar alguna acción.
+
+En esta ronda también será la ciega pequeña la primera en hablar.
+![[Pasted image 20260119214243.png]]
 
 ## **River:** 
-Tras la tercera ronda de apuestas se reparte una quinta carta llamada "River" y se realiza una ultima ronda de apuestas.
-![[Pasted image 20260119192757.png]]
+Tras la tercera ronda de apuestas se reparte una quinta carta comunitaria llamada "River" y se realiza una ultima ronda de apuestas.
+
+Al igual que en flop y turn  el primer jugador en hablar será la ciega pequeña.
+![[Pasted image 20260119214621.png]]
 
 
 **Cartas comunitarias:** Las cartas que se han ido repartiendo en la mesa son llamadas "Cartas comunitarias" y pueden ser combinadas por todos los jugadores con sus dos cartas privadas para formar la mejor combinación de cinco cartas posibles.
@@ -85,7 +98,7 @@ Puede suceder que un jugador haya apostado en una ronda de apuestas y todos los 
 
 Tras esto la mano se da por terminada y comienza una mano nueva, repitiendo el proceso pero cambiando los turnos, utilizando para ello el botón el cual deberá moverse una posición a la izquierda cada vez que finalice una mano, correspondiendo la ciega pequeña al jugador a la izquierda el botón.
 ![[Pasted image 20260119193547.png]]
-
+![[Pasted image 20260119214938.png]]
 
 # Jerarquía de manos
 ___
