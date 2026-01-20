@@ -36,7 +36,11 @@ La Toma del poder por los omeyas marcó un punto de inflexión en la historia de
 Asimismo, también se creó la tercera rama del islam, el Jariyismo, los jariyies, que actualmente habitan en la región de Omán, desertaron en el año 657 y abandonaron el bando de Ali.
 
 Finalmente, la dinastía omeya, gobernante en la mayor parte del mundo islámico, fue derrocada por una rebelión liderada por los abasíes en el año 750, estos abasíes eran descendientes del tío más joven de Mahoma, Abu albas y por ello mismo reclamaba en su legitimidad.
-![[Pasted image 20250909024859.png]]
+<img
+  src="/media-content/Research/Simbologia/Islam/20250909024859.png"
+  alt="Islam"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
 
 Tras la conquista se estableció la capital en Bagdad y se propició el predominio de los persas en el Imperio, así la ciudad se convirtió en uno de los principales centros de la civilización mundial durante el califato de Harun Al-Rashid, el califa de las mil y una noches.
 

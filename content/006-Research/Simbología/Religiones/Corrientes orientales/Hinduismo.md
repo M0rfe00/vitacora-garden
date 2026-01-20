@@ -137,7 +137,12 @@ ___
 Desde el exterior se percibe como un sistema opresivo que determina a las personas desde su nacimiento y por desgracia durante mucho tiempo ha sido asi.
 
 En el hinduismo hay cuatro castas en las que se puede nacer, Brahmins/sacerdotes, Kshatriyas/guerreros, Vaishyas/comerciantes, Shudras/obreros manuales.
-![[Pasted image 20250909030839.png]]
+<img
+  src="/media-content/Research/Simbologia/Hinduismo/20250909030839.png"
+  alt="Hinduismo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+
 
 La base principal del sistema de castas se puede encontrar en el Bhagavad Gita y el Rig Veda, Krishna, en el Gita, dice “he creado un sistema cuadruple para distinguir las cualidades y funciones de cada uno”, el Rig Veda explica que los humanos fueron creados de partes del dios Purusha, los Bhramins de su cara, los Kshatriyas de sus brazos, los Vaishyas de sus manos y los Shudras de sus pies.
 
@@ -153,4 +158,8 @@ Kundalini
 
 Tantra
 
-![[Pasted image 20250909030859.png]]
+<img
+  src="/media-content/Research/Simbologia/Hinduismo/20250909030859.png"
+  alt="Hinduismo"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>

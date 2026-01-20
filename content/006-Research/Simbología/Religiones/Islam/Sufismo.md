@@ -94,6 +94,28 @@ El sufismo ha sido tan importante que ha influenciado de gran manera a dar forma
 
 La industrialización y la vida moderna han llevado a una disminución constante en la influencia de las órdenes sufíes en muchos países, es por esto que la herencia espiritual sufí es preservada por individuos que a veces tratan de mostrar que la experiencia mística se ajusta a la ciencia moderna e inclusive hoy en día en occidente algunas técnicas y rituales del sufismo se han hecho bastante populares entre algunos teosofistas y seguidores de la new age, dando forma a una especie de sufismo híbrido.
 
-![[Pasted image 20250909024719.png]]
-![[Pasted image 20250909024725.png]]![[Pasted image 20250909024729.png]]
-![[Pasted image 20250909024734.png]]![[Pasted image 20250909024740.png]]
+<img
+  src="/media-content/Research/Simbologia/Islam/20250909024719.png"
+  alt="Islam"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="/media-content/Research/Simbologia/Islam/20250909024725.png"
+  alt="Islam"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="/media-content/Research/Simbologia/Islam/20250909024729.png"
+  alt="Islam"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="/media-content/Research/Simbologia/Islam/20250909024734.png"
+  alt="Islam"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
+<img
+  src="/media-content/Research/Simbologia/Islam/20250909024740.png"
+  alt="Islam"
+  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+/>
