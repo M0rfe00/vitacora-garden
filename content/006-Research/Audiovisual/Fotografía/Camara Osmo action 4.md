@@ -17,7 +17,9 @@ ___
 
 # **Fotografía CALLEJERA con 18mm**
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2bNlqCEv5ks?si=flcJAfllrSW0SjoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/2bNlqCEv5ks?si=flcJAfllrSW0SjoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Una foto realizada con un teleobjetivo captara las formas sin deformidades, pero modificara la distancia con el fondo acercándolo, esto hace que el cerebro interprete que la fotografía ha sido tomada desde lejos.
 
@@ -30,7 +32,9 @@ Con un 18mm se pueden realizar retratos, estos requerirán acercarse mucho para 
 
 # **Motion Blur vs EIS: The ND Filter Dilemma on Action Cameras;**
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h0ecl_vhdZo?si=qtCZFn-XgEuGLcOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/h0ecl_vhdZo?si=qtCZFn-XgEuGLcOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Respetando la regla de los 180º y teniendo rockstedy ON, la imagen puede sufrir problemas ya que mientras al respetar la regla cada frame tiene desenfoque de movimiento mientras que la estabilización electrónica requiere marcos definidos para alinear la referencia correctamente,
 aunque además use el algoritmo gyro data para simplificar el análisis de información, esta sigue estando desenfocada lo que genera artefactos en la estabilización, una solución puede ser romper la regla de los 180º y aumentar la velocidad de obturación a 1/200 o 1/60 que sigue dando
@@ -38,7 +42,9 @@ buenos resultados, también se puede grabar sin estabilización y tratar de esta
 
 # **Motovlogs Action Camera**
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Di6wltzCe4?si=59IuXhw8HgLkKSrh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/4Di6wltzCe4?si=59IuXhw8HgLkKSrh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - 0\. Con 1080p y 30 fps, rocksteady activado se puede empezar sin importar las condiciones de luz o tiempo la cámara capturara la mayoría de las cosas en su ángulo por defecto wide angle field of view
 
@@ -48,7 +54,9 @@ ___
 
 # **Cinematic videos DJI osmo action**
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DiFfqVQ6_8w?si=cO40Oe33IbayjdFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/DiFfqVQ6_8w?si=cO40Oe33IbayjdFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Any camera can be cinematic. It's never been about the camera, It's about how you see, It's about movement with purpose, Light with intention, Framing that speaks louder than words It's about knowing when to let shadows fall and when to hold still on a moment When to move with
 your subject instead of around them You don't need huge rigs or cinema lenses Just light location and timing Because being cinematic isn't a preset or a color grade It's storytelling in Motion, You don't need the most expensive gear You need patience practice and a point of view
@@ -69,7 +77,9 @@ with cinematic visuals But that doesn't mean you can't create and make amazing f
 
 # **Cinematic Settings**
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oqkNW3ZCmhM?si=lWQ_ns9Fex2cz1SN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;" 
+src="https://www.youtube.com/embed/oqkNW3ZCmhM?si=lWQ_ns9Fex2cz1SN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Resolution:** 4k/16:9, **FPS:** 25/50/100, **Stabillization:** Rocksteady+, **Sharpness:** -2, **Noise reduction** –1
 
@@ -79,7 +89,9 @@ ___
 
 # LOW LIGHT Filming \| Settings for BEST Results 
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d36laQxaRHA?si=kDQreHOzH5n833tZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/d36laQxaRHA?si=kDQreHOzH5n833tZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Resolution:** 4k-4/3, para poder tener Gyrodata
 
@@ -105,7 +117,9 @@ ___
 
 # Footage Look MORE CINEMATIC
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FcQiSIwsZ34?si=PvpbxBZrTkmMerHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/FcQiSIwsZ34?si=PvpbxBZrTkmMerHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **El triángulo de exposición:** en la Osmo action 4, la variable de la apertura es estática (f/2.8), por lo que los otros dos valores que quedan por ajustar son el ISO y la velocidad de obturación, sin embargo, al respetar la regla de los 180º y ajustar el shutter a los FPS la imagen se suele sobreexponer, lo que se soluciona con filtros ND.
 
