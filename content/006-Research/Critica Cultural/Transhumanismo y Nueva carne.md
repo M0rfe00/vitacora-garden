@@ -12,7 +12,7 @@ La nueva carne es un movimiento artístico, estético, filosófico asociado al c
 
 Tal como decía el Unabomber, la sociedad industrial y sus consecuencias han sido catastróficas para la raza humana, el movimiento de la nueva carne en cierto modo, trata y refleja esto. 
 
-[!info]- 
+>[!info]  
  > "La versión más accesible de la nueva carne sería una transformación física del significado de la existencia humana, ciertamente esto ha llevado a las transformaciones al plano psicológico desde el principio de la raza humana, de hecho nos hemos transformado también física, somos físicamente diferentes de nuestros ancestros en parte por lo que ingerimos y en parte a causa de objetos como las gafas, la cirugía, etcétera, podríamos sin embargo flanquear un paso suplementario, se podría hacer brotar otro brazo, intercambiar órganos sexuales o procrear sin órganos sexuales per se, hablo de la posibilidad de que los seres humanos sean capaces de mutar a voluntad, aunque les lleve cinco años completar esa mutación" 
 
 Es un terror nacido principalmente de la tecnología y las consecuencias de la revolución industrial.
