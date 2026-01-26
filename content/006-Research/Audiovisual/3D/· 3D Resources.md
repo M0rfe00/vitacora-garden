@@ -50,13 +50,13 @@ ___
 - Camera Shakify
 - [**==PRO LENS==**](https://superhivemarket.com/products/pro-lens-2)
 - [**==CAM-FX==**](https://superhivemarket.com/products/camfx)
-
+- [Cycles Boost](https://superhivemarket.com/products/cycles-boost)
 ## **Lightning/Vibe**
 - [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
 - [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
 - **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
 - Alt-tab easy fog
-
+- [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
 ## **Materials**
 - Blenderkit (free)
 
@@ -68,7 +68,7 @@ ___
 - Rigify: crear rigs para personajes facilmente
 - GNS RIG
 - Wiggle 2
-
+- **Hair/Afur Grooming Addons**
 ## **Foliage/Enviorment**
 - ANT landscape (free, built-in)
 - Botaniq
@@ -86,7 +86,7 @@ ___
 - Screencast Keys
 - ARP
 - Polygoniq
-
+- Asset Management / Addon Loaders
 
 
 
