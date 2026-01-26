@@ -187,3 +187,22 @@ Bend: **0.05 – 0.15**
 (El resto de los parámetros del material están desactivados)
 (Añadir una contraluz mejora mucho visualmente el peach fuzz)
 -->
+
+
+
+<!--
+- [Youtube](https://youtu.be/fK7sjl5DYOk?si=lvLu6vBJhe_Sbgib)
+- [Patreon](https://www.patreon.com/posts/daz-studio-hair-144675164?source=storefront) 
+- [Gumroad](https://armouredavian.gumroad.com/l/aviansdazhairmaterialblender?layout=profile)
+
+**Peach fuzz material**
+https://render-state.to/3d/vellus-peach-fuzz-for-genesis-8-female/
+-->
+
+<!--
+# Octane Hair Shaders
+___
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;" 
+ src="https://www.youtube.com/embed/WQY8rVvueZY?si=x9xSjQcZMw6Smj9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
