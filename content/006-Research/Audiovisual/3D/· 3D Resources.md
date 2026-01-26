@@ -51,6 +51,8 @@ ___
 - [**==PRO LENS==**](https://superhivemarket.com/products/pro-lens-2)
 - [**==CAM-FX==**](https://superhivemarket.com/products/camfx)
 - [Cycles Boost](https://superhivemarket.com/products/cycles-boost)
+- [Lens Sim](https://superhivemarket.com/products/lens-sim?ref=6354)
+- [Cinepack: Pre-Animated Camera Moves](https://superhivemarket.com/products/cinepack-pre-animated-camera-moves?search_id=36499103)
 ## **Lightning/Vibe**
 - [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
 - [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
