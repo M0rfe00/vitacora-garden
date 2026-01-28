@@ -141,8 +141,20 @@ ___
 
 
 
+## Shortcuts basicos
+___
+Moverse por el lienzo cuando se hace zoom - Espacio
 
+Pincel/Cursos - B/V
 
+Rotar el lienzo - R
 
+Borrador - E
 
+Rotar 15º - Shift+R
 
+Linea recta entre 2 clics - Shift+Pincel 
+
+Invertir - (Imagen>Rotación img.>Voltear Lienzo Horizontal)Ctrl+A
+
+Expandir - (Selección>Modificar>Expandir) Ctrl+Q
