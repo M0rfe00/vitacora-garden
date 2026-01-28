@@ -50,16 +50,16 @@ ___
 ___
 - [Screencast Keys](https://extensions.blender.org/add-ons/screencast-keys/) - Mostrar teclas usadas (para tutoriales)
 ## **Camera**
+- [==Lens Sim==](https://superhivemarket.com/products/lens-sim?ref=6354)
 - Camera Shakify
-- [**==PRO LENS==**](https://superhivemarket.com/products/pro-lens-2)
-- [**==CAM-FX==**](https://superhivemarket.com/products/camfx)
+- [**PRO LENS**](https://superhivemarket.com/products/pro-lens-2)
+- [**CAM-FX**](https://superhivemarket.com/products/camfx)
 - [Cycles Boost](https://superhivemarket.com/products/cycles-boost)
-- [Lens Sim](https://superhivemarket.com/products/lens-sim?ref=6354)
 - [Cinepack: Pre-Animated Camera Moves](https://superhivemarket.com/products/cinepack-pre-animated-camera-moves?search_id=36499103)
 ## **Lightning/Vibe**
 - [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
-- [Light Studio](https://superhivemarket.com/products/light-studio?ref=247)
 - [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
+- [Light Studio](https://superhivemarket.com/products/light-studio?ref=247)
 - [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
 - **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
 - Alt-tab easy fog
@@ -67,19 +67,20 @@ ___
 ## **Materials**
 - Blenderkit (free)
 - [Polygoniq](https://polygoniq.com/software/) - Desarrolador de Addons
-## **Characters**
+## **Character creation**
 - [**==Humanify==**](https://superhivemarket.com/products/humanify---one-click-realism)
-- [**==Diffeomorphic==**](https://diffeomorphic.blogspot.com/)
 - [Global Skin ](https://superhivemarket.com/products/globalskin-ultimate-skin-shader)
-- **Daz To Blender**
+- Global Hair
+## **Character IMPORT/RIG**
+- **==Daz To Blender==**
+- [==GNS RIG==](https://22722studios.gumroad.com/l/avmsyt) - Rigear personajes de Daz en Blender
+- [**==Diffeomorphic==**](https://diffeomorphic.blogspot.com/)
 - [Sagan](https://www.daz3d.com/forums/discussion/428856/sagan-a-daz-to-blender-alembic-exporter?srsltid=AfmBOorRrLoJjIiFxUTlpNlzw5MG9YN9DkhUbzy22DxXF7N7lSd_55aA): software de terceros que permite exportar animaciones de Daz a otros
 - [Rigify](https://docs.blender.org/manual/es/latest/addons/rigging/rigify/index.html): crear rigs para personajes facilmente
-- [GNS RIG](https://22722studios.gumroad.com/l/avmsyt) - Rigear personajes de Daz en Blender
 - [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2) -  Permite animar físicas con bones.
 - FLVER - importar archivos FLVER utilizados en juegos (formatos de mesh y armature)
 - [ARP (Auto Rig Pro)](https://superhivemarket.com/products/auto-rig-pro) - Addon Para riggear
 - **~~Hair/fur Grooming Addons~~**
-
 ## **Foliage/Enviorment**
 - ALT landscape (free, built-in)
 - [Botaniq](https://polygoniq.com/software/botaniq/)
