@@ -58,10 +58,12 @@ ___
 - [Cinepack: Pre-Animated Camera Moves](https://superhivemarket.com/products/cinepack-pre-animated-camera-moves?search_id=36499103)
 ## **Lightning/Vibe**
 - [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
+- [Light Studio](https://superhivemarket.com/products/light-studio?ref=247)
+- [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
 - [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
 - **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
 - Alt-tab easy fog
-- [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
+
 ## **Materials**
 - Blenderkit (free)
 - [Polygoniq](https://polygoniq.com/software/) - Desarrolador de Addons
