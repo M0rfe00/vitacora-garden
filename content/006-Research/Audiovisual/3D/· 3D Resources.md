@@ -4,10 +4,14 @@ tags:
 ---
 # Web Resources for  3D
 ___
-## **REFERENCIAS - POSES**
+## **REFERENCIAS - POSES - ANIMACIONES** 
 - [PoseManiacs](https://www.artstation.com/) - Referencias anatómicas de poses.
 - [MagicPoser](https://magicposer.com/) - Referencias anatómicas de poses.
 - [justsketch](app.justsketch.me) - Referencias anatómicas de poses.
+- [Mixamo](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack)
+- [Cascadeur](https://cascadeur.com/)
+- [Rokoko](https://www.rokoko.com/es/mocap/free-mocap-assets?_gl=1*12mwdr1*_ga*MjEyMjQ1OTg2LjE3Njk1NDEwMzE.*_up*MQ..#modal?popup=popup-sign-up) - Mocap animation Assets.
+- [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
 
 ## **TEXTURAS:**
 - [AmbientCG](https://ambientcg.com/) - Textures, PBR Surfaces, HDRIs, 3D Assets, Substances.
@@ -22,7 +26,7 @@ ___
 - [textures-resource](https://textures.spriters-resource.com/)  - Texturas de juegos retro.
 - [spriters-resource](https://www.spriters-resource.com/)  - Sprites de juegos retro.
 
-## **ASSETS 3D:**
+## **ASSETS RESOURCES 3D:**
 - [Render State](https://render-state.to/) - 3D Assets for Daz characters.
 - [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
 - [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
@@ -34,8 +38,6 @@ ___
 - [ArtSation](https://www.artstation.com/) - Marketplace y Red de artistas digitales.
 - [Rileyb3d](https://www.rileyb3d.com/blog-categories/assets) - Creador de assets
 - [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
-- [Rokoko](https://www.rokoko.com/products/studio?_gl=1*132pj59*_ga*MTg0NDc1OTU2NC4xNzY1NzIwMjAw*_up*MQ..) - Mocap animation Assets.
-- [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
 - [blendswap](https://blendswap.com/categories)
 
 ## **OTROS:**
@@ -44,8 +46,9 @@ ___
 - [**Ddingone**](https://ddingone.gumroad.com/) - Creator who makes plugins for C4D, easy to use and usefull.
 
 
-# **Plugins for Blender:**
+# **Plugins/Assets for Blender:**
 ___
+- [Screencast Keys](https://extensions.blender.org/add-ons/screencast-keys/) - Mostrar teclas usadas (para tutoriales)
 ## **Camera**
 - Camera Shakify
 - [**==PRO LENS==**](https://superhivemarket.com/products/pro-lens-2)
@@ -61,35 +64,26 @@ ___
 - [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
 ## **Materials**
 - Blenderkit (free)
-
+- [Polygoniq](https://polygoniq.com/software/) - Desarrolador de Addons
 ## **Characters**
 - [**==Humanify==**](https://superhivemarket.com/products/humanify---one-click-realism)
 - [**==Diffeomorphic==**](https://diffeomorphic.blogspot.com/)
+- [Global Skin ](https://superhivemarket.com/products/globalskin-ultimate-skin-shader)
 - **Daz To Blender**
-- Sagan: software de terceros que permite exportar animaciones de Daz a otros
-- Rigify: crear rigs para personajes facilmente
-- GNS RIG
-- Wiggle 2
-- **Hair/Afur Grooming Addons**
-## **Foliage/Enviorment**
-- ANT landscape (free, built-in)
-- Botaniq
-- gscatter 
-- Ocean 
-- Atmosphere 
-- Create 
-- FLVER 
-- Animation 
-- Landscape
-## **Others**
-- Rokoko
-- CATS
-- MMD
-- Screencast Keys
-- ARP
-- Polygoniq
-- Asset Management / Addon Loaders
+- [Sagan](https://www.daz3d.com/forums/discussion/428856/sagan-a-daz-to-blender-alembic-exporter?srsltid=AfmBOorRrLoJjIiFxUTlpNlzw5MG9YN9DkhUbzy22DxXF7N7lSd_55aA): software de terceros que permite exportar animaciones de Daz a otros
+- [Rigify](https://docs.blender.org/manual/es/latest/addons/rigging/rigify/index.html): crear rigs para personajes facilmente
+- [GNS RIG](https://22722studios.gumroad.com/l/avmsyt) - Rigear personajes de Daz en Blender
+- [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2) -  Permite animar físicas con bones.
+- FLVER - importar archivos FLVER utilizados en juegos (formatos de mesh y armature)
+- [ARP (Auto Rig Pro)](https://superhivemarket.com/products/auto-rig-pro) - Addon Para riggear
+- **~~Hair/fur Grooming Addons~~**
 
+## **Foliage/Enviorment**
+- ALT landscape (free, built-in)
+- [Botaniq](https://polygoniq.com/software/botaniq/)
+- [gscatter ](https://gscatter.com/gscatter)
+- [Alt Tab Ocean](https://superhivemarket.com/products/alt-tab-water) 
+- [Physical Starlight And Atmosphere](https://superhivemarket.com/products/physical-starlight-and-atmosphere) 
 
 
 # Software
