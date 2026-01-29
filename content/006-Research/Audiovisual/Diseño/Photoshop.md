@@ -106,26 +106,26 @@ Igual que al aplicar filtros a un objeto inteligente, los ajustes funcionan igua
 
 # RESOURCES
 ___
-## **Assets:**
-___
-- [ResourceBoy](https://resourceboy.com/)
-- [Onlygfx](onlygfx.com)
-- [Studioaaa](studioaaa.com)
-- [Entivisuals](entivisuals.com)
+>[!Success] ## **Assets:**
+>___
+>- [ResourceBoy](https://resourceboy.com/)
+>- [Onlygfx](onlygfx.com)
+>- [Studioaaa](studioaaa.com)
+>- [Entivisuals](entivisuals.com)
 
 
-## **Mockup stocks:**
-___
-- [MockUPhone](https://mockuphone.com/)
-- [MockUuups.Studio](https://mockuuups.studio/)
-- [PlaceIt.net](https://placeit.net/)
-- www.mckups.com
+> [!Success] ## **Mockup stocks:**
+>___
+>- [MockUPhone](https://mockuphone.com/)
+>- [MockUuups.Studio](https://mockuuups.studio/)
+>- [PlaceIt.net](https://placeit.net/)
+>- www.mckups.com
 
 
-## **Other pages that might be helpful:**
-___
-- Create designs really fast, they have lots of templates: www.canva.com
-- Upscale pictures (make the resolution bigger): www.icons8.com/upscaler
+> [!Success] ## **Other pages that might be helpful:**
+>___
+>- Create designs really fast, they have lots of templates: www.canva.com
+>- Upscale pictures (make the resolution bigger): www.icons8.com/upscaler
 
 
 # Effects tier list
@@ -141,20 +141,21 @@ ___
 
 
 
-## Shortcuts basicos
-___
-Moverse por el lienzo cuando se hace zoom - Espacio
-
-Pincel/Cursos - B/V
-
-Rotar el lienzo - R
-
-Borrador - E
-
-Rotar 15º - Shift+R
-
-Linea recta entre 2 clics - Shift+Pincel 
-
+> [!Success] ## Shortcuts basicos
+>___
+>Moverse por el lienzo cuando se hace zoom - Espacio
+>
+>Pincel/Cursos - B/V
+>
+>Rotar el lienzo - R
+>
+>Borrador - E
+>
+>Rotar 15º - Shift+R
+>
+>Linea recta entre 2 clics - Shift+Pincel 
+>
 Invertir - (Imagen>Rotación img.>Voltear Lienzo Horizontal)Ctrl+A
+>
+>Expandir - (Selección>Modificar>Expandir) Ctrl+Q
 
-Expandir - (Selección>Modificar>Expandir) Ctrl+Q

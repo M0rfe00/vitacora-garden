@@ -4,121 +4,151 @@ tags:
 ---
 # Web Resources for  3D
 ___
-## **REFERENCIAS - POSES - ANIMACIONES** 
-- [PoseManiacs](https://www.artstation.com/) - Referencias anatómicas de poses.
-- [MagicPoser](https://magicposer.com/) - Referencias anatómicas de poses.
-- [justsketch](app.justsketch.me) - Referencias anatómicas de poses.
-- [Mixamo](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack)
-- [Cascadeur](https://cascadeur.com/)
-- [Rokoko](https://www.rokoko.com/es/mocap/free-mocap-assets?_gl=1*12mwdr1*_ga*MjEyMjQ1OTg2LjE3Njk1NDEwMzE.*_up*MQ..#modal?popup=popup-sign-up) - Mocap animation Assets.
-- [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
+> [!Success] ## **REFERENCIAS - POSES - ANIMACIONES** 
+> ___
+>- [PoseManiacs](https://www.artstation.com/) - Referencias anatómicas de poses.
+>- [MagicPoser](https://magicposer.com/) - Referencias anatómicas de poses.
+>- [justsketch](app.justsketch.me) - Referencias anatómicas de poses.
+>- [Mixamo](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack)
+>- [Cascadeur](https://cascadeur.com/)
+>- [Rokoko](https://www.rokoko.com/es/mocap/free-mocap-assets?_gl=1*12mwdr1*_ga*MjEyMjQ1OTg2LjE3Njk1NDEwMzE.*_up*MQ..#modal?popup=popup-sign-up) - Mocap animation Assets.
+>- [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
 
-## **TEXTURAS:**
-- [AmbientCG](https://ambientcg.com/) - Textures, PBR Surfaces, HDRIs, 3D Assets, Substances.
-- [Poly Haven](polyhaven) - Textures, HDRIs, 3D Models.
-- [Textures.com](https://www.textures.com/library) - Texturas y  PBR utiles que funcionan bien en Blender. 
-- [Poliigon](https://www.poliigon.com/Blender) - Addon completo para usar texturas en Blender.
-- [TextureCan](https://www.texturecan.com/) - Texturas; metal, telas, papel, plantas....
-- [Texturing.XYZ](https://render-state.to/) - Textures Assets for characters.
-- [Texxary Scans](https://texxary.com/scans/?category=Soil&sort=latest) - Texturas de alta calidad pero de pago.
-- [IndieGround](https://indieground.net/shop/) - Recursos para diseño grafico, texturas, fuentes, pinceles.
-- [cgbookcase](cgbookcase.com/textures) - Texturas gratuitas sin restricciones escaneadas.
-- [textures-resource](https://textures.spriters-resource.com/)  - Texturas de juegos retro.
-- [spriters-resource](https://www.spriters-resource.com/)  - Sprites de juegos retro.
+> [!Success] ## **TEXTURAS:**
+> ___
+>- [AmbientCG](https://ambientcg.com/) - Textures, PBR Surfaces, HDRIs, 3D Assets, Substances.
+>- [Poly Haven](polyhaven) - Textures, HDRIs, 3D Models.
+>- [Textures.com](https://www.textures.com/library) - Texturas y  PBR utiles que funcionan bien en Blender. 
+>- [Poliigon](https://www.poliigon.com/Blender) - Addon completo para usar texturas en Blender.
+>- [TextureCan](https://www.texturecan.com/) - Texturas; metal, telas, papel, plantas....
+>- [Texxary Scans](https://texxary.com/scans/?category=Soil&sort=latest) - Texturas de alta calidad pero de pago.
+>- [IndieGround](https://indieground.net/shop/) - Recursos para diseño grafico, texturas, fuentes, pinceles.
+>- [cgbookcase](cgbookcase.com/textures) - Texturas gratuitas sin restricciones escaneadas.
+>
+>## Retro Specific
+>___
+>- [textures-resource](https://textures.spriters-resource.com/)  - Texturas de juegos retro.
+>- [spriters-resource](https://www.spriters-resource.com/)  - Sprites de juegos retro.
+ > ## Characters Specific
+>___
+>- [Texturing.XYZ](https://render-state.to/) - Textures Assets for characters.
 
-## **ASSETS RESOURCES 3D:**
-- [Render State](https://render-state.to/) - 3D Assets for Daz characters.
-- [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
-- [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
-- [CgTrader](https://www.cgtrader.com/) - Marketplace de recursos y assets de alta calidad, baratos (revisar wireframe) util como alternativa a paginas como ArtStation que se han llenado de productos de IA LQ.
-- [Blender Market](https://superhivemarket.com/products/foam-shader) - Concretamente el link lleva a un Shader procedural de espuma realista.
-- [SuperHiveMarket](https://superhivemarket.com/products/alt-tab-easy-fog2) - Marketplace donde hay muchos addons para blender
-- [SketchFab](https://sketchfab.com/feed) - Modelos 3D muchos gratuitos hechos por la comunidad.
-- [The Models Resource](https://www.rileyb3d.com/blog-categories/assets) - Libreria de modelos 3D de videojuegos antiguos.
-- [ArtSation](https://www.artstation.com/) - Marketplace y Red de artistas digitales.
-- [Rileyb3d](https://www.rileyb3d.com/blog-categories/assets) - Creador de assets
-- [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
-- [blendswap](https://blendswap.com/categories)
 
-## **OTROS:**
-- **Figma** - Diseño de interfaz, planificación de proyectos, presentaciones...
-- **Borisfx** - Plugins para After Effects faciles de usar y potentes, ej: Sapphire.
-- [**Ddingone**](https://ddingone.gumroad.com/) - Creator who makes plugins for C4D, easy to use and usefull.
+> [!Success] ## **ASSETS RESOURCES 3D:**
+> ___
+> ## CHARACTER ASSETS
+> ___
+>- [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
+>- [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
+>- [Render State](https://render-state.to/) - 3D Assets for Daz characters.
+> ## MAKETPLACES
+> ___
+>- [CgTrader](https://www.cgtrader.com/) - Marketplace de recursos y assets de alta calidad, baratos (revisar wireframe) util como alternativa a paginas como ArtStation que se han llenado de productos de IA LQ.
+>- [Blender Market](https://superhivemarket.com/products/foam-shader) - Concretamente el link lleva a un Shader procedural de espuma realista.
+>- [SuperHiveMarket](https://superhivemarket.com/products/alt-tab-easy-fog2) - Marketplace donde hay muchos addons para blender
+>- [SketchFab](https://sketchfab.com/feed) - Modelos 3D muchos gratuitos hechos por la comunidad.
+>- [The Models Resource](https://www.rileyb3d.com/blog-categories/assets) - Libreria de modelos 3D de videojuegos antiguos.
+>- [ArtSation](https://www.artstation.com/) - Marketplace y Red de artistas digitales.
+>- [blendswap](https://blendswap.com/categories)
+>## CREADORES DE ASSETS
+> ___
+>- [Rileyb3d](https://www.rileyb3d.com/blog-categories/assets) - Creador de assets
+>- [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
+
+> [!Success] ## **OTROS:**
+>- **Figma** - Diseño de interfaz, planificación de proyectos, presentaciones...
+>- **Borisfx** - Plugins para After Effects faciles de usar y potentes, ej: Sapphire.
+>- [**Ddingone**](https://ddingone.gumroad.com/) - Creator who makes plugins for C4D, easy to use and usefull.
 
 
 # **Plugins/Assets for Blender:**
 ___
 - [Screencast Keys](https://extensions.blender.org/add-ons/screencast-keys/) - Mostrar teclas usadas (para tutoriales)
-## **Camera**
-- [==Lens Sim==](https://superhivemarket.com/products/lens-sim?ref=6354)
-- Camera Shakify
-- [**PRO LENS**](https://superhivemarket.com/products/pro-lens-2)
-- [**CAM-FX**](https://superhivemarket.com/products/camfx)
-- [Cycles Boost](https://superhivemarket.com/products/cycles-boost)
-- [Cinepack: Pre-Animated Camera Moves](https://superhivemarket.com/products/cinepack-pre-animated-camera-moves?search_id=36499103)
-## **Lightning/Vibe**
-- [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
-- [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
-- [Light Studio](https://superhivemarket.com/products/light-studio?ref=247)
-- [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
-- **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
-- Alt-tab easy fog
 
-## **Materials**
-- Blenderkit (free)
-- [Polygoniq](https://polygoniq.com/software/) - Desarrolador de Addons
-## **Character creation**
-- [**==Humanify==**](https://superhivemarket.com/products/humanify---one-click-realism)
-- [Global Skin ](https://superhivemarket.com/products/globalskin-ultimate-skin-shader)
-- Global Hair
-## **Character IMPORT/RIG**
-- **==Daz To Blender==**
-- [==GNS RIG==](https://22722studios.gumroad.com/l/avmsyt) - Rigear personajes de Daz en Blender
-- [**==Diffeomorphic==**](https://diffeomorphic.blogspot.com/)
-- [Sagan](https://www.daz3d.com/forums/discussion/428856/sagan-a-daz-to-blender-alembic-exporter?srsltid=AfmBOorRrLoJjIiFxUTlpNlzw5MG9YN9DkhUbzy22DxXF7N7lSd_55aA): software de terceros que permite exportar animaciones de Daz a otros
-- [Rigify](https://docs.blender.org/manual/es/latest/addons/rigging/rigify/index.html): crear rigs para personajes facilmente
-- [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2) -  Permite animar físicas con bones.
-- FLVER - importar archivos FLVER utilizados en juegos (formatos de mesh y armature)
-- [ARP (Auto Rig Pro)](https://superhivemarket.com/products/auto-rig-pro) - Addon Para riggear
-- **~~Hair/fur Grooming Addons~~**
-## **Foliage/Enviorment**
-- ALT landscape (free, built-in)
-- [Botaniq](https://polygoniq.com/software/botaniq/)
-- [gscatter ](https://gscatter.com/gscatter)
-- [Alt Tab Ocean](https://superhivemarket.com/products/alt-tab-water) 
-- [Physical Starlight And Atmosphere](https://superhivemarket.com/products/physical-starlight-and-atmosphere) 
+> [!Success] ## **Camera**
+>___
+>- [==Lens Sim==](https://superhivemarket.com/products/lens-sim?ref=6354)
+>- Camera Shakify
+>- [**PRO LENS**](https://superhivemarket.com/products/pro-lens-2)
+>- [**CAM-FX**](https://superhivemarket.com/products/camfx)
+>- [Cycles Boost](https://superhivemarket.com/products/cycles-boost)
+>- [Cinepack: Pre-Animated Camera Moves](https://superhivemarket.com/products/cinepack-pre-animated-camera-moves?search_id=36499103)
+
+> [!Success] ## **Lightning/Vibe**
+> ___
+>- [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
+>- [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
+>- [Light Studio](https://superhivemarket.com/products/light-studio?ref=247)
+>- [Tri lightning](https://extensions.blender.org/add-ons/tri-lighting/) (free, built-in)
+>- **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
+>- Alt-tab easy fog
+
+> [!Success] ## **Materials**
+> ___
+>- Blenderkit (free)
+>- [Polygoniq](https://polygoniq.com/software/) - Desarrolador de Addons
+
+> [!Success] ## **Character creation**
+> ___
+>- [**==Humanify==**](https://superhivemarket.com/products/humanify---one-click-realism)
+>- [Global Skin ](https://superhivemarket.com/products/globalskin-ultimate-skin-shader)
+>- Global Hair
+
+> [!Success] ## **Character IMPORT/RIG**
+> ___
+>- **==Daz To Blender==**
+>- [==GNS RIG==](https://22722studios.gumroad.com/l/avmsyt) - Rigear personajes de Daz en Blender
+>- [**==Diffeomorphic==**](https://diffeomorphic.blogspot.com/)
+>- [Sagan](https://www.daz3d.com/forums/discussion/428856/sagan-a-daz-to-blender-alembic-exporter?srsltid=AfmBOorRrLoJjIiFxUTlpNlzw5MG9YN9DkhUbzy22DxXF7N7lSd_55aA): software de terceros que permite exportar animaciones de Daz a otros
+>- [Rigify](https://docs.blender.org/manual/es/latest/addons/rigging/rigify/index.html): crear rigs para personajes facilmente
+>- [Wiggle 2](https://github.com/shteeve3d/blender-wiggle-2) -  Permite animar físicas con bones.
+>- FLVER - importar archivos FLVER utilizados en juegos (formatos de mesh y armature)
+>- [ARP (Auto Rig Pro)](https://superhivemarket.com/products/auto-rig-pro) - Addon Para riggear
+>- **~~Hair/fur Grooming Addons~~**
+
+> [!Success] ## **Foliage/Enviorment**
+> ___
+>- ALT landscape (free, built-in)
+>- [Botaniq](https://polygoniq.com/software/botaniq/)
+>- [gscatter ](https://gscatter.com/gscatter)
+>- [Alt Tab Ocean](https://superhivemarket.com/products/alt-tab-water) 
+>- [Physical Starlight And Atmosphere](https://superhivemarket.com/products/physical-starlight-and-atmosphere) 
 
 
 # Software
 ___
-### **Software to create industry Standard type render, with same tools in CGI  movies:**
-- **Zbrush** - Sculpting
-- **ZWrap** - Plugin for geometry wrapping
-- **Texturing XYZ vFace maps** - Textures
-- **xNormal** - Texture baking
-- **Mari** - Texturing
-- **Photoshop** - Texture correction, Color correction, Compositing
-- **Maya** - Scene setup
-- **Arnold** - Renderer inside Maya
-- **Cinema 4D** - Compositing
-- **Octane later switched to Redshift** - Rendering
-- Substance Painter - Textures
+> [!Success] ### **Software Industry Standard:**
+> ___
+> Software to create industry Standard type render, with same tools in CGI  movies:**
+>- **Zbrush** - Sculpting
+>- **ZWrap** - Plugin for geometry wrapping
+>- **Texturing XYZ vFace maps** - Textures
+>- **xNormal** - Texture baking
+>- **Mari** - Texturing
+>- **Photoshop** - Texture correction, Color correction, Compositing
+>- **Maya** - Scene setup
+>- **Arnold** - Renderer inside Maya
+>- **Cinema 4D** - Compositing
+>- **Octane later switched to Redshift** - Rendering
+>- Substance Painter - Textures
 
-### **Other Softwares:**
-- **Clo3D / Marvelous Designer**
-- **Cascadeur**
-- **Unreal Engine**
-- **Face Mojo**
+> [!Success] ### **Other Softwares:**
+> ___
+>- **Clo3D / Marvelous Designer**
+>- **Cascadeur**
+>- **Unreal Engine**
+>- **Face Mojo**
 
 # Blender Tips - Index
 ___
 [**Blender Vitals - 100 Tip Walktrought**](https://www.youtube.com/playlist?list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Kb0kdnmAqwGbcF0b&amp;list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;"  src="https://www.youtube.com/embed/videoseries?si=Kb0kdnmAqwGbcF0b&amp;list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Extra 3D - Blender Tips](https://youtube.com/playlist?list=PLUFIgFjSXpvgYQBNv7lfkHFp9ELETZmUj&si=Xac2bwVRnpfWCpfz)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BAQYY-KzE8RaBOpN&amp;list=PLUFIgFjSXpvgYQBNv7lfkHFp9ELETZmUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;"  src="https://www.youtube.com/embed/videoseries?si=BAQYY-KzE8RaBOpN&amp;list=PLUFIgFjSXpvgYQBNv7lfkHFp9ELETZmUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **🧱MODELLING:**
+___
 
 | 9 - [BRIDGE FACES](https://www.youtube.com/watch?v=eT4ZeUIYgus&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&ab_channel=BlenderVitals)                          | 15 - [EXTRUDE MANIFOLD](https://www.youtube.com/watch?v=ig6WsS0l2jU&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=7&ab_channel=BlenderVitals)      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -145,6 +175,7 @@ ___
 | 89 - [LOW POLY TREE](https://www.youtube.com/watch?v=qhAscoxK-rw&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=81&ab_channel=BlenderVitals)               | 87 - [HANGING WIRES](https://www.youtube.com/watch?v=NmYYkamvPMc&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=79&ab_channel=BlenderVitals)        |
 
 ## **� Shading & Materials:**
+__
 
 | 31 - [LINK MATERIALS](https://www.youtube.com/watch?v=a0i1mxRuqk0&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=23&ab_channel=BlenderVitals)          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -159,6 +190,7 @@ ___
 
 
 ## **�Camera**
+___
 
 | 34 - [CAMERA TO VIEW](https://www.youtube.com/watch?v=e7ZfDxNlwfc&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=26&ab_channel=BlenderVitals)          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -170,6 +202,7 @@ ___
 
 
 ## **�Rendering & Lighting**
+___
 
 | 38 - [RENDER SECTION](https://www.youtube.com/watch?v=4Uxkw3qkJbk&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=31&ab_channel=BlenderVitals)          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -182,6 +215,7 @@ ___
 
 
 ## **�Navigation**
+___
 
 | 28 - [SNAP TO TARGET](https://www.youtube.com/watch?v=c7HfGTkWxkk&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=20&ab_channel=BlenderVitals)         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -195,6 +229,7 @@ ___
 
 
 ## **�Selection**
+___
 
 | 13 - [SELECT SIMILAR](https://www.youtube.com/watch?v=5f4bDDKt5no&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=5&ab_channel=BlenderVitals)           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -210,6 +245,7 @@ ___
 | 101 - [INSET FACES](https://www.youtube.com/watch?v=q-yexrXbP8k&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=93&ab_channel=BlenderVitals)            |
 
 ## **🛠️Modifiers**
+___
 
 | 17 - [MIRROR MODIFIER](https://www.youtube.com/watch?v=jrDgt90asjc&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=9&ab_channel=BlenderVitals)      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -217,12 +253,14 @@ ___
 | 78 - [APPLY ALL MODIFIERS](https://www.youtube.com/watch?v=9axUc3293ZU&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=70&ab_channel=BlenderVitals) |
 
 ## **📽️Animation**
+___
 
 | 91 - [CAMERA FOLLOW PATH](https://www.youtube.com/watch?v=P_f2dFbAxnA&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=83&ab_channel=BlenderVitals)  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 97 - [OBJECTO FOLLOW PATH](https://www.youtube.com/watch?v=C05zFe1Cp24&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=89&ab_channel=BlenderVitals) |
 
 ## **�File Management**
+___
 
 | 26 - [SAVE RESOURCES](https://www.youtube.com/watch?v=v6g3QSomMCQ&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=20&ab_channel=BlenderVitals)       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -233,12 +271,14 @@ ___
 | 104 - [ASSET BROWSER](https://www.youtube.com/watch?v=_pPnF9e4E7U&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=96&ab_channel=BlenderVitals)       |
 
 ## **️User Interface & Workflow**
+___
 
 | 49 - [CHANGE THEMES](https://www.youtube.com/watch?v=gXoIzVLGhY8&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=41&ab_channel=BlenderVitals)    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 108 - [SPLIT VIEWPORT](https://www.youtube.com/watch?v=CPFvoFOJU2Q&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=100&ab_channel=BlenderVitals) |
 
 ## **️�Misc**
+___
 
 | 14 - [RECALCULATE NORMALS](https://www.youtube.com/watch?v=npRR85P-lEw&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=6&ab_channel=BlenderVitals) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ |

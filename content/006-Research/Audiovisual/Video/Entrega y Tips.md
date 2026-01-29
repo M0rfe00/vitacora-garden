@@ -47,22 +47,24 @@ ___
 
 # ==Packs / Web resources==
 ___
-## **Marketplaces:**
-- [Cinepacks](https://cinepacks.store/collections/davinci-resolve-packs) - (Packs gratuitos de efectos, transiciones, LUTs, gráficos, sonido y stock)
-- [Envato](https://elements.envato.com/es/video-templates/compatible-with-davinci-resolve?adposition=&gad_campaignid=12128199254&gad_source=1&gbraid=0AAAAADclSXkqCCFfLftFow3MIYu_zg9Ez&gclid=Cj0KCQiAo4TKBhDRARIsAGW29bdm4FELnsFiTSDEOq5z0kXkKhBWw8XCJIujNwKmF4CQjTkXHH112xsaAqSNEALw_wcB) (Marketplace)
-- [FreshLUTs](https://freshluts.com/) - (LUTs)
-- [ProductionCreate](https://www.productioncrate.com/)
-- [Mixkit](https://mixkit.co/?utm_source=chatgpt.com) - (templates, presents, titulos, efectos)
-- [Pixabay](https://pixabay.com/es/sound-effects/search/transiciones/?utm_source=chatgpt.com - (Sonidos) - (Libreria de videos y sonidos)
-- [DVBlend](https://dvblend.com/product-category/davinci-resolve-templates/) - (templates, presents, titulos, efectos)
-- [VFX Hydra](https://vfxhydra.com/category/davinci-resolve/) - (Packs gratuitos de **transiciones y efectos .comp)
-- [My Creative FX](https://mycreativefx.com/) - (**VFX gratuitos**: humo, chispa, explosiones, superposiciones y sonido)
+> [!Success] ## **Marketplaces:**
+> ___
+>- [Cinepacks](https://cinepacks.store/collections/davinci-resolve-packs) - (Packs gratuitos de efectos, transiciones, LUTs, gráficos, sonido y stock)
+>- [Envato](https://elements.envato.com/es/video-templates/compatible-with-davinci-resolve?adposition=&gad_campaignid=12128199254&gad_source=1&gbraid=0AAAAADclSXkqCCFfLftFow3MIYu_zg9Ez&gclid=Cj0KCQiAo4TKBhDRARIsAGW29bdm4FELnsFiTSDEOq5z0kXkKhBWw8XCJIujNwKmF4CQjTkXHH112xsaAqSNEALw_wcB) (Marketplace)
+>- [FreshLUTs](https://freshluts.com/) - (LUTs)
+>- [ProductionCreate](https://www.productioncrate.com/)
+>- [Mixkit](https://mixkit.co/?utm_source=chatgpt.com) - (templates, presents, titulos, efectos)
+>- [Pixabay](https://pixabay.com/es/sound-effects/search/transiciones/) - (Libreria de videos y sonidos)
+>- [DVBlend](https://dvblend.com/product-category/davinci-resolve-templates/) - (templates, presents, titulos, efectos)
+>- [VFX Hydra](https://vfxhydra.com/category/davinci-resolve/) - (Packs gratuitos de **transiciones y efectos .comp)
+>- [My Creative FX](https://mycreativefx.com/) - (**VFX gratuitos**: humo, chispa, explosiones, superposiciones y sonido)
 
-## **Creators Packs**
-- [Dubufy - Davinci Free Editing Pack](https://drive.google.com/file/d/1PwGlRZSyS2ASxtYoSWsNUjNOslLhgrCg/view) (2022)
-- [Seamless Transitions for DaVinci Resolve by GR-44](https://gr44.gumroad.com/) (updated)
-- [BlewToof - Davinci Resolver Master Bundle](https://www.blewtoof.com/fullcollection) (2023)
-- [sh4rk - Editors Lab (effects)](https://fusionplugin.gumroad.com/l/EditorsLab) (2024)
+> [!Success] ## **Creators Packs**
+> ___
+>- [Dubufy - Davinci Free Editing Pack](https://drive.google.com/file/d/1PwGlRZSyS2ASxtYoSWsNUjNOslLhgrCg/view) (2022)
+>- [Seamless Transitions for DaVinci Resolve by GR-44](https://gr44.gumroad.com/) (updated)
+>- [BlewToof - Davinci Resolver Master Bundle](https://www.blewtoof.com/fullcollection) (2023)
+>- [sh4rk - Editors Lab (effects)](https://fusionplugin.gumroad.com/l/EditorsLab) (2024)
 
 
 ## **Plugins**
