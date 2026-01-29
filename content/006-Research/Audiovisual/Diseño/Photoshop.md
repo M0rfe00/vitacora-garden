@@ -1,6 +1,7 @@
 ---
 tags:
   - Design
+  - Web-Resources
 ---
 # **Píxel y vector**
 ___
