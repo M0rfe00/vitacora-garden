@@ -107,7 +107,7 @@ Igual que al aplicar filtros a un objeto inteligente, los ajustes funcionan igua
 
 # RESOURCES
 ___
->[!Success] ## **Assets:**
+>[!Success] <h2>Assets:</h2>
 >___
 >- [ResourceBoy](https://resourceboy.com/)
 >- [Onlygfx](onlygfx.com)
@@ -115,7 +115,7 @@ ___
 >- [Entivisuals](entivisuals.com)
 
 
-> [!Success] ## **Mockup stocks:**
+> [!Success] <h2>Mockup stocks:</h2>
 >___
 >- [MockUPhone](https://mockuphone.com/)
 >- [MockUuups.Studio](https://mockuuups.studio/)
@@ -123,7 +123,7 @@ ___
 >- www.mckups.com
 
 
-> [!Success] ## **Other pages that might be helpful:**
+> [!Success] <h2>Other pages that might be helpful:</h2>
 >___
 >- Create designs really fast, they have lots of templates: www.canva.com
 >- Upscale pictures (make the resolution bigger): www.icons8.com/upscaler
@@ -142,7 +142,7 @@ ___
 
 
 
-> [!Success] ## Shortcuts basicos
+> [!Success] <h2>Shortcuts basicos</h2>
 >___
 >Moverse por el lienzo cuando se hace zoom - Espacio
 >

@@ -5,7 +5,7 @@ tags:
 ---
 # Web Resources for  3D
 ___
-> [!Success] ## **REFERENCIAS - POSES - ANIMACIONES** 
+> [!Success] <h2>REFERENCIAS - POSES - ANIMACIONES</h2>
 > ___
 >- [PoseManiacs](https://www.artstation.com/) - Referencias anatómicas de poses.
 >- [MagicPoser](https://magicposer.com/) - Referencias anatómicas de poses.
@@ -15,7 +15,7 @@ ___
 >- [Rokoko](https://www.rokoko.com/es/mocap/free-mocap-assets?_gl=1*12mwdr1*_ga*MjEyMjQ1OTg2LjE3Njk1NDEwMzE.*_up*MQ..#modal?popup=popup-sign-up) - Mocap animation Assets.
 >- [Wonder Studios](https://app.wonderdynamics.com/) - analiza el movimiento de videos y genera FBX que pueden importarse al personaje.
 
-> [!Success] ## **TEXTURAS:**
+> [!Success] <h2>TEXTURAS:</h2>
 > ___
 >- [AmbientCG](https://ambientcg.com/) - Textures, PBR Surfaces, HDRIs, 3D Assets, Substances.
 >- [Poly Haven](polyhaven) - Textures, HDRIs, 3D Models.
@@ -26,23 +26,29 @@ ___
 >- [IndieGround](https://indieground.net/shop/) - Recursos para diseño grafico, texturas, fuentes, pinceles.
 >- [cgbookcase](cgbookcase.com/textures) - Texturas gratuitas sin restricciones escaneadas.
 >
->## Retro Specific
+><h2>Retro Specific</h2>
+>
 >___
 >- [textures-resource](https://textures.spriters-resource.com/)  - Texturas de juegos retro.
 >- [spriters-resource](https://www.spriters-resource.com/)  - Sprites de juegos retro.
- > ## Characters Specific
+>
+ ><h2>Characters Specific</h2>
+ >
 >___
 >- [Texturing.XYZ](https://render-state.to/) - Textures Assets for characters.
 
 
-> [!Success] ## **ASSETS RESOURCES 3D:**
+> [!Success] <h2>ASSETS RESOURCES 3D:</h2>
 > ___
-> ## CHARACTER ASSETS
+>
+><h2>CHARACTER ASSETS</h2>
 > ___
 >- [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
 >- [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
 >- [Render State](https://render-state.to/) - 3D Assets for Daz characters.
-> ## MAKETPLACES
+>
+><h2> MAKETPLACES</h2>
+>
 > ___
 >- [CgTrader](https://www.cgtrader.com/) - Marketplace de recursos y assets de alta calidad, baratos (revisar wireframe) util como alternativa a paginas como ArtStation que se han llenado de productos de IA LQ.
 >- [Blender Market](https://superhivemarket.com/products/foam-shader) - Concretamente el link lleva a un Shader procedural de espuma realista.
@@ -51,7 +57,9 @@ ___
 >- [The Models Resource](https://www.rileyb3d.com/blog-categories/assets) - Libreria de modelos 3D de videojuegos antiguos.
 >- [ArtSation](https://www.artstation.com/) - Marketplace y Red de artistas digitales.
 >- [blendswap](https://blendswap.com/categories)
->## CREADORES DE ASSETS
+>
+><h2> CREADORES DE ASSETS</h2>
+>
 > ___
 >- [Rileyb3d](https://www.rileyb3d.com/blog-categories/assets) - Creador de assets
 >- [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
@@ -66,7 +74,8 @@ ___
 ___
 - [Screencast Keys](https://extensions.blender.org/add-ons/screencast-keys/) - Mostrar teclas usadas (para tutoriales)
 
-> [!Success] ## **Camera**
+> [!Success] <h2>Camera</h2>
+> 
 >___
 >- [==Lens Sim==](https://superhivemarket.com/products/lens-sim?ref=6354)
 >- Camera Shakify
@@ -75,7 +84,8 @@ ___
 >- [Cycles Boost](https://superhivemarket.com/products/cycles-boost)
 >- [Cinepack: Pre-Animated Camera Moves](https://superhivemarket.com/products/cinepack-pre-animated-camera-moves?search_id=36499103)
 
-> [!Success] ## **Lightning/Vibe**
+> [!Success] <h2>Lightning/Vibe</h2>
+> 
 > ___
 >- [**==Light wrangler==**](https://superhivemarket.com/products/light-wrangler)
 >- [Physical Starlight And Atmosphere - Sky](https://superhivemarket.com/products/physical-starlight-and-atmosphere)
@@ -84,18 +94,18 @@ ___
 >- **Gobos lights:**  -  [Link1](https://greyscalegorilla.com/textures/light-gobos) [Link2](https://wendelinjacober.gumroad.com/l/blender-gobos)
 >- Alt-tab easy fog
 
-> [!Success] ## **Materials**
+> [!Success] <h2>Materials</h2>
 > ___
 >- Blenderkit (free)
 >- [Polygoniq](https://polygoniq.com/software/) - Desarrolador de Addons
 
-> [!Success] ## **Character creation**
+> [!Success] </h2>Character creation</h2>
 > ___
 >- [**==Humanify==**](https://superhivemarket.com/products/humanify---one-click-realism)
 >- [Global Skin ](https://superhivemarket.com/products/globalskin-ultimate-skin-shader)
 >- Global Hair
 
-> [!Success] ## **Character IMPORT/RIG**
+> [!Success] <h2>Character IMPORT/RIG</h2>
 > ___
 >- **==Daz To Blender==**
 >- [==GNS RIG==](https://22722studios.gumroad.com/l/avmsyt) - Rigear personajes de Daz en Blender
@@ -107,7 +117,7 @@ ___
 >- [ARP (Auto Rig Pro)](https://superhivemarket.com/products/auto-rig-pro) - Addon Para riggear
 >- **~~Hair/fur Grooming Addons~~**
 
-> [!Success] ## **Foliage/Enviorment**
+> [!Success] <h2>Foliage/Enviorment</h2>
 > ___
 >- ALT landscape (free, built-in)
 >- [Botaniq](https://polygoniq.com/software/botaniq/)
@@ -118,7 +128,7 @@ ___
 
 # Software
 ___
-> [!Success] ### **Software Industry Standard:**
+> [!Success] <h3>Software Industry Standard:</h3>
 > ___
 > Software to create industry Standard type render, with same tools in CGI  movies:**
 >- **Zbrush** - Sculpting
@@ -133,7 +143,7 @@ ___
 >- **Octane later switched to Redshift** - Rendering
 >- Substance Painter - Textures
 
-> [!Success] ### **Other Softwares:**
+> [!Success] <h3> **Other Softwares:</h3>
 > ___
 >- **Clo3D / Marvelous Designer**
 >- **Cascadeur**
@@ -176,7 +186,7 @@ ___
 | 89 - [LOW POLY TREE](https://www.youtube.com/watch?v=qhAscoxK-rw&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=81&ab_channel=BlenderVitals)               | 87 - [HANGING WIRES](https://www.youtube.com/watch?v=NmYYkamvPMc&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=79&ab_channel=BlenderVitals)        |
 
 ## **� Shading & Materials:**
-__
+___
 
 | 31 - [LINK MATERIALS](https://www.youtube.com/watch?v=a0i1mxRuqk0&list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq&index=23&ab_channel=BlenderVitals)          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |

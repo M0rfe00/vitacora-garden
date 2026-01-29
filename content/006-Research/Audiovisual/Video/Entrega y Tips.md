@@ -45,10 +45,11 @@ ___
 - En caso exportar en vertical pero no querer recortar la imagen se podría duplicar el video y expandir el que queda por detrás desenfocándolo, generando un fondo, esto se puede hacer tanto desde el panel de edición como en fusión.
 
 
+a
 
 # ==Packs / Web resources==
 ___
-> [!Success] ## **Marketplaces:**
+> [!Success] <h2>**Marketplaces:**</h2>
 > ___
 >- [Cinepacks](https://cinepacks.store/collections/davinci-resolve-packs) - (Packs gratuitos de efectos, transiciones, LUTs, gráficos, sonido y stock)
 >- [Envato](https://elements.envato.com/es/video-templates/compatible-with-davinci-resolve?adposition=&gad_campaignid=12128199254&gad_source=1&gbraid=0AAAAADclSXkqCCFfLftFow3MIYu_zg9Ez&gclid=Cj0KCQiAo4TKBhDRARIsAGW29bdm4FELnsFiTSDEOq5z0kXkKhBWw8XCJIujNwKmF4CQjTkXHH112xsaAqSNEALw_wcB) (Marketplace)
@@ -60,7 +61,7 @@ ___
 >- [VFX Hydra](https://vfxhydra.com/category/davinci-resolve/) - (Packs gratuitos de **transiciones y efectos .comp)
 >- [My Creative FX](https://mycreativefx.com/) - (**VFX gratuitos**: humo, chispa, explosiones, superposiciones y sonido)
 
-> [!Success] ## **Creators Packs**
+> [!Success] <h2>**Creators Packs**</h2>
 > ___
 >- [Dubufy - Davinci Free Editing Pack](https://drive.google.com/file/d/1PwGlRZSyS2ASxtYoSWsNUjNOslLhgrCg/view) (2022)
 >- [Seamless Transitions for DaVinci Resolve by GR-44](https://gr44.gumroad.com/) (updated)
