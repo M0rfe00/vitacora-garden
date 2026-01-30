@@ -38,11 +38,13 @@ ___
 >- [Texturing.XYZ](https://render-state.to/) - Textures Assets for characters.
 
 
-> [!Success] <h2>ASSETS RESOURCES 3D:</h2>
+> [!Success] <h1>ASSETS RESOURCES 3D:</h2>
 > ___
 >
 ><h2>CHARACTER ASSETS</h2>
+>
 > ___
+> 
 >- [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
 >- [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
 >- [Render State](https://render-state.to/) - 3D Assets for Daz characters.
@@ -64,7 +66,7 @@ ___
 >- [Rileyb3d](https://www.rileyb3d.com/blog-categories/assets) - Creador de assets
 >- [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
 
-> [!Success] ## **OTROS:**
+> [!Success] <h2>OTROS:</h2>
 >- **Figma** - Diseño de interfaz, planificación de proyectos, presentaciones...
 >- **Borisfx** - Plugins para After Effects faciles de usar y potentes, ej: Sapphire.
 >- [**Ddingone**](https://ddingone.gumroad.com/) - Creator who makes plugins for C4D, easy to use and usefull.
@@ -143,7 +145,7 @@ ___
 >- **Octane later switched to Redshift** - Rendering
 >- Substance Painter - Textures
 
-> [!Success] <h3> **Other Softwares:</h3>
+> [!Success] <h3>Other Softwares:</h3>
 > ___
 >- **Clo3D / Marvelous Designer**
 >- **Cascadeur**
