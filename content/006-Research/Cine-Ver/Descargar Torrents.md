@@ -3,7 +3,7 @@ tags:
   - hideInExplorer
   - Cine
 ---
-
+### **Descargar Cliente de Torrent**
 Para descargar un Torrent primero necesitamos descargar un cliente de Torrent, el oficial y el cual recomiendo usar es Utorrent web, para ello ve a la página oficial, selecciona descarga y sigue los pasos de instalación.
 
 >[!Tip] Cliente Recomendado 
@@ -22,6 +22,7 @@ Para descargar un Torrent primero necesitamos descargar un cliente de Torrent, e
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
+### **Descargar Torrent**
 Una vez tienes Utorrent solo tienes que buscar el torrent asociado al archivo de la pelicula que quieres descargar y agregarlo a la Utorrent para empezar a descargarla, para buscar los torrents puedes buscar en paginas como Mejortorrent.  
   
 Ten en cuenta que depende de que version instales el archivo pesara mas o menos.
@@ -41,10 +42,10 @@ Al darle a descargar el Torrent, el cual debemos arrastrar a Utorrent.
   style="margin: 0 auto; padding: 0; width: 70%; height: auto;"
 />
 
-
-Arrastramos el Torrent a la Utorrent y nos mostrara información sobre el torrent, como el numero de Seeds y Peers, cuantos mas allá de estos mas rápida ira la descarga ya que significara que hay mas personas compartiendo el archivo.
+### **Configurar descarga**
+Arrastramos el Torrent al cliente de Torrent (QBitTorrent/UTurrent...) y nos mostrara información sobre el torrent; como el nº de Seeds y Peers (cuantos mas allá de estos mas rápida ira la descarga ya que significara que hay mas personas compartiendo el archivo)
   
-A veces el torrent esta asociado a varios archivos además de la pelicula, en ese caso los desmarcamos y nos quedamos unicamente con la pelicula, que suele ser el archivo mas pesado y con extensiones “.avi”, “.mp4”, “.mkv”, etc… Seleccionamos donde queremos que se instale y le damos a añadir.
+**A veces el torrent esta asociado a varios archivos además de la pelicula, o archivo que queramos descargar;** en ese caso los desmarcamos y nos quedamos únicamente con la pelicula, que suele ser el archivo mas pesado y con extensiones “.avi”, “.mp4”, “.mkv”, etc… Seleccionamos donde queremos que se instale y le damos a añadir.
 <img
   loading= "lazy" 
   src="https://m0rfe00.github.io/GuideMovieLookass/Turoriales/Torrent/5.png"
@@ -53,6 +54,7 @@ A veces el torrent esta asociado a varios archivos además de la pelicula, en es
 />
 
 
+### **Esperar a que se descargue**
 Una vez lo hemos añadido solo tenemos que esperar a que se complete la descarga para poder verla.
 <img
   loading= "lazy" 
