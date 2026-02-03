@@ -128,7 +128,7 @@
 
 .callout-title {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 5px;
   padding: 0rem;
   color: var(--color);
@@ -172,4 +172,16 @@
     margin-top: 0;
     padding-top:0 ;
   }
+}
+
+
+.callout-title-inner h1,
+.callout-title-inner h2,
+.callout-title-inner h3,
+.callout-title-inner h4,
+.callout-title-inner h5,
+.callout-title-inner h6 {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
 }
