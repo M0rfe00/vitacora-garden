@@ -76,6 +76,8 @@ ___
 >2) Descargar **varios tipos de escenas:** interiores con poca luz, exteriores con sol fuerte, clips con piel humana (para mejorar balance de blancos y tonos de piel), y paisajes (para trabajar contraste y tonos).
 >
 >3) Juega con scopes y LUTs: practicar con vectorescopio, waveform y LUTs propios para ver cómo cambian los datos.
+>
+>COLOR CLASES: https://www.film-match.com/colorscience-classes
 >___
 ><h2>Websites</h2>
 >
