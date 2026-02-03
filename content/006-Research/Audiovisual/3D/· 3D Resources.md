@@ -157,6 +157,8 @@ ___
 [**Blender Vitals - 100 Tip Walktrought**](https://www.youtube.com/playlist?list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq)
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;"  src="https://www.youtube.com/embed/videoseries?si=Kb0kdnmAqwGbcF0b&amp;list=PLMDIokDTwYr15cbyhDHx1vyesnE_kvycq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=LhWz_HMXRJekxbmN&amp;list=PLL0cLF8gjBpoFLdP8rGpTCXespcXvlT2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Extra 3D - Blender Tips](https://youtube.com/playlist?list=PLUFIgFjSXpvgYQBNv7lfkHFp9ELETZmUj&si=Xac2bwVRnpfWCpfz)
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;"  src="https://www.youtube.com/embed/videoseries?si=BAQYY-KzE8RaBOpN&amp;list=PLUFIgFjSXpvgYQBNv7lfkHFp9ELETZmUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

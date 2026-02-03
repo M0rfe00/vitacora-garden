@@ -49,7 +49,7 @@ a
 
 # ==Packs / Web resources==
 ___
-> [!Success] <h2>**Marketplaces:**</h2>
+> [!Success] <h2>Marketplaces:</h2>
 > ___
 >- [Cinepacks](https://cinepacks.store/collections/davinci-resolve-packs) - (Packs gratuitos de efectos, transiciones, LUTs, gráficos, sonido y stock)
 >- [Envato](https://elements.envato.com/es/video-templates/compatible-with-davinci-resolve?adposition=&gad_campaignid=12128199254&gad_source=1&gbraid=0AAAAADclSXkqCCFfLftFow3MIYu_zg9Ez&gclid=Cj0KCQiAo4TKBhDRARIsAGW29bdm4FELnsFiTSDEOq5z0kXkKhBWw8XCJIujNwKmF4CQjTkXHH112xsaAqSNEALw_wcB) (Marketplace)
@@ -61,13 +61,35 @@ ___
 >- [VFX Hydra](https://vfxhydra.com/category/davinci-resolve/) - (Packs gratuitos de **transiciones y efectos .comp)
 >- [My Creative FX](https://mycreativefx.com/) - (**VFX gratuitos**: humo, chispa, explosiones, superposiciones y sonido)
 
-> [!Success] <h2>**Creators Packs**</h2>
+> [!Success] <h2>Creators Packs</h2>
 > ___
 >- [Dubufy - Davinci Free Editing Pack](https://drive.google.com/file/d/1PwGlRZSyS2ASxtYoSWsNUjNOslLhgrCg/view) (2022)
 >- [Seamless Transitions for DaVinci Resolve by GR-44](https://gr44.gumroad.com/) (updated)
 >- [BlewToof - Davinci Resolver Master Bundle](https://www.blewtoof.com/fullcollection) (2023)
 >- [sh4rk - Editors Lab (effects)](https://fusionplugin.gumroad.com/l/EditorsLab) (2024)
 
+
+> [!Success] <h2>Color Practice</h2>
+> ___
+>1) Buscar material log / flat o neutral: para practicar la correción y etalonaje.
+>
+>2) Descargar **varios tipos de escenas:** interiores con poca luz, exteriores con sol fuerte, clips con piel humana (para mejorar balance de blancos y tonos de piel), y paisajes (para trabajar contraste y tonos).
+>
+>3) Juega con scopes y LUTs: practicar con vectorescopio, waveform y LUTs propios para ver cómo cambian los datos.
+>___
+><h2>Websites</h2>
+>
+> - [Blackmagic Design](https://www.blackmagicdesign.com/uk/products/blackmagicpocketcinemacamera/gallery) Oficial footage
+> - [Arri](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-sample-footage-reference-image) Official footage
+> - [Sony](https://sony-cinematography.com/testfootage/) Oficial footage
+> - [Aziz Ben Amara:](https://youtube.com/playlist?list=PL3FmF-b5bDOYlPiK2KrmJn5OfXYjkhjEQ&si=wdEvRkIvdpMiu20a) Colorgrading Practice Footage
+> - [Pexels](https://www.pexels.com/es-es/buscar/videos/log%20footage%20for%20color%20grading/): Clips gratuitos para realizar corrección de color etalonaje.
+> - [Pixabay](https://pixabay.com/videos/search/professional%20color%20grading): Colección de videos para uso libre en proyectos, editar y practicar.
+> - [Coverr](https://coverr.co/): Material de archivo en HD/4K de libre uso comercialmente.
+> - [Videezy](https://es.videezy.com/): vídeos de stock HD y 4K (requiere atribución en algunos casos).
+> - [Vecteezy](https://www.vecteezy.com/free-videos/color-grading)
+> - [Dareful](https://dareful.com/) : Vídeos de stock en 4K, libres de uso
+> - [Videvo](https://www.freepik.com/videos) vídeos y motion graphics gratis
 
 ## **Plugins**
 
