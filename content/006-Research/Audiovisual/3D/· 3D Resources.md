@@ -25,6 +25,7 @@ ___
 >- [Texxary Scans](https://texxary.com/scans/?category=Soil&sort=latest) - Texturas de alta calidad pero de pago.
 >- [IndieGround](https://indieground.net/shop/) - Recursos para diseño grafico, texturas, fuentes, pinceles.
 >- [cgbookcase](cgbookcase.com/textures) - Texturas gratuitas sin restricciones escaneadas.
+>- [RenderCrate](https://rendercrate.com/search/textures?main_category=vfx) - Texturas y assets para 3D (VFX, Motion graphics, musica...)
 >
 ><h2>Retro Specific</h2>
 >
@@ -41,17 +42,12 @@ ___
 > [!Success] <h1>ASSETS RESOURCES 3D:</h2>
 > ___
 >
-><h2>CHARACTER ASSETS</h2>
 >
-> ___
-> 
->- [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
->- [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
->- [Render State](https://render-state.to/) - 3D Assets for Daz characters.
 >
 ><h2> MAKETPLACES</h2>
 >
 > ___
+> - [Quixel Megascans](https://www.fab.com/sellers/Quixel%20Megascans) - Assets escaneados de alta calidad
 >- [CgTrader](https://www.cgtrader.com/) - Marketplace de recursos y assets de alta calidad, baratos (revisar wireframe) util como alternativa a paginas como ArtStation que se han llenado de productos de IA LQ.
 >- [Blender Market](https://superhivemarket.com/products/foam-shader) - Concretamente el link lleva a un Shader procedural de espuma realista.
 >- [SuperHiveMarket](https://superhivemarket.com/products/alt-tab-easy-fog2) - Marketplace donde hay muchos addons para blender
@@ -60,11 +56,21 @@ ___
 >- [ArtSation](https://www.artstation.com/) - Marketplace y Red de artistas digitales.
 >- [blendswap](https://blendswap.com/categories)
 >
+>
 ><h2> CREADORES DE ASSETS</h2>
 >
 > ___
 >- [Rileyb3d](https://www.rileyb3d.com/blog-categories/assets) - Creador de assets
 >- [Travis Davids](https://mrdavids1.gumroad.com/) - Creador de assets 
+>
+><h2>CHARACTER ASSETS</h2>
+>
+> ___
+> 
+>- [Daz Store](https://www.daz3d.com/) - 3D Assets for Daz characters.
+>- [BigMediumSmall](https://www.bigmediumsmall.com/) - Kitbashes utiles completamente texturizados y listos para usar. También librerias de assets de Blender.
+>- [Render State](https://render-state.to/) - 3D Assets for Daz characters.
+
 
 > [!Success] <h2>OTROS:</h2>
 >- **Figma** - Diseño de interfaz, planificación de proyectos, presentaciones...
