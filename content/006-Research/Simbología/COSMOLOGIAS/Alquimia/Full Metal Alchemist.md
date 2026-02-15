@@ -142,7 +142,7 @@ Carl Jung interpretó los textos alquímicos como **mapas simbólicos del proces
 
 - **🜔 Sal (cuerpo):** representa el **aspecto cristalizado de la psique**, las estructuras conscientes, la personalidad ya formada.
 
-![[Pasted image 20250714024952.png]]![[Pasted image 20250714024959.png]]
+![[20250714024952.png]]![[20250714024959.png]]
 
 ### **El sí-mismo para Jung:**
 
