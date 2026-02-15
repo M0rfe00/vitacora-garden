@@ -1,3 +1,8 @@
+---
+tags:
+  - hideInExplorer
+---
+
 # Recursos
 ___
 - [Curso iniciación Zeros](https://zerospoker.com/curso/curso-de-iniciacion-al-poker/)

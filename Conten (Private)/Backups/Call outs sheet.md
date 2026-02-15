@@ -6,9 +6,7 @@
 
 >[!Info]
 
-
 >[!Todo]
-
 
 >[!Tip]
 “tip”, “hint”, “important”

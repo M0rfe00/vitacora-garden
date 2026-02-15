@@ -1,0 +1,3 @@
+En la peli las maldiciones son fruto de la percepción de uno mismo, es asi que la única forma de cambiar externamente es hacerlo por dentro, concretamente el motivante en la historia es el amor tanto propio como a los demás. 
+
+Las estrellas fugaces al caer fallecen, por lo que Howl decidió salvar a una, perdiendo su corazón en consecuencia cediéndoselo a Calcifer, aprenden que amar también es dejar por lo que cuando Howl muere le devuelve el corazón salvándole de la misma forma que hizo el.
