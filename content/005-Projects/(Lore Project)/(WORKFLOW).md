@@ -2,7 +2,7 @@
 tags:
   - Lore-Project
 ---
-
+Workflow visual proyecto:
 <img
   src="../media-content/Lore Project/WORKFLOW PROYECTO.png"
   alt="FocalLength"
