@@ -5,7 +5,7 @@ tags:
 <img
   src="../media-content/Lore Project/WORKFLOW PROYECTO.png"
   alt="FocalLength"
-  style="margin: 5 0 0 0 auto; padding 0; width: 100%; height: auto;"
+  style="margin: 5, 0, 0, 0; padding 0; width: 100%; height: auto;"
 />
 
 # MOODBOARDS
