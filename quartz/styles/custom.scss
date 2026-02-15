@@ -1109,10 +1109,12 @@ details.callout[open] .callout-content {
   border-left-color: #ef4444;
 }
 
+.entry-image + * {
+  clear: both;
+}
 
 .entry-image {
   float: right;
-  clear: right; /* ← evita interferencia entre imágenes */
   max-width: 50%;
   margin: 0 .75rem 0.75rem 1rem; /* ← único espacio real */
   padding: 0;              /* ← fuerza reset */
@@ -1120,7 +1122,6 @@ details.callout[open] .callout-content {
   object-fit: cover;
   box-shadow: none;        /* elimina expansión visual */
   opacity: 0.95;
-  display: flow-root; /* ← SOLUCIÓN */
 }
 
 /* Mobile */
