@@ -81,7 +81,7 @@ Esto da mucho juego para construir un personaje, porque podemos tener un persona
 Es casi como un sistema místico, por eso hay que cogerlo con pinzas, pero es bastante interesante y además profundiza bastante mejor que Myers-Briggs si quieres crear personajes más completos.
 
 >[!Info] CATEGORIAS
-**A su vez los 9 arquetipos se dividen en 3 categorías:**
+>**A su vez los 9 arquetipos se dividen en 3 categorías:**
 >- Los eneatipos corporales - Rojo (instintos corporales),
 >- Los eneatipos emocionales - Verde.
 >- Los eneatipos mentales - Azul.
@@ -92,7 +92,7 @@ Es casi como un sistema místico, por eso hay que cogerlo con pinzas, pero es ba
  >Todos los eneatipos tienen tres expresiones, por ejemplo, un 5 no es siempre un 5 en todos los ámbitos de su vida, sino que se expresa de una manera concreta a nivel social, se expresa de una manera concreta a nivel de tratarse a sí mismo, y se expresa de una manera concreta a nivel sexual, por ejemplo.
 
 >[!Tip] EJEMPLO DINAMISMO - EL AYUDADOR
-Una persona que esté en el arquetipo 2, en función de si se encuentra con mucha tensión, con mucho sufrimiento, con mucho estrés vital, o si se encuentra en un momento de crecimiento, de bonanza, puede tender hacia el 8 o hacia el 4. 
+>Una persona que esté en el arquetipo 2, en función de si se encuentra con mucha tensión, con mucho sufrimiento, con mucho estrés vital, o si se encuentra en un momento de crecimiento, de bonanza, puede tender hacia el 8 o hacia el 4. 
 >
 >El 2, el ayudador, cuando está en un estado de neurosis tiende más al 4, y cuando está en un estado positivo tiende más al 8.
 >
@@ -101,7 +101,7 @@ Una persona que esté en el arquetipo 2, en función de si se encuentra con much
 >Una persona abocada a los demas, generosa y que cuida en un momento de expresión de sus capacidades puede acabar convirtiendose en un lider.
 
 > [!Warning] TERMINOLOGÍA
-La terminología puede variar mucho de un diagrama a otro, por lo que es recomendable comparar varios ya que cada versión es ligeramente diferente
+>La terminología puede variar mucho de un diagrama a otro, por lo que es recomendable comparar varios ya que cada versión es ligeramente diferente
 
 
 
@@ -121,14 +121,14 @@ Gánate las influencias, olvídate de la originalidad en una burbuja, aprende de
 Aprende de los libros que lees, las películas que ves los juegos que te fascinan, el arte entero es una red interconectada de influencias y la ficción es un jardín enorme de frutos que te pueden inspirar. *-yo personalmente prefiero robarle personajes a los clásicos de la literatura pero ese es mi estilo pedante*
 
 >[!Tip] REFERENCIAS - SETH
-Mi Seth es homosexual y vive en eeuu en los años 50, se gana la vida de chapero pero su pasión es la poesía y escribe y habla basándose en poemas y novelas de la generación beat.
+>Mi Seth es homosexual y vive en eeuu en los años 50, se gana la vida de chapero pero su pasión es la poesía y escribe y habla basándose en poemas y novelas de la generación beat.
 >
 >Su biografía está parcialmente basada en el poema aullido escrito en 1956 por allen ginsberg, pero muchos de los detalles de su vida vienen a través de William Burrough.
 >
 >Sus libros yonqui, marica y el almuerzo desnudo, me ayudan a explorar la decrepitud de un mundo ajeno que nunca conoceré pero que debo aprender a interpretar,
 
 >[!Tip] REFERENCIAS - LANUEL
-Lanuel es un habitante de la nación francesa y un grotesco homúnculo de la literatura más degenerada de la historia que curiosamente ha sido escrita en francés.
+>Lanuel es un habitante de la nación francesa y un grotesco homúnculo de la literatura más degenerada de la historia que curiosamente ha sido escrita en francés.
 >
 >En muchos modos Lanuel imita los antihéroes del marqués de Sade, como los protagonistas de las 120 jornadas de sodoma el pilar de mi inspiración, su lascivia es insaciable y su moral de sádico es coherente con cada una de sus acciones. El marques de Sade me presta el aborrecible marco ideológico de la búsqueda implacable del placer para que ni villano puede justificarse.
 >
@@ -143,7 +143,7 @@ Me gusta pensar en mis personajes en función de poemas y canciones y escribir s
 No importa cuál sea tu influencia musical, encuentra en ella algo que ames particularmente y hazla sonar, deja que su ritmo te sugiera actitudes, manías, placeres, en todas las series y películas los personajes tienen sus señas musicales pero tú te puedes permitir una discografía entera.
 
 >[!Tip] SETH -  INSPIRACIÓN MUSICAL
-Seth una criatura del jazz bepbop, hijo de músicos heroinomas y no manos como john Coltrane o Billie holliday, carga consigo la herencia de la esclavitud, que ha pasado de los esclavistas al polvo blanco de la droga
+>Seth una criatura del jazz bepbop, hijo de músicos heroinomas y no manos como john Coltrane o Billie holliday, carga consigo la herencia de la esclavitud, que ha pasado de los esclavistas al polvo blanco de la droga
 >
 >Su vida es caótica y desordenada como una improvisación desquiciada y por eso, cosas experimentales como dice cáncer opus erectus de charles mingus le vienen como anillo el dedo cuando escribo sus diálogos
 >
@@ -166,15 +166,15 @@ Esto solo es una fórmula, no todos los personajes tienen que venir jodidos de f
 La herida es nuestro calvario personal y es común a todos, porque no íbamos a ser igual con nuestros personajes y es también tienen inseguridades, a veces odian su reflejo, al igual que nosotros tienen manías y dolencias comunes, no hay nada interesante en la perfección, ni en el conflicto melodramático, la herida nos hace conocer a nuestros personajes mejor que cualquier profecía u horizonte heroico.
 
 >[!Info] CHARLIE KAUFMAN- LA HERIDA
-"No se lo que es la herida, se que es antigua, se que hay un agujero en mi ser, se que es tierna, creo es incognoscible o por lo menos inarticulable, creo que tu también tienes una herida creo que es especifica a ti y común a todos, creo que es aquello de ti que deber ser ocultado y protegido. 
+>"No se lo que es la herida, se que es antigua, se que hay un agujero en mi ser, se que es tierna, creo es incognoscible o por lo menos inarticulable, creo que tu también tienes una herida creo que es especifica a ti y común a todos, creo que es aquello de ti que deber ser ocultado y protegido. 
 >
 >Es la cosa sobre la que se baila claqué cinco sesiones por dia, es lo que no le parecerá interesante a los demás si la revelas, es lo que te hace débil y patético, es aquello que hace que de verdad, de verdad de verdad, seas imposible de amar, es tu secreto, hasta para ti mismo, pero es aquello que realmente quiere vivir, es aquello de lo que tu arte, tu pintura, tu danza, tu composición, tu tratado filosófico o tu guion nace."
 
 >[!Tip] EJEMPLO - LA HERIDA DE SETH
-Seth fue escrito sin destino, pero con una cicatriz cuyo dolor solo calma con la heroína, su problemas doble, su pasado se alivia solamente con una droga que le destruye, es un círculo vicioso que solamente un hecho drástico podrá interrumpir.
+>Seth fue escrito sin destino, pero con una cicatriz cuyo dolor solo calma con la heroína, su problemas doble, su pasado se alivia solamente con una droga que le destruye, es un círculo vicioso que solamente un hecho drástico podrá interrumpir.
 
 >[!Tip] EJEMPLO - LA HERIDA DE LANUEL
-Lanuel es aberrante precisamente porque parece carecer de herida, para el principito todo fue servido en bandeja de plata, pero esto puede ser también la semilla de un cataclismo cuando el buen conde se dé cuenta de que no todo se puede comprar y que hay gente noble e incorruptible en el mundo.
+>Lanuel es aberrante precisamente porque parece carecer de herida, para el principito todo fue servido en bandeja de plata, pero esto puede ser también la semilla de un cataclismo cuando el buen conde se dé cuenta de que no todo se puede comprar y que hay gente noble e incorruptible en el mundo.
 >
 >Quizá entonces se sienta solo y vulnerable, tal vez cuando las luces del incesante espectáculo barroco se apaguen Lanuel sentirá un vacío mortal en su cicatriz, una vida solitaria y aburrida que deshace su exuberancia, un escenario siempre vacío, ese es su mayor temor, su herida.
 
@@ -193,14 +193,14 @@ Jugar y dirigir una partida de rol es un camino más crudo y claro de acercarte 
 Al final todo es esto, sólo queda preguntarle a nuestros personajes qué opinan sobre las tres cabezas del cancerbero de la condición humana, **el amor, la muerte y el paso del tiempo**, preguntas difíciles.
 
 >[!Tip] EJEMPLO - SETH: AMOR, MUERTE Y TIEMPO
-Para Seth el amor es su adicción y hasta que no abandoné la droga está condenado a no poder quererse a sí mismo y a no poder querer a los demás, su redención sería ser capaz de amar a otro tanto como ama la heroína pero no es fácil.
+>Para Seth el amor es su adicción y hasta que no abandoné la droga está condenado a no poder quererse a sí mismo y a no poder querer a los demás, su redención sería ser capaz de amar a otro tanto como ama la heroína pero no es fácil.
 >
 >La muerte es su hermana y compañera, la respira la nuca en cada inyección sabiendo que puede ser la última.
 >
 >El paso del tiempo no importa porque el bálsamo del jaco lo deshace mientras el cuerpo dure pero Seth va a descubrir que es más débil de lo que pensaba.
 
 >[!Tip] EJEMPLO - LANUEL: AMOR, MUERTE Y TIEMPO
-Para Lanuel el amor se deshace de toda expresión elevada y vuelve a la materia, donde son más vulgares expresiones el sexo, el único amor que conoce este villano es el amor a sí mismo y todas sus víctimas deberían sentirse orgullosos de ser violadas por un ser superior, aquí no hay espacio para la redención porque quiero daros asco, la vida de la nouvelle es su imposibilidad de amar, pero en este mundo cruel esta carencia es una ventaja, su amor implica poder, posesión, pues es incapaz de amar desde la empatía, todos son fichas en el juego sexual contra el destino.
+>Para Lanuel el amor se deshace de toda expresión elevada y vuelve a la materia, donde son más vulgares expresiones el sexo, el único amor que conoce este villano es el amor a sí mismo y todas sus víctimas deberían sentirse orgullosos de ser violadas por un ser superior, aquí no hay espacio para la redención porque quiero daros asco, la vida de la nouvelle es su imposibilidad de amar, pero en este mundo cruel esta carencia es una ventaja, su amor implica poder, posesión, pues es incapaz de amar desde la empatía, todos son fichas en el juego sexual contra el destino.
 >
 >El paso del tiempo y la muerte son para el conde la misma cosa, la conciencia de su propia decadencia que le obliga a vivir el aquí y el ahora con todas sus lubribrica intensidad, pero busca algo más profundo, la inmortalidad, para seguir viviendo para siempre en su definición degenerada del amor.
 
@@ -300,16 +300,16 @@ Legalidad o respeto por la ley, Bondad o respeto por el prójimo.
 El alineamiento no impone a los personajes un molde uniforme. Las peculiaridades de la personalidad y las experiencias vitales hacen que cada persona sea diferente; es posible que un guerrero legal bueno se queje de las órdenes de su señor o que un bárbaro caótico malvado sienta la soledad de una tarde de invierno y desee tener una conversación agradable. El alineamiento está lleno de matices de gris que colorean a un personaje interesante, no como una correa con la que encadenarlo.
 
 >[!Tip] POSICIONES
-Cuanto más arriba se este en la tabla mas le importara el bienestar de los demás y viceversa.
+>Cuanto más arriba se este en la tabla mas le importara el bienestar de los demás y viceversa.
 >
 Cuanto más a la izquierda se este más se respetara la ley y viceversa.
 >
 Los espacios centrales pertenecerán a aquellos neutrales los que no se posicionan, no estan convencidos o cuya opinión ira cambiando dependiendo de las circunstancias.
 
 >[!Danger] PROBLEMAS DEL SISTEMA
-Las definiciones del sistema es incompleta ya que no se puede esperar que una herramienta englobe todo la complejidad ética y moral humana, al final del día en sistema rígido van a surgir problemas de interpretación.
+>Las definiciones del sistema es incompleta ya que no se puede esperar que una herramienta englobe todo la complejidad ética y moral humana, al final del día en sistema rígido van a surgir problemas de interpretación.
 >
-El problema surge cuando la interpretación llega demasiado lejos y se convierte en un legal neutral a la hora de interpretar la tabla, donde todo debe regirse por sus cuadrantes.
+>El problema surge cuando la interpretación llega demasiado lejos y se convierte en un legal neutral a la hora de interpretar la tabla, donde todo debe regirse por sus cuadrantes.
 >
 >Interpretar la tabla como algo rígido y estático es condenarse a tener personajes sintiendo, los cuales son conocidos como "Legales y caóticos estúpidos" aquellos paladines insoportables incapaces de mentir a un guardia porque su código moral ni lo permite, o el pícaro molesto que antes de iniciar una misión incendia la taberna donde se encuentra la persona que dio la misión solamente porque "es caótico".
 
@@ -373,7 +373,7 @@ La tabla es útil para representar los viajes que se quiere que tenga un persona
 >Los personajes no cambian de forma independiente, existen elementos externos que ayudan a evolucionar, ya sea de forma negativa o positiva, personas cercanas, libros que lean, viajes importantes que hagan, hechos puntuales que les ocurran a su alrededor que les marquen.
 
 >[!Tip] Aprendizaje: 
-de todos los cambios que se den alrededor del personaje y la influencia que reciba podrá sacar un aprendizaje y sobretodo cada proceso de aprendizaje ira acompañado de una gran evolución, los entrenamientos o clases son motores enormes de cambio, cambiando su personalidad ya que ha cambiado su forma de ver el mundo. El paso de la ignorancia inicial al conocimiento puede hacerlo mejor persona o torcerlos si tienen malas influencias.
+>de todos los cambios que se den alrededor del personaje y la influencia que reciba podrá sacar un aprendizaje y sobretodo cada proceso de aprendizaje ira acompañado de una gran evolución, los entrenamientos o clases son motores enormes de cambio, cambiando su personalidad ya que ha cambiado su forma de ver el mundo. El paso de la ignorancia inicial al conocimiento puede hacerlo mejor persona o torcerlos si tienen malas influencias.
 
 >[!Tip] Desengaño
 >Durante el proceso de aprendizaje es común que el personaje aprenda algo que desconocía, que todo lo que sabia era mentira y en lo que creía había falsedad y eso cambie por completo su forma de ver el mundo, provocando una transformación dramática que puede acabar en tragedia.
@@ -448,7 +448,7 @@ Existen tablas de alineamiento de 25 casillas que añaden útiles para tomar dec
 
 - **Morales:** Son personas buenas, desprendidas de su ego y con una altísima tendencia a hacer el bien, sin embargo si son consciente de que ellos o alguien de su alrededor puede pasarlo mal tendrán a ayudar aunque eso no sea lo más justo, moral o equitativo.
 
-- Impuros: Son malos, egoístas, narcisitos, aunque no aprecian mucho a los demás no quita que en determinados momentos puedan sentir empatía e incluso ayudar a otras personas aunque no les beneficie del todo mientras esto no les afecte negativamente ni les ponga en riesgo.
+- **Impuros:** Son malos, egoístas, narcisitos, aunque no aprecian mucho a los demás no quita que en determinados momentos puedan sentir empatía e incluso ayudar a otras personas aunque no les beneficie del todo mientras esto no les afecte negativamente ni les ponga en riesgo.
 <img
   src="/media-content/Research/Simbologia/Jung-Narrativa/arquetipos de personalidad.jpg"
   alt="Tabla alineamiento"
