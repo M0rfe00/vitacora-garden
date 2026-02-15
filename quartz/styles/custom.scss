@@ -1113,6 +1113,11 @@ details.callout[open] .callout-content {
   clear: both;
 }
 
+/* SOLUCIÓN */
+h1, h2, h3 {
+  clear: both;
+}
+
 .entry-image {
   float: right;
   max-width: 50%;
