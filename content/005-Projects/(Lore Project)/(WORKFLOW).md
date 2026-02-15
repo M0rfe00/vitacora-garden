@@ -9,6 +9,8 @@ Workflow visual proyecto:
   style="margin: 0; padding: 0; width: 100%; height: auto;"
 />
 
+>[!Info]
+Estas pestañas estan ocultas en la web, hay que desplazarse con los desplegables superiores: >Home>005 Projects > (Lore Project) >...
 # MOODBOARDS
 ___
 [_==ENLACE A GOOGLE DRIVE==_](https://drive.google.com/drive/folders/1OfGR882Ul1YxX4AKnxMkEWbZ8z3CKFwL?usp=drive_link)
