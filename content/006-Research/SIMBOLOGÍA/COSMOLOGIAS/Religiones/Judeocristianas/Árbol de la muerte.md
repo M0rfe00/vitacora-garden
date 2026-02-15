@@ -162,6 +162,6 @@ Un elemento crucial en este camino es el cruce del abismo, representado como dij
 
 En definitiva, las distintas prácticas con el árbol de la muerte no son solamente una exploración simbólica del lado oscuro de la existencia, sino más bien un acto de autodescubrimiento y sobre todo de transformación, la idea es que, al enfrentar las sombras personales y las energías caóticas, el practicante no solo aprenda a dominarlas, sino que también obtenga una comprensión más completa de la naturaleza del universo y su lugar en él. 
 
-CONCLUSIÓN 
-
+# CONCLUSIÓN 
+___
 Un mensaje que se reproduce en cualquier ámbito donde se hable de este tema con seriedad es que trabajar con las qlifot requiere un enfoque ético y responsable, debido a la naturaleza intensa y potencialmente desestabilizadora de estas fuerzas, es decir no es ni para aburridos ni para extraviados, los qlifot representan los desequilibrios más profundos de la existencia universal y de la psique individual, por lo cual se consideran elementos sumamente delicados y dignos de respeto, trabajar con ellos no es una trivial más bien es hacer gárgaras con clavos es un proceso experto que se realiza con el propósito de trascender esas energías y nunca para quedar atrapado en ellas, el objetivo es alcanzar una mayor armonía espiritual y personal y abordarlas con cualquier otra perspectiva puede llevar a un grave desequilibrio en los cuerpos psíquico, emocional y energético.

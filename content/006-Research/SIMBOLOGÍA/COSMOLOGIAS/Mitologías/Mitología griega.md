@@ -10,7 +10,7 @@ ___
 
 - **Hesíodo: Teogonía y Trabajos y Días (siglo VII a.C.):** Describe el origen de los dioses, el cosmos y las generaciones divinas.
 
- - **Eurípides, Sófocles y Esquilo (siglos V a.C.):** Representan mitos en obras teatrales como Medea, Edipo Rey, Prometeo encadenado, etc.
+- **Eurípides, Sófocles y Esquilo (siglos V a.C.):** Representan mitos en obras teatrales como Medea, Edipo Rey, Prometeo encadenado, etc.
 
 - **Apolonio de Rodas: Argonáutica (siglo III a.C.):** Narra la historia de Jasón y los Argonautas.
 

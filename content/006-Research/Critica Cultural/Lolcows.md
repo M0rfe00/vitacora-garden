@@ -11,7 +11,6 @@ Muchas de estas personas que acaban expuestas en redes sociales y acaban convirt
 Parte de la deshumanización que estas personas reciben se basa en la condescendencia y  en percibirlo como un espectáculo antes que como una persona, a su vez la condescendencia y la superficialidad con la que se los trata hace que se pasen por alto conductas completamente negligentes intolerables en otros ámbitos, como por ejemplo, Energuia las menores, Maeb el abuso, John cobra el fascismo
 
 ### El medio:
-
 Con el nacimiento de las cadenas de televisión privadas empezó una competencia entre cadenas de televisión por la audiencia, con esto surgieron programas como el semáforo, la figura de cárdenas… hasta que llego el mayor exponente de la época que fue crónicas marcianas.
 
 Este panorama era una competición dentro de la economía de la atención, en el los directivos se encargaban de buscar a personas que fuesen a generar mucha audiencia aprovechándose e instrumentalizando personas/personajes en la mayoría de ocasiones vulnerables.

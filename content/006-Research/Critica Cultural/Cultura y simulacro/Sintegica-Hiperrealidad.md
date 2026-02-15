@@ -74,7 +74,7 @@ Prometo salvando la matrix  
 ___
 
 
-
+<!--
 
 Matrix  
 Análisis de farid dieck  
@@ -86,3 +86,5 @@ Solipsismo
 Me afectó más de lo que me gustaría aceptar en su dia  
 Uno de los principales atractivos de estas películas es que te plantan una duda, te estimula mentalmente al hacerte pensar y replantearte las cosas, no necesariamente el funcionamiento de la realidad o el universo si no cosas mundanas también  
 ___
+-->
+

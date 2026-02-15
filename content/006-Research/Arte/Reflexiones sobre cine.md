@@ -1,7 +1,7 @@
 ---
 tags:
   - Arte
-  - ideInExplorer 
+  - hideInExplorer
 ---
 # **INTRO**
 ___

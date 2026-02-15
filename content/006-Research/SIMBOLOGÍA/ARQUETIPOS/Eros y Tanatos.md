@@ -39,7 +39,12 @@ La pulsión de muerte no siempre es negativa, en la teoría de Freud tano la pul
 A nivel psíquico la existencia de la pulsión de muerte nos permite separarnos de los objetos algo que a su vez posibilita que no nos identifiquemos y fusionemos psíquicamente con ellos, conservando la individualidad, además de ello, evolutivamente la agresividad proveniente de la fusión de ambos tipos de pulsión resulta ventajosa en determinadas situaciones permitiendo la lucha por la supervivencia y la autodefensa.
 
 Ambos conceptos son completamente opuestos, Eros es unión y Tánatos disgregación.
-![[Pasted image 20250916125643.png]]
+
+<img
+  src="../media-content/Research/Simbologia/20250916125643.png"
+  alt="Eros Tanatos"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Sigmund Freud desarrollo la teoría de vida y muerte en su obra Más alla del principio de placer en 1920, propuso que todos los seres humanos están impulsados por dos fuerzas primordiales.
 
