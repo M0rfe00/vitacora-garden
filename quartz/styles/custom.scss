@@ -428,6 +428,13 @@ img {
   transition: background-color 0.3s, color 0.3s;
 }
 
+.diario h3 {
+    margin-top: 1rem;
+    margin-bottom: .4rem;
+    font-size: 1.12rem;
+}
+
+
 /* Tema claro */
 body.light .diario {
   background-color: #fefefe;
