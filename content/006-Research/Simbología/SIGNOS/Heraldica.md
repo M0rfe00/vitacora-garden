@@ -10,7 +10,7 @@ La heráldica es la es la ciencia del blasón, y el blasón es el arte de explic
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204205.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -19,7 +19,7 @@ Tiene su propio lenguaje que es la lengua vernácula y puede ser oral o escrito,
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204224.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 La investigación histórica concluye que su origen comienza en el siglo 11 cuando se vuelve necesario pintar los escudos de los caballeros para identificar en batalla a qué bando pertenecían también en torneos y justas ya que la evolución del equipamiento militar ocultaba sus cuerpos completamente y esto hacía imposible el reconocimiento.
@@ -27,7 +27,7 @@ La investigación histórica concluye que su origen comienza en el siglo 11 cuan
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204241.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Este lenguaje nacido en el seno de una clase social militar progresivamente se fue incorporando dentro de la nobleza y la iglesia católica para identificación de linajes y miembros de la jerarquía más tarde se expande de tal manera que toda familia persona noble o no noble territorios ciudades y más poseían un escudo de armas.
@@ -35,7 +35,7 @@ Este lenguaje nacido en el seno de una clase social militar progresivamente se f
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204253.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 podríamos definir al escudo de armas como una representación gráfica con forma de escudo que contiene los emblemas y a veces también los lemas que representan simbólicamente una nación una ciudad un linaje entre otros.
@@ -45,7 +45,7 @@ Este escudo cumplía la función de búsqueda afirmación y proclamación de la 
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204309.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 ## **Función de los heraldos**
@@ -54,7 +54,7 @@ El blasónamiento es la descripción de los escudos de armas, estaba a cargo de 
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204330.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Con el pasar de los siglos su rol se volvió fundamental y se posicionarán dentro de la nobleza con sus propias jerarquías siendo su mayor rango reyes de armas, sus funciones son las que determinan a la heráldica como una verdadera ciencia,
@@ -64,7 +64,7 @@ como expertos lectores constructores y recopiladores de los escudos de armas est
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204346.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 
@@ -74,7 +74,7 @@ Si bien no todos los escudos tienen figuras si tienen colores y se dividen en do
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204410.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Respecto de las figuras se observan simples vegetales de construcciones objetos armas animales imaginarias y menos frecuentemente humanas.
@@ -82,7 +82,7 @@ Respecto de las figuras se observan simples vegetales de construcciones objetos 
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204428.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Otro rasgo de los escudos es la presencia de la geometría que tiene que ver con las piezas honorables estas son las insignias de la orden de caballería.
@@ -90,7 +90,7 @@ Otro rasgo de los escudos es la presencia de la geometría que tiene que ver con
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204439.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Cada región adopto también su propia morfología en sus escudos.
@@ -98,7 +98,7 @@ Cada región adopto también su propia morfología en sus escudos.
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204453.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 A partir del siglo 15 los reyes de armas empleaban la confección de los armoriales, registros ilustrados de los escudos de diversos linajes con su ornamentación y también incluyendo las ciudades.
@@ -110,7 +110,7 @@ Los escudos originales eran hereditarios solo al primogénito e hijas mujeres qu
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204505.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 ## **Estudio de caso: Escudo de armas del linaje Aragón**
@@ -126,7 +126,7 @@ El último con cruz latina sobre la labor de encina representa a los habitantes 
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204532.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 finalmente, sobre el escudo se encuentra una corona real que representa la antigüedad del reino Aragón existente durante más de dos siglos
@@ -143,17 +143,17 @@ cuarto sobre campo de oro, cuatro para los goles iguales entre sí y a los espac
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204550.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 este complejo sistema de comunicación continúo desarrollándose con el correr de los siglos hasta la actualidad donde podemos encontrarlo y reconocerlo en escudos de fútbol banderas nacionales, banderas de universidades entre otros tantos.
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204606.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/Heraldica/20250713204610.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />

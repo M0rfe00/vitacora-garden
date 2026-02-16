@@ -250,10 +250,10 @@ En su mito a veces descrito como un acto de voluntad autónoma y otras como un d
 <img
   src="/media-content/Research/Simbologia/Pitagorismo/20250713232617.png"
   alt="Astrologia"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   src="/media-content/Research/Simbologia/Pitagorismo/20250713232626.png"
   alt="Astrologia"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
