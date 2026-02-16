@@ -55,6 +55,7 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
 
 </div>
 <br>
+
 >[!Info] About this website
 >The website is built using Obsidian for content creation and Quartz to publish Markdown as a Static website. It integrates community plugins and custom modifications developed thorught HTML, CSS, GithHub and web server management, using exclusively open-source and free tools.
 
