@@ -543,7 +543,7 @@ body.theme-dark .callout[data-callout="diario"] {
 
 .tweet-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 8px;
 }
 
@@ -555,8 +555,8 @@ body.theme-dark .callout[data-callout="diario"] {
 
 .tweet-grid .callout {
     margin-block: 0 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    margin-top: 1 !important;
+    margin-bottom: 1 !important;
 }
 
 .tweet-grid .callout-content {
