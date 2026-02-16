@@ -1159,3 +1159,20 @@ h1, h2, h3 {
   height: 100%;
   border: 0;
 }
+
+
+/******* Organizar textos en columnas***********/
+
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* responsive */
+@media (max-width: 800px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}
