@@ -1167,7 +1167,7 @@ h1, h2, h3 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
-  margin-top: 2rem;
+  /**margin-top: 2rem;**/
 }
 
 /* responsive */
