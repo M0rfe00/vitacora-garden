@@ -40,7 +40,7 @@ tags:
   </div>
 
   <div class="project-card">
-    <a href="3D Prototypes" class="project-link">
+    <a href="Prototypes" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/PROYECTOS/Moda/Portfolio/UnderglamourPortfolio.jpg" alt="3D Prototypes">
         <div class="project-overlay">

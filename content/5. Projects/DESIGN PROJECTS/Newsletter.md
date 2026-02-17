@@ -8,13 +8,13 @@ tags:
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Diseño/PROYECTOS/Newsletter/Newsletter1.jpg"
+  src="../media-content/PROYECTOS/Diseño/Newsletter/Newsletter1.jpg"
   alt="Newsletter 1"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
   loading= "lazy" 
-  src="../media-content/Diseño/PROYECTOS/Newsletter/Newsletter2.jpg"
+  src="../media-content/PROYECTOS/Diseño/Newsletter/Newsletter2.jpg"
   alt="Newsletter 2"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
