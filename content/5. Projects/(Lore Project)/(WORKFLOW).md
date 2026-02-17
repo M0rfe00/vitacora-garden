@@ -9,12 +9,16 @@ Workflow visual proyecto:
   style="margin: 0; padding: 0; width: 100%; height: auto;"
 />
 
->[!Info]
+>[!Info] **Secciones del proyecto**
 >Estas pestañas estan ocultas en la web, hay que desplazarse con los desplegables superiores: >Home>005 Projects > (Lore Project) >...
 
 # DESCRIPCIÓN PROYECTO
 ___
-...
+El proyecto consiste en desarrollar una narrativa ficticia a partir de la cual combinar diferentes disciplinas: Moda, Tatuaje, Makeup, Joyería... (Fase conceptual) .
+
+Y Llevar a cabo este mundo de forma tangible con personajes 3D siguiendo la narrativa del proyecto (Fase de producción).
+
+Con la posibilidad de llevar la realidad los elementos diseñados, ropa, tatuaje, accesorios, ilustraciones... (Fase presentación).
 
 # MOODBOARDS
 ___
@@ -44,22 +48,26 @@ _Los roles son orientativos no rígidos_
 - Aquí cada uno puede compartir su trabajo de forma libre; el Tattoo artist realizar los tatuajes, diseñador de moda confeccionar las prendas, el diseñador grafico compartir sus diseños...
 
 
-# POSIBLES IMPLEMENTACIONES
-___
-- Renders 3D.
-- Ilustraciones contando lore.
-- Utilizar este mundo para crear historias, con la condición de ser un relato más, y no el eje central de este universo. 
-- Una baraja de cartas utilizando los personajes e historia.
-
-
 # BENEFICIOS
 ___
 - Practicar en las respectivas áreas.
 - Generar portfolio.
 - Autopromoción de cada uno (tattoos, ilustraciones, diseño...).
 
-<!--
 
+
+
+<!--
+# POSIBLES IMPLEMENTACIONES
+___
+- Renders 3D.
+- Ilustraciones contando lore.
+- Utilizar este mundo para crear historias, con la condición de ser un relato más, y no el eje central de este universo. 
+- Una baraja de cartas utilizando los personajes e historia.
+-->
+
+
+<!--
 # DISCIPLINAS
 ___
 - DISEÑO DE MODA
