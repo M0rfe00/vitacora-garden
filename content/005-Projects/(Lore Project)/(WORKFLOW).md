@@ -4,7 +4,7 @@ tags:
 ---
 Workflow visual proyecto:
 <img
-  src="../media-content/Lore Project/WORKFLOW PROYECTO.png"
+  src="../media-content/PROYECTOS/Lore Project/WORKFLOW PROYECTO.png"
   alt="FocalLength"
   style="margin: 0; padding: 0; width: 100%; height: auto;"
 />

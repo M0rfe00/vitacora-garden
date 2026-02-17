@@ -1,0 +1,87 @@
+---
+tags:
+  - Proyectos
+  - 3D
+---
+
+<div class="project-grid">
+
+  <div class="project-card">
+    <a href="9Ckles" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/PROYECTOS/3D/9Ckles/Def)ckles2.jpg" alt="9ckles">
+        <div class="project-overlay">
+          <h3>9ckles</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Ghouljaboy" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/PROYECTOS/3D/Ghoulja/Dante2WM.jpg" alt="Ghouljaboy">
+        <div class="project-overlay">
+          <h3>Ghouljaboy</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="OpiumBulgaria" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/PROYECTOS/3D/Xbulgarin/EDIT--GijT-qEWIAAA4yy.jpg" alt="OpiumBulgaria">
+        <div class="project-overlay">
+          <h3>OpiumBulgaria</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+<!--
+# 9ckles
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/9Ckles/Def)ckles2.jpg" alt="">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/9Ckles/Chaos-Dolor8-Edit.jpg" alt="">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/9Ckles/Chaos-Bello2-Edit.jpg" alt="">
+</div>
+
+>[!info]- Sobre esta escena
+ > Esta escena 3D está inspirada en el artista musical 9Ckles, el concepto surge de su seudónimo e imagen utiliza en redes, la cual hace referencia al personaje Knuckles de la saga de los videojuegos Sonic, por ello utilice elementos del universo del videojuego para asociar elementos de su discografía al imaginario del personaje.
+<br><br>
+
+# Ghouljaboy
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/Ghoulja/Dante2WM.jpg" alt="">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/Ghoulja/DAntE11.jpg" alt="">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/Ghoulja/Twinv1.jpg" alt="">
+</div>
+
+>[!info]- Sobre esta escena
+> Esta escena 3D está inspirada en el personaje Dante del universo musical del artista Ghouljaboy, la escena representa el alzamiento del personaje en su canción homónima, exactamente al momento en el que dice “estoy flotando con los pies descalzos en medio de una autopista creo que me va a dar algo”.<br><br> Para la creación de esta escena utilice Metahuman creator de Unreal engine 5 para crear avatares digitales de Ghouljaboy, para la creación del vestuario de los personajes utilice Clo3D, para el escenario y la composición de los elementos hice uso de Blender y de Photoshop para los detalles finales de la imagen.
+
+
+
+
+# VitaCora x OpiumBulgaria
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/Xbulgarin/EDIT--GijT-qEWIAAA4yy.jpg" alt="">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/Xbulgarin/Mijailov.jpg" alt="">
+<img loading= "lazy" src="../media-content/PROYECTOS/3D/Xbulgarin/descarga.jpg" alt="">
+</div>
+
+>[!info]- Sobre esta colaboración
+> Estas son algunas de las escenas en las que colabore con @Opiumbulgaria mi rol principal fue la creación del vestuario de los personajes y la postproducción de los renders.
+-->

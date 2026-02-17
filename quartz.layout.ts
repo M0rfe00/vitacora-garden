@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "collapsed",
       useSavedState: true,
       filterFn: (node) => {
-        const carpetasOcultas = ['Carpeta', 'Recursos-SMR(fd)', 'carpeta','Cine-Ver','(Lore Project)','LORE']
+        const carpetasOcultas = ['Carpeta', 'Recursos-SMR(fd)', 'carpeta','Cine-Ver','(Lore Project)','LORE', 'FASHION PROJECTS', 'DESIGN PROJECTS', '3D PROJECTS']
         if (node.isFolder) {
           const folderName = (node as any)?.fileSegmentHint ?? ""
           if (carpetasOcultas.includes(folderName)) return false
