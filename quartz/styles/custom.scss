@@ -1218,12 +1218,20 @@ h1, h2, h3 {
 .project-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  gap: 1rem;
   margin: 2rem 0;
 }
+@media (max-width: 768px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 
 .project-card {
   display: block;
+  box-shadow: 0 2px 15px rgba(74, 74, 74, 0.675);
+  border-radius: 14px;
 }
 
 .project-link {
@@ -1278,7 +1286,12 @@ h1, h2, h3 {
 .project-overlay a.internal {
     background-color: #8f9fa900;
     border-radius: 5px;
-    padding: 0 .1rem;
+    padding: 0rem 0rem 1rem;
     line-height: 1.4rem;
     text-decoration: none;
+}
+
+/* Icono enlace titulo proyecto */
+.project-overlay h3 > a[role="anchor"] {
+  display: none !important;
 }

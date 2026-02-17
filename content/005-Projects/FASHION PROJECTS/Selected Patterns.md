@@ -1,6 +1,5 @@
 ---
-tags:Proyectos/
-  -
+tags:
   - Moda
   - hideInExplorer
 ---

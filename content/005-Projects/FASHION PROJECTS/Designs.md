@@ -1,6 +1,5 @@
 ---
 tags/Proyectos:
-  -
   - Moda
   - hideInExplorer
 ---
@@ -65,5 +64,5 @@ ___
 <img loading= "lazy" src="../media-content/PROYECTOS/Moda/primera-coleccion/Prototipo-V22.gif" alt="">-->
 </div>
 
-> [!info]- Sobre Estos diseños
+> [!info] Sobre Estos diseños
 > A estas alturas ya me desenvolvía bastante bien con el programa y tenía ganas de diseñar mis primeras prendas, al ser mi primera colección tenía muchas ideas en la cabeza por explorar, finalmente opte por siluetas ceñidas a la forma del cuerpo para crear una silueta estilizada, una ligera caída en la parte trasera inspirado en la cola de un cisne y los trajes de cola.<br><br>También quería añadir cierta complejidad y un tono futurista a las prendas, para ello dividí los patrones base en varias piezas, lo que me permitió jugar aún más con la silueta, para el color elegí una gama monocromática para destacar los detalles de costuras y pespuntes que surgían al dividir el patrón en multitud de piezas. 

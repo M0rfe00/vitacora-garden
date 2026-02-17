@@ -9,7 +9,7 @@ tags:
   <div class="project-card">
     <a href="Designs" class="project-link">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/segunda-coleccion/denimdress/1.webp" alt="Designs">
+        <img src="../media-content/PROYECTOS/Moda/GoKp37fXMAAA0nu.jpg" alt="Designs">
         <div class="project-overlay">
           <h3>Selected Designs</h3>
         </div>
@@ -20,7 +20,7 @@ tags:
   <div class="project-card">
     <a href="Ghouljaboy" class="project-link">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/Portfolio/BlazerPortfolio.jpg" alt="Selected Patterns">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/Patrones.png" alt="Selected Patterns">
         <div class="project-overlay">
           <h3>Selected Patterns</h3>
         </div>
