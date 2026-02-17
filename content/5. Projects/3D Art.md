@@ -7,6 +7,17 @@ tags:
 <div class="project-grid">
 
   <div class="project-card">
+    <a href="Designs" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/PROYECTOS/Moda/GoKp37fXMAAA0nu.jpg" alt="Designs">
+        <div class="project-overlay">
+          <h3>Fashion Renders</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
     <a href="9Ckles" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/PROYECTOS/3D/9Ckles/Def)ckles2.jpg" alt="9ckles">

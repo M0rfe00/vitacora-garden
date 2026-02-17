@@ -10,7 +10,7 @@ ___
 ## **Final Fantasy VIII Inspiration**
 <img
   loading= "lazy" 
-  src="../media-content/Moda/PROYECTOS/Portfolio/SquallPortfolio.jpg"
+  src="../media-content/PROYECTOS/Moda/Portfolio/SquallPortfolio.jpg"
   alt="ImpExp-Formats"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -21,7 +21,7 @@ ___
 ## **VitaCora X Under Glamour**
 <img
   loading= "lazy" 
-  src="../media-content/Moda/PROYECTOS/Portfolio/UnderglamourPortfolio.jpg"
+  src="../media-content/PROYECTOS/Moda/Portfolio/UnderglamourPortfolio.jpg"
   alt="ImpExp-Formats"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -32,7 +32,7 @@ ___
 ## **Adidas Original**
 <img
   loading= "lazy" 
-  src="../media-content/Moda/PROYECTOS/Portfolio/AdidasPortfolio.jpg"
+  src="../media-content/PROYECTOS/Moda/Portfolio/AdidasPortfolio.jpg"
   alt="ImpExp-Formats"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
