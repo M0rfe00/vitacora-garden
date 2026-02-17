@@ -20,7 +20,7 @@ tags:
   <div class="project-card">
     <a href="Newsletter" class="project-link">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Diseño/Newsletter/Newsletter2.jpg" alt="Editorial Newsletter">
+        <img src="../media-content/PROYECTOS/Diseño/Newsletter/Newsletter3.jpg" alt="Editorial Newsletter">
         <div class="project-overlay">
           <h3>Editorial Newsletter</h3>
         </div>

@@ -10,32 +10,32 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
 
-  <a href="001-About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+  <a href="1. About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        👨🏼‍💻 <strong>About Me</strong>
     </div>
   </a>
 
-  <a href="002-Gallery" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+  <a href="3. Photography" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-       📸 <strong>Gallery</strong>
+       📸 <strong>Photography</strong>
     </div>
   </a>
 
   
-<a href="003-Diario" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="2. Journal" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-	📰 <strong>Diary</strong>
+	📰 <strong>Journal</strong>
     </div>
   </a>
 
-<a href="004-Libraries" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="4. Inspiration" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
-    📚 <strong>Libraries</strong>
+    📚 <strong>Inspiration</strong>
     </div>
   </a>
 
-<a href="https://m0rfe00.github.io/vitacora-garden/005-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        ⚒️ <strong>Projects</strong>
     </div>
@@ -47,7 +47,7 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
     </div>
   </a>
   -->
-<a href="https://m0rfe00.github.io/vitacora-garden/006-Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        📝 <strong>Research</strong>
     </div>
@@ -56,7 +56,7 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
 </div>
 <br>
 
->[!Info] About this website
+>[!Info]- About this website
 >The website is built using Obsidian for content creation and Quartz to publish Markdown as a Static website. It integrates community plugins and custom modifications developed thorught HTML, CSS, GithHub and web server management, using exclusively open-source and free tools.
 
 <!--

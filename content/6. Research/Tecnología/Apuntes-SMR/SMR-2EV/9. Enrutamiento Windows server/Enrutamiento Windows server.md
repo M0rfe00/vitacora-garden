@@ -6,7 +6,7 @@ tags:
 # Documentación enrutamiento Windows server
 
 Para empezar debemos tener dos tarjetas de red en el servidor, una en red interna para comunicarse con los clientes y otra en NAT para dar salida a internet
-![](content/006-Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image1.png)![](content/006-Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image2.png)
+![](content/6.%20Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image1.png)![](content/6.%20Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image2.png)
 
 Antes de instalar el servicio de acceso remoto/enrutamiento debemos configurar en el servicio DHCP, dentro del ámbito que creamos previamente tenemos que ir a opciones del ámbito y en DNS añadir el DNS de google “8.8.8.8”, aparte deberemos asignarle un dirección IP estática
 al servidor y establecer como puerta de enlace la dirección de la tarjeta de red que está en NAT
@@ -19,16 +19,16 @@ alt="C:\Users\Aitor\Pictures\Captura4.PNG" />
 Una vez hemos configurado el DHCP, instalamos el servicio Acceso remoto con la característica Enrutamiento
 
 <img src="./media/image5.png" style="width:5.90556in;height:3.32283in"
-alt="C:\Users\Aitor\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Captura2.png" />![](content/006-Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image6.png)
+alt="C:\Users\Aitor\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Captura2.png" />![](content/6.%20Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image6.png)
 
-Después de instalar el servicio de acceso remoto y reiniciar el equipo, vamos a herramientas y seleccionamos “Enrutamiento y acceso remoto”, en este panel hacemos clic derecho sobre el servidor y seleccionamos la una opción que dice algo asi como activar el enrutamiento![](content/006-Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image7.png)
+Después de instalar el servicio de acceso remoto y reiniciar el equipo, vamos a herramientas y seleccionamos “Enrutamiento y acceso remoto”, en este panel hacemos clic derecho sobre el servidor y seleccionamos la una opción que dice algo asi como activar el enrutamiento![](content/6.%20Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image7.png)
 
 En el asistente de la instalación seleccionamos “Configuración personalizada”
 <img src="./media/image8.png" style="width:5.90556in;height:3.32283in"
 alt="C:\Users\Aitor\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Captura7.png" />
 
 Habilitamos los servicios NAT y Enrutamiento LAN y continuamos
-![](content/006-Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image9.png)
+![](content/6.%20Research/Tecnología/Apuntes-SMR/SMR-2EV/9.%20Enrutamiento%20Windows%20server/media/image9.png)
 
 Una vez hemos acabado el paso anterior, clicamos sobre IPV4 y hacemos clic derecho sobre “IGMP” y añadimos la interfaz de red de la tarjeta que está en red interna dejando las opciones por defecto y aceptando en todos los apartados
 <img src="./media/image10.png" style="width:5.90556in;height:3.32283in"
