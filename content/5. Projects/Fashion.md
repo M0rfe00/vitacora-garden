@@ -18,7 +18,7 @@ tags:
   </div>
 
   <div class="project-card">
-    <a href="Ghouljaboy" class="project-link">
+    <a href="Selected Patterns" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/PROYECTOS/Moda/Portfolio/Patrones.png" alt="Selected Patterns">
         <div class="project-overlay">
