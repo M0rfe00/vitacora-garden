@@ -2,13 +2,50 @@
 tags:
   - Lore-Project
 ---
-# **==INTRO==**
+# Presentación:
 ___
-Lo escrito en este documento es el desarrollo de una narrativa, sus bases, la  creación de un mundo en el que transcurre una historia, utilizando como inspiración diferentes corrientes filosóficas, psicológicas, narrativas y místicas. 
+Este proyecto se basa en el desarrollo de una narrativa, las bases, la creación de un mundo en el que transcurre una historia, utilizando como inspiración diferentes corrientes filosóficas, psicológicas, narrativas y místicas. 
 
-Los temas son cuál es el origen de todo y de nosotros como entidades conscientes, en que creemos para  dar sentido a nuestra vida y cómo podemos afrontar el paso a lo largo de ella, como tratamos de explicar el mundo que nos rodea y la diferencia entre lo que percibimos  con los sentidos, lo tangible y lo que escapa de ellos, lo oculto, lo intangible, en  resumen la experiencia humana. 
+- **Titulo** - ¿?.
 
-  
+- **Subtitulo/Tagline** - ¿?.
+
+- **Genero** - Fantasia, Espiritual, Realismo mágico.
+
+- **Storyline** - Resumen breve de la trama principal.
+
+- **Sinopsis** - Resumen extenso y detallado de toda la trama.
+
+- **Estética** - 
+
+- **Temática** - Cuál es el origen de todo y de nosotros como entidades conscientes. En que creemos para dar sentido a nuestra vida y cómo podemos afrontar el paso a lo largo de ella. Como tratamos de explicar el mundo que nos rodea y la diferencia entre lo que percibimos con los sentidos, lo tangible y lo que escapa de ellos, lo oculto, lo intangible. En  resumen la experiencia humana. 
+
+# Premisas dramáticas:
+___
+- **¿Quiénes son los personajes?** - El Artista, Sophia, Demiurgo, Hermes, Arquetipos y Arcontes.
+
+- **¿Dónde sucede la historia?** - En nuestro mundo y sociedad.
+
+- **¿Cuándo sucede la historia?** - Época actual.
+
+- **¿Qué objetivo tienen?**
+
+- **¿Cómo termina la historia?**
+
+# Narrativa:
+___
+- Trama principal:
+- Subtramas:
+- Actos
+- Inicio
+- Detonante
+- Puntos de giro
+- Punto medio
+- Clímax
+- Resolución
+
+
+
 # **==PRINCIPALES INFLUENCIAS NARRATIVAS-SIMBÓLICAS==**
 ___
 De la psicología junguiana; los arquetipos y el inconsciente del héroe, el monomito o  viaje del héroe de Joseph Campbell, el viaje del loco a lo largo de los arcanos del tarot, el camino de la espada flamígera a través de los sefirots y qlifots de la cábala judía, la  gran obra y fases alquímicas. 

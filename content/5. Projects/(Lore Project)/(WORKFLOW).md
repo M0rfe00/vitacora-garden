@@ -5,12 +5,12 @@ tags:
 Workflow visual proyecto:
 <img
   src="../media-content/PROYECTOS/Lore Project/WORKFLOW PROYECTO.png"
-  alt="FocalLength"
+  alt="Workflow"
   style="margin: 0; padding: 0; width: 100%; height: auto;"
 />
 
->[!Info] **Secciones del proyecto**
->Estas pestañas estan ocultas en la web, hay que desplazarse con los desplegables superiores: >Home>005 Projects > (Lore Project) >...
+>[!Info] **Pestañas del proyecto**
+>Estas pestañas están ocultas en la web, hay que desplazarse con los desplegables superiores: >Home>005 Projects > (Lore Project) >...
 
 # DESCRIPCIÓN PROYECTO
 ___

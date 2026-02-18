@@ -497,3 +497,39 @@ Quedando disponible 12 personajes:
   style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 Para cribar casillas hay que tener en cuenta el nº que rodean al personaje, ya que cuantas más allá más posibilidades hay de que el personaje se mueva, ya que siempre existirá la posibilidad de que coja matices de cada una en ciertos momentos y en determinado momento podría tener un comportamiento que no se esperaba inicialmente.
+
+
+
+
+<!--
+# Presentación:
+___
+- **Titulo:**
+- **Subtitulo/Tagline:**
+- **Genero:** Fantasia, Sci-fi, Espiritual.
+- **Filosofía de producción:** Independiente.
+- **Temática:** Explora la idea de como...
+- **Storyline:** Resumen breve de la trama principal.
+- **Sinopsis:** Resumen extenso y detallado de toda la trama.
+- Estética:
+# Premisas dramáticas:
+___
+- **¿Quiénes son los personajes?**
+- **¿Dónde sucede la historia?**
+- **¿Cuándo sucede la historia?**
+- **¿Qué objetivo tienen?**
+- **¿Cómo termina la historia?**
+
+# Narrativa:
+___
+- Trama principal:
+- Subtramas:
+- Actos
+- Inicio
+- Detonante
+- Puntos de giro
+- Punto medio
+- Clímax
+- Resolución
+-->
+
