@@ -12,7 +12,7 @@ Workflow visual proyecto:
 >[!Question] **ESTADO ACTUAL:**
 > **Preproducción:** Desarrollando narrativa y concepto.
 
-# DESCRIPCIÓN PROYECTO
+# DESCRIPCIÓN WORKFLOW
 ___
 El proyecto consiste en desarrollar una narrativa ficticia a partir de la cual combinar diferentes disciplinas: Moda, Tatuaje, Makeup, Joyería... (Fase conceptual) .
 

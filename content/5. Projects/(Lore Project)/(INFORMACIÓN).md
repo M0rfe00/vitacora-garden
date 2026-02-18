@@ -7,7 +7,7 @@ tags:
 > 
 >[[(INFORMACIÓN)]] || [[(WORKFLOW)]] || [[1. MUNDO & EVENTOS]] || [[2. CONCEPTOS]] || [[3. PERSONAJES]] || [[4. OBJETOS]]
 
-# Presentación:
+# PRESENTACIÓN PROYECTO:
 ___
 Este proyecto se basa en el desarrollo de una narrativa, las bases, la creación de un mundo en el que transcurre una historia, utilizando como inspiración diferentes corrientes filosóficas, psicológicas, narrativas y místicas. 
 
