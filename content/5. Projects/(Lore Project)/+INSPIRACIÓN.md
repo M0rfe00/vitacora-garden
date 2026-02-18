@@ -2,14 +2,14 @@
 tags:
   - Lore-Project
 ---
-# INTRO
+# **==INTRO==**
 ___
 Lo escrito en este documento es el desarrollo de una narrativa, sus bases, la  creación de un mundo en el que transcurre una historia, utilizando como inspiración diferentes corrientes filosóficas, psicológicas, narrativas y místicas. 
 
 Los temas son cuál es el origen de todo y de nosotros como entidades conscientes, en que creemos para  dar sentido a nuestra vida y cómo podemos afrontar el paso a lo largo de ella, como tratamos de explicar el mundo que nos rodea y la diferencia entre lo que percibimos  con los sentidos, lo tangible y lo que escapa de ellos, lo oculto, lo intangible, en  resumen la experiencia humana. 
 
   
-# PRINCIPALES INFLUENCIAS NARRATIVAS-SIMBÓLICAS
+# **==PRINCIPALES INFLUENCIAS NARRATIVAS-SIMBÓLICAS==**
 ___
 De la psicología junguiana; los arquetipos y el inconsciente del héroe, el monomito o  viaje del héroe de Joseph Campbell, el viaje del loco a lo largo de los arcanos del tarot, el camino de la espada flamígera a través de los sefirots y qlifots de la cábala judía, la  gran obra y fases alquímicas. 
 
@@ -19,7 +19,7 @@ De las obras “la fuerza vital del cielo anterior” y “la teoría sintética
 
 
 
-# USO DE SIMBOLOGÍA 
+# **==USO DE SIMBOLOGÍA==**
 ___
 La simbología no es gratuita o meramente estética, sirve para estructurar el cuerpo simbólico de la narrativa y comunicar las inquietudes fundamentales de la existencia humana mediante metáforas narrativas y visuales. 
 
