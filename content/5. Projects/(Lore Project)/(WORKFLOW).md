@@ -9,8 +9,11 @@ Workflow visual proyecto:
   style="margin: 0; padding: 0; width: 100%; height: auto;"
 />
 
->[!Info] **Pestañas del proyecto**
->Estas pestañas están ocultas en la web, hay que desplazarse con los desplegables superiores: >Home>005 Projects > (Lore Project) >...
+>[!Info] **PESTAÑAS DEL PROYECTO**
+>El proyecto está oculto en la web, hay que desplazarse con los desplegables superiores: ==>Home>005 Projects > (Lore Project) >...==
+
+>[!Question] **¿ESTADO ACTUAL?**
+> **Preproducción:** Desarrollando narrativa y concepto.
 
 # DESCRIPCIÓN PROYECTO
 ___
@@ -48,12 +51,12 @@ _Los roles son orientativos no rígidos_
 - Aquí cada uno puede compartir su trabajo de forma libre; el Tattoo artist realizar los tatuajes, diseñador de moda confeccionar las prendas, el diseñador grafico compartir sus diseños...
 
 
-# BENEFICIOS
-___
-- Practicar en las respectivas áreas.
-- Generar portfolio.
-- Autopromoción de cada uno (tattoos, ilustraciones, diseño...).
-
+>[!Tip] <h1>BENEFICIOS</h1>
+>
+>___
+>- Practicar en las respectivas áreas.
+>- Generar portfolio.
+>- Autopromoción de cada uno (tattoos, ilustraciones, diseño...).
 
 
 
