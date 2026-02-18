@@ -388,6 +388,18 @@ La tabla es útil para representar los viajes que se quiere que tenga un persona
 >[!Tip] Recompensas - Entorno
 >Si el cambio interno del personaje no es acompañado por un cambio en su entorno pueden generarse conflictos y resentirse sus relaciones, por lo que si el entorno no evoluciona en el mismo sentido o velocidad que el reaccionara, si están de acuerdo será recompensado al contrario será castigado.
 
+### REPRESENTAR ARCOS
+<img
+  src="/media-content/Research/Simbologia/Jung-Narrativa/Arco Pentagrama.jpg"
+  alt="Tabla alineamiento"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="/media-content/Research/Simbologia/Jung-Narrativa/Arco Lineal.png"
+  alt="Tabla alineamiento"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 ## TIPOS DE VIAJE:
 ___
 ### Viajes Ley-Caos (Izq-dcha):
