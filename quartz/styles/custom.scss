@@ -1295,3 +1295,39 @@ h1, h2, h3 {
 .project-overlay h3 > a[role="anchor"] {
   display: none !important;
 }
+
+
+/********INSERTOS POST IG*********/
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  align-items: start;
+}
+
+/* hace que cada embed se comporte como tarjeta de grid */
+.instagram-grid .instagram-media {
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+
+/* quita el centrado raro que mete Instagram */
+.instagram-grid iframe {
+  width: 100% !important;
+}
+
+/* tablet */
+@media (max-width: 900px) {
+  .instagram-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* móvil */
+@media (max-width: 500px) {
+  .instagram-grid {
+    grid-template-columns: 1fr;
+  }
+}
