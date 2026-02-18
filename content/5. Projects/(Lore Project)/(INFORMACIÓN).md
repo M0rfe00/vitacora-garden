@@ -3,7 +3,8 @@ tags:
   - Lore-Project
 ---
 >[!Info] **PESTAÑAS DEL PROYECTO**
->El proyecto está oculto en la web, hay que desplazarse con los desplegables superiores o: 
+>El proyecto está oculto en la web, hay que desplazarse con los desplegables superiores o:
+> 
 >[[(INFORMACIÓN)]] || [[(WORKFLOW)]] || [[1. MUNDO & EVENTOS]] || [[2. CONCEPTOS]] || [[3. PERSONAJES]] || [[4. OBJETOS]]
 
 # Presentación:
