@@ -17,13 +17,13 @@ Este proyecto se basa en el desarrollo de una narrativa, las bases, la creación
 
 - **Genero** - Fantasia, Espiritual, Realismo mágico.
 
-- **Storyline** - Resumen breve de la trama principal.
-
-- **Sinopsis** - Resumen extenso y detallado de toda la trama.
-
 - **Estética** - 
 
 - **Temática** - Cuál es el origen de todo y de nosotros como entidades conscientes. En que creemos para dar sentido a nuestra vida y cómo podemos afrontar el paso a lo largo de ella. Como tratamos de explicar el mundo que nos rodea y la diferencia entre lo que percibimos con los sentidos, lo tangible y lo que escapa de ellos, lo oculto, lo intangible. En  resumen la experiencia humana. 
+
+- **Storyline** - Resumen breve de la trama principal.
+
+- **Sinopsis** - Resumen extenso y detallado de toda la trama.
 
 # Premisas dramáticas:
 ___
