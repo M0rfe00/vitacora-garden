@@ -6,7 +6,7 @@ tags:
 ___
 Lo escrito en este documento es el desarrollo de una narrativa, sus bases, la  creación de un mundo en el que transcurre una historia, utilizando como inspiración diferentes corrientes filosóficas, psicológicas, narrativas y místicas. 
 
-Los temas son cuál es el origen de todo y de nosotros como entidades conscientes, en que creemos para  dar sentido a nuestra vida y cómo podemos afrontar el paso a lo largo de ella, como  tratamos de explicar el mundo que nos rodea y la diferencia entre lo que percibimos  con los sentidos, lo tangible y lo que escapa de ellos ,lo oculto, lo intangible, en  resumen la experiencia humana. 
+Los temas son cuál es el origen de todo y de nosotros como entidades conscientes, en que creemos para  dar sentido a nuestra vida y cómo podemos afrontar el paso a lo largo de ella, como tratamos de explicar el mundo que nos rodea y la diferencia entre lo que percibimos  con los sentidos, lo tangible y lo que escapa de ellos, lo oculto, lo intangible, en  resumen la experiencia humana. 
 
   
 # PRINCIPALES INFLUENCIAS NARRATIVAS-SIMBÓLICAS
@@ -39,34 +39,34 @@ La literal y la metafórica, la exotérica y la esotérica, la real y la narrati
 
 # REFERENCIAS:
 ___
-## Estructura narrativa:
+**Estructura narrativa:**
 - [[08-El viaje del héroe]] (Fases)
 - [[09-El viaje del Tarot]] (Arcanos)
 - [[Árbol de la muerte]] - (Camino de la espada flamígera)
 - [[Full Metal Alchemist]] -  (Viaje armónico)
 
-## ARQUETIPOS E INCONSCIENTE COLECTIVO:
+**ARQUETIPOS E INCONSCIENTE COLECTIVO:**
 - [[02-Jung Ocultismo]]
 
-## COSMOLOGÍA:
+**COSMOLOGÍA:**
 - [[01-Alquimia]]
 - [[01-Gnosticismo]]
 
-## SENTIDO DE VIDA Y SEPARATIDAD
+**SENTIDO DE VIDA Y SEPARATIDAD**
 - [[El arte de amar]] - (Separatidad y deseo de retorno)
 
-## AUTOPERCEPCIÓN Y MALDICIONES
+**AUTOPERCEPCIÓN Y MALDICIONES**
 - [[Castillo ambulante]]
 
-## MAGIAS/DISCIPLINAS
+**MAGIAS/DISCIPLINAS**
 - [[Solaristica]]
 
-## PERCEPCIÓN Y MODIFICACION REALIDAD
+**PERCEPCIÓN Y MODIFICACION REALIDAD**
 - [[Teoría Sintergica]]
 
-## TRINIDAD Y DESTINO
+**TRINIDAD Y DESTINO**
 - [[Trinidad]] - (Trinidad e hilos de la vida)
 
 
-# PELIS DE REFERENCIA
+**PELIS DE REFERENCIA**
 - https://boxd.it/IeXrK$cAjGn7DTudgtNeJi
