@@ -2,6 +2,9 @@
 tags:
   - Lore-Project
 ---
+>[!Info] **PESTAÑAS DEL PROYECTO**
+>El proyecto está oculto en la web, hay que desplazarse con los desplegables superiores: ==>Home>005 Projects > (Lore Project) >...==
+
 # Presentación:
 ___
 Este proyecto se basa en el desarrollo de una narrativa, las bases, la creación de un mundo en el que transcurre una historia, utilizando como inspiración diferentes corrientes filosóficas, psicológicas, narrativas y místicas. 
