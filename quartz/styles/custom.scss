@@ -1303,6 +1303,7 @@ h1, h2, h3 {
   grid-template-columns: repeat(3, 1fr);
   gap: 12px;
   align-items: start;
+  filter: invert(1) hue-rotate(180deg) contrast(0.9);
 }
 
 /* hace que cada embed se comporte como tarjeta de grid */
@@ -1311,6 +1312,9 @@ h1, h2, h3 {
   min-width: 0 !important;
   max-width: 100% !important;
   margin: 0 !important;
+  background: var(--dark-bg) !important;
+  border-radius: 12px !important;
+  overflow: hidden;
 }
 
 /* quita el centrado raro que mete Instagram */
