@@ -9,3 +9,15 @@ document.addEventListener("nav", () => {
   // @ts-ignore
   window.instgrm?.Embeds?.process()
 })
+
+// cargar script de X una sola vez
+const twitterScript = document.createElement("script")
+twitterScript.src = "https://platform.twitter.com/widgets.js"
+twitterScript.async = true
+document.head.appendChild(twitterScript)
+
+// reprocesar embeds al navegar en Quartz
+document.addEventListener("nav", () => {
+  // @ts-ignore
+  window.twttr?.widgets?.load()
+})

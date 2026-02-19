@@ -1314,14 +1314,6 @@ h1, h2, h3 {
   background: var(--dark-bg) !important;
   border-radius: 12px !important;
   overflow: hidden;
-
-  /* modo oscuro visual del embed */
-  filter: invert(1) hue-rotate(180deg) contrast(0.9);
-}
-
-/* revertir colores del contenido (video, avatar, imagen) */
-.instagram-grid .instagram-media iframe {
-  filter: invert(1) hue-rotate(180deg);
 }
 
 /* tablet */
@@ -1336,4 +1328,43 @@ h1, h2, h3 {
   .instagram-grid {
     grid-template-columns: 1fr;
   }
+}
+
+
+/******** EMBEDS X / TWITTER *********/
+
+.tweet-embed-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .tweet-embed-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .tweet-embed-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* bloque original del embed */
+.tweet-embed-grid .twitter-tweet {
+  margin: 0 !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow-s);
+}
+
+/* iframe generado por el script */
+.tweet-embed-grid iframe {
+  width: 100% !important;
 }
