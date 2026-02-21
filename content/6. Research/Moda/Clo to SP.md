@@ -66,18 +66,6 @@ ___
 	- Auto-unwrap: none
 
 
-# ==SUBSTANCE PAINTER INTERFACE==
-___
-## **Navigate**
-- **Alt+Middle clic** - Panning
-- **Alt+Left clic** - Rotate
-- **Scroll Wheel** - Zoom
-- **Hold Shift** - reposition 2D window
-- Shift+Right clic - Change enviorment propierties
-
-(Fill layers, permiten modificar las propiedades del material; Base color, Roughness, Metallic...)
-
-Para cambiar las propiedades del enviorment clicar en el icono de la pantalla "Display Settings"
 
 # ==SUBSTANCE PAINTER WORKFLOW==
 ___
@@ -189,3 +177,41 @@ In-Depth Introduction to Clo3D Fiend https://youtu.be/nYGBpXMFaDk
 
 # CLO TEXTURES
 ___
+
+
+# ==SUBSTANCE PAINTER INTERFACE==
+___
+## **Navigate**
+- **Alt+Middle clic** - Panning
+- **Alt+Left clic** - Rotate
+- **Scroll Wheel** - Zoom
+- Shift+Right clic - Change enviorment propierties
+- Shift+Wheel - Light settings
+- Hold F - Reposition 2D window
+- **Hold Shift** 
+- Hold Alt - Show Alt Shortcuts
+- Hold Ctrl - Show Ctrl Shortcuts
+- F1 - 2D + 3D Viewport
+- F2 - 3D Viewport
+- F3 - 2D Viewport
+- F4 - Switch Viewport
+- M - Show material
+- C - Show isolated chanels
+- B - Show Mesh Maps
+
+>[!Info] Fill layers:
+>Permiten modificar las propiedades del material; Base color, Roughness, Metallic...)
+
+>[!Info] Enviorment properties
+>Para cambiar las propiedades del enviorment clicar en el icono de la pantalla "Display Settings"
+
+**RECOMENDED PAINT INTERFACE**
+![[Pasted image 20260219152412.png]]
+![[Pasted image 20260219160303.png]]
+
+>[!Info] Display settings
+>Panel para cambiar las propiedades de la escena; 
+> - Cámara
+> - Condiciones de luz 
+> - El viewport
+

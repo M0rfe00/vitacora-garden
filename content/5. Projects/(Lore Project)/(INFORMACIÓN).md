@@ -109,6 +109,8 @@ ___
 **TRINIDAD Y DESTINO**
 - [[Trinidad]] - (Trinidad e hilos de la vida)
 
+**SIGALDRIA, MECANISMOS MENTALES Y RANGOS**
+- [[Crónica Asesino De Reyes]]
 
 **PELIS DE REFERENCIA**
 - https://boxd.it/IeXrK$cAjGn7DTudgtNeJi
