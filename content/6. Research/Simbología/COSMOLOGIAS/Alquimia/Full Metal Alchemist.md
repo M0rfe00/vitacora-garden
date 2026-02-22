@@ -127,7 +127,7 @@ En muchas tradiciones filosóficas, religiosas y alquímicas, el ser humano est�
 - **Es inmortal e inmutable.**
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714024916.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714024916.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
@@ -153,12 +153,12 @@ Carl Jung interpretó los textos alquímicos como **mapas simbólicos del proces
 - Es el equivalente psicológico del espíritu alquímico: el Mercurio que todo lo une.
 
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714025100.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714025100.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
 <img
-  src="../../../media-content/Research/Simbologia/Alquimia/20250714025109.png"
+  src="/media-content/Research/Simbologia/Alquimia/20250714025109.png"
   alt="Arquetipos-Horoscopo"
   style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
 />
