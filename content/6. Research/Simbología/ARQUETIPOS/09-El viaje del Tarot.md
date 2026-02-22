@@ -58,7 +58,7 @@ ___
 <img
   src="/media-content/Research/Simbologia/Jung-Narrativa/20250714024009.png"
   alt="Arquetipos-Horoscopo"
-  style="display: block; margin: 0 auto; padding: 0; width: 80%; height: auto;"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Como la interpretación se basa en el viaje del sol se lee de derecha a izquierda, de este a oeste, de oriente a occidente, el arco diurno representa la conciencia y la dimensión física mientras que el arco nocturno marca el camino por las profundidades y el inconsciente previo a la resurrección.
