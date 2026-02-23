@@ -92,7 +92,7 @@ ___
 
 **COSMOLOGÍA:**
 - [[01-Alquimia]]
-- [[01-Gnosticismo]]
+- [[02-Gnosticismo]]
 
 **SENTIDO DE VIDA Y SEPARATIDAD**
 - [[El arte de amar]] - (Separatidad y deseo de retorno)

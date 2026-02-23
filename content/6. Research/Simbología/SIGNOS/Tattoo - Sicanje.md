@@ -1,6 +1,6 @@
 ---
 tags:
-  - Signos-Símbolos
+  - Signos
 ---
 # Apéndice
 ___

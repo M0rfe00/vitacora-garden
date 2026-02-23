@@ -1,3 +1,7 @@
+---
+tags:
+  - Tattoo
+---
 # 1. El cuerpo humano como reflejo de lo divino
 ___
 Un simbolismo común en distintas culturas a lo largo del mundo es el día de que el hombre fue creado a imagen y semejanza de dios, o dioses, y si el cuerpo humano era una prueba de la perfección creadora o inclusive la joya de la creación, todo en este microcosmos, cada miembro, cada órgano debía significar algo, en esto se basan creencias como los chacras o la kundalini, en la cábala también se suele representar al árbol de la vida como un cuerpo humano.

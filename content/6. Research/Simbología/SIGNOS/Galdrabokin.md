@@ -1,3 +1,7 @@
+---
+tags:
+  - Signos
+---
 # EL Libro de los conjuros
 ___
 El Galdrabok o libro de los conjuros, es el documento más importante conocido para entender la práctica de la magia en la Islandia de la edad media, es de gran importancia porque nos brinda una visión dentro de los elementos mágico religiosos de la tradición nórdica, no otro documento es comparable en detalles mágicos y prácticas, este ofrece una variedad extensa de símbolos para el mago moderno, como sabemos este libro es una copelación casi como un registro histórico así como las runas que nos guían en la práctica de la magia ceremonial rúnica.
@@ -224,3 +228,170 @@ La runa Kaersysla nos ayuda a concretar algún trato que tengamos con alguna per
 # VINCULO DE AMOR-Astyrmerki 
 ___
 El conjuro de las runas del vínculo del amor es bastante variado. Estas runas son utilizadas no solo para generar un amor cálido, tranquilo y apacible sino también para generar un amor sexual, lleno de lujuria y pasión, este conjuro rúnico o estas runas enlazadas o amarradas tienen cuatro variantes que implican sexo de la persona que lo realiza y sexo de la persona que desee atraer, por lo tanto su elaboración es bastante especifica y directa. Cada variante posee singular poder y fuerza, pero en el momento de su realización debemos estar completamente seguros de lo que deseamos.
+
+
+
+# GALDRASTAFIR
+___
+
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Against Animal Bites.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Against Attacks by Spirits.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Against Attacks by Spirits2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Against Attacks by Spirits3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Against Stefnivargar and Animal Bites .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Bare Stallion - Stave of Silence.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Butter Knot.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Byrnie.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Calm Sheep.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Colic Stave.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Convicts' Seal, Protective Stave of a Speaking Spirit, and Covering for a Speaking Spirit.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Convicts' Seal, Protective Stave of a Speaking Spirit, and Covering for a Speaking Spirit.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Defensive Cross and the Seal of the Holy Spirit .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Defensive Ring of the Soldier Longinius .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/DP~rr's Hammer.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Dream Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Dream-of-Christ Stave .png" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Enemies Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fear Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fire Ring or Corpse's Breeches Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fish Staves.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fishing Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fishing Well .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fishing Well 2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Fishing Well 3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-0.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-27.png" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-548.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-558.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-567.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-570.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells-572.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Gapaldur I and II and Ginfaxi1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Gapaldur I and II and Ginfaxi2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Gapaldur I and II and Ginfaxi3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greater Dream Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greater Rotas Cross of Earl Eirikur.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greater Seal of King Solomon .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greater Shield ofTerror.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greatest Dream Stave1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Helm of Concealment.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Helm.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/hieves' Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Hills Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Lesser Blusterer.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Lesser Circle of Protection .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Lesser Rod of Aaron .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Lesser Rotas Cross of Earl Eirikur .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Life Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Looking-Glass.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Moon.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Power Amplifier - Stave for Returning.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Prank Stave .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Prayer Stave .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Protection Against Evil Spirits.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Protection Against Evil Spirits2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Protection Against Evil Spirits3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Protection Against Hatred1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Protection Against Hatred2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Raise the Dead, Exorcise Evil Spirits, or Lay a Ghost.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Reckoning Table .jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Ring Helm or Tide-Mouse Stave .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rings of Concealment .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rod of Aaron.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rose of Love.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Cross .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Cross of King Olafur.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Cross of Olafur Tryggvason.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Cross of Pangbrandur the Priest.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Cross.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Cross0.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Crosses1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Crosses2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Crosses3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rotas Crosses4.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Rowing Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Seal of King Solomon.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Seal of Solomon.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Shield of Aaron.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Signet Ring.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Sky Children's Helmet or Greater Helmet Straps' Knot.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Sleep-Thorn .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Stave of Moses .png" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Stave to Make Someone Stea.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Stave to Win a Girl.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Sword.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/The Old and Beautiful Helm ofTerror and the New Helm ofTerror.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Stefnir's Rotas Cross .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/The Old and Beautiful Helm ofTerror and the New Helm ofTerror2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/The Old and Beautiful Helm ofTerror and the New Helm ofTerror2.jpg" alt="">
+</div>
+
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/The Ship of the Magic Number.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/To Win a Legal Case.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Victory Sign.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Washbasin Stave.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Waymark.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Wheel of Fortune .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Witch-Ride Stave.jpg" alt="">
+</div>
+
+
+
+
+
+![[Galdrastafir Sorcerer's screed _ the Icelandic book of magic spells.pdf]]
+
+![[Galdrabokinn (Es).pdf]]

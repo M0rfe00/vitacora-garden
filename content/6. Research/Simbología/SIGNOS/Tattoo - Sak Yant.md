@@ -1,6 +1,6 @@
 ---
 tags:
-  - Signos-Símbolos
+  - Signos
 ---
 https://www.sak-yant.com/sak-yant/about-sacred-yant/
 https://www.sak-yant.com/108-sacred-yant/
@@ -335,3 +335,344 @@ Which kind of Yant posesses which meaning?… A complete understanding will incr
 - The Yant should be Finished with the drawing of Unaalome above the Yant -meaning that the Yant is now Complete.All Yant are usually completed with the invocation of a Mantra (Pra Kataa) in Pali sanskrit, which is subsequently blown into the yant with your breath (Called Phao kataa / Puug Saeg).
 
 - Most Pra Kataa finish with the Phrase / Spell “Ma A U”.
+
+
+
+# YANTS
+___
+
+## Hah Taew: Five Line Sak Yant
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Chat Phet Five Diamonds0.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Chat Phet Five Diamonds.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Chat Phet Five Diamonds1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew Dok Buea (Five Lines Golden Lotus Flower)1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew Dok Buea (Five Lines Golden Lotus Flower)2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew Lanna - 5 Lines.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew Lanna - 5 Lines1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew Sarika Koo (Love Birds).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew Sarika Koo (Love Birds)1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Hah Taew Five Line Sak Yant/Hah Taew with Crown.jpg" alt="">
+</div>
+The first row prevents unjust punishment and leans in your favor when the area is grey, cleans out unwanted spirits and protects the place you live in. 
+
+The second row reverses and protects against bad horoscope constellations and bad fortune. 
+
+The third row protects you from the use of black magic and anyone who tries to put a curse on you. 
+
+The fourth row energizes your good Luck, Success and fortune in your future ambitions and life style. 
+
+The fifth row is to gain charisma and attraction to the opposite sex. It is also is a boost to the fourth row.
+
+
+Hah Taew Lanna - 5 Lines 
+Northern Lanna Language 5 line is said to have greater Power than the Pali or Khmer Scripts
+
+
+Chat Phet Five Diamonds 
+Similar to other Hah Taew Yant designs. This is often used as a balance to having a Five line if you want two.
+
+
+Hah Taew with Crown 
+Northern Lanna Language 5 line
+
+
+Hah Taew Sarika Koo (Love Birds) 
+Boosts popularity and charm, especially in romantic situations, great for sales, lawyers and teachers
+
+
+Hah Taew Dok Buea (Five Lines Golden Lotus Flower) 
+The Dok Bua Thong Sak Yant is for those who are looking to attract love and Luck in their life. It is helpful to ensure Successful progress in negotiations
+
+
+Chat Phet Five Diamonds 
+Similar to other Hah Taew Yant designs. This is often used as a balance to having a Five line if you want two
+
+
+Hah Taew Sarika Koo (Love Birds) 
+Boosts popularity and charm, especially in romantic situations, great for sales, lawyers and teachers
+
+
+Chat Phet Five Diamonds Monk Aum 
+Design is often used as a balance to having a Five line if you want two
+
+
+Hah Taew Lanna - 5 Lines 
+Monk Aum Design 5 line in the Pali or Khmer Scripts
+
+>[!iNFO]
+>The design of the Paed Tidt Yant also incorporates eight representations of the Buddha. These are the groups of 3 ovals each increasing in size from the top. 
+>
+>The Paed Tidt Yant will give you Protection in whichever direction you are traveling and ward off evil spirits
+
+## EIGHT DIRECTIONS
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Itipiso 8 Direction.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Mongkut Phra Phut Tha Choas.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Paed Tidt or Eight Direction.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Paed Tidt or Eight Direction2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Phra Yan Prajiad Plengrusam.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Sak Yant Design Book-24.png" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Yant Mongkut Pra Buddha Jaow (Crown of Buddha).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Yant Mongkut PrA Buddha Jaow (Crown of Buddha)3.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Yant Paed Tidt Nahsuea.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Paed Tidt/Yord Mongkut Sak Yant.jpg" alt="">
+</div>
+
+Paed Tidt or Eight Direction 
+The design of the Paed Tidt Yant also incorporates eight representations of the Buddha. These are the groups of 3 ovals each increasing in size from the top. 
+
+The Paed Tidt Yant will give you Protection in whichever direction you are traveling and ward off evil spirits. The script used on the Paed Tidt Yant is an ancient Khmer script known as Khom. The Mantras written in the Paed Tidt Yant and which should be chanted when going out to give further Protection are as follows.
+
+Paed Tidt or Eight Direction 
+Different Lineage design, same as the 8 Direction This Yant represents the eight tips pointed to the eight directions which is believed that it can protect the wearer from hazards from all directions no matter where they are.
+
+Yant Paed Tidt Nahsuea 
+Tiger 8 Direction Sak Yant Paed Tidt Nah Suea Tiger Represents Powerful, Protection from 8 directions. Protect from harms, dangers, spells, black magic, and bad spirit. 
+
+Eight-way talisman in front of the tiger Enhanced Power and prestige for people to fear and protect and protect hundreds of dangers
+
+Eight -way talisman in front of the tiger Enhanced Power and prestige for people to fear and protect and protect hundreds of dangers
+
+Yord Mongkut Sak Yant 
+Yord Mongkut (a pointed crown) - for Luck and Protection in battle Round shape, usually tattooed on the top of the head.
+
+Yant Mongkut Pra Buddha Jaow (Crown of Buddha) 
+Kindness and Compassion, Mercy and Protection from all kinds of dangers and harm
+
+
+Itipiso 8 Direction 
+The charm of Itipiso 8 directions has many aspects of Buddhism. Because it is calling the gods to protect in different directions, thus making them invincible, disappearing, fleeing and protecting themselves from
+
+
+Mongkut Phra Phut Tha Choas 
+Yant Mongkood Phraphutthachao Represent Protection, Kindness, Luck. Protect against all dangers Defense of weaponry It is also a great mercy
+
+Phra Yan Prajiad Plengrusam พระยันต์ประเจียดเปล่งรัศมี 
+Yant Phra Yan Prajiad Plengrusam This Buddha amulet, when the Buddha emits him, Chaphanarangsee, he can use all kinds of things, use the way of mercy, so that all dangers can be avoided.
+
+
+
+
+
+
+# Gao Yord (Nine Peaks) 
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Gao Yord/29 Peaks Gao Yord - Yant E Ti Peso.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Gao Yord/29 Peaks Gao Yord 1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Gao Yord/Different Lineage Style of 9 Peaks 2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Gao Yord/Different Lineage Style of 9 Peaks.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Gao Yord/Gao Yord (9 Peaks).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Gao Yord/Sak Yant Design Book-29.png" alt="">
+</div>
+
+1st Increase Popularity 
+2nd Protection from injury 
+3rd Defeat Enemies 
+4th Control over others 
+5th Stand up for what is right 
+6th Magical Protection 
+7th Business Success 
+8th Charm and Charisma 
+9th Improved Fate and Destiny
+
+The design of the Paed Tidt Yant also incorporates eight representations of the Buddha. These are the groups of 3 ovals each increasing in size from the top. 
+
+The Paed Tidt Yant will give you Protection in whichever direction you are traveling and ward off evil spirits. The script used on the Paed Tidt Yant is an ancient Khmer script known as Khom. The Mantras written in the Paed Tidt Yant and which should be chanted when going out to give further Protection are as follows.
+
+Gao Yord (9 Peaks) Master Sak Yant 
+Very Popular Master Yant, the 9 peaks pointing towards Buddha reminds you to lead and live a Spiritual Life in addition to providing Maximum Protection
+
+
+29 Peaks Gao Yord 
+Offers extra Protection for those wanting to extend the Master Yant across their backs
+
+Yant Siri Mala 
+Kindness, Compassion Peace and Love
+
+
+Namaha Mong Kon 
+Kindness, Charm, Business and Compassion
+
+Yant Dokmai Sawan 
+Kindness, Compassion, Success, Charm and Influence
+
+
+
+# Necklace Sak Yant.
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Necklace Sak Yant/Sak Yant Design Book-97.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Necklace Sak Yant/Soy Sung Wan Necklace Sak Yant 2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Necklace Sak Yant/Soy Sung Wan Necklace Sak Yant 3.jpg" alt="">
+</div>
+
+Soy Sung Wan Necklace Sak Yant.
+invulnerability and is similar in design to a necklace. It is believed to be especially Powerful in ensuring that no weapon would be able to harm the wearer’s body when protected by this magic. Especially below the neck
+
+Soy Sung Wan Necklace Sak Yant. 
+invulnerability and is similar in design to a necklace. It is believed to be especially Powerful in ensuring that no weapon would be able to harm the wearer’s body when protected by this magic. Especially below the neck
+
+Soy Sung Wan Necklace Sak Yant.
+invulnerability and is similar in design to a necklace. It is believed to be especially Powerful in ensuring that no weapon would be able to harm the wearer’s body when protected by this magic. Especially below the neck
+
+Yant E Ti Peso 
+Offers extra Protection for those wanting to extend the Master Yant across their backs
+
+
+
+
+# Yant Takraw 
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Yant Takraw.jpg" alt="">
+</div>
+Protections (Talisman Takraw filled with invincible Power, whether fire, guns, knives can not do anything to that person, and Talisman Takraw can also make bad things become good. 
+
+It can also enhance the Power and prestige. If anyone looks at the Takraw talisman, they will feel the dignity and strength, no matter if there are demons, they cannot do anything. 
+
+The key is to be invincible. Including selling well to be rich again It is regarded as a talisman that truly encompasses the universe.)
+
+
+
+# Compassion - Protection - Love -Kindness
+___
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L - Lotus Line.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Dok Buer.png" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Four Elements.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Hua Jai Set Te.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Hua Jai Set Te1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Hua Jai Yak .jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Na mahaniyom.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Na Ngein.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Na Phra Arhan.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Prachao Ha Praong.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Sai Ohm Kan Satru.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Suea ( tiger ) (2).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Suea ( tiger ).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Tao Ruean.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Yant A rahan.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Yant Nawa Hora.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/L -Yant Nawa Hora2.jpg" alt="">
+</div>
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - 9 Lotus petals.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Infinity Yant.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Mericfulness in Life.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Money Bag Sak Yant1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Money Bag Sak Yant2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Namo Phu Tharya.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Pha Ya Jink Jak Koa Hang (Fox).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Phi Seu Kuu Mha Ha Sa Ne.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Phra Phi Kha Nes Yant.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Yant Dok Mai Om.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Yant Dokmai Sawan.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Yant Maha Oot (Holy Monks).jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/8 - Yant Nawa Khun.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Butterfly Yant.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Dok Buer.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Dok Mai Ma Ha Sa Neih.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Jinjak.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Kon Nak Ma Ha Cha Ne (Bird Feather).jpg" alt="">
+</div>
+
+
+<div class="galeria">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Mericfulness in Life 2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Namaha Mong Kon1.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Phra Caw Sib Chati.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Playboy Charm and Charisma.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Prachao Ha Praong2.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/San Thong Yant.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Chai Chana Mongkon.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Charming Butterfly.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Huwjai Praphutachaw.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Na Mahar lap.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Pithar Mahar Ot.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Siri Mala.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Sakyant/Effects/Yant Ta (Eye).jpg" alt="">
+</div>
+
+
+Yant Nawa Khun - Protection from danger
+
+Yant Pithar Mahar Ot - Protection from danger and your Enemy
+
+Yant Chai Chana Mongkon - Kindness Compassion and Fortune
+
+Yant Dok Mai Om - Kindness Compassion, peace and love
+
+Namo Phu Tharya - Protection from all the danger of Black Magic
+
+Yant Na Mahar lap - Kindness, Charm, Business and Luck
+
+Phra Caw Sib Chati - Kindness Compassion, Success with life
+
+Dok Buer - Kindness Compassion, Protection and love.
+
+Dok Mai Ma Ha Sa Neih - Increase Charm and Love.
+
+Jinjak - People who like to seek fortune. It very good. Helping prosper in trading and Business also wealth.
+
+Yant Huwjai Praphutachaw - Protection Kindness and Compassion.
+
+Yant Ta (Eye) - Kindness, Love, Compassion.
+
+Infinity Yant - fix feng shui, support destiny & fortune. prevent danger, enhance charm.
+
+San Thong Yant - Business, Charm, Mercy, Great Fortune and Trading.
+
+Hua Jai Set Te - Great Fortune Wealth, Business.
+
+Butterfly Yant - Charm and Charisma.
+
+9 Lotus petals - Metta Maha Niyom, Prevent daner (Protaction) //Mericfulness in Life.
+
+Phra Phi Kha Nes Yant - Ganesh Talisman Yant for Wealth and Success.
+
+Money Bag Sak Yant - The bag of gold coins. This talisman helps about of good fortune for those who do Business. People who like to seek fortune. It very good. Helping prosper in trading and Business.
+
+Yant Maha Oot (Holy Monks) - Protection and resistance from weapons and danger.
+
+Kon Nak Ma Ha Cha Ne (Bird Feather) - For increased Charm and verbal influence.
+
+Namaha Mong Kon - For Kindness, Cham, Business and Compassion.
+
+Pha Ya Jink Jak Koa Hang (Fox) - Love and Merciful Life.
+
+Dok Buer - Kindness Compassion, Protection and love.
+
+Four Elements - Four elements for love and Happiness also peace.
+
+Prachao Ha Praong - Good Luck, Happiness, Well Being Protection from any potential surrounding bad spirits.
+
+Prachao Ha Praong - Good Luck Happiness Well Being Protection from any potential surrounding bad spirits.
+
+Hua Jai Set Te Great Fortune ,Wealthy and Business.
+
+Hua Jai Yak Proteations from evil.
+
+Na mahaniyom Popularrily.
+
+Yant A rahan General Protections.
+
+Suea ( tiger ) Power and Strenght.
+
+Yant Nawa Hora Protection from bad People.
+
+Na Phra Arhan Kindness,Luck and Protection.
+
+Na Protection Protection from Evil Spirits.
+
+Tao Ruean Kindness, long life and Business.
+
+Na Ngein Good Fortune, money and trading.
+
+Sai Ohm Kan Satru Protection from enemy people surround.
+
+Lotus Line Compassion, Protection Increased Popularlity and Charism.

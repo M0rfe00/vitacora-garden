@@ -1,6 +1,6 @@
 ---
 tags:
-  - Signos-Símbolos
+  - Signos
 ---
 **Escudos de armas, uso simbólico, emblemático y reglamentación estética de la heráldica.**
 
