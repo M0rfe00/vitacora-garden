@@ -176,7 +176,7 @@ Además de lo que para el vodú mismo es la cruz. Además de todos los elementos
 ___
 <div class="galeria2">
 <img
-  src="../media-content/Research/Simbologia/Veve vodou/44-48 Brise Montagne/16Veve.jpg"
+  src="../media-content/Research/Simbologia/Veve vodou/VUDU-VEVE/16Veve.jpg"
   alt=""
 />
 <img
@@ -304,7 +304,7 @@ ___
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/50-55 Carrefour/53 Carrefour Louvim'bha.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/50-55 Carrefour/54 Carrefour Maza.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/50-55 Carrefour/55 Carrefour.jpg" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/50-55 Carrefour/Kalfu-Carrefour.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/Kalfu-Carrefour.jpg" alt="">
 </div>
 
 ## CEREMONIE
@@ -343,10 +343,11 @@ ___
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/97 Erzulie Guinin.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/98 Erzulie la flambeau.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/99 Erzulie les yeux rouges.jpg" alt="">
-</div>
-<div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/100 Erzulie Mapiangueh.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/101 Erzulie Modongue, Caplau, Anmine.jpg" alt="">
+</div>
+
+<div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/102 Erzulie Pethro.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/103 Erzulie Phre-Da.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/104 Erzulie Sinigal, dite la gemme blanche.jpg" alt="">
@@ -355,11 +356,10 @@ ___
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/107 Erzulie Mapiangueh.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/108 Erzulih Phreda.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/109 Erzulih.jpg" alt="">
-</div>
-<div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/110 Escorte D'erzulie.png" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/90-111 Erzulie/111 Ezili Freda.png" alt="">
 </div>
+
 
 ## GRANDS
 <div class="galeria">
@@ -385,8 +385,8 @@ ___
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/142-152 Legba/150 Legba Carrefour.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/142-152 Legba/152 Legba.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/142-152 Legba/Legba.jpg" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/142-152 Legba/Papa Legba.png" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/142-152 Legba/Legba Atibon.jpg" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/Papa Legba.png" alt="">
+<img loading= "lazy" src="../media-content/Research/Simbologia/Veve vodou/Legba Atibon.jpg" alt="">
 </div>
 
 ## LOCO

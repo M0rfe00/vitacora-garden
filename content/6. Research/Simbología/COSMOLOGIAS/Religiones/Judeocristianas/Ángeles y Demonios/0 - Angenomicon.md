@@ -239,7 +239,7 @@ Su función es infundir elocuencia y deleite, dar gran claridad de entendimiento
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/" 
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Capricornio.png" 
   alt="Apple Blossom – Malus"
 />
 
@@ -251,7 +251,7 @@ Su función es enseñar música, lógica y moral. Este es su sello:
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Capricornio.png" 
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Acuario.png" 
   alt="Apple Blossom – Malus"
 />
  
@@ -264,7 +264,7 @@ Su función es transportar a los hombres de un lugar a otro y este es su sello:
 ____
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/" 
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Piscis.png" 
   alt="Apple Blossom – Malus"
   class="entry-image"
 />
@@ -583,7 +583,7 @@ Pahaliah sirve contra los enemigos de la religión. Gobierna la religión, la te
 ___  
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/21 Nelchael" 
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/21 Nelchael.jpg" 
   alt="Apple Blossom – Malus"
   class="entry-image"
 />
@@ -1235,7 +1235,7 @@ Anauel protege contra los accidentes. Preserva la salud y cura enfermedades. Rig
 ___ 
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/64 Mehiel.jpg
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/64 Mehiel.jpg"
   class="entry-image"
 />
 
@@ -1383,12 +1383,6 @@ Mumiah protege en operaciones misteriosas y trae éxito en todas las cosas. Gobi
 
 # Los 6 arcángeles del Todopoderoso
 ___
-<img
-  loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/" 
-  alt="Apple Blossom – Malus"
-  class="entry-image"
-/>
 
 con sus nombres, poderes, el versículo de la Biblia que les corresponde y sus sellos dibujados cabalísticamente.
 
@@ -1498,10 +1492,9 @@ Es el ángel del Norte.
 # La escritura de los ángeles - El manuscrito Malachim
 ___
 <img
-  loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/" 
-  alt="Apple Blossom – Malus"
-  class="entry-image"
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Alfabeto Angelical.jpg" 
+  alt="manuscrito"
+  style="display: block; margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Este alfabeto fue creado por antiguos eruditos hebreos mediante la práctica y el estudio de las líneas que conectan las estrellas de las constelaciones donde se sabía que ciertos ángeles habitaban el firmamento. Mediante este método, desarrollaron un sistema de escritura mediante el cual los mortales podían comunicarse en lengua hebrea directamente con los seres celestiales. Las palabras formadas con estos caracteres deben estar escritas en hebreo, ya que cualquier otro idioma haría que las palabras resultaran indescifrables para los coros angelicales.
@@ -1510,8 +1503,8 @@ Este alfabeto fue creado por antiguos eruditos hebreos mediante la práctica y e
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/" 
-  alt="Apple Blossom – Malus"
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Circulo Conjuracion espiritus.jpg" 
+  alt="Circulo"
   class="entry-image"
 />
 
@@ -1542,8 +1535,8 @@ Una vez creados estos sellos y pentáculos, recita la Invocación para Conjurar 
 ___
 <img
   loading= "lazy" 
-  src="../media-content/Research/Simbologia/Cristianismo/Angeles/" 
-  alt="Apple Blossom – Malus"
+  src="../media-content/Research/Simbologia/Cristianismo/Angeles/Pentaculo Salomon.jpg" 
+  alt="Pentáculo"
   class="entry-image"
 />
 
