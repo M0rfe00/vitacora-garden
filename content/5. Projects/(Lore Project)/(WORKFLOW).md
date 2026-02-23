@@ -49,22 +49,11 @@ _Los roles son orientativos no rígidos_
 
 ___
 
->[!Tip] <h1>BENEFICIOS</h1>
->
->___
->- Practicar en las respectivas áreas.
->- Generar portfolio.
->- Autopromoción de cada uno (tattoos, ilustraciones, diseño...).
 
 
 
 <!--
-# POSIBLES IMPLEMENTACIONES
-___
-- Renders 3D.
-- Ilustraciones contando lore.
-- Utilizar este mundo para crear historias, con la condición de ser un relato más, y no el eje central de este universo. 
-- Una baraja de cartas utilizando los personajes e historia.
+
 -->
 
 

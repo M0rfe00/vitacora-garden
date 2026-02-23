@@ -25,6 +25,19 @@ Este proyecto se basa en el desarrollo de una narrativa, las bases, la creación
 
 - **Sinopsis** - Resumen extenso y detallado de toda la trama.
 
+
+# POSIBLES IMPLEMENTACIONES
+___
+- Renders 3D.
+- Ilustraciones contando lore.
+- Utilizar este mundo para crear historias, con la condición de ser un relato más, y no el eje central de este universo. 
+- Una baraja de cartas utilizando los personajes e historia.
+- Practicar en las respectivas áreas.
+- Generar portfolio.
+- Autopromoción de cada uno (tattoos, ilustraciones, diseño...).
+
+
+
 # Premisas dramáticas:
 ___
 - **¿Quiénes son los personajes?** - El Artista, Sophia, Demiurgo, Hermes, Arquetipos y Arcontes.
@@ -48,6 +61,13 @@ ___
 - Punto medio
 - Clímax
 - Resolución
+
+
+>[!Tip] <h1>BENEFICIOS</h1>
+>
+>___
+
+
 
 
 
