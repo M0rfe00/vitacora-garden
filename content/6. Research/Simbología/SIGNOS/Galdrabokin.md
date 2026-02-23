@@ -250,15 +250,6 @@ ___
 
 <div class="galeria">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Convicts' Seal, Protective Stave of a Speaking Spirit, and Covering for a Speaking Spirit.jpg" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
 </div>
 
 <div class="galeria">
@@ -298,19 +289,6 @@ ___
 <img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greater Shield ofTerror.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Greatest Dream Stave1.jpg" alt="">
 <img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/Helm of Concealment.jpg" alt="">
-</div>
-
-<div class="galeria">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
-<img loading= "lazy" src="../media-content/Research/Simbologia/Galdrastafir Staves/" alt="">
 </div>
 
 <div class="galeria">

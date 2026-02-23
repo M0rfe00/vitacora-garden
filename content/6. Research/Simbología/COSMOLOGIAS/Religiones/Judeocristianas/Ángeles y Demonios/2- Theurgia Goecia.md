@@ -287,11 +287,6 @@ ___
 
 ### VRIEL: 
 ___
- <img
-  src="../media-content/Research/Simbologia/Cristianismo/Teurgia/" 
-  alt="Demon"
-  class="entry-image"
-/> 
  El décimo de los príncipes Errantes es Vriel, quien posee 10 Duques Mayores bajo su mando y 100 Duques Menores debajo de ellos , con sus respectivos sirvientes. Todos ellos son de naturaleza malvada y no te obedecerán fácilmente, y son bastante falsos en sus acciones. Aparecen en formas de Serpiente con Cabeza de Vírgenes. Nosotros solo mencionaremos 10 de los Grandes Duques, que poseen 650 compañeros y sirvientes para atenderlos. ¨ Yo te conjuro, Oh poderoso y potente Príncipe Vriel, quien baga por aquí y por allí en la atmósfera, junto a sus fieles sirvientes; Yo te Conjuro a Ti Vriel, para que te manifiestes junto a tus sirvientes en esta .......hora del día , para que te presentes de manera visible, aquí dentro de esta esfera de cristal , ( o allí detrás del circulo evocatorio)..etc. 
 
 ### BYDIEL: 
