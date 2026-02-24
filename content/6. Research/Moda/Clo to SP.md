@@ -206,8 +206,16 @@ ___
 >Para cambiar las propiedades del enviorment clicar en el icono de la pantalla "Display Settings"
 
 **RECOMENDED PAINT INTERFACE**
-![[Pasted image 20260219152412.png]]
-![[Pasted image 20260219160303.png]]
+<img
+  src="../media-content/Apuntes/3D-Notes/Textures/20260219152412.png"
+  alt="Material"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/3D-Notes/Textures/20260219160303.png"
+  alt="Material"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 >[!Info] Display settings
 >Panel para cambiar las propiedades de la escena; 

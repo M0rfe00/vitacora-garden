@@ -310,7 +310,7 @@ ___
 # 3D MATERIALS
 ___
 <img
-  src="../media-content/Apuntes/3D-Notes/Materials 20260213162030.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Materials 20260213162030.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -319,7 +319,7 @@ ___
 ## **Textures:** 
 Imágenes como mapas de color, mapas de normales, los cuales se conectan luego a shaders.
 <img
-  src="../media-content/Apuntes/3D-Notes/Color 20260213162103.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Color 20260213162103.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -328,7 +328,7 @@ Imágenes como mapas de color, mapas de normales, los cuales se conectan luego a
 ## **Shaders:** 
 Cogen las texturas para modificar como se ve la geometría, un "emission shader" hace la geometría brillante y un "glossy shader" controla que tan rugoso o reluciente es.
 <img
-  src="../media-content/Apuntes/3D-Notes/Glossy 20260213162149.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Glossy 20260213162149.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -338,7 +338,7 @@ Cogen las texturas para modificar como se ve la geometría, un "emission shader"
 ## Materials: 
 Contienen texturas y shaders para crear el look final.
 <img
-  src="../media-content/Apuntes/3D-Notes/Materials 20260213162238.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Materials 20260213162238.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -350,7 +350,7 @@ Contienen texturas y shaders para crear el look final.
 ### Diffuse:
 Coge un input de color y calcula como se ve ese color bajo la luz, decidiendo que partes deben ser claras y cuales oscuras.
 <img
-  src="../media-content/Apuntes/3D-Notes/Color 20260213162944.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Color 20260213162944.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -359,12 +359,12 @@ Coge un input de color y calcula como se ve ese color bajo la luz, decidiendo qu
 ### Albedo
 Cuando se usa un "color texture" suele ser un albedo map, el albedo es el color "raw" sin luz aplicada, solo color puro
 <img
-  src="../media-content/Apuntes/3D-Notes/Color 20260213162631.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Color 20260213162631.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/Apuntes/3D-Notes/Color 20260213162922.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Color 20260213162922.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -375,7 +375,7 @@ Cuando se usa un "color texture" suele ser un albedo map, el albedo es el color 
 Simula superficies reflectivas suaves como cristal, metal o plástico, suelen tener valores como Roughness o Glossiness que controlan que tan áspera o afilada es el reflejo.
 Roughness alto significa reflejos más borrosos, 
 <img
-  src="../media-content/Apuntes/3D-Notes/Glossy 20260213163150.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Glossy 20260213163150.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -383,7 +383,7 @@ Roughness alto significa reflejos más borrosos,
 
 En caso de usar glossiness, el valor debe voltearse, ej; si se quiere más rugosidad disminuir glossines y viceversa, si se conecta un Glossy Map a un Roughness shader hay que invertir la texrura.
 <img
-  src="../media-content/Apuntes/3D-Notes/Glossy 20260213163602.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Glossy 20260213163602.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -392,7 +392,7 @@ En caso de usar glossiness, el valor debe voltearse, ej; si se quiere más rugos
 ### Refraction shader:
 Es utilizado para materiales transparentes como cristal, agua y vidrio. En lugar de rebotar la luz esta pasa a través de la superficie
 <img
-  src="../media-content/Apuntes/3D-Notes/Refraction 20260213163844.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Refraction 20260213163844.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -400,7 +400,7 @@ Es utilizado para materiales transparentes como cristal, agua y vidrio. En lugar
 
 El valor IOR (Index Of Refreaction) controla cuanto se dobla la luz al atravesar el objeto
 <img
-  src="../media-content/Apuntes/3D-Notes/IOR 20260213164015.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/IOR 20260213164015.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -409,7 +409,7 @@ El valor IOR (Index Of Refreaction) controla cuanto se dobla la luz al atravesar
 # Metallic
 Controla que tan metálica es una superficie, los metales reflejan la luz tintándola del color de la superficie, mientras que el plástico no la modifica.
 <img
-  src="../media-content/Apuntes/3D-Notes/Metallic 20260213164120.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Metallic 20260213164120.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -418,7 +418,7 @@ Controla que tan metálica es una superficie, los metales reflejan la luz tintá
 ### Specular
 Simula los destellos que aparecen cuando una luz golpea directamente la superficie
 <img
-  src="../media-content/Apuntes/3D-Notes/Specullar 20260213164224.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Specullar 20260213164224.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -427,7 +427,7 @@ Simula los destellos que aparecen cuando una luz golpea directamente la superfic
 ### Opacity
 Establece la opacidad de la geometría, pudiendo conectarse un Alpha map para controlarla. Util para objetos como hojas pudiendo aplicar la imagen de una hoja y un alpha map para hacer su fondo transparente sin tener que modelar la hoja.
 <img
-  src="../media-content/Apuntes/3D-Notes/Opacity 20260213164309.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Opacity 20260213164309.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -436,7 +436,7 @@ Establece la opacidad de la geometría, pudiendo conectarse un Alpha map para co
 ### Emission
 Emite el color establecido como una luz, cuanto más alto el valor más fuerte será la luz emitida
 <img
-  src="../media-content/Apuntes/3D-Notes/Emission 20260213164655.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Emission 20260213164655.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -446,7 +446,7 @@ Emite el color establecido como una luz, cuanto más alto el valor más fuerte s
 ### Subsurface Scattering
 Simula el paso de la luz a través de la superficie, util para hacer piel y cera realista.
 <img
-  src="../media-content/Apuntes/3D-Notes/SSS 20260213164848.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/SSS 20260213164848.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -456,12 +456,12 @@ Simula el paso de la luz a través de la superficie, util para hacer piel y cera
 ### Coat:
 En caso de haber aplicado primero una primera capa de color y luego añadir coat, esto ayuda a crear un look gloosy creando una capa fina por encima, no afecta al color, solo a los reflejos.
 <img
-  src="../media-content/Apuntes/3D-Notes/Coat 20260213165057.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Coat 20260213165057.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/Apuntes/3D-Notes/Coat 20260213165141.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Coat 20260213165141.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -470,7 +470,7 @@ En caso de haber aplicado primero una primera capa de color y luego añadir coat
 ### Anisotropy
 Controlo como se estrecha la luz en zonas en direcciones especificas, comunmente utilizado en metales, pelo y tejidos
 <img
-  src="../media-content/Apuntes/3D-Notes/Anisiotropy 20260213165409.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Anisiotropy 20260213165409.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -479,7 +479,7 @@ Controlo como se estrecha la luz en zonas en direcciones especificas, comunmente
 ### Physically Based Rendering
 La mayoría de softwares de 3D ofrecen un sistema de shaders estandarizado llamado PBR (Physically Based Rendering) lo que ayuda a crear materiales fotorrealistas y consistentes
 <img
-  src="../media-content/Apuntes/3D-Notes/BSDF 20260213170345.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/BSDF 20260213170345.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -488,7 +488,7 @@ La mayoría de softwares de 3D ofrecen un sistema de shaders estandarizado llama
 ## **Shaders Inputs:** 
 Los shaders pueden tomar diferentes tipos inputs; valores, colores, imágenes, videos e incluso materiales procedurales.
 <img
-  src="../media-content/Apuntes/3D-Notes/Shader Inputs 20260213170522.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Shader Inputs 20260213170522.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -497,7 +497,7 @@ Los shaders pueden tomar diferentes tipos inputs; valores, colores, imágenes, v
 ### Prodcedural textures
 Son patrones, ruidos o cualquier textura generada directamente en el programa, son útiles para añadir bump, imperfecciones o patrones estilizados como gradientes.
 <img
-  src="../media-content/Apuntes/3D-Notes/Procedural textures 20260213170611.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Procedural textures 20260213170611.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -506,12 +506,12 @@ Son patrones, ruidos o cualquier textura generada directamente en el programa, s
 #### Gradient textures
 Suelen ser útiles para conectar a color ramps y crear gradientes de color
 <img
-  src="../media-content/Apuntes/3D-Notes/Gradient 20260213170745.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Gradient 20260213170745.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/Apuntes/3D-Notes/Gradient Colors 20260213170843.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Gradient Colors 20260213170843.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -520,12 +520,12 @@ Suelen ser útiles para conectar a color ramps y crear gradientes de color
 #### Organic Patterns
 Voronoi y Cellular son dos texturas que permiten crear patrones orgánicos, utiles para piedras o pieles. En blender también existe "Brick Textura" el cual permite crear un patrón de ladrillos
 <img
-  src="../media-content/Apuntes/3D-Notes/Organic Patterns 20260213171003.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Organic Patterns 20260213171003.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/Apuntes/3D-Notes/Organic Patterns 20260213171121.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Organic Patterns 20260213171121.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -533,7 +533,7 @@ Voronoi y Cellular son dos texturas que permiten crear patrones orgánicos, util
 
 ## Inputs to add depth
 <img
-  src="../media-content/Apuntes/3D-Notes/Depth 20260213171242.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Depth 20260213171242.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -542,7 +542,7 @@ Voronoi y Cellular son dos texturas que permiten crear patrones orgánicos, util
 ### Displacement
 Desplaza la superficie hacia arriba o abajo
 <img
-  src="../media-content/Apuntes/3D-Notes/Displacement 20260213171412.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Displacement 20260213171412.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -550,7 +550,7 @@ Desplaza la superficie hacia arriba o abajo
 
 Height/Displacement Map: normalmente se usan para controlar este valor. Este mapa es una imagen en blanco en negro, cuanto más blanco más se desplazara la superficiey viceversa.
 <img
-  src="../media-content/Apuntes/3D-Notes/Displacement 20260213171532.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Displacement 20260213171532.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -558,7 +558,7 @@ Height/Displacement Map: normalmente se usan para controlar este valor. Este map
 
 La calidad del displacement depende del numero de vertices de la superficie, por lo que puede ser pesado para el pc.
 <img
-  src="../media-content/Apuntes/3D-Notes/Bump 20260213171828.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Bump 20260213171828.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -566,12 +566,12 @@ La calidad del displacement depende del numero de vertices de la superficie, por
 
 **Normal Maps:** añaden detalle adicional a la geometría, para ello mapea las normales afectando a como interacciona la luz con el material, todo ello sin necesidad de añadir polígonos al modelo.
 <img
-  src="../media-content/Apuntes/3D-Notes/Normal 20260213171934.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/Normal 20260213171934.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/Apuntes/3D-Notes/NormalDirections 20260213172628.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/NormalDirections 20260213172628.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -579,7 +579,7 @@ La calidad del displacement depende del numero de vertices de la superficie, por
 
 Bump Maps: al igual que los bump maps son en blanco y negro y las zonas blancas representan altura. Los shaders generan normales basados en el bump map, creando un efecto similar al de los normal maps.
 <img
-  src="../media-content/Apuntes/3D-Notes/BumpvsShader 20260213172259.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/BumpvsShader 20260213172259.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -587,7 +587,7 @@ Bump Maps: al igual que los bump maps son en blanco y negro y las zonas blancas 
 
 Mientras que los mapas de normales contienen información XYZ los maps de bump solo contienen la altura
 <img
-  src="../media-content/Apuntes/3D-Notes/BumpvsNormal 20260213172503.png"
+  src="../media-content/Apuntes/3D-Notes/Textures/BumpvsNormal 20260213172503.png"
   alt="Material"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
