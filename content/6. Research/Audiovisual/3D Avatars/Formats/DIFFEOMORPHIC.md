@@ -40,16 +40,16 @@ ___
 ==Seleccionar el personaje y guardar la escena== en una carpeta.
 
 ## **Exportar a Blender:** 
-==**Buscar el Script== de Diffeomorphic en Content Library y ejecutar:**
+- **==Buscar el Script==** de Diffeomorphic en Content Library y ejecutar:**
 
-- "==Export to Blender==" lo cual creara un archivo secundario con el mismo nombre con el cual se guardo el proyecto de Daz (==guardar en la misma carpeta== para que Blender lo identifique).
+- "**==Export to Blender==**" lo cual creara un archivo secundario con el mismo nombre con el cual se guardo el proyecto de Daz (**==guardar en la misma carpeta==** para que Blender lo identifique).
 
-- "==Save Path==" y ==guardar el archivo generado en la misma carpeta== que los anteriores archivos.
+- "**==Save Path==**" y **==guardar el archivo generado en la misma carpeta==** que los anteriores archivos.
 
 ## **Importar en Blender:** 
 - Tras instalar y habilitar el add-on en Blender abrir su panel y en Global Settings>Load Root Paths: seleccionar carpeta donde se guardaron los archivos anteriores y seleccionar el archivo .json (esto permite importar el proyecto de Daz).
 
-- EN el panel del add-on seleccionar "==Import Daz==" y seleccionar el archivo .duf
+- EN el panel del add-on seleccionar "**==Import Daz==**" y seleccionar el archivo .duf
 
 >[!Bug] aviso
 >Al importar suele salir un aviso de error, no hacer caso

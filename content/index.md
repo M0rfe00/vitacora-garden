@@ -16,7 +16,7 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
     </div>
   </a>
 
-  <a href="3. Photography" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+  <a href="Photography" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
     <div>
        📸 <strong>Photography</strong>
     </div>
