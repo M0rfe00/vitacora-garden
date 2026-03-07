@@ -12,7 +12,7 @@ tags:
 >- [PlainTextures](https://www.plaintextures.com/es/pbr/browse/fabric/32/page/1) - Texturas PBR
 >- [JoshMcCann](https://joshmccann.art/store/X8nA/220-high-quality-photo-scanned-4k-pbr-fabric-textile-substance-materials) - 220 Texturas escaneadas de telas para Substance Painter
 >- [Dimitris Fabric Collection PBR](https://katsafouros.gumroad.com/) - 67 Texturas escaneadas de telas para Blender/C4D
->
+
 
 # ==CLO3D EXPORT==
 ___

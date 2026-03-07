@@ -328,7 +328,7 @@ El visagismo no se centra en corregir si que una vez identificado el carácter e
 
 
 >[!Info] Ejemplo 1:
-En un rostro con alta tensión angular se podría:
+>En un rostro con alta tensión angular se podría:
 >- Reforzarlo: hacerlo aún más escultórico (estética editorial).  
 >- Suavizarlo para hacerlo más accesible.  
 >- Contrastarlo con elementos etéreos para generar complejidad.
