@@ -1,0 +1,187 @@
+EL tallaje es el proceso por el cual se ajusta la prenda para que se ajuste a diferentes tipos de cuerpos.
+
+"Hero garment" es la pieza que originalmente se diseño, por ejemplo una "M".
+
+Una vez el prototipo esta aprobado hay que realizar las tellas inferiores y superiores, para ajustar la prenda solo hay que ajustar algunas secciones claves en lugar de escalar la prenda por completo proporcionalmente.
+
+Lo que determina que es una talla S, M, XL... son los sistemas de estandarización ISO y ASTM.
+
+
+
+# ESTANDAR ISO
+___
+El estándar internacional principal para la designación de tallas de ropa es la serie **ISO 8559**. 
+
+Esta norma establece métodos antropométricos para medir el cuerpo humano, define perfiles de tallas y especifica dimensiones primarias y secundarias para asegurar un ajuste correcto en la confección.
+
+- **Parte 1:** Define las medidas corporales y los métodos de medición antropométrica.
+
+- **Parte 2:** Indica las dimensiones principales y secundarias necesarias para clasificar las prendas.
+
+Su objetivo es reducir las variaciones entre países, facilitar el comercio internacional y mejorar la satisfacción del consumidor al estandarizar cómo se definen y comunican las tallas en las etiquetas.
+
+
+**Otras normas relacionadas son:**
+**ISO 13402:** Es una norma europea ampliamente utilizada que también se basa en dimensiones corporales en centímetros para designar las tallas.
+
+**ISO 13688:** Específica para **ropa de protección**, establece requisitos generales que incluyen criterios de ergonomía y tallaje obligatorio para equipos de seguridad laboral.
+
+## Medidas corporales principales según ISO
+___
+Medidas de contorno (perímetros)
+- **Contorno de pecho/busto** → parte más prominente del pecho
+- **Contorno de cintura** → cintura natural
+- **Contorno de cadera** → parte más prominente de las caderas y glúteos
+- **Contorno de cuello** → base del cuello
+- **Contorno de brazo** → bíceps relajado
+- **Contorno de muñeca**
+- **Contorno de muslo** → parte más ancha
+- **Contorno de rodilla**
+- **Contorno de tobillo**
+
+Medidas de longitud / altura
+- **Estatura** → del suelo a la coronilla
+- **Altura de pecho** → hombro a punto de busto
+- **Largo de espalda** → base del cuello a cintura
+- **Largo de manga** → hombro a muñeca con brazo ligeramente flexionado
+- **Largo de pierna interior** → entrepierna al suelo
+- **Altura de cadera** → cintura a línea de cadera
+
+Medidas de anchura
+- **Anchura de hombros** → entre puntos acromiales
+- **Anchura de espalda** → entre axilas por detrás
+- **Anchura de pecho** → entre axilas por delante
+
+Medidas específicas para mujer (cuando aplica)
+- **Separación de busto** → entre puntos de pecho
+- **Subbusto** → contorno bajo el pecho
+
+## Mujer — sistema EU (base ISO de medidas corporales)
+
+| Talla EU  | Busto (cm) | Cintura (cm) | Cadera (cm) |
+| --------- | ---------- | ------------ | ----------- |
+| 32        | 76–79      | 60–63        | 84–87       |
+| 34        | 80–83      | 64–67        | 88–91       |
+| 36        | 84–87      | 68–71        | 92–95       |
+| 38        | 88–91      | 72–75        | 96–98       |
+| 40        | 92–95      | 76–79        | 99–102      |
+| 42        | 96–99      | 80–84        | 103–106     |
+| 44        | 100–103    | 85–89        | 107–110     |
+| 46        | 104–109    | 90–94        | 111–115     |
+| 48        | 110–115    | 95–100       | 116–121     |
+Hombre — sistema EU (prendas superiores)
+
+|Talla EU|Pecho (cm)|Cintura (cm)|
+|---|---|---|
+|44|86–89|74–77|
+|46|90–93|78–81|
+|48|94–97|82–85|
+|50|98–101|86–89|
+|52|102–105|90–94|
+|54|106–109|95–99|
+|56|110–113|100–104|
+
+# ESTANDAR ASTM
+___
+Los estándares ASTM (como la norma **D5585**) proporcionan tablas de medidas corporales antropométricas para ayudar a los fabricantes a diseñar patrones consistentes.
+
+Aunque estas normas ofrecen una base técnica, su adopción es voluntaria, por lo que no garantizan uniformidad entre marcas de moda.
+
+El objetivo principal es ofrecer a la industria referencias basadas en datos antropométricos actuales para reducir la confusión del consumidor y mejorar la consistencia en el diseño de prendas.
+
+ASTM publica diversas normas específicas para diferentes grupos poblacionales (ej. adultos, jóvenes, niños). Por ejemplo, la **ASTM D5585** establece medidas para mujeres (tallas 00 a 20).
+
+Las marcas de ropa suelen utilizar sus propias tablas de tallas para ajustarse a sus nichos de mercado específicos, lo que explica la inconsistencia en las tallas comerciales.
+
+Algunos estándares específicos han sido retirados o actualizados a medida que las características físicas de la población cambian.
+
+Mientras que ASTM es un referente común en América del Norte, existen otras normas internacionales (como **ISO 8559**) y europeas (como **EN 13402**) que también buscan estandarizar las medidas corporales para la industria textil.
+
+## Medidas corporales principales según ASTM
+___
+**Contornos clave**
+- Busto / Pecho
+- Cintura natural
+- Cadera alta y cadera baja (full hip)
+- Cuello
+- Brazo (bíceps)
+- Muñeca
+- Muslo
+
+**Alturas y largos**
+- Estatura
+- Largo de espalda a cintura
+- Altura de cadera
+- Largo de manga
+- Entrepierna (inseam)
+
+**Anchuras**
+- Ancho de hombros
+- Ancho de espalda
+- Ancho de pecho
+
+**Específicas mujer**
+- Subbusto
+- Separación de busto
+
+Conversión típica ASTM → tallas EU (Mujer)
+
+|EU|Busto (cm)|Cintura (cm)|Cadera (cm)|Equivalente ASTM aprox.|
+|---|---|---|---|---|
+|32|76–79|58–61|84–87|0|
+|34|80–83|62–65|88–91|2|
+|36|84–87|66–69|92–95|4|
+|38|88–91|70–73|96–98|6|
+|40|92–95|74–77|99–102|8|
+|42|96–99|78–81|103–106|10|
+|44|100–103|82–85|107–110|12|
+|46|104–109|86–91|111–115|14|
+|48|110–115|92–97|116–121|16|
+
+Conversión típica ASTM → tallas EU (Hombre)
+
+|EU|Pecho (cm)|Cintura (cm)|Equivalente ASTM aprox.|
+|---|---|---|---|
+|44|86–89|74–77|34|
+|46|90–93|78–81|36|
+|48|94–97|82–85|38|
+|50|98–101|86–89|40|
+|52|102–105|90–94|42|
+|54|106–109|95–99|44|
+|56|110–113|100–104|46|
+
+
+# Medidas del sistema Martí
+___
+### **Manga:**
+- **Largo total:** De hombro a muñeca con el brazo flexionado 
+- **Largo codo:** De hombro a codo
+- Contorno brazo - (1/2): Al rededor del bíceps 
+- Contorno muñeca - (1/2): Al rededor de la muñeca dejando un poco de margen
+
+### **Pantalón:**
+- Contorno cadera - (1/4):
+- Altura cadera: 
+- Entre pierna:
+- Largo tobillo:
+- Contorno rodilla - (1/2):
+- Contorno tobillo - (1/2):
+- Contorno cintura - (1/8):
+
+### **Cuerpo:**
+- Contorno cuello - (1/6):
+- Talle espalda: 
+- Talle delante:
+- Alto pecho:
+- Ancho espalda - (1/2):
+- Caída:
+- Sisa:
+- Contorno tórax - (1/4):
+- Pecho - (1/2):
+- Contorno cintura - (1/8):
+
+### **Falda:**
+- Contorno cintura - (1/8):
+- Contorno cadera - (1/4):
+- Altura cadera:
+- **Largo total:** El largo deseado para la falda

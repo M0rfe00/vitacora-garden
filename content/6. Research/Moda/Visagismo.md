@@ -1,0 +1,477 @@
+>[!Info] VISAGISMO
+>En visagismo, **analizar la geometría y proporción de un rostro** no es solo clasificarlo en una forma (ovalado, redondo, etc.), sino **estudiar cómo se relacionan entre sí las distintas partes del rostro** y cómo estas relaciones pueden influir en la percepción visual y estética.
+>
+>El visagismo se convierte en composición aplicada a identidad, y el rostro funciona como un soporte estructural, campo simbólico y narrativa, creando una **lectura visual estructurada del rostro** desde múltiples planos y proporciones.
+>
+>El visagismo completo ocurre cuando alineas: Geometría + Expresión natural + Intención narrativa.
+
+
+## MEDIDAS FACIALES
+___
+1) Medir en la frente desde un extremo de la ceja al otro
+2) Medir en las mejillas desde un extremo del ojo al otro
+3) Medir de inferior de la oreja al otro pasando por la punta de la mandíbula 
+4) Medir el largo de la cara desde el inicio del pelo a la barbilla
+
+## 1. Rostro ovalado
+___
+Estructura general:
+- Proporciones equilibradas. Tercios relativamente compensados.
+- Ligeramente más largo que ancho
+- Predominio leve de líneas curvas.
+- Centro visual suele situarse en pómulos.
+
+**Tensión estructural:** 
+- baja-media. Es un rostro neutro y adaptable.
+
+Estrategias posibles:
+- Mantener armonía (enfoque clásico).
+- Romper equilibrio con contraste intencional.
+- Reforzar verticalidad o anchura según identidad deseada.
+
+**Pelo – Hombre:** 
+- Casi todo funciona; degradados, textura arriba, incluso rapado. 
+- Si se busca dramatismo, se puede exagerar volumen superior o rapado extremo para crear carácter.
+- Evitar demasiado volumen solo arriba si alarga en exceso.  
+
+**Pelo – Mujer:**
+- Es el más versátil.  
+- Puede permitirse estructuras geométricas marcadas (Bob, long bob, capas largas, flequillo cortina, pixie) o formas orgánicas suaves. . 
+
+**Maquillaje:** 
+- No necesita corrección estructural.
+- Natural. Contorno muy sutil; rubor centrado en mejillas. 
+- Casi cualquier estilo de ojos/labios funciona.
+
+## 2. Rostro redondo
+___
+Estructura general:
+- Anchura y longitud similares.
+- Predominio claro de líneas curvas.
+- Peso visual centrado en mejillas, mejillas llenas..
+
+Tensión estructural:
+- baja, forma compacta.
+
+Estrategias posibles:
+- Alargar y Estilizar (verticalizar).
+- Estructurar (introducir líneas rectas).
+- Reforzar redondez para estética dulce o juvenil.
+
+**Pelo – Hombre:** 
+- Fade + volumen arriba estiliza.
+- Peinado hacia arriba o ligeramente hacia un lado. 
+- Evitar flequillo recto.  
+- Reforzar identidad suave: texturas redondeadas sin excesiva verticalidad.
+
+**Pelo – Mujer:** 
+- Estiliza: Capas largas, ondas verticales, long bob por debajo del mentón, raya lateral. 
+- Enfatizar dulzura: Bob redondeado puede funcionar.
+- Evitar bobs a la altura de la mejilla.  
+
+**Maquillaje:** 
+- Estiliza: Contorno marcado en laterales y bajo pómulo. (diagonal).
+- Estiliza: Rubor en diagonal hacia la sien.
+- Estiliza: Iluminar centro del rostro.
+- Mantener armonía orgánica: Rubor circular
+
+## 3. Rostro cuadrado
+___
+Estructura general:
+- Mandíbula marcada. Frente amplia.
+- Predominio de líneas rectas y ángulos.
+- (Mandíbula fuerte, frente amplia)
+
+Tensión estructural:
+- Alta en tercio inferior.
+
+Estrategias posibles:
+- Suavizar ángulos (curvas, difuminados).
+- Reforzar estructura (cortes rectos, líneas gráficas).
+- Contrastar con elementos muy orgánicos.
+
+**Pelo – Hombre:**
+- Suavizar: Textura y movimiento
+- Suavizar: Laterales no excesivamente rapados
+- Suavizar: Flequillo ligero o peinado natural.  
+- Reforzar carácter fuerte: Corte geométrico
+
+**Pelo – Mujer:**
+- Suavizar: Ondas, capas desfiladas, flequillo cortina o lateral.
+- Evitar: cortes rectos muy estructurados a la mandíbula.  
+- Potenciar autoridad: Bob recto.
+
+**Maquillaje:**
+- Suavizar: Contorno suave en mandíbula y sienes.
+- Suavizar; Rubor redondeado; ojos difuminados (smokey suave).
+- Enfatizar estructura: cejas rectas y delineados gráficos.
+
+## 4. Rostro rectangular / alargado
+___
+Estructura general:
+- Predominio vertical. (Más largo que ancho).
+- Frente y mandíbula similares en anchura.
+- Peso visual distribuido en eje central.
+
+Tensión estructural:
+- Media-alta por verticalidad.
+
+Estrategias posibles:
+- Acortar visualmente (horizontalizar).
+- Reforzar verticalidad para estética elegante y estilizada.
+
+**Pelo – Hombre:**
+- Evitar: volumen excesivo arriba si se busca equilibrio.
+- Aumentar: Textura media y algo de volumen en los lados.  
+- Reforzar altura controlada: Si se desea sofisticación estilizada.
+
+**Pelo – Mujer:**
+- Equilibrar: Flequillo recto o cortina, long bob, ondas a la altura de mejillas.
+- Enfatizar verticalidad: Melena larga ultra lisa. (no siempre es negativo).
+- Evitar: melenas muy largas y lisas sin capas.  
+
+**Maquillaje:**
+- Para Acortar: Rubor horizontal
+- Estilizar: Contorno en frente (línea del cabello) y mentón
+- Estilizar: Cejas ligeramente rectas.
+- Estilizar: Iluminación vertical.
+
+## 5. Rostro corazón / triángulo invertido
+___
+Estructura general:
+- Frente dominante. Mentón fino.
+- Peso visual superior.
+
+Tensión estructural:
+- Media, ligera inestabilidad inferior.
+
+Estrategias posibles:
+- Equilibrar el tercio inferior ampliándolo.
+- Reforzar fragilidad estética del mentón fino.
+- Generar dramatismo superior intencional.
+
+
+**Pelo – Hombre:**
+- Para equilibrar: Volumen moderado arriba, no exagerado.
+- Para compensar: Algo de volumen en laterales.  
+
+**Pelo – Mujer:**
+- Para equilibrar: Bob a la mandíbula, ondas que aporten volumen abajo.
+- Reducir frente: Flequillo cortina reduce frente visualmente.  
+
+**Maquillaje:**
+- Estilizar: Contorno suave en sienes.
+- Dar presencia: Iluminación estratégica en barbilla y pómulos.
+- Para equilibrar: labios protagonistas para equilibrar el mentón fino.
+
+## 6. Rostro diamante
+___
+Estructura general:
+- Pómulos como punto de máxima anchura.
+- Frente y mandíbula más estrechas.
+- Centro visual alto.
+
+Tensión estructural:
+- Concentrada en zona media.
+
+Estrategias posibles:
+- Suavizar pómulos y equilibrar frente/mandíbula.
+- Reforzar carácter escultórico.
+- Ampliar visualmente frente o mandíbula.
+
+
+**Pelo – Hombre:**
+- Estilizar: Algo de volumen en laterales y arriba sin exagerar
+- Estilizar: Textura controlada arriba.
+- Evitar: laterales demasiado rapados.  
+
+**Pelo – Mujer:**
+- Equilibrio: Flequillo lateral o cortina para equilibrar superior.
+- Estilizar: Capas que aporten volumen en mandíbula
+- Evitar volumen en pómulos.  
+
+**Maquillaje:**
+- Para suavizar: Contorno bajo pómulo (no encima)
+- Estilizar: Iluminación estratégica en frente y barbilla para redistribuir foco.
+- Estilizar: Rubor más centrado.
+
+
+## 7. Rostro triangular
+___
+Estructura general:
+- Mandíbula más ancha que frente.
+- Peso visual inferior.
+
+Tensión estructural:
+- Fuerte en tercio bajo.
+
+Estrategias posibles:
+- Ampliar parte superior. / dar amplitud arriba.
+- Reforzar mandíbula si se busca carácter sólido.
+- Crear contraste vertical.
+
+**Pelo – Hombre:**
+- Equilibrio: Volumen arriba y laterales más controlados.
+- Equilibrio: Flequillo o textura que ensanche la frente.  
+- Exagerar: Laterales muy limpios
+
+**Pelo – Mujer:**
+- Equilibrio: Capas con volumen en coronilla.
+- Equilibrio: Flequillo abierto.
+- Evitar: volumen excesivo en mandíbula. (si se busca armonía clásica) 
+
+**Maquillaje:**
+- Equilibrio: Iluminar frente.
+- Equilibrio: Contorno en mandíbula.
+- Redirigir atención: Ojos llamativos para atraer atención hacia arriba.
+
+
+
+
+
+
+# **==1. Componentes del análisis geométrico==**
+___
+>[!Info] Resumen
+>El análisis de geometría y proporción en visagismo implica:
+>
+>1. **Medir y observar proporciones** de las distintas zonas del rostro.
+>2. **Dividir el rostro en planos** para detectar desequilibrios.
+>3. **Leer líneas dominantes** y su “dirección” visual.
+>4. **Decidir qué realzar o equilibrar** para lograr armonía, no solo clasificar.
+
+## **Divisiones del rostro**
+___
+El rostro se puede dividir en ejes para entender su estructura, estas divisiones generan un mapa visual que ayuda a decidir dónde **colocar luz o sombra**, por ejemplo, en maquillaje:
+
+>[!Info] **Eje horizontal:**
+>Divide el rostro en tercios desde la línea del cabello hasta el mentón.  
+>
+>Esto permite medir si la frente, la nariz y el mentón están equilibrados.
+
+>[!Info] **Eje vertical:**
+>Divide el rostro en izquierda y derecha para evaluar simetría.  
+>
+>La simetría no necesita ser perfecta, pero ayuda a ver qué zonas destacan o necesitan equilibrio.
+
+
+## **Proporciones relativas**
+___
+No solo importa si el rostro es “ovalado”, sino qué tan **proporcionados están sus elementos**:
+- Distancia entre ojos
+- Relación entre longitud de nariz y distancia entre ojos
+- Altura de la frente en relación con el mentón
+
+Estas proporciones pueden indicar si el rostro se ve “más largo”, “más ancho” o equilibrado. Esta información guiará decisiones estéticas que pueden equilibrar o enfatizar determinados rasgos.
+
+
+## **Líneas dominantes y tensión visual**
+___
+Más allá de formas simples, se presta atención a:
+
+- **Líneas rectas** (más tensas y definidas)
+- **Líneas curvas** (más suaves y fluidas)
+
+>[!Info] Ejemplo
+>Una mandíbula muy angular puede “leerse” visualmente como una línea recta fuerte, y esto influye en qué tipo de peinado o maquillaje armoniza mejor.
+
+
+## **Equilibrio visual**
+___
+El objetivo no es que todas las caras se parezcan, sino que visualmente tengan coherencia.
+
+Por ejemplo:
+
+- Si la parte superior del rostro es visualmente más ancha, podrías **suavizarla** con técnicas de maquillaje o volumen de cabello.
+- Si el mentón es dominante, podrías equilibrar con volumen en zonas altas.
+
+Esto se logra usando luz, sombra, líneas y proporciones para “leer” visualmente la armonía del rostro.
+
+
+
+# **==2. Expresión y carácter==**
+___
+El análisis de la expresión y carácter se centra en qué comunica estructuralmente el rostro incluso en reposo antes de intervenirlo, no es el gesto momentáneo, sino la configuración permanente de rasgos.
+
+En visagismo se parte de la idea de que el rostro tiene una **expresión estática** antes de cualquier gesto.
+
+
+## Elementos que construyen carácter
+___
+>[!Info] Cejas
+>Las cejas son uno de los elementos más narrativos del rostro.
+>- Rectas → determinación, estructura.
+>- Arqueadas → dinamismo, expresividad.
+>- Descendentes hacia el centro → intensidad.
+>- Muy separadas → apertura.
+
+>[!Info] Ojos
+>- Grandes → apertura emocional.
+>- Pequeños → concentración.
+>- Hundidos → profundidad.
+>- Prominentes → sensibilidad.
+
+>[!Info] Mandíbula y mentón
+>- Mandíbula ancha → fuerza / estabilidad.
+>- Mentón fino → delicadeza / vulnerabilidad.
+>- Mentón proyectado → carácter dominante.
+
+>[!Info] Pómulos
+>- Altos y marcados → tensión energética.
+>- Bajos y suaves → calma.
+
+
+
+## Reforzar no Corregir
+___
+El visagismo no se centra en corregir si que una vez identificado el carácter estructural, se centra en tomar decisiones como: reforzar, neutralizar o contradecir el carácter del rostro, para diseñar el rostro de forma consciente.
+
+
+>[!Info] Ejemplo 1:
+En un rostro con alta tensión angular se podría:
+>- Reforzarlo: hacerlo aún más escultórico (estética editorial).  
+>- Suavizarlo para hacerlo más accesible.  
+>- Contrastarlo con elementos etéreos para generar complejidad.
+
+>[!Info] Ejemplo 2:  
+>En un rostro con cejas rectas y mandíbula marcada que ya transmite estructura, se podría:
+>- Reforzarlo: con líneas gráficas y cortes rectos.
+>- Suavizarlo: con curvas y difuminados.
+>- Contradecirlo: con una estética etérea para generar tensión visual interesante.
+
+
+
+
+## El rostro como sistema de tensiones
+___
+Un rostro no es una forma plana, es un campo de fuerzas visuales.
+
+Hay tres variables fundamentales: Dirección dominante, Densidad visual y Grado de tensión estructural.
+
+>[!Info] 1 Dirección dominante
+>No es lo mismo un rostro redondo con cejas rectas que uno redondo con cejas curvas.  
+La forma global no determina la energía.
+>
+>- Vertical → elegancia, espiritualidad, distancia.
+>- Horizontal → estabilidad, calma.
+>- Diagonal → dinamismo, tensión.
+>- Curva → suavidad, accesibilidad.
+>- Recta → firmeza, control.
+
+>[!Info] 2 Densidad visual
+>Se refiere a dónde se concentra la información.
+>- Parte superior dominante → intelectualidad, análisis.
+>- Zona media dominante (pómulos/ojos) → intensidad emocional.
+>- Parte inferior dominante → determinación, materialidad.
+>
+>Esto no es ciencia dura. Es lectura perceptiva.
+
+>[!Info] 3 Grado de tensión estructural
+>- Alta tensión → ángulos marcados, cejas rectas, mandíbula definida.
+>- Baja tensión → curvas, transiciones suaves.
+>- Mixta → contraste interno (ej. mandíbula fuerte + ojos suaves).
+>
+>La tensión crea carácter incluso en reposo.
+
+>[!Info] Microexpresión estructural
+>Algunos rostros parecen: Severos, dulces, cansados, intensos, melancólicos...
+>
+>Esto se debe a: Inclinación natural de comisuras, posición relativa de cejas, profundidad ocular, proyección del mentón.
+>
+>En visagismo el carácter es percepción proyectada, no identidad real, no se habla de personalidad sino de lectura cultural del rostro
+
+
+
+# **==3. Identidad y narrativa visual==**
+___
+La Identidad y narrativa visual se centra en diseño, el visagismo moderno plantea que la imagen debe estar alineada con la identidad que la persona quiere proyectar, no es solo “armonizar rostro”, es construir coherencia.
+
+Qué quieres que comunique. Lo que decides que comunique mediante intervención estética.
+
+_(Lo que quieres que el rostro cuente)_
+
+Este punto ya no trata del rostro en sí, sino de construcción simbólica.
+
+La narrativa visual responde a: ¿Qué historia quiero que mi imagen proyecte?
+
+## Narrativa visual en visagismo
+___
+Es la historia que cuenta el rostro antes de hablar, por ejemplo: Minimalista estructurado, artista bohemio, ejecutivo autoritario, estética andrógina, dramático oscuro...
+
+El rostro es la base estructural, pero el estilo construye la narrativa.
+
+
+## Construir la narrativa del rostro
+___
+1. Geometría base (forma de rostro).
+2. Elección de líneas (rectas vs curvas).
+3. Contraste o armonía con la estructura natural.
+4. Elementos simbólicos (color, textura, densidad).
+
+
+
+## Identidad como coherencia visual
+___
+La identidad visual surge cuando la estructura facial, el estilo y las elecciones estéticas proyectan un mensaje coherente en armonía.
+
+Si hay contradicción entre estructura y estilo, puede percibirse incoherente sin pretenderlo o ser intencionalmente disruptivo.
+
+
+
+## Arquetipos estéticos
+___
+En visagismo avanzado se suele trabajar con arquetipos visuales como: Minimalista estructural, natural orgánico, dramático oscuro, intelectual sobrio, vanguardista gráfico, androginia neutra, sensual contrastado.
+
+Cada arquetipo tiene:
+- Tipo de línea dominante.
+- Nivel de contraste.
+- Uso específico del color.
+- Distribución de peso visual.
+
+
+## Coherencia vs. Tensión narrativa
+___
+Hay dos estrategias avanzadas:
+
+>[!info] Coherencia total
+>La forma del rostro y el estilo trabajan en la misma dirección.
+>
+>Ejemplo:  
+>- Mandíbula fuerte + líneas rectas + colores oscuros → identidad sólida.
+
+>[!Info] Tensión narrativa
+>
+>El estilo contradice la estructura natural.
+>
+>Ejemplo:  
+>- Rostro muy angular + estética etérea translúcida.
+>
+>Esto genera complejidad e interés visual.
+>
+>En diseño contemporáneo, muchas identidades interesantes nacen de esta tensión.
+
+
+## El rostro como símbolo
+___
+El rostro no es solo biología, es símbolo cultural, sus códigos no son universales, pero influyen en percepción, por eso el visagismo también es lectura cultural, algunos ejemplos son:
+
+- Mandíbula fuerte históricamente asociada a poder.
+- Frente amplia asociada a intelecto.
+- Pómulo alto asociado a energía o aristocracia (en imaginarios occidentales).
+
+
+
+
+# OTROS
+___
+
+>[!Info] Diferencia con fisiognomía
+>La pseudociencia de la fisiognomía intentaba deducir personalidad moral a partir del rostro, el visagismo contemporáneo trabaja más desde **percepción visual y construcción estética**, no diagnóstico psicológico.
+
+>[!Info] Plantilla analisis Visagismo
+>- Geometría
+>- Tensión estructural
+>- Lectura simbólica
+>- Identidad deseada
+>- Estrategia estética
+
