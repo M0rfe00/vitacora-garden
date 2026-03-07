@@ -30,7 +30,7 @@ Proceso 4 estaciones
 >Cool + Deep = Winter.
 
 
-### ☀️ VERANO (Summer)
+### ☀️ VERANO
 ___
 Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
 <img 
@@ -72,7 +72,7 @@ Claro, Frío, Apagado. Es frio pero son colores mas apagados y desaturados, suav
 Las sombras recuerdan a un día nublado, brillantes pero con gris, luz y tonos de color suaves.
 
 
-### ❄️ INVIERNO (Winter)
+### ❄️ INVIERNO
 ___
 Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
 <img 
@@ -81,7 +81,7 @@ alt="Season Colors"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter.PNG" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -112,7 +112,7 @@ Profundo, Frío, brillante. Colores mas brillantes y saturados. Colores más fr�
 
 
 
-### 🌸 PRIMAVERA (Spring)
+### 🌸 PRIMAVERA
 ___
 Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
 
@@ -122,7 +122,7 @@ alt="Season Colors"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring.PNG" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -154,7 +154,7 @@ Claro, Cálido, Luminoso. Sus características son muy brillantes, suele tener l
 Las sombras suelen ser mayormente claras, luminosas y colores brillantes.
 Tonos cálidos y claros.
 
-### 🍂 OTOÑO (Autumn)
+### 🍂 OTOÑO
 ___
 Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
 
@@ -164,7 +164,7 @@ alt="Season Colors"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn.PNG" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -208,7 +208,7 @@ Proceso 12 estaciones
 2) Identificar característica secundaria
 3) Como resultado obtendremos la estación
 
-## 🌸 PRIMAVERA CLARA (Light Spring)
+## 🌸 LIGHT SPRING
 ____
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Light Spring Colors.png" 
@@ -236,7 +236,7 @@ Neutra-cálida suave (4500–5500K). Baja sombra.
 
 
 
-## 🌸 PRIMAVERA PURA (True Spring)
+## 🌸 TRUE SPRING
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/True Spring Colors.png" 
@@ -264,7 +264,7 @@ Cálida limpia, sin dominante amarilla excesiva.
 
 
 
-## 🌸 PRIMAVERA BRILLANTE (Bright Spring)
+## 🌸 BRIGHT SPRING
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Bright Spring Colors.png" 
@@ -293,7 +293,7 @@ Neutra brillante, contraste medio-alto.
 
 
 
-## 🌿 VERANO CLARO (Light Summer)
+## 🌿 LIGHT SUMMER
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Light Summer Colors.png" 
@@ -321,7 +321,7 @@ Neutra-fría suave (5000–6500K), difusa.
 
 
 
-## 🌿 VERANO PURO (True Summer)
+## 🌿TRUE SUMMER
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/True Summer Colors.png" 
@@ -349,7 +349,7 @@ Fría suave, sombras muy difusas.
 
 
 
-## 🌿 VERANO SUAVE (Soft Summer)
+## 🌿 SOFT SUMMER
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Soft Summer Colors.png" 
@@ -377,7 +377,7 @@ Neutra, contraste bajo, ambiente ligeramente desaturado.
 
 
 
-## 🍂 OTOÑO SUAVE (Soft Autumn)
+## 🍂 SOFT AUTUMN
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Soft Autumn Colors.png" 
@@ -405,7 +405,7 @@ Cálida suave, ambiente envolvente.
 
 
 
-## 🍂 OTOÑO PURO (True Autumn)
+## 🍂 TRUE AUTUMN
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/True Autumn Colors.png" 
@@ -433,7 +433,7 @@ Cálida (4000–5000K), sombras suaves pero presentes.
 
 
 
-## 🍂 OTOÑO OSCURO (Dark Autumn)
+## 🍂 DARK AUTUMN
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Dark Autumn Colors.png" 
@@ -461,7 +461,7 @@ Cálida con sombras más profundas.
 
 
 
-## ❄️ INVIERNO BRILLANTE (Bright Winter)
+## ❄️ BRIGHT WINTER
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Bright Winter Colors.png" 
@@ -490,7 +490,7 @@ Fría brillante (6000–7000K), alto contraste.
 
 
 
-## ❄️ INVIERNO PURO (True Winter)
+## ❄️ TRUE WINTER
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Cool Winter Colors.png" 
@@ -519,7 +519,7 @@ Fría definida, sombras claras y contraste marcado.
 
 
 
-## ❄️ INVIERNO OSCURO (Dark Winter)
+## ❄️ DARK WINTER
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Deep Winter Colors.png" 
@@ -706,36 +706,11 @@ Estaciones:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ___
 ___
 ___
 
 
-
-
-# Enfoque para 3D
-___
-1) Observa piel real → identifica subtono y saturación base.
-2) Analiza cómo cambia el color con la iluminación.
-3) Traduce eso a textura digital (mapas de color + variación).
-4) Prueba contraste pigmento/piel como si fuera tatuaje real.
-- **Comprender cómo los colores interactúan con distintos subtonos de piel “en vivo”.**
-- **Traducir esa lógica a paletas realistas para renders de piel, maquillaje digital o texturizado de tatuajes.**
-- **Ver cómo un mismo color puede verse muy diferente según la piel, algo que muchos estudios coreanos miden visualmente.**
 
 
 # 5 colores fundamentales 
@@ -788,6 +763,17 @@ ___
 - Color más claro del pelo
 
 
+___
+___
+# Enfoque para 3D
+___
+1) Observa piel real → identifica subtono y saturación base.
+2) Analiza cómo cambia el color con la iluminación.
+3) Traduce eso a textura digital (mapas de color + variación).
+4) Prueba contraste pigmento/piel como si fuera tatuaje real.
+- **Comprender cómo los colores interactúan con distintos subtonos de piel “en vivo”.**
+- **Traducir esa lógica a paletas realistas para renders de piel, maquillaje digital o texturizado de tatuajes.**
+- **Ver cómo un mismo color puede verse muy diferente según la piel, algo que muchos estudios coreanos miden visualmente.**
 
 <!--
 ## Analisis coreano vs occidental Diferencias clave
