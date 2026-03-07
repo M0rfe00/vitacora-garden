@@ -30,14 +30,16 @@ Proceso 4 estaciones
 >Cool + Deep = Winter.
 
 
-## Estaciones Frías
-___
-Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
-
 ### ☀️ VERANO (Summer)
 ___
+Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer Cool Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer Cool Colors.png" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -47,13 +49,18 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 **Contraste:** Bajo
 
 **Tonos piel, pelo y ojos:**  
-Piel rosada, beige frío, porcelana.  
+
+Piel: fría, subtono rosado. rosada, beige frío, porcelana.  
 Cabello rubio ceniza, castaño claro frío, gris suave.  
 Ojos gris azulados, verde grisáceo, azul suave.
 
-**Color vestuario:**  
+**Colores:**  
+Lavender, powder blue, dusty rose. Colores suaves y fríos
 Rosa empolvado, azul cielo frío, lavanda, gris perla, azul denim suave.  
 Evitar naranja, mostaza, colores muy saturados.
+
+Joyería: 
+Plateada, fríos pastel.
 
 **Iluminación:**  
 Luz neutra o ligeramente fría (5000–6500K).  
@@ -61,16 +68,20 @@ Contraste bajo.
 Ambiente suave y difuso.
 
 Claro, Frío, Apagado. Es frio pero son colores mas apagados y desaturados, suaves, pasteles.
-- Colores: Lavender, powder blue, dusty rose
-- Piel: fría, subtono rosado.
-- Joyería: Plateada, fríos pastel.
+
 Las sombras recuerdan a un día nublado, brillantes pero con gris, luz y tonos de color suaves.
-Colores suaves y fríos
+
 
 ### ❄️ INVIERNO (Winter)
 ___
+Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter Cool Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter Cool Colors.png" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -80,13 +91,17 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 **Contraste:** Medio a alto
 
 **Tonos piel, pelo y ojos:**  
-Piel porcelana fría, oliva frío o marrón profundo frío.  
+Piel: subtono frío, alto contraste. porcelana fría, oliva frío o marrón profundo frío.  
 Cabello negro, castaño oscuro frío, platino frío.  
 Ojos azul intenso, gris hielo, marrón oscuro frío.
 
-**Color vestuario:**  
+**Colores:**  
+Navy, burgundy, emerald, icy pink
 Negro puro, blanco óptico, rojo cereza frío, esmeralda, azul eléctrico, ciruela.  
 Evitar beige cálido, naranja, oliva cálido.
+
+Joyería: 
+Plateada, tonos joya.
 
 **Iluminación:**  
 Luz neutra-fría (5500–7000K).  
@@ -94,19 +109,20 @@ Sombras definidas.
 Alto contraste.
 
 Profundo, Frío, brillante. Colores mas brillantes y saturados. Colores más fríos y contrastantes.
-- Colores: Navy, burgundy, emerald, icy pink
-- Piel: subtono frío, alto contraste.
-- Joyería: Plateada, tonos joya.
 
 
-## Estaciones Cálidas:
-___
-Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
 
 ### 🌸 PRIMAVERA (Spring)
 ___
+Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
+
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring Warm Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring Warm Colors.png" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -116,13 +132,17 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 **Contraste:** Bajo a medio
 
 **Tonos piel, pelo y ojos:**  
-Piel marfil cálido, melocotón o beige dorado.  
+Piel: cálida, subtono dorado. marfil cálido, melocotón o beige dorado.  
 Cabello rubio miel, dorado, fresa, castaño claro cálido.  
 Ojos verdes claros, turquesa, azul brillante, avellana cálido.
 
-**Color vestuario:**  
+**Colores:**
+Peach, coral, light yellow, mint, beige
 Coral, melocotón, turquesa cálido, verde manzana, amarillo mantequilla, marfil.  
 Evitar negro puro y colores muy oscuros.
+
+Joyería: 
+Dorada, cálidos pastel.
 
 **Iluminación:**  
 Luz neutra-cálida (4500–5500K).  
@@ -130,16 +150,21 @@ Sombras suaves.
 Evitar contraste duro.
 
 Claro, Cálido, Luminoso. Sus características son muy brillantes, suele tener las mejillas sonrojadas, suelen ser rubias de ojos claros.
-- Colores: Peach, coral, light yellow, mint, beige
-- Piel: cálida, subtono dorado.
-- Joyería: Dorada, cálidos pastel.
+
 Las sombras suelen ser mayormente claras, luminosas y colores brillantes.
 Tonos cálidos y claros.
 
 ### 🍂 OTOÑO (Autumn)
 ___
+Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
+
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autum Warm Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autum Warm Colors.png" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -149,13 +174,17 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 **Contraste:** Bajo a medio
 
 **Tonos piel, pelo y ojos:**  
-Piel dorada, oliva cálido, bronce.  
+Piel: cálida, subtono dorado o bronceado. dorada, oliva cálido, bronce.  
 Cabello castaño cálido, cobrizo, rojo profundo, chocolate cálido.  
 Ojos ámbar, verde oliva, marrón dorado.
 
 **Color vestuario:**  
+Rust, olive, terracotta, camel
 Terracota, mostaza, verde oliva, teja, camel, petróleo cálido.  
 Evitar fucsia frío, azul eléctrico, blanco puro.
+
+Joyería:
+Dorada, tonos tierra.
 
 **Iluminación:**  
 Luz cálida (4000–5000K).  
@@ -163,9 +192,7 @@ Sombras suaves y envolventes.
 Ambiente ligeramente dorado.
 
 Profundo, Cálido, apagado Colores más cálidos y profundos. La mayoría de las personas son otoño.
-- Colores: Rust, olive, terracotta, camel
-- Piel: cálida, subtono dorado o bronceado.
-- Joyería: Dorada, tonos tierra.
+
 Las sombras son un poco más fuertes y tienen una base dorada, los colores tienen un sombra profunda.
 
 
@@ -184,7 +211,7 @@ Proceso 12 estaciones
 ## 🌸 PRIMAVERA CLARA (Light Spring)
 ____
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Light Spring Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Light Spring Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -212,7 +239,7 @@ Neutra-cálida suave (4500–5500K). Baja sombra.
 ## 🌸 PRIMAVERA PURA (True Spring)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/True Spring Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/True Spring Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -240,7 +267,7 @@ Cálida limpia, sin dominante amarilla excesiva.
 ## 🌸 PRIMAVERA BRILLANTE (Bright Spring)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Bright Spring Colors.png 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Bright Spring Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -269,7 +296,7 @@ Neutra brillante, contraste medio-alto.
 ## 🌿 VERANO CLARO (Light Summer)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Light Summer Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Light Summer Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -297,7 +324,7 @@ Neutra-fría suave (5000–6500K), difusa.
 ## 🌿 VERANO PURO (True Summer)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/True Summer Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/True Summer Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -325,7 +352,7 @@ Fría suave, sombras muy difusas.
 ## 🌿 VERANO SUAVE (Soft Summer)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Soft Summer Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Soft Summer Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -353,7 +380,7 @@ Neutra, contraste bajo, ambiente ligeramente desaturado.
 ## 🍂 OTOÑO SUAVE (Soft Autumn)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Soft Autumn Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Soft Autumn Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -381,7 +408,7 @@ Cálida suave, ambiente envolvente.
 ## 🍂 OTOÑO PURO (True Autumn)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/True Autumn Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/True Autumn Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -409,7 +436,7 @@ Cálida (4000–5000K), sombras suaves pero presentes.
 ## 🍂 OTOÑO OSCURO (Dark Autumn)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Dark Autumn Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Dark Autumn Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -437,7 +464,7 @@ Cálida con sombras más profundas.
 ## ❄️ INVIERNO BRILLANTE (Bright Winter)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Bright Winter Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Bright Winter Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -466,7 +493,7 @@ Fría brillante (6000–7000K), alto contraste.
 ## ❄️ INVIERNO PURO (True Winter)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Cool Winter Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Cool Winter Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -495,7 +522,7 @@ Fría definida, sombras claras y contraste marcado.
 ## ❄️ INVIERNO OSCURO (Dark Winter)
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Deep Winter Colors.png" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Deep Winter Colors.png" 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
