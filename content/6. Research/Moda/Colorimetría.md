@@ -651,31 +651,30 @@ Si la característica dominante es la temperatura (frío/cálido) lo siguiente e
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons Values-.PNG" 
 />
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons Values-.PNG" 
-/>
-<img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/12 Seasons Cheetsheet.PNG" 
 />
 </div>
 
 
-## 0 Tonos:
+## 0 Tonos y Subtonos:
 ___
 Los subtonos y los tonos de piel son diferentes, pero en el análisis de color se tiene en cuenta el subtono. La idea es elegir colores que no “choquen” con ese subtono.
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Tonos.jpg" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Subtonos.jpg" 
+/>
+</div>
+
+## 1 Temperatura
+___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Temperature-True Seasons.PNG" 
 alt="Cool-Warm (TRUE SEASONS)" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-
-## 1 Temperatura
-___
-<img 
-src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Subtonos.jpg" 
-alt="Subtonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
-/>
-
 Todas las pieles vivas son cálidas, sin embargo, la piel esta compuesta de pigmentos rojos, azules y amarillos, los cuales generan una temperatura que puede ser cálida, neutra o fría. Esto es lo primero a identificar.
 
 En digital, entender subtonos te ayuda a elegir paletas realistas para renders de piel o textiles y que no se vean artificiales.
