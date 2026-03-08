@@ -718,18 +718,6 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 - Se encuentran entre los fríos y los cálidos
 - A medias entre cálidos y fríos, por lo que casi todos los colores le quedaran bien a la persona.
 
-<img 
-src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Eyes-Temperature.jpg" 
-alt="Tonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
-/>
-<img 
-src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Hair-Temperature.jpg" 
-alt="Tonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
-/>
-
-
 >[!Info] Ejemplo
 >Ej: los cálidos suelen favorecerse con tierras, dorados y verdes oliva; los fríos con azules, plateados y magentas.
 

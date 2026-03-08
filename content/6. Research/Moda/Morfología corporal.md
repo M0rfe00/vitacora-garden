@@ -218,6 +218,6 @@ Narrativa e identidad:
 >La elección de texturas, volúmenes y cortes puede amplificar o suavizar estos rasgos. Por ejemplo, mangas abullonadas en un triángulo (pera) expresan creatividad y balance; un blazer estructurado en triángulo invertido comunica liderazgo.
 
 >[!Info] NARRATIVA E DIENDIDAD VISUAL - APLICACIÓN EN MODA
-La ropa no solo se ajusta al cuerpo: **cuenta quién eres**. La morfología corporal define un “lienzo” que puede reforzar tu narrativa.
+>La ropa no solo se ajusta al cuerpo: **cuenta quién eres**. La morfología corporal define un “lienzo que puede reforzar tu narrativa.
 >
 >**Tip práctico:** combina proporciones geométricas con símbolos personales. Por ejemplo, si te interesa un estilo cultural o simbólico (como tatuajes o referencias históricas), la ropa puede resaltar la forma de tu cuerpo mientras transmite ese mensaje.

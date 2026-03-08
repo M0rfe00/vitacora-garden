@@ -15,7 +15,7 @@ ___
 
 ## 1. Rostro ovalado
 ___
-Estructura general:
+**Estructura general:**
 - Proporciones equilibradas. Tercios relativamente compensados.
 - Ligeramente más largo que ancho
 - Predominio leve de líneas curvas.
@@ -24,7 +24,7 @@ Estructura general:
 **Tensión estructural:** 
 - baja-media. Es un rostro neutro y adaptable.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Mantener armonía (enfoque clásico).
 - Romper equilibrio con contraste intencional.
 - Reforzar verticalidad o anchura según identidad deseada.
@@ -45,15 +45,15 @@ Estrategias posibles:
 
 ## 2. Rostro redondo
 ___
-Estructura general:
+**Estructura general:**
 - Anchura y longitud similares.
 - Predominio claro de líneas curvas.
 - Peso visual centrado en mejillas, mejillas llenas..
 
-Tensión estructural:
+**Tensión estructural:**
 - baja, forma compacta.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Alargar y Estilizar (verticalizar).
 - Estructurar (introducir líneas rectas).
 - Reforzar redondez para estética dulce o juvenil.
@@ -77,15 +77,15 @@ Estrategias posibles:
 
 ## 3. Rostro cuadrado
 ___
-Estructura general:
+**Estructura general:**
 - Mandíbula marcada. Frente amplia.
 - Predominio de líneas rectas y ángulos.
 - (Mandíbula fuerte, frente amplia)
 
-Tensión estructural:
+**Tensión estructural:**
 - Alta en tercio inferior.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Suavizar ángulos (curvas, difuminados).
 - Reforzar estructura (cortes rectos, líneas gráficas).
 - Contrastar con elementos muy orgánicos.
@@ -108,15 +108,15 @@ Estrategias posibles:
 
 ## 4. Rostro rectangular / alargado
 ___
-Estructura general:
+**Estructura general:**
 - Predominio vertical. (Más largo que ancho).
 - Frente y mandíbula similares en anchura.
 - Peso visual distribuido en eje central.
 
-Tensión estructural:
+**Tensión estructural:**
 - Media-alta por verticalidad.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Acortar visualmente (horizontalizar).
 - Reforzar verticalidad para estética elegante y estilizada.
 
@@ -138,14 +138,14 @@ Estrategias posibles:
 
 ## 5. Rostro corazón / triángulo invertido
 ___
-Estructura general:
+**Estructura general:**
 - Frente dominante. Mentón fino.
 - Peso visual superior.
 
-Tensión estructural:
+**Tensión estructural:**
 - Media, ligera inestabilidad inferior.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Equilibrar el tercio inferior ampliándolo.
 - Reforzar fragilidad estética del mentón fino.
 - Generar dramatismo superior intencional.
@@ -166,15 +166,15 @@ Estrategias posibles:
 
 ## 6. Rostro diamante
 ___
-Estructura general:
+**Estructura general:**
 - Pómulos como punto de máxima anchura.
 - Frente y mandíbula más estrechas.
 - Centro visual alto.
 
-Tensión estructural:
+**Tensión estructural:**
 - Concentrada en zona media.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Suavizar pómulos y equilibrar frente/mandíbula.
 - Reforzar carácter escultórico.
 - Ampliar visualmente frente o mandíbula.
@@ -198,14 +198,14 @@ Estrategias posibles:
 
 ## 7. Rostro triangular
 ___
-Estructura general:
+**Estructura general:**
 - Mandíbula más ancha que frente.
 - Peso visual inferior.
 
-Tensión estructural:
+**Tensión estructural:**
 - Fuerte en tercio bajo.
 
-Estrategias posibles:
+**Estrategias posibles:**
 - Ampliar parte superior. / dar amplitud arriba.
 - Reforzar mandíbula si se busca carácter sólido.
 - Crear contraste vertical.
