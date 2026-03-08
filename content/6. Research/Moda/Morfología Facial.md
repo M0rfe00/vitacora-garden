@@ -5,6 +5,16 @@
 >
 >El visagismo completo ocurre cuando alineas: Geometría + Expresión natural + Intención narrativa.
 
+<img 
+src="../media-content/Apuntes/media-moda/Body Shapes/Face Shapes Male.PNG" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/Body Shapes/Face Shapes Female.PNG" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 ## MEDIDAS FACIALES
 ___
@@ -15,6 +25,13 @@ ___
 
 ## 1. Rostro ovalado
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Ovalado1.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Proporciones equilibradas. Tercios relativamente compensados.
 - Ligeramente más largo que ancho
@@ -45,6 +62,13 @@ ___
 
 ## 2. Rostro redondo
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Redondo.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Anchura y longitud similares.
 - Predominio claro de líneas curvas.
@@ -77,6 +101,13 @@ ___
 
 ## 3. Rostro cuadrado
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Cuadrado.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Mandíbula marcada. Frente amplia.
 - Predominio de líneas rectas y ángulos.
@@ -108,6 +139,13 @@ ___
 
 ## 4. Rostro rectangular / alargado
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Rectangular.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Predominio vertical. (Más largo que ancho).
 - Frente y mandíbula similares en anchura.
@@ -138,6 +176,13 @@ ___
 
 ## 5. Rostro corazón / triángulo invertido
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Corazon.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Frente dominante. Mentón fino.
 - Peso visual superior.
@@ -166,6 +211,13 @@ ___
 
 ## 6. Rostro diamante
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Diamante.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Pómulos como punto de máxima anchura.
 - Frente y mandíbula más estrechas.
@@ -198,6 +250,13 @@ ___
 
 ## 7. Rostro triangular
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Triangular.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 **Estructura general:**
 - Mandíbula más ancha que frente.
 - Peso visual inferior.

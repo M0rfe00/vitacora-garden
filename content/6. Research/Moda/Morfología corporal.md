@@ -1,3 +1,14 @@
+<img 
+src="../media-content/Apuntes/media-moda/Body Shapes/BodyShapes.jpg" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/Body Shapes/Cuerpos-mujer.jpg" 
+alt="Season Colors" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 # 1. Reloj de arena
 ___
 Proporciones equilibradas/curvas y simétricas entre hombros y caderas, con cintura marcada y líneas suaves. 

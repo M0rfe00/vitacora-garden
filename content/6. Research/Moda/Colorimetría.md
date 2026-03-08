@@ -769,7 +769,7 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral
 />
 </div>
 
-- A medias entre subtonos cálidos y fríos, por lo que comparte características de ambos y casi todos los colores le quedaran bien a la persona.
+- **Característica dominante:** A medias entre subtonos cálidos y fríos, por lo que comparte características de ambos y casi todos los colores le quedaran bien a la persona.
 
 
 >[!Info] Subtonos y Tatuajes
