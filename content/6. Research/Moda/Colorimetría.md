@@ -661,16 +661,19 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 Todas las pieles vivas son cálidas, sin embargo, la piel esta compuesta de pigmentos rojos, azules y amarillos, los cuales generan una temperatura que puede ser cálida, neutra o fría. Esto es lo primero a identificar.
 
 **Identificar temperatura:**
-1) Identificar color venas: verdoso = Cálido, Azulado = Frío
-2) Joyería: Si la piel luce más iluminada con joyería dorada el subtono es cálido y viceversa.
-3) Pañuelos: comparar pañuelos blanco/beige, negro/cafe y naranja/rosa. Si la piel luce más iluminada con colores blanco, negro y rosa es cálida y viceversa.
+1) **Identificar color venas:** verdoso = Cálido, Azulado = Frío
+2) **Joyería:** Si la piel luce más iluminada con joyería dorada el subtono es cálido y viceversa.
+3) **Pañuelos:** comparar pañuelos blanco/beige, negro/cafe y naranja/rosa. Si la piel luce más iluminada con colores blanco, negro y rosa es cálida y viceversa.
 ### Subtonos Fríos: 
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Undertones.jpg" 
 alt="Tonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-<div class="galeria2">
+<div class="galeria">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Colors1.png" 
+/>
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Eyes-Temperature Cool.jpg" 
 />
@@ -678,13 +681,19 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Eyes-Tempe
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Hair-Temperature Cool.jpg" 
 />
 </div>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Colors.PNG" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Los subtonos fríos están asociados a calma, lejanía y el cielo.
-- Matiz rosado/azulado.
+- Matiz rosado/azulado, grisaceos o rojos.
 - Venas azuladas o purpuras.
 - La piel parece ser rosada y azulada bajo la luz natural
 - Se ven mejor con joyería plateada o dorado rosado
 - Se sonrojan fácilmente bajo el sol y no se broncean.
+- El contraste general es medio.
 
 ### Subtonos Cálidos: 
 <img 
@@ -692,7 +701,10 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Under
 alt="Tonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-<div class="galeria2">
+<div class="galeria">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Colors.png" 
+/>
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Eyes-Temperature Warm.jpg" 
 />
@@ -700,13 +712,20 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Eyes-Tempe
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Hair-Temperature Warm.jpg" 
 />
 </div>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Color.PNG" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
  Los subtonos cálidos están asociados a energía, cercanía y calor.
-- Matiz dorado/amarillo.
+- Matiz dorado/amarillo, tierra o melocotón.
 - Venas verdosas
 - La piel parece mas amarilla anaranjada o dorada bajo luz natural.
-- Se ven mejor con joyería dorado amarillento.
+- Se ven mejor con joyería dorado amarillento. La plata hace lucir la piel pálida/pastelosa, el oro hace brillar a la persona.
 - Se broncean fácilmente bajo el sol y raramente se quedan rojos.
+- El contraste general es medio, ningún rasgo es extremadamente claro u oscuro en comparación.
 
 ### Subtonos Neutros: 
 <img 
@@ -714,6 +733,15 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral
 alt="Tonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral Colors1.png" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral Colors.PNG" 
+/>
+</div>
+
 - Mezcla de características de subtonos cálidos y fríos.
 - Se encuentran entre los fríos y los cálidos
 - A medias entre cálidos y fríos, por lo que casi todos los colores le quedaran bien a la persona.
@@ -732,24 +760,63 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 ___
 Se tiende a estar en el lado claro cuando el pelo y los ojos son muy claros, por ejemplo: pelo rubio y ojos azules o verdes.
 Si se esta en el lado claro, los colores que encajan mejor son colores claros.
+
+<div class="galeria">
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Side.png" 
-alt="Tonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light.PNG" 
 />
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Eyes.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Hair.PNG" 
+/>
+</div>
+
 (colores mezclados con blanco)
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Contrast.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Contrast2.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Colors Light Side.png" 
+/>
+</div>
+
+
 
 
 
 Se tiene a estar en el lado oscuro cuando los facciones naturales tienen colores oscuros profundos, pelo y ojos oscuros, la piel puede ser o no oscura.
 Si se esta en el lado oscuro, los colores que encajan mejor son colores oscuros
+<div class="galeria">
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Side.png" 
-alt="Tonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark.PNG" 
 />
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Eyes.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Hair.PNG" 
+/>
+</div>
 
 (colores mezclados con negro)
+<div class="galeria">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Contrast.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Contrast2.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Colors Dark Side.png" 
+/>
+</div>
+
 
 
 ## 2.1 Contraste natural
@@ -848,6 +915,17 @@ alt="Saturación"
 />
 </div>
 
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/Bright Eyes.jpg" 
+alt="Saturación" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/Bright Hair.jpg" 
+alt="Saturación" 
+/>
+</div>
+
 
 Con una menor saturación, los colores son suaves, apagados y polvorientos, sin brillo ni poder.
 
@@ -859,6 +937,17 @@ alt="Saturación"
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Color Low Saturation.png" 
+alt="Saturación" 
+/>
+</div>
+
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Muted Eyes.jpg" 
+alt="Saturación" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Muted Hair.jpg" 
 alt="Saturación" 
 />
 </div>
@@ -881,7 +970,7 @@ ___
 
 # 5 colores fundamentales 
 ___
-- En lugar de ver que colores favorecen y posteriormente definirlos por estación, este método observa los colores naturales del cuerpo y los define por estación directamente, está diseñado por el estilista David Saila
+En lugar de ver que colores favorecen y posteriormente definirlos por estación, este método observa los colores naturales del cuerpo y los define por estación directamente, está diseñado por el estilista David Saila
 
 ## 1 color esencia: (Blanco)
 ___
