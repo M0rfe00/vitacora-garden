@@ -17,20 +17,26 @@ Las 4 estaciones están determinadas por dos variables; 1) El subtono/temperatur
 >Warm + Deep = Autumn.
 >Cool + Deep = Winter.
 
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/4 Seasons Temperature+Light.PNG" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 ## ☀️ VERANO
 ___
 Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
+<div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer Cool Colors.png" 
-alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer.png" 
-alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer Colors.PNG" 
+/>
+</div>
 
 **Subtono:** Frío.  
 **Profundidad:** Clara a media.
@@ -63,13 +69,17 @@ Ambiente suave y difuso.
 ## ❄️ INVIERNO
 ___
 Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
-<div class="galeria2">
+<div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter Cool Colors.png" 
 alt="Season Colors" 
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter.PNG" 
+alt="Season Colors" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter Colors.PNG" 
 alt="Season Colors" 
 />
 </div>
@@ -104,13 +114,17 @@ Alto contraste.
 ## 🌸 PRIMAVERA
 ___
 Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
-<div class="galeria2">
+<div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring Warm Colors.png" 
 alt="Season Colors" 
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring.PNG" 
+alt="Season Colors" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring Colors.PNG" 
 alt="Season Colors" 
 />
 </div>
@@ -149,13 +163,17 @@ Evitar contraste duro.
 ___
 Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
 
-<div class="galeria2">
+<div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autum Warm Colors.png" 
 alt="Season Colors" 
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn.PNG" 
+alt="Season Colors" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn Colors.PNG" 
 alt="Season Colors" 
 />
 </div>
@@ -195,8 +213,11 @@ Ambiente ligeramente dorado.
 # 12 ESTACIONES - VARIACIONES
 ___
 A diferencia de las 4 estaciones, las 12 tienen en cuenta una tercera variable a demás temperatura y luminancia, La saturación, añadir esta variable al sistema permite crear 12 estaciones más precisas, teniendo que determinar entre 6 variables; frío/cálido, oscuro/claro y apagado/saturado.
-
-![[Seasonal_Colour_Palette_1024x1024.webp]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/12 Seasons.PNG" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Proceso 12 estaciones
 1) Identificar característica dominante/primaria
@@ -210,6 +231,15 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Light Spring C
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring Light.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Light Spring.PNG" 
+/>
+</div>
 
 **Subtono:** Cálido  
 **Profundidad:** Clara  
@@ -236,6 +266,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/True Spring Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring True.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Warm Spring.PNG" 
+/>
+</div>
 
 **Subtono:** Cálido  
 **Profundidad:** Clara-media  
@@ -262,6 +300,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Bright Spring 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring Bright.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Bright Summer.PNG" 
+/>
+</div>
 
 **Subtono:** Cálido  
 **Profundidad:** Media  
@@ -288,6 +334,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Light Summer C
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer Light.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Light Summer.PNG" 
+/>
+</div>
 
 **Subtono:** Frío  
 **Profundidad:** Clara  
@@ -314,6 +368,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/True Summer Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer True.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/True Summer.PNG" 
+/>
+</div>
 
 **Subtono:** Frío  
 **Profundidad:** Clara-media  
@@ -340,6 +402,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Soft Summer Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Summer Soft.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Summer/Soft Summer.PNG" 
+/>
+</div>
 
 **Subtono:** Frío-neutro  
 **Profundidad:** Media  
@@ -367,6 +437,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Soft Autumn Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn Soft.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Soft Autumn.PNG" 
+/>
+</div>
 
 **Subtono:** Cálido-neutro  
 **Profundidad:** Media  
@@ -392,6 +470,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/True Autumn Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn True.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/True Autumn.PNG" 
+/>
+</div>
 
 **Subtono:** Cálido  
 **Profundidad:** Media-oscura  
@@ -418,6 +504,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Dark Autumn Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn Dark.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Dark Autumn.PNG" 
+/>
+</div>
 
 **Subtono:** Cálido  
 **Profundidad:** Oscura  
@@ -444,6 +538,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Bright Winter 
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter Bright.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Bright Winter.PNG" 
+/>
+</div>
 
 **Subtono:** Frío  
 **Profundidad:** Media  
@@ -470,6 +572,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Cool Winter Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter True.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/True WInter.PNG" 
+/>
+</div>
 
 **Subtono:** Frío  
 **Profundidad:** Media-oscura  
@@ -495,6 +605,14 @@ src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Deep Winter Co
 alt="Season Colors" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/winter Dark.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Dark Winter.PNG" 
+/>
+</div>
 
 **Subtono:** Frío  
 **Profundidad:** Oscura  
@@ -552,6 +670,15 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Under
 alt="Tonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Eyes-Temperature Cool.jpg" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Hair-Temperature Cool.jpg" 
+/>
+</div>
+
 Los subtonos fríos están asociados a calma, lejanía y el cielo.
 - Matiz rosado/azulado.
 - Venas azuladas o purpuras.
@@ -561,10 +688,19 @@ Los subtonos fríos están asociados a calma, lejanía y el cielo.
 
 ### Subtonos Cálidos: 
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warn/Warm Undertones.jpg" 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Undertones.jpg" 
 alt="Tonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Eyes-Temperature Warm.jpg" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Hair-Temperature Warm.jpg" 
+/>
+</div>
+
  Los subtonos cálidos están asociados a energía, cercanía y calor.
 - Matiz dorado/amarillo.
 - Venas verdosas
@@ -588,7 +724,7 @@ alt="Tonos"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/hair_1024x1024.webp" 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Hair-Temperature.jpg" 
 alt="Tonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
