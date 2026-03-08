@@ -641,12 +641,30 @@ Fría, dramática, con sombras profundas y alto rango dinámico.
 
 # VARIABLES - ESTACIONES
 ___
+Para identificar la estación hay que identificar la característica domínate principal y la secundaria (temperatura/profundidad/saturación) la combinación de ambas establece la estación. 
+
+Si la característica dominante es el brillo (claro/oscuro) o la saturación (saturado/apagado) lo siguiente es determinar la temperatura (frío/cálido).
+
+Si la característica dominante es la temperatura (frío/cálido) lo siguiente es determinar la saturación (saturado/apagado).
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons Values-.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons Values-.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/12 Seasons Cheetsheet.PNG" 
+/>
+</div>
+
+
 ## 0 Tonos:
 ___
 Los subtonos y los tonos de piel son diferentes, pero en el análisis de color se tiene en cuenta el subtono. La idea es elegir colores que no “choquen” con ese subtono.
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Tonos.jpg" 
-alt="Tonos" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Temperature-True Seasons.PNG" 
+alt="Cool-Warm (TRUE SEASONS)" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
@@ -654,11 +672,13 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 ___
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Subtonos.jpg" 
-alt="Tonos" 
+alt="Subtonos" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Todas las pieles vivas son cálidas, sin embargo, la piel esta compuesta de pigmentos rojos, azules y amarillos, los cuales generan una temperatura que puede ser cálida, neutra o fría. Esto es lo primero a identificar.
+
+En digital, entender subtonos te ayuda a elegir paletas realistas para renders de piel o textiles y que no se vean artificiales.
 
 **Identificar temperatura:**
 1) **Identificar color venas:** verdoso = Cálido, Azulado = Frío
@@ -680,20 +700,24 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Eyes-Tempe
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Hair-Temperature Cool.jpg" 
 />
-</div>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Contrast.PNG" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Contrast2.PNG" 
+/>
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Colors.PNG" 
-alt="Tonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+</div>
 
-Los subtonos fríos están asociados a calma, lejanía y el cielo.
-- Matiz rosado/azulado, grisaceos o rojos.
-- Venas azuladas o purpuras.
-- La piel parece ser rosada y azulada bajo la luz natural
-- Se ven mejor con joyería plateada o dorado rosado
-- Se sonrojan fácilmente bajo el sol y no se broncean.
-- El contraste general es medio.
+- **Característica dominante:** Frialdad y la ausencia total de calidez en la apariencia.
+- **Simbolismo:** están asociados a calma, lejanía y el cielo.
+- **Piel:** parece ser rosada, azulada, grisácea bajo la luz natural. Se sonrojan fácilmente bajo el sol y no se broncean.
+- **Venas:** Azuladas o purpuras.
+- **Joyería:** La plata y el dorado rosado resaltan la piel.
+- **Contraste:** Medio alto, pelo muy oscuro en contraste con una piel clara.
+- **Colores:** Suelen favorecerse con tierras, dorados y verdes oliva
 
 ### Subtonos Cálidos: 
 <img 
@@ -712,20 +736,23 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Eyes-Tempe
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Hair-Temperature Warm.jpg" 
 />
 </div>
+
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Contrast.jpg" 
+/>
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Color.PNG" 
-alt="Tonos" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
-
-
- Los subtonos cálidos están asociados a energía, cercanía y calor.
-- Matiz dorado/amarillo, tierra o melocotón.
-- Venas verdosas
-- La piel parece mas amarilla anaranjada o dorada bajo luz natural.
-- Se ven mejor con joyería dorado amarillento. La plata hace lucir la piel pálida/pastelosa, el oro hace brillar a la persona.
-- Se broncean fácilmente bajo el sol y raramente se quedan rojos.
-- El contraste general es medio, ningún rasgo es extremadamente claro u oscuro en comparación.
+</div>
+- **Característica dominante:** Calidez y la ausencia de frialdad en la apariencia.
+- **Simbolismo:** están asociados a energía, cercanía y calor.
+- **Piel:** Parece mas amarilla anaranjada, dorada bajo, tierra o melocotón. luz natural. Se broncean fácilmente bajo el sol y raramente se quedan rojos.
+- **Venas:** Verdosas
+- **Joyería:** El oro/dorado amarillento hace brillar a la persona y a plata hace lucir la piel pálida/apagada.
+- **Contraste:** Medio, ningún rasgo es extremadamente claro u oscuro en comparación.
+- **Pelo:** nunca será oscuro o claro, la intensidad es media; rubio castaño, rubio fresa, castaño, rojo cobrizo.
+- **Colores:** Suelen favorecerse con azules, plateados y magentas.
 
 ### Subtonos Neutros: 
 <img 
@@ -742,22 +769,21 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral
 />
 </div>
 
-- Mezcla de características de subtonos cálidos y fríos.
-- Se encuentran entre los fríos y los cálidos
-- A medias entre cálidos y fríos, por lo que casi todos los colores le quedaran bien a la persona.
+- A medias entre subtonos cálidos y fríos, por lo que comparte características de ambos y casi todos los colores le quedaran bien a la persona.
 
->[!Info] Ejemplo
->Ej: los cálidos suelen favorecerse con tierras, dorados y verdes oliva; los fríos con azules, plateados y magentas.
 
 >[!Info] Subtonos y Tatuajes
 >En tatuaje, el color reacciona distinto según la melanina y el subtono de la piel (por eso algunos rojos o azules “vibran” más en ciertas pieles).
 
->[!Info] Uso Digital
->En **Photoshop o Clo3D**, entender subtonos te ayuda a elegir paletas realistas para renders de piel o textiles y que no se vean artificiales.
 
 
 ## 2 Brillo
 ___
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Light-Dark Seasons-.PNG" 
+alt="Light-Dark SEASONS" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 El contraste es útil para elegir colores de pelo, makeup... no necesariamente el tono ya que esto depende de la temperatura del subtono de la piel, más bien para decidir la luminancia del color, si es más claro u oscuro.
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level math.jpg" 
@@ -773,8 +799,11 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 Para determinar el contraste hay que tomar una foto sin maquillaje y con luz natural y pasarla a blanco y negro: a partir de esta imagen hay que determinar cuanto contraste de color hay entre la piel y ojos/pelo.
 
 ### Claro
-Se tiende a estar en el lado claro cuando el pelo y los ojos son muy claros, por ejemplo: pelo rubio y ojos azules o verdes.
-Si se esta en el lado claro, los colores que encajan mejor son colores claros.
+- **Característica dominante:** Ausencia de profundidad, el pelo y los ojos son muy claros, incluso para la etnia de la persona, por ejemplo: pelo rubio y ojos azules o verdes.
+
+- **Contraste:** entre piel, pelo y ojos es bajo y quizá medio para etnias oscuras. 
+
+- **Colores:** colores claros hacen resaltar la piel, mientras que los oscuros envejecen. (colores mezclados con blanco)
 
 <div class="galeria">
 <img 
@@ -788,7 +817,6 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 />
 </div>
 
-(colores mezclados con blanco)
 <div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Contrast.PNG" 
@@ -802,8 +830,12 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 </div>
 
 ### Oscuro
-Se tiene a estar en el lado oscuro cuando los facciones naturales tienen colores oscuros profundos, pelo y ojos oscuros, la piel puede ser o no oscura.
-Si se esta en el lado oscuro, los colores que encajan mejor son colores oscuros
+- **Característica dominante:** Profundidad del pelo y ojos, las facciones naturales tienen colores oscuros profundos pelo y ojos oscuros, incluso para la etnia de la persona, sin necesidad de tener la piel oscura.
+
+- **Contraste:** entre piel, pelo y ojos es medio alto, el pelo y los ojos son más oscuros en comparación con la piel.
+
+- **Colores:** muy oscuros hacen resaltar la piel, mientras que los colores claros y luminosos hacen lucir a la persona cansada y demacrada. (colores mezclados con negro)
+
 <div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark.PNG" 
@@ -816,7 +848,6 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 />
 </div>
 
-(colores mezclados con negro)
 <div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Contrast.PNG" 
@@ -885,6 +916,11 @@ En este caso los maquillajes han de ser suaves al igual que características, no
 
 ## 3 Saturación
 ___
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Soft-Bright Seasons-.PNG" 
+alt="Soft-Bright SEASONS" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Una vez se ha determinado la temperatura hay que determinar la estación, para ello hay que determinar la intensidad de los colores.
 
 >[!Info] Desempatar estaciones cálidas:
@@ -893,11 +929,13 @@ Una vez se ha determinado la temperatura hay que determinar la estación, para e
 >[!Info] Desempatar estaciones frías:
 >Para desempatar entre invierno o verano hay que elegir un color de verano y uno de invierno para determinar cual realza mejor la piel.
 ### Bright tones: 
-Son los colores más vibrantes y saturados
+- **Característica dominante:** Apariencia clara, saturada y brillante, no hay tonos grisáceos, los rasgos no se mezclan sino que claramente hay un gran contraste entre la piel, ojos y pelo. Atraen la atención instantáneamente.
 
-Con una mayor saturación, los rasgos faciales serán más claros y brillantes y habrá un gran contraste entre la piel, ojos y pelo.
+- **Contraste:** Medio alto, los ojos resaltan con la piel y pelo, el blanco de los ojos esta muy definido
 
-Para colores saturados es mejor usar colores claros saturados.
+- **Colores:** Colores claros, vibrantes y saturados, es posible vestir colores muy saturados sin robar la atención, pero los colores desaturados hacen ver a la persona palida.
+
+
 <div class="galeria4">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/High Saturation.png" 
@@ -918,10 +956,12 @@ alt="Saturación"
 </div>
 
 ### Muted tones:
-Son los colores menos vibrantes y desaturados
-Con una menor saturación, los colores son suaves, apagados y polvorientos, sin brillo ni poder.
+- **Característica dominante:** Apariencia grisácea, gran cantidad de pigmentos grises, apariencia con poco contraste y homogénea. Proporcionan una elegancia sofisticada que no llama la atención
 
-Para colores poco saturados es mejor usar colores apagados (todos los colores mezclados con gris en proporción de cuan baja sea la saturación de la persona).
+- **Contraste:** medio bajo, piel, pelo y ojos tienen una intensidad baja similar, mezclándose en lugar de contrastar, los ojos se mezclan con los ojos y pelo, el pelo no es ni muy claro ni oscuro.
+
+- **Colores:** poco vibrantes y desaturados, son suaves, apagados y polvorientos, sin brillo ni poder. (todos los colores mezclados con gris en proporción de cuan baja sea la saturación de la persona).
+
 <div class="galeria4">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Low Saturation.png" 
