@@ -11,6 +11,13 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 
 # 1. Reloj de arena
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/relojarena.png 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 Proporciones equilibradas/curvas y simétricas entre hombros y caderas, con cintura marcada y líneas suaves. 
 
 (Un cuerpo equilibrado, con la parte superior e inferior proporcionadas. Busto definido. Cintura definida. Nalgas pequeñas. Caderas estrechas.)
@@ -38,6 +45,7 @@ Si tienes este tipo de morfología deberías evitar las siguientes prendas:
 - Camisas de hombre.
 - Jerséis anchos.
 - Ropa deportiva o prendas superpuestas.
+-  (- ropa recta y suelta)
 
 Y la ropa que mejor te sentará será la siguiente:
 - Chaquetas: entalladas con la cintura definida, sastre, etc.
@@ -47,10 +55,17 @@ Y la ropa que mejor te sentará será la siguiente:
 - Vestido: todos, entallados o con cinturón.
 - Abrigos: todos, pero con la cintura marcada o cinturón.
 - Baños: si las proporciones son buenas se puede llevar cualquier estilo.
-
+- (+Prendas entalladas, cortes cruzados y cinturones)
 
 # 2. Triángulo (o pera)
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/triangulo.png" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 Caderas más anchas que hombros, enfoque visual descendente desde hombros hacia caderas.
 
 (Caderas o muslos llenitos. Cintura definida. Hombros caídos y mas estrechos que las caderas. Mitad superior mas pequeñas.)
@@ -85,10 +100,17 @@ Las prendas deben realizar el busto y disimular las nalgas y caderas. Y el tipo 
 - Vestidos: coordinados o de dos piezas.
 - Abrigos: con hombros rectos y cuellos altos, y con botonadura doble.
 - Baño: evitar los detalles debajo de la cintura.
-
+- hombreras, escote barco, colores claros arriba
 
 # 3. Triángulo invertido
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/trianguloinvertido.png" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 Hombros prominentes, más anchos que caderas, línea visual que se estrecha hacia caderas.
 
 (Hombros rectos. Poca definición en la cintura y caderas. Caderas y Nalgas lisas. Mitad inferior mas pequeñas que la superior.)
@@ -116,6 +138,7 @@ Si tienes este tipo de cuerpo debes evitar:
 - Faldas fruncidas o faldas de capa.
 - Prendas superiores con hombreras
 - Cortes al bies y telas suaves, vaporosas, y con movimiento.
+- hombreras, volumen arriba
 
 Debemos realzar las caderas y nalgas para equilibrar la parte superior e inferior del cuerpo. Líneas de ropa que debe utilizar:
 - Chaqueta: no muy armadas ni dirigidas y rectas sin bolsillo
@@ -125,12 +148,18 @@ Debemos realzar las caderas y nalgas para equilibrar la parte superior e inferio
 - Vestidos: de lineas rectas, amplios o sueltos
 - Abrigos: de lineas rectas con un poco de cintura
 - Baño: sin espaldas, con el cuello cuadrado o con detalles en las caderas.
-
+- Faldas con vuelo o más anchas)
 
 # 4. Rectángulo
 ___
-Hombros, cintura y caderas con medidas similares; poca curva marcada, proporciones lineales, sensación de verticalidad o neutralidad.
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/rectangulo.png" 
+  alt="Rostro"
+  class="entry-image"
+/>
 
+Hombros, cintura y caderas con medidas similares y poca diferencia; poca curva marcada, proporciones lineales, sensación de verticalidad o neutralidad.
 
 Comunica versatilidad, dinamismo; sensación de juventud o energía.
 
@@ -152,7 +181,7 @@ Narrativa e identidad: Experimental, adaptable; narrativa de libertad y flexibil
 - Evitar uniformidad que enfatice la rectitud; crear contrastes arriba/abajo.
 - Jugar con texturas para añadir dimensión.
 
-En caso de tener morfología rectangular, las lineas de ropa que mejor nos sentarán serán las siguientes:
+En caso de tener morfología rectangular, las líneas de ropa que mejor nos sentarán serán las siguientes:
 - Chaquetas: estructuradas, sastre y con bolsillos
 - Blusas: de lineas simples y definidas y dos piezas
 - Faldas: cruzadas, con volumen, volantes o pliegues
@@ -160,11 +189,21 @@ En caso de tener morfología rectangular, las lineas de ropa que mejor nos senta
 - Vestidos: rectos y simples, o sueltos
 - Abrigos: de lineas rectas que destaquen la cintura, con botonaduras doble y cuello
 - Bañador: bañadores con estampados, con la pieza central mas oscura, o con cuello cuadrado.
-
+- cinturones, vestidos cruzados
+- Evitar: Prendas anchas, líneas rectas, ropa sin estructura
+- Camisetas lisas, pantalones rectos, cortes limpios 
+- Chaquetas entalladas, pantalones slim
 
 # 5. Óvalo (o manzana)
 ___
-Volumen concentrado en la zona media/centro, curvas suaves hacia arriba y abajo.
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/ovalo.png" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
+Mismo volumen en abdomen y cadera, cintura poco marcada, volumen concentrado en la zona media/centro, curvas suaves hacia arriba y abajo.
 
 Comunica comodidad, calidez, suavidad; sensación de generosidad o cercanía.
 
@@ -195,9 +234,18 @@ Debemos intentar hacer que el cuerpo parezca mas largo, y además tratar de cent
 - Blusas: de lineas simples sin detalles,de dos piezas, y camisas.
 - Abrigos: con vuelo, de punto, y tipo cárdigan.
 - Baño: tanquini o top poco ajustado que cubra la zona central. Se puede usar un sarong o llevar detalles en los hombros.
+- Escote en v, tejidos fluidos, tonos oscuros
+- Evitar: ropa ceñida, brillantes 
 
 # 6. Diamante
 ___
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Cuerpo Diamante.jpg" 
+  alt="Rostro"
+  class="entry-image"
+/>
+
 Similar al óvalo, pero con hombros y caderas más estrechos y volumen concentrado en el centro.
 
 Narrativa e identidad: 
@@ -232,3 +280,45 @@ Narrativa e identidad:
 >La ropa no solo se ajusta al cuerpo: **cuenta quién eres**. La morfología corporal define un “lienzo que puede reforzar tu narrativa.
 >
 >**Tip práctico:** combina proporciones geométricas con símbolos personales. Por ejemplo, si te interesa un estilo cultural o simbólico (como tatuajes o referencias históricas), la ropa puede resaltar la forma de tu cuerpo mientras transmite ese mensaje.
+
+
+OTROS:
+
+>[!Info] Triangulo invertido: 
+>hombros anchos y cintura estrecha (+camisetas lisas, pantalones rectos, cortes limpios) (-ropa ajustada arriba)
+
+>[!Info] Triangulo: 
+>abdomen y caderas anchas (+ tonos oscuros abajo, chaquetas abiertas, cuellos en v)
+>(-rayas horizontales en el abdomen)
+
+>[!Info] Trapezoidal: 
+>hombros y pecho ligeramente anchos y la cinatura algo más estrecho, 
+>(+ cortes clásicos) (-ropa ancha)
+
+
+
+# Dresscode: 
+___
+Formal: 
+- traje o conjunto estructurado, colores neutros, 
+
+Business casual: 
+- Americana, blazer, tacones, vaquero, camisa (habitual en congresos)
+
+Cocktail: 
+- Tarde noche, vestido corto o conjunto semiformal, 
+
+Gala/Etiqueta:
+- Vestido largo o traje oscuro con corbata/pajarita
+
+Imagen corporativa:
+- Conjunto de elementos visuales que identifican a una empresa o marca, también es importante el aspecto personal 
+
+Errores habituales en imagen profesional:
+- Llevar ropa muy ajustada; refleja incomodidad y poca profesionalidad 
+- Demasiados complementos; distraen del mensaje de la marca
+- Colores incompatibles con la marca; a
+- Cabello suelto molestando en eventos formales
+- Uñas demasiado llamativas
+- Calzado sucio o mal elegido
+- Maquillaje excesivo para eventos corporativo; a

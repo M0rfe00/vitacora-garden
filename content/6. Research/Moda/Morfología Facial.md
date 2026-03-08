@@ -31,6 +31,12 @@ ___
   alt="Rostro"
   class="entry-image"
 />
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Contour+Illumination Oval.jpg" 
+  alt="Rostro"
+  class="entry-image"
+/>
 
 **Estructura general:**
 - Proporciones equilibradas. Tercios relativamente compensados.
@@ -65,6 +71,12 @@ ___
 <img
   loading= "lazy" 
   src="../media-content/Apuntes/media-moda/Body Shapes/Redondo.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Contour+Illumination Round.jpg" 
   alt="Rostro"
   class="entry-image"
 />
@@ -107,6 +119,12 @@ ___
   alt="Rostro"
   class="entry-image"
 />
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Contour+Illumination Square.jpg" 
+  alt="Rostro"
+  class="entry-image"
+/>
 
 **Estructura general:**
 - Mandíbula marcada. Frente amplia.
@@ -142,6 +160,12 @@ ___
 <img
   loading= "lazy" 
   src="../media-content/Apuntes/media-moda/Body Shapes/Rectangular.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Contour+Illumination Rectangle.jpg" 
   alt="Rostro"
   class="entry-image"
 />
@@ -182,6 +206,12 @@ ___
   alt="Rostro"
   class="entry-image"
 />
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Contour+Illumination Heart.jpg" 
+  alt="Rostro"
+  class="entry-image"
+/>
 
 **Estructura general:**
 - Frente dominante. Mentón fino.
@@ -214,6 +244,12 @@ ___
 <img
   loading= "lazy" 
   src="../media-content/Apuntes/media-moda/Body Shapes/Diamante.avif" 
+  alt="Rostro"
+  class="entry-image"
+/>
+<img
+  loading= "lazy" 
+  src="../media-content/Apuntes/media-moda/Body Shapes/Contorno Diamong.png" 
   alt="Rostro"
   class="entry-image"
 />
