@@ -758,6 +758,21 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral
 
 ## 2 Brillo
 ___
+El contraste es útil para elegir colores de pelo, makeup... no necesariamente el tono ya que esto depende de la temperatura del subtono de la piel, más bien para decidir la luminancia del color, si es más claro u oscuro.
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level math.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+Para determinar el contraste hay que tomar una foto sin maquillaje y con luz natural y pasarla a blanco y negro: a partir de esta imagen hay que determinar cuanto contraste de color hay entre la piel y ojos/pelo.
+
+### Claro
 Se tiende a estar en el lado claro cuando el pelo y los ojos son muy claros, por ejemplo: pelo rubio y ojos azules o verdes.
 Si se esta en el lado claro, los colores que encajan mejor son colores claros.
 
@@ -774,7 +789,7 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 </div>
 
 (colores mezclados con blanco)
-<div class="galeria2">
+<div class="galeria">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Contrast.PNG" 
 />
@@ -786,10 +801,7 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 />
 </div>
 
-
-
-
-
+### Oscuro
 Se tiene a estar en el lado oscuro cuando los facciones naturales tienen colores oscuros profundos, pelo y ojos oscuros, la piel puede ser o no oscura.
 Si se esta en el lado oscuro, los colores que encajan mejor son colores oscuros
 <div class="galeria">
@@ -818,23 +830,6 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 </div>
 
 
-
-## 2.1 Contraste natural
-___
-El contraste es útil para elegir colores de pelo, makeup... no necesariamente el tono ya que esto depende de la temperatura del subtono de la piel, más bien para decidir la luminancia del color, si es más claro u oscuro.
-<img 
-src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level math.jpg" 
-alt="Contraste" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
-/>
-<img 
-src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level.jpg" 
-alt="Contraste" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
-/>
-
-Para determinar el contraste hay que tomar una foto sin maquillaje y con luz natural y pasarla a blanco y negro: a partir de esta imagen hay que determinar cuanto contraste de color hay entre la piel y ojos/pelo.
-
 ### **Contraste alto 7-10:**
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Contrast/High Contrast.jpg" 
@@ -848,7 +843,7 @@ Por el contrario puede darse que la piel sea muy oscura y el blanco de los ojos 
 
 En este caso se necesitan contrastes altos tanto en labios como en el pelo, por lo que un maquillaje de alto contraste quedara mejor que uno de poco.
 
-Estaciones:
+**Estaciones:**
 - La mayoría de las personas que tienen un contraste alto pertenecen a invierno, siendo la única con contraste alto.
 - Las personas invierno profundo tienen un contraste alto tirando a medio. (Puede que también primavera brillante e invierno brillante)
 
@@ -865,7 +860,7 @@ En este caso se evita tener el pelo muy oscuro ni muy claro, se buscan colores i
 
 Los labiales también deberán ser de tonos nude, es decir "1" tono más oscuro que su color de labios natural le quedara mejor, en cambio un labial muy oscuro quedará artificial.
 
-Estaciones:
+**Estaciones:**
 - La mayoría de las personas con un contraste alto pertenecen a primavera cálida, verano frio y otoño cálido. (puede Invierno y otoño oscuro, Todas las estaciones en verdadero)
 - Los otoño profundo tienen un contraste medio tirando a alto.
 - Los primavera brillantes tienen un contraste medio tirando a alto.
@@ -881,7 +876,7 @@ En este caso NO hay prácticamente diferencia de color entre el pelo/ojos natura
 
 En este caso los maquillajes han de ser suaves al igual que características, no necesariamente claras, pero suaves, el color del labial y el color del pelo deberá ser muy cercano a su tono de piel.
 
-Estaciones: 
+**Estaciones:** 
 - Otoño suave, verano suave, primavera brillante y verano brillante.
 - Si se tiene un contraste bajo y se es frio hay muchas probabilidades de ser verano suave.
 
@@ -892,19 +887,18 @@ Estaciones:
 ___
 Una vez se ha determinado la temperatura hay que determinar la estación, para ello hay que determinar la intensidad de los colores.
 
-- Bright tones: Son los colores más vibrantes y saturados
-- Muted tones: Son los colores menos vibrantes y desaturados
+>[!Info] Desempatar estaciones cálidas:
+>Para desempatar entre primavera u otoño hay que elegir un tono saturado de primavera y uno desaturado de otoño de para determinar cual realza mejor la piel.
 
-Desempatar estaciones cálidas:
-Para desempatar entre primavera u otoño hay que elegir un tono saturado de primavera y uno desaturado de otoño de para determinar cual realza mejor la piel.
-
-Desempatar estaciones frías:
-Para desempatar entre invierno o verano hay que elegir un color de verano y uno de invierno para determinar cual realza mejor la piel.
+>[!Info] Desempatar estaciones frías:
+>Para desempatar entre invierno o verano hay que elegir un color de verano y uno de invierno para determinar cual realza mejor la piel.
+### Bright tones: 
+Son los colores más vibrantes y saturados
 
 Con una mayor saturación, los rasgos faciales serán más claros y brillantes y habrá un gran contraste entre la piel, ojos y pelo.
 
 Para colores saturados es mejor usar colores claros saturados.
-<div class="galeria2">
+<div class="galeria4">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/High Saturation.png" 
 alt="Saturación" 
@@ -913,9 +907,6 @@ alt="Saturación"
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/Color High Saturation.png" 
 alt="Saturación" 
 />
-</div>
-
-<div class="galeria2">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/Bright Eyes.jpg" 
 alt="Saturación" 
@@ -926,11 +917,12 @@ alt="Saturación"
 />
 </div>
 
-
+### Muted tones:
+Son los colores menos vibrantes y desaturados
 Con una menor saturación, los colores son suaves, apagados y polvorientos, sin brillo ni poder.
 
 Para colores poco saturados es mejor usar colores apagados (todos los colores mezclados con gris en proporción de cuan baja sea la saturación de la persona).
-<div class="galeria2">
+<div class="galeria4">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Low Saturation.png" 
 alt="Saturación" 
@@ -939,9 +931,6 @@ alt="Saturación"
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Color Low Saturation.png" 
 alt="Saturación" 
 />
-</div>
-
-<div class="galeria2">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Muted Eyes.jpg" 
 alt="Saturación" 
