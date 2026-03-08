@@ -63,16 +63,18 @@ Ambiente suave y difuso.
 ## ❄️ INVIERNO
 ___
 Tanto invierno como verano son estaciones frías, colores azules, violetas, grises, dependiendo de la subestación dependerá que tan saturado y brillante sean esos colores.
+<div class="galeria2">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter Cool Colors.png" 
 alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Winter/Winter.PNG" 
 alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+</div>
+
+
 
 **Subtono:** Frío  
 **Profundidad:** Media a oscura (aunque puede haber piel muy clara con alto contraste)  
@@ -102,17 +104,18 @@ Alto contraste.
 ## 🌸 PRIMAVERA
 ___
 Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
-
+<div class="galeria2">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring Warm Colors.png" 
 alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Spring/Spring.PNG" 
 alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+</div>
+
+
 
 **Subtono:** Cálido  
 **Profundidad:** Clara a media-clara  
@@ -146,16 +149,18 @@ Evitar contraste duro.
 ___
 Tanto primavera como otoño son colores cálidos, es decir aunque hay variación predominan los cálidos, ejemplo; un azul verdoso que tiende a ser cálido en comparación con un azul puro que es completamente frio.
 
+<div class="galeria2">
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autum Warm Colors.png" 
 alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Autumn/Autumn.PNG" 
 alt="Season Colors" 
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
+</div>
+
+
 
 **Subtono:** Cálido  
 **Profundidad:** Media a oscura/Profundo.
@@ -346,7 +351,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 **Ojos:** gris verdoso, azul humo.
 
 **Colores suaves y polvosos;** 
-Rosa empolvado, Azul grisáceo, Verde apagado, Malva, Azul grisáceo, Verde salvia frío, Taupe frío.
+Rosa empolvado, Azul grisáceo, Verde apagado, Malva, Verde salvia frío, Taupe frío.
 
 
 **Iluminación:**
@@ -521,12 +526,19 @@ ___
 ## 0 Tonos:
 ___
 Los subtonos y los tonos de piel son diferentes, pero en el análisis de color se tiene en cuenta el subtono. La idea es elegir colores que no “choquen” con ese subtono.
-
-![[Tonos.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Tonos.jpg" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 ## 1 Temperatura
 ___
-![[Subtonos.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Subtonos.jpg" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Todas las pieles vivas son cálidas, sin embargo, la piel esta compuesta de pigmentos rojos, azules y amarillos, los cuales generan una temperatura que puede ser cálida, neutra o fría. Esto es lo primero a identificar.
 
@@ -535,7 +547,11 @@ Todas las pieles vivas son cálidas, sin embargo, la piel esta compuesta de pigm
 2) Joyería: Si la piel luce más iluminada con joyería dorada el subtono es cálido y viceversa.
 3) Pañuelos: comparar pañuelos blanco/beige, negro/cafe y naranja/rosa. Si la piel luce más iluminada con colores blanco, negro y rosa es cálida y viceversa.
 ### Subtonos Fríos: 
-![[Cool Undertones.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Cool/Cool Undertones.jpg" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 Los subtonos fríos están asociados a calma, lejanía y el cielo.
 - Matiz rosado/azulado.
 - Venas azuladas o purpuras.
@@ -544,7 +560,11 @@ Los subtonos fríos están asociados a calma, lejanía y el cielo.
 - Se sonrojan fácilmente bajo el sol y no se broncean.
 
 ### Subtonos Cálidos: 
-![[Warm Undertones.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warn/Warm Undertones.jpg" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
  Los subtonos cálidos están asociados a energía, cercanía y calor.
 - Matiz dorado/amarillo.
 - Venas verdosas
@@ -553,14 +573,26 @@ Los subtonos fríos están asociados a calma, lejanía y el cielo.
 - Se broncean fácilmente bajo el sol y raramente se quedan rojos.
 
 ### Subtonos Neutros: 
-![[Neutral Undertones.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Neutral/Neutral Undertones.jpg" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 - Mezcla de características de subtonos cálidos y fríos.
 - Se encuentran entre los fríos y los cálidos
 - A medias entre cálidos y fríos, por lo que casi todos los colores le quedaran bien a la persona.
 
-![[Eyes-Temperature.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Eyes-Temperature.jpg" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/hair_1024x1024.webp" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
-![[hair_1024x1024.webp]]
 
 >[!Info] Ejemplo
 >Ej: los cálidos suelen favorecerse con tierras, dorados y verdes oliva; los fríos con azules, plateados y magentas.
@@ -576,28 +608,49 @@ Los subtonos fríos están asociados a calma, lejanía y el cielo.
 ___
 Se tiende a estar en el lado claro cuando el pelo y los ojos son muy claros, por ejemplo: pelo rubio y ojos azules o verdes.
 Si se esta en el lado claro, los colores que encajan mejor son colores claros.
-![[Light Side.png]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Light/Light Side.png" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 (colores mezclados con blanco)
 
 
 
 Se tiene a estar en el lado oscuro cuando los facciones naturales tienen colores oscuros profundos, pelo y ojos oscuros, la piel puede ser o no oscura.
 Si se esta en el lado oscuro, los colores que encajan mejor son colores oscuros
-![[Dark Side.png]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad/Dark/Dark Side.png" 
+alt="Tonos" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 (colores mezclados con negro)
 
 
 ## 2.1 Contraste natural
 ___
 El contraste es útil para elegir colores de pelo, makeup... no necesariamente el tono ya que esto depende de la temperatura del subtono de la piel, más bien para decidir la luminancia del color, si es más claro u oscuro.
-
-![[Contrast Level math.jpg]]
-![[Contrast Level.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level math.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Contrast Level.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
 
 Para determinar el contraste hay que tomar una foto sin maquillaje y con luz natural y pasarla a blanco y negro: a partir de esta imagen hay que determinar cuanto contraste de color hay entre la piel y ojos/pelo.
 
 ### **Contraste alto 7-10:**
-![[High Contrast.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/High Contrast.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 Cuando el contraste es muy alto suele darse porque el pelo u ojos son muy oscuro respecto a la piel.
 
 Por el contrario puede darse que la piel sea muy oscura y el blanco de los ojos y los dientes contrasten mucho con la piel.
@@ -609,7 +662,12 @@ Estaciones:
 - Las personas invierno profundo tienen un contraste alto tirando a medio. (Puede que también primavera brillante e invierno brillante)
 
 ### **Contraste Medio 4-7:**
-![[Medium Contrast.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Medium Contrast.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 En este caso hay diferencia de color entre el pelo/ojos naturales y la piel, pero no es mucha.
 
 En este caso se evita tener el pelo muy oscuro ni muy claro, se buscan colores intermedios como un castaño, siempre dependiendo del tono de la persona y evitando extremos.
@@ -622,7 +680,12 @@ Estaciones:
 - Los primavera brillantes tienen un contraste medio tirando a alto.
 
 ### **Contraste Bajo 1-4:**
-![[Low Contrast.jpg]]
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Low Contrast.jpg" 
+alt="Contraste" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 En este caso NO hay prácticamente diferencia de color entre el pelo/ojos naturales y la piel, tanto en pieles oscuras como claras.
 
 En este caso los maquillajes han de ser suaves al igual que características, no necesariamente claras, pero suaves, el color del labial y el color del pelo deberá ser muy cercano a su tono de piel.
@@ -650,15 +713,33 @@ Para desempatar entre invierno o verano hay que elegir un color de verano y uno 
 Con una mayor saturación, los rasgos faciales serán más claros y brillantes y habrá un gran contraste entre la piel, ojos y pelo.
 
 Para colores saturados es mejor usar colores claros saturados.
-![[High Saturation.png]]
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/High Saturation.png" 
+alt="Saturación" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Bright/Color High Saturation.png" 
+alt="Saturación" 
+/>
+</div>
 
-![[Color High Saturation.png]]
+
 Con una menor saturación, los colores son suaves, apagados y polvorientos, sin brillo ni poder.
 
 Para colores poco saturados es mejor usar colores apagados (todos los colores mezclados con gris en proporción de cuan baja sea la saturación de la persona).
-![[Low Saturation.png]]
+<div class="galeria2">
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Low Saturation.png" 
+alt="Saturación" 
+/>
+<img 
+src="../media-content/Apuntes/media-moda/SkinTones/3 Saturación - Chroma/Muted/Color Low Saturation.png" 
+alt="Saturación" 
+/>
+</div>
 
-![[Color Low Saturation.png]]
+
 
 
 
