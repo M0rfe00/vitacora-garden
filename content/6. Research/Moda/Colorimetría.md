@@ -671,7 +671,7 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Subtonos.jpg"
 ## 1 Temperatura
 ___
 <img 
-src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Temperature-True Seasons.PNG" 
+src="../media-content/Apuntes/media-moda/SkinTones/Seasons/Temperature-True Seasons-.PNG" 
 alt="Cool-Warm (TRUE SEASONS)" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -744,6 +744,7 @@ src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Contr
 src="../media-content/Apuntes/media-moda/SkinTones/1 Temperature/Warm/Warm Color.PNG" 
 />
 </div>
+
 - **Característica dominante:** Calidez y la ausencia de frialdad en la apariencia.
 - **Simbolismo:** están asociados a energía, cercanía y calor.
 - **Piel:** Parece mas amarilla anaranjada, dorada bajo, tierra o melocotón. luz natural. Se broncean fácilmente bajo el sol y raramente se quedan rojos.
@@ -859,52 +860,49 @@ src="../media-content/Apuntes/media-moda/SkinTones/2 Dark vs Light - Profundidad
 />
 </div>
 
-
-### **Contraste alto 7-10:**
+### 2.1 Contraste
+___
+#### **Contraste alto 7-10:**
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Contrast/High Contrast.jpg" 
 alt="Contraste" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-Cuando el contraste es muy alto suele darse porque el pelo u ojos son muy oscuro respecto a la piel.
+**Contraste:** Mucha diferencia entre piel/pelo/ojos, suele darse porque el pelo u ojos son muy oscuro respecto a la piel. Por el contrario puede darse que la piel sea muy oscura y el blanco de los ojos y los dientes contrasten mucho con la piel.
 
-Por el contrario puede darse que la piel sea muy oscura y el blanco de los ojos y los dientes contrasten mucho con la piel.
-
-En este caso se necesitan contrastes altos tanto en labios como en el pelo, por lo que un maquillaje de alto contraste quedara mejor que uno de poco.
+**Maquillaje:** Contrastes altos tanto en labios como en el pelo, por lo que un maquillaje de alto contraste quedara mejor que uno de poco.
 
 **Estaciones:**
 - La mayoría de las personas que tienen un contraste alto pertenecen a invierno, siendo la única con contraste alto.
 - Las personas invierno profundo tienen un contraste alto tirando a medio. (Puede que también primavera brillante e invierno brillante)
 
-### **Contraste Medio 4-7:**
+#### **Contraste Medio 4-7:**
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Medium Contrast.jpg" 
 alt="Contraste" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-En este caso hay diferencia de color entre el pelo/ojos naturales y la piel, pero no es mucha.
+**Contraste:** hay diferencia de color entre el pelo/ojos naturales y la piel, pero no es mucha. Se evita tener el pelo muy oscuro ni muy claro, se buscan colores intermedios como un castaño, siempre dependiendo del tono de la persona y evitando extremos.
 
-En este caso se evita tener el pelo muy oscuro ni muy claro, se buscan colores intermedios como un castaño, siempre dependiendo del tono de la persona y evitando extremos.
-
-Los labiales también deberán ser de tonos nude, es decir "1" tono más oscuro que su color de labios natural le quedara mejor, en cambio un labial muy oscuro quedará artificial.
+**Maquillaje:** Los labiales también deberán ser de tonos nude, es decir "1" tono más oscuro que su color de labios natural le quedara mejor, en cambio un labial muy oscuro quedará artificial.
 
 **Estaciones:**
 - La mayoría de las personas con un contraste alto pertenecen a primavera cálida, verano frio y otoño cálido. (puede Invierno y otoño oscuro, Todas las estaciones en verdadero)
 - Los otoño profundo tienen un contraste medio tirando a alto.
 - Los primavera brillantes tienen un contraste medio tirando a alto.
 
-### **Contraste Bajo 1-4:**
+#### **Contraste Bajo 1-4:**
 <img 
 src="../media-content/Apuntes/media-moda/SkinTones/Contrast/Low Contrast.jpg" 
 alt="Contraste" 
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-En este caso NO hay prácticamente diferencia de color entre el pelo/ojos naturales y la piel, tanto en pieles oscuras como claras.
+**Contraste:** NO hay prácticamente diferencia de color entre el pelo/ojos naturales y la piel, tanto en pieles oscuras como claras.
 
-En este caso los maquillajes han de ser suaves al igual que características, no necesariamente claras, pero suaves, el color del labial y el color del pelo deberá ser muy cercano a su tono de piel.
+**Maquillaje:** han de ser suaves al igual que las características, no necesariamente claras, pero suaves, el color del labial y el color del pelo deberá ser muy cercano a su tono de piel.
 
 **Estaciones:** 
 - Otoño suave, verano suave, primavera brillante y verano brillante.
