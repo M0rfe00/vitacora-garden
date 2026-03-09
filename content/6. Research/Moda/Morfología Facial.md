@@ -344,10 +344,23 @@ El rostro se puede dividir en ejes para entender su estructura, estas divisiones
 >
 >Esto permite medir si la frente, la nariz y el mentón están equilibrados.
 
+<img 
+src="../media-content/Apuntes/media-moda/Body Shapes/Tercios faciales.jpg" 
+alt="Divisiones" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 >[!Info] **Eje vertical:**
 >Divide el rostro en izquierda y derecha para evaluar simetría.  
 >
 >La simetría no necesita ser perfecta, pero ayuda a ver qué zonas destacan o necesitan equilibrio.
+
+<img 
+src="../media-content/Apuntes/media-moda/Body Shapes/Simetria facial.jpg" 
+alt="Divisiones" 
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
 
 
 ## **Proporciones relativas**
@@ -373,23 +386,18 @@ Más allá de formas simples, se presta atención a:
 
 ## **Equilibrio visual**
 ___
-El objetivo no es que todas las caras se parezcan, sino que visualmente tengan coherencia.
+El objetivo no es que todas las caras se parezcan, sino que visualmente tengan coherencia. Esto se logra usando luz, sombra, líneas y proporciones para “leer” visualmente la armonía del rostro.
 
-Por ejemplo:
+>[!Info] Ejemplo 1:
+>Si la parte superior del rostro es visualmente más ancha, se puede **suavizar** con técnicas de maquillaje o volumen de cabello.
 
-- Si la parte superior del rostro es visualmente más ancha, podrías **suavizarla** con técnicas de maquillaje o volumen de cabello.
-- Si el mentón es dominante, podrías equilibrar con volumen en zonas altas.
-
-Esto se logra usando luz, sombra, líneas y proporciones para “leer” visualmente la armonía del rostro.
-
+>[!Info] Ejemplo 2:
+>Si el mentón es dominante, se puede equilibrar con volumen en zonas altas.
 
 
 # **==2. Expresión y carácter==**
 ___
-El análisis de la expresión y carácter se centra en qué comunica estructuralmente el rostro incluso en reposo antes de intervenirlo, no es el gesto momentáneo, sino la configuración permanente de rasgos.
-
-En visagismo se parte de la idea de que el rostro tiene una **expresión estática** antes de cualquier gesto.
-
+En visagismo se parte de la idea de que el rostro tiene una **expresión estática** antes de cualquier gesto. El análisis de la expresión y carácter se centra en qué comunica estructuralmente el rostro incluso en reposo antes de intervenirlo, no es el gesto momentáneo, sino la configuración permanente de rasgos.
 
 ## Elementos que construyen carácter
 ___
