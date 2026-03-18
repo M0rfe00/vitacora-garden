@@ -65,7 +65,7 @@ ___
 
 # **LABIOS (lip combo)**
 ___
-<div class="galeria3">
+<div class="galeria">
 <img loading= "lazy" src="../media-content/Apuntes/media-moda/Makeup-Layers/slide8Howtouse.webp"/>
 <img loading= "lazy" src="../media-content/Apuntes/media-moda/Makeup-Layers/Lips Materials.png"/>
 <img loading= "lazy" src="../media-content/Apuntes/media-moda/Makeup-Layers/Lips Shapes2.png"/>
