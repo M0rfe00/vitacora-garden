@@ -1,0 +1,584 @@
+---
+tags:
+  - 3D
+---
+# ==How to create textures from scratch==
+___
+**Workflow para crear texturas nuevas modificando las de DAZ**
+## **1. BLENDER/DAZ:**
+**Exportar el personaje y las texturas:**
+1) Export a character from Daz to Blender
+
+2) In Blender adjust World properties:
+	- Surface>Sampling: Manual
+	- Surface>Map Resolution & Max Bounces: 512
+
+3) En los materiales de la cara mantener solo el "Diffuse Map" y eliminar el resto, para crear nuevas texturas a partir de esta.
+
+4) En Texture Paint guardar una copia del mapa de la cara en un nuevo directorio
+
+## **2. PHOTOSHOP:** 
+**Crear Bump, Normal, Roughness, Ambien Occlusion & SSS Textures**
+5) Crear un archivo de 4096x4096px y exportar la textura, rasterizarla y duplicarla para crear el resto de texturas.
+
+6) **Normal:** Filter>3D>==Generate Normal Map==, check "Invert box" y modificar ajustes para detallar (escala de detalle).
+
+7) **Bump:** Filter>3D>==Generate Height Map==, check "Invert box" y modificar ajustes para detallar (escala de detalle), aumentar el ==contraste== con "Curvas" para afilar detalles.
+
+8) **Roughness:** Image>Regulations>==Desaturate== + Image>Regulations>==Invert==, utilizar curvas para aumentar el ==contraste==
+
+9) **New Diffuse:** Image>Regulation>Curves: Aumentar el ==contraste== del Deffuse original para crear un nuevo Diffuse Map más detallado.
+<!--
+10) **Subsurface Scatter:** Renombrar la textura original como SSS
+
+11) **Ambient Occlusion:** ==Duplicar la textura SSS==, Image>Regulations>==Desaturate== + Image>Regulations>==Invert== + Aumentar ==contraste== con curvas. Con un pincel blanco (855px, Dureza 0%, Opacidad 14%) aclarar las zonas alrededor de los ojos, nariz, boca y orejas (1/2 toques por zona)
+
+12) Specular: ??? (Invert+contrast?) (the original?)-->
+- Guardar todas las texturas en el mismo directorio donde esta el proyecto de blender
+
+## **3. BLENDER:** 
+**Texturize the character**
+
+10) En los materiales de la cara; añadir un nodos de imagen, seleccionar los mapas creados y conectarlos a un Principled BSDF.
+<!--
+	- **Diffuse:** Reemplazar el original por el nuevo saturado ->Hue Saturation Value (0.0.0.1)
+	- **Roughness:** Color Space - Non-Color. -> Dual Lobe Specular & Specular Lobe 
+	- **Bump:** Color Space - Non-Color. -> Bump Strength & Displacement
+	- **Normal:** Color Space - Non-Color. ->Normal 
+	- **Ambient Occlusion & Diffuse:** Color ->Mix (Multiply) -> Diffuse Texture
+	- **SSS:** Color Space - sRGB. -> SSSBlue & SSSRed-->
+
+<img
+  src="../media-content/Apuntes/3D-Notes/Makeup-media/SkinTexturesNodes.png"
+  alt="Nodos"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+**ESTRUCTURA ALTERNATIVA**
+<img
+  src="../media-content/Apuntes/3D-Notes/Makeup-media/Nodes.jpg"
+  alt="Nodes2"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<!--<img
+  src="../media-content/Apuntes/3D-Notes/Makeup-media/skin shader.png"
+  alt="Nodes2Result"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>-->
+
+11) Copiar todos los nodos de la cara y reemplazarlos en los materiales de Labios, Orejas, EyeSocket.
+
+
+**==REPETIR PROCESO CON EL RESTO DE TEXTURAS (HEAD, TORSO, LEGS, ARMS).==**
+
+>[!Info] Pintar Detalles
+>Seleccionar el Diffuse de la cara para pintarlo en Texture Paint para añadir detalle, como por ejemplo; oscurecer labios el interior superior de los ojos (pincel: Black, Multiply, tamaño y fuerza: según la zona)
+
+>[!Info] ESCULPIR
+>Esculpir algunos detalles en la cara para definirla y detallarla, también se pueden alargar las pestañas seleccionándolas y usando el pincel "Snake hook" en Sculp Mode
+
+>[!Info] Roughness
+>Se puede editar la cantidad de roughness en Texture Paint, pintando de negro donde se quiera destacar como pómulos, labios o nariz (Guardar siempre la textura después de modificarla)
+
+>[!Info] HUE/SAT VALUE
+>Conectar un nodo "Hue Sat Value" entre las texturas de la piel y el principied BSDF, permite modificar el look de la piel (H - 0.5, Sat -0.8, V - 1, Fac -1)
+
+>[!Info] WET LOOK
+>Conectar un nodo "Map range" entre las texturas de la piel y el principied BSDF, permite obtener un look humedo en la piel modificando su valor (F.Min - 1, F. Max -2.7, T. Min - -0.8, T. Max - 0.6)
+
+
+<!--
+
+# ==Humanify==
+___
+[Humanify](https://superhivemarket.com/products/humanify---one-click-realism) es un Addon que permite texturizar pieles en blender con un par de clics.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LrRgPPx7pMU?si=JxMNVbJaqcyGbenA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
+
+# SKIN TEXTURES IN SP
+___
+**Método para retocar texturas de piel en Substance Painter**
+## **ROUGHNESS** 
+- Crear una fill layer "BaseRough", marcar únicamente "rough" importar una textura de roughness, por ejemplo de texture.xyz.
+- Crear una mascara, añadir una capa de pintura y en ella añadir "Add levels" para ajustar el contraste de la textura.
+- Oscurecer las zonas de la textura que deben de tener menos roughness como los labios, ojos, mejillas...
+
+## **Base color** 
+- Crear una fill layer "BaseColor", marcar únicamente "color" importar una textura de Base color, por ejemplo de texture.xyz.
+- Ajustar los valores de la textura (contrast, luminosity, Saturation..)
+- Ajustar con capas como "Color Balance" "Color Correct" "Blur"
+
+## **MakeUP** 
+- Crear una capa, una mascara y una capa de pintura para cada elemento (Labios, Eyeliner, Sombra, Nariz)
+
+
+# GLOBAL SKIN ADD-ON
+___
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/s38-QAXuKIM?si=PMeNYfQ6-8kwqGwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Recomendado usar el add-on después de crear la pose e iluminación, ya que la escena por defecto no muestra un resultado detallado.
+
+El add-on requiere de buena iluminación por lo que es recomendado usar; un HDRI y un Sunlight
+
+Render properties:
+- Viewport>Samples: 1000 (Para más detalle)
+- Light Paths: Fast Global ilumination (en los 3 puntos)
+
+Camera & Compositor: Desactivar compositor y Eliminar efectos de la cámara como depth of flied
+
+Ocultar el pelo en el viewport.
+
+Realizar un copia del personaje por seguridad.
+
+### Panels Setup
+___
+Panel layout recomendado para trabajar con el addon
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125191806.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+### APLICAR EL ADDON
+___
+Seleccionar la figura de DAZ
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125191942.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Seleccionar el material al cual vamos a aplicar la textura y la parte del cuerpo en el addon:
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125192110.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+El resultado suele ser una piel muy claro
+
+Global skin trabaja con 5 tipos de piel para diferentes etnias, pueden aplicarse aumentando la propiedad "Skin+nº".
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125192244.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+## **==Mantener textura original==**
+___
+En caso de querer mantener la textura orignal del personaje en lugar de la del addon; hay que buscar el nombre de la textura original en el backup del personaje.
+
+GS ofrece una forma de aplicar texturas personales, pero estas no ofrecen suficientes funcionalidades como las de propias en "Skin tone textures".
+
+Para poder aplicarlas hay que ir al shader de global skin "Skin Shader Global Daz" y clicar "Tab"; esto abrirá un árbol de nodos inmenso.
+
+Cada una de las filas de la izquierda corresponden a cada slider de "Skin Tones"
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125193233.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Es posible reemplazar la textura de los sliders cambiando el archivo de el nodo "Albedo" de cada una de las partes del cuerpo
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125193356.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+
+## **==Roughness & Specular:==**
+___
+Controlan que tan brillante es la piel: 
+- **==Roughness:==** Disminuirlo hará la piel más reflectiva.
+- **==Specular:==** Aumentarlo hará la piel será más brillante.
+
+También es posible añadirlos a un grupo, luego hay que renombrar el nodo value y el "value output"
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195240.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195257.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+## **==Normal==**
+___
+Esta conectado a la salida "Displacement"
+- **==Weight:==** Controla que tan fuerte es el normal map
+- ==**Displacement:==** ofrece diferentes opciones para el patrón de la piel:
+
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195440.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Las diferencias de los displacement son difíciles de apreciar a simple vista, por ello es recomendable sacar capturas y compararlas
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195454.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195556.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Para configurar globalmente el normal, crear dos grupos  y conectarlos a los inputs
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195639.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Resumen:
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125200818.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+## **==Materiales Cara y Makeup==**
+___
+Algunos materiales tienen ajustes únicos, por ejemplo el materia de la cabeza permite modificar el tono de labios, mejillas, nariz...
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194638.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+En los materiales de la cabeza también hay un nodo que controla el maquillaje, para desactivarlo solo hay que conectar directamente el principal al output
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194832.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+## **==Efectos==**
+___
+**Estos parámetros pueden ser utilizados para crear imperfecciones en la piel para añadir realismo.** También pueden crearse grupos para modificar los valores globalmente:
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195750.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+
+### **==Poros:==**
+Sockets: Pores
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195921.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+### **==Venas==**
+Sockets: Veins & Veins color
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125195946.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125200007.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+### **==Bronceado:==**
+Sockets: Weight, Weight Tne, MIX.
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/Stains.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/Stains2.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+## **==Uñas:==**
+___
+Global Skin no incluye un material para las uñas, por ello hay que utilizar los materiales originales de Daz.
+
+Para ajustar el material original de las uñas al de la nueva piel; ajustar el factor del color mix para reducir el blanco de la uñas e igualarlo a la piel.
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125200438.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+# Comparación Daz vs Global Skin Material
+___
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125200737.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+## **==ENCHANCING THE SKIN==**
+___
+La textura default del addon tiene mucho más detalle que la de Daz, sin embargo, es posible combinarlas para mejorarla.
+
+Ir al Shader Menu del addon, e ir a la textura de Daz.
+Copiar un Albedo y colocarlo cerca de la textura de Daz y cambiar el archivo; si se la textura era "Torso_ColorBase01" seleccionar "Torso_ColorBase02"
+
+Presionar "Shift" y crear una linea en la pineline de la textura de DAZ para crear un "reroute point".
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125205157.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Combinar ambas texturas en un Mix Shader (Daz: entrada B). Para que la textura de Daz sea más visible; establecer el blend mode en "Darken" y el factor en "1".
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125205256.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Para controlar la intensidad de la textura de "Global Skin Texture" añadir un nodo RGB.
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125205533.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Resultado:
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125205605.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Para combinar el resto de texturas globalmente; agrupar los nodos anteriores en un grupo y nombrarlo "Skin Mixer".
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125205712.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Y copiarlo al resto de materiales (Face, arms, legs...) reemplazando la textura del cuerpo correspondiente para cada material.
+
+## Modificar Globalmente
+___
+Cada vez se que modifica una propiedad de los shaders hay que establecer el mismo valor en todas las texturas, lo que lleva mucho tiempo, para evitarlo es posible:
+
+Añadir un nodo value, conectarlo a un parametro y seleccionar "Make Group" (Tab/Right click para salir del grupo). 
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125193905.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Renombrar el grupo según el valor que modifica y conectarlo a todos los nodos "Global Skin Shader"
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194011.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+Ahora cuando se modifique el valor del grupo modificara todas las texturas simultáneamente
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194047.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Para hacerlo mismo con otras propiedades; copiar el nodo del grupo, clicar en el número para desconectar el grupo, Renombrarlo al valor que va a modificar y copiar el valor actual del parámetro que modificara en el nodo value dentro del grupo
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194334.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194315.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+
+Copiar le nodo en todo los materiales
+<img
+  src="../media-content/Apuntes/3D-Notes/Skin/20260125194358.png"
+  alt="GlobalSkin"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
+/>
+
+<!--
+## Añadir detalles
+___
+Para añadir Detalles/Overlays por encima de la textura como un efecto de humedad;
+
+Primero hay que importar otra versión del personaje con el efecto ya aplicado en otro proyecto.
+
+Copiar el cuerpo del personaje y en el proyecto actual crear una nueva colección y pegar el cuerpo del personaje con el efecto.
+
+Copiar los nodos del personaje con el efecto y pegarlos en los shaders del addon (solo es necesario la textura de overlay) y quiza el color para usarlo temporalmente antes de reemplazar
+![[20260125201931.png]]
+Necesarios:
+![[20260125202022.png]]
+
+(PENDIENTE CONITNUAR)
+-->
+
+<!--
+# TEXTURE XZY SKIN WORKFLOW
+___
+Crear un personaje y exportarlo a Substance Painter
+
+Asignar las texturas de Texture xyz al personaje mezclandolas por capas y suavizando poros, transiciones y artefactos con mascaras, levels, blurs y opacities, 
+
+Exportar base color, roughness, normal y height/displacement. 
+
+En blender aplicar esas texturas a mi arbol de nodos para la piel.
+
+### 1️⃣ Crear el personaje (DAZ)
+- Personaje base (Genesis)
+- UVs intactas
+- Sin preocuparte aún por el acabado final de la piel
+
+### 2️⃣ Exportar a Substance Painter
+- FBX / OBJ
+- Resolución alta
+- Normales correctas
+
+### 3️⃣ Substance Painter — **PASO CLAVE**
+Aquí haces **lo que en los vídeos hacen en ZBrush**, pero mejor adaptado a tu pipeline.
+#### En Painter:
+- Importas mapas de **Texturing.xyz**
+- Los aplicas como **Fill Layers**
+- Proyección:
+    - UV si encaja bien
+    - Triplanar / Projection si hace falta
+
+#### Mezcla por capas:
+- Máscaras
+- Levels (control de contraste)
+- Blur (muy importante)
+- Opacity (nunca al 100%)
+
+🎯 Objetivo:
+- Romper uniformidad
+- Suavizar poros
+- Corregir labios, párpados, aletas de la nariz
+- Evitar “piel de naranja”
+
+### 4️⃣ Exportar mapas FINALES desde Painter
+Exportas solo lo que Blender necesita:
+- ✅ Base Color (final)
+- ✅ Roughness (final)
+- ✅ Normal (final)
+- ⭕ Height / Displacement (opcional, según render)
+
+⚠️ **Muy importante**:  
+Estos ya son **texturas “cocinadas”**, no las crudas de XYZ.
+
+### 5️⃣ Blender — Shader de piel (el tuyo)
+
+En Blender:
+- NO vuelves a mezclar XYZ
+- NO reproyectas nada
+- SOLO conectas mapas finales
+
+Tu árbol:
+- Base Color → Principled
+- Roughness → Principled
+- Normal → Normal Map → Principled
+- Height → Bump o Displacement
+
+### ¿Height o Displacement?
+
+- **Bump**
+    - Más rápido
+    - Ideal para la mayoría de planos
+
+- **True Displacement (Cycles)**
+    - Close-ups
+    - Subdivision + valores muy bajos
+
+
+## ¿Qué pasa en Substance Painter realmente y TextureXYZ?
+___
+### Caso A — Lo normal en DAZ (99 % del tiempo)
+Fill Layer → UV Projection → Ajustas scale / offset → Mask / Blur / Opacity
+✔️ Funciona  
+✔️ Rápido  
+✔️ Controlable
+
+
+
+### Caso B — Zonas problemáticas (labios, ojos, orejas)
+Aquí **NO cambias de software**, solo de herramienta:
+- Projection tool (pintar a mano)
+- Triplanar projection
+- Máscaras locales
+### Multi-Channel Face
+- Empieza SIEMPRE con:
+    - Fill Layer
+    - UV Projection
+- Ajusta scale + offset
+- Corrige solo donde haga falta
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AV7qJquKq50?si=RDxBhJa3FB3wIvxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+-->
+
+
+
+# VIDEOS
+___
+
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;"
+src="https://www.youtube.com/embed/UpRRthCOyDk?si=0S2lYNuyMqxkZvyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/P2nLjj6f-Bo?si=X95T_e5nNV9D3kZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/XG2eseH1akw?si=J1gfvDl_7d5ka--w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/2QswvktWlRA?si=daoCDc5DHgzOKaLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/MS9g6CsSU4Q?si=zBAZkzix8AG8Jx2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/y0xQYREuynk?si=qpGHGrdKUPm-73b3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Octane Skin Material
+___
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/iKVQhqqxR58?si=6Q-50JF8fHDOlm5W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe 
+style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/tw0XZNev5d0?si=CLRUnzRcrkfVQJBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# G9 SKIN BUILDER
+___
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;"  src="https://www.youtube.com/embed/TEO4u_MwHEo?si=7-3XCEwanQux3-WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

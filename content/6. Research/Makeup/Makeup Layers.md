@@ -1,10 +1,11 @@
->[!Info] MAKEUP GLOSARY
->[itsdefined](https://itsdefined.com/glossary-cat/makeup/)
->[EdhaCometics](https://edhacosmetics.es/diccionario-make-up/?utm_source=chatgpt.com)
+>[!Info] MAKEUP RESOURCES
+>[itsdefined](https://itsdefined.com/glossary-cat/makeup/) - Glosary
+>[EdhaCometics](https://edhacosmetics.es/diccionario-make-up/?utm_source=chatgpt.com) - Glosary
+>[Allure](https://www.allure.com/topic/runway-makeup?page=2) - Runway Makeup
 
 <img
   src="../media-content/Apuntes/media-moda/Makeup-Layers/Layers_for_Beautification_01.jpg" 
-  alt="Examples"
+  alt="Layers"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
@@ -65,15 +66,9 @@ ___
 # **LABIOS (lip combo)**
 ___
 <div class="galeria3">
-<img
-  loading= "lazy" 
-  src="../media-content/Apuntes/media-moda/Makeup-Layers/Lips Materials.png"/>
-<img
-  loading= "lazy" 
-  src="../media-content/Apuntes/media-moda/Makeup-Layers/Lips Shapes2.png"/>
-  <img
-  loading= "lazy" 
-  src="../media-content/Apuntes/media-moda/Makeup-Layers/slide8Howtouse.webp"/>
+<img loading= "lazy" src="../media-content/Apuntes/media-moda/Makeup-Layers/slide8Howtouse.webp"/>
+<img loading= "lazy" src="../media-content/Apuntes/media-moda/Makeup-Layers/Lips Materials.png"/>
+<img loading= "lazy" src="../media-content/Apuntes/media-moda/Makeup-Layers/Lips Shapes2.png"/>
 </div>
 
 • **Lip liner** → contorno  
