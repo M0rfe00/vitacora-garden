@@ -9,11 +9,8 @@ La documentación del makeup debe incluir:
 
 # Ejemplo de Examen
 ___
-<img
-  src="../media-content/Apuntes/media-moda/Makeup-Layers/Makeup-Assessment.png"
-  alt="EyeLashes"
-  style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
-/>
+<img src="../media-content/Apuntes/media-moda/Makeup-Layers/Makeup-Assessment.png" 
+alt="EyeLashes" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 
 <div class="two-columns">
