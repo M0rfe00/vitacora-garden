@@ -235,3 +235,8 @@ Si te atraen los elementos de diseño vintage o clásicos, Art Authority puede a
 # Final Thoughts
 ___
 Elegir las herramientas adecuadas puede transformar tu proceso de diseño de moda, y estas aplicaciones pueden ayudarte en cada etapa de tu flujo de trabajo. Sin embargo, aunque estas aplicaciones son indispensables para diseñar y visualizar tus ideas, gestionar el proceso de producción es igual de importante.
+
+
+# OTROS
+___
+Cómo cambia trabajar la colección con 3D - https://seampedia.com/como-cambia-trabajar-la-coleccion-con-3d/
