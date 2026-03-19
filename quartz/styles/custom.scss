@@ -802,7 +802,7 @@ display: block;
 // Prueba modal imagenes configuración expansion imagenes// 
 
 /********************** ESTILOS DE LA GALERIA PARA RECURSOS 3D!!!!!!!!! **********************/
-.galeria {
+.galeria3D {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   column-gap: 4px; /* antes 20px */
@@ -816,7 +816,7 @@ display: block;
 
 }*/
 
-.galeria img {
+.galeria3D img {
   width: 100%;
   height: 100%;
   aspect-ratio: 1 / 1;
@@ -831,7 +831,7 @@ display: block;
   padding: 0;
 }
 
-.galeria img:hover {
+.galeria3D img:hover {
   transform: scale(1.03);
 }
 
