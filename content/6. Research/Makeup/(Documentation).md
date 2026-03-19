@@ -7,6 +7,7 @@ La documentación del makeup debe incluir:
 - **Final Look & Photoshoot**: Mostrar fotos del resultado final del peinado y maquillaje (incluir: Fecha, Localización, Modelo, Fotógrafo, Elementos del set, Sesión de fotos y diseños editoriales.).
 - **Evaluation:** Comentarios sobre el proceso y resultado
 
+==ARTÍCULO ORIGINAL:== [2nd term Assessment](https://mtmakeup.home.blog/2019/04/24/2nd-term-assessment/)
 # Ejemplo de Examen
 ___
 <img src="../media-content/Apuntes/media-moda/Makeup-Layers/Makeup-Assessment.png" 

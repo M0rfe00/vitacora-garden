@@ -13,6 +13,7 @@ Aunque Techpacker ha sido una herramienta de referencia para los paquetes técni
 
 Además, aunque la plataforma es intuitiva, requiere cierto aprendizaje para adaptarse al diseño basado en tarjetas, especialmente para quienes están acostumbrados a los formatos de documento tradicionales.
 
+==ARTÍCULO ORIGINAL:== [Cloth Design Apps: The Best Apps for Fashion Designers](https://aitechpacks.com/blog/cloth-design-apps-the-best-apps-for-fashion-designers)
 # WFX Tech Pack Software
 ___
 La plataforma forma parte de la suite WFX de gestión del ciclo de vida del producto (PLM) basada en la nube, diseñada para gestionar flujos de trabajo de desarrollo de productos más complejos.
