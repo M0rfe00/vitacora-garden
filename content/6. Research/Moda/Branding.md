@@ -47,3 +47,77 @@ Cuando ya se tiene un producto hay que comunicar la narrativa y la visión de la
 En relación a las webs hay un tipo de formato muy común, el de traducir las visitas a ventas, entrar en la web y que lo primero que aparezca sea un popup de un 10% de descuento, una petición de suscripción a la newsletter, este formato como primer punto de contacte le resta un poco al aspecto de curación y presentación, la web es una extensión de la marca y de la identidad, de crear una relación con el cliente
 
 ## **Comunidad**
+
+
+
+>[!Info] MODBOARD CONTENT
+>- Inspiration or Mood images
+>- Fabrics
+>- Colours (Pantones)
+>- Shapes or Silhouettes
+>- Typography
+>- Fonts
+>- Trims
+>- Key styling details
+
+>[!Info] INSPIRATION RESOURCES
+>- WGSN
+>- DrapersOnline
+>- Trend zoom
+>- TheFashionSpot
+>- Who What Wear
+>- The impression
+>- Harpers Bazaar
+>- HypeBeast
+>- Hypebae
+>- Business of Fashion
+>- Glossy
+>- Trend Hunter
+>- Fashion Snoops
+>- Vogue
+>- Elle
+>- Glamour
+
+
+# BRAND ANALISIS
+___
+- Target customer
+- Fabrics
+- Colors
+- Silohuettes
+- Graphics
+- Print Technicques
+- Trims
+
+>[!Info] TARGET CUSTOMER EXAMPLE
+>- Teebok's customers are fitness enthusiasts + some athletes + casual wearers who are into sports like Football, Basketball and Tennis.
+>- Brand-loyal consumers seeking fashionable pieces but also quality and durability. Customers appreciate function + innovation technical details in clothes that help them better perform a workout or exercise.
+
+>[!Info] FABRICS EXAMPLE
+>-Activewear & athleisure leverages mesh as a pivotal element to integrate functionality.
+>- Athleisure predominantly employs 100% cotton and cotton-polyester blends.
+>- Activewear gravitates toward poly-spandex and nylon-spandex composites.
+>- Select fabrics feature advanced four-way stretch capabilities.
+>- Additionally, the range includes occasional use of jerseys, terry cloth, slub textures, mélange patterns, as well as specialized compression and perforated materials.
+
+>[!Info] COLORS
+>- Teebok's colorways are predominantly characterized by a minimalist and understated palette comprising whites, greys, and blacks.
+>- The use of color blocking is a prevalent design technique.
+
+>[!Info] SILHOUETTES EXAMPLE
+>- Athleisure is characterized by oversized and baggy silhouettes, often infused with a distinct streetwear aesthetic. Activewear, In contrast, features tight-fitting designs in standard, regular lengths.
+>- Silhouettes frequently incorporate intricate cut-and-sew paneling for added visual and structural detail; They prioritize functionality and adaptability, offering ample storage options. Shapes are often multi-functional catering to diverse uses.
+
+>[!Info] GRAPHICS EXAMPLE
+>- Prints primarily consist of logos, functioning as straightforward brand carriers in. tonal color schemes.
+>- Minimalist typography, characterized by clean and simple fonts, is consistently employed throughout.
+
+>[!Info] PRINT TECHNIQUES EXAMPLE
+>- HD print, heat transfers, silicon prints.
+>- Reflective prints are common as well.
+
+>[!Info] TRIMS EXAMPLE
+>- Design elements prominently feature piping, drawcords with aglets for a polished finish, silicone-finished zippers for a sleek and modern aesthetic, and snap buttons that provide both utility and style.
+>- Functionality is thoughtfully integrated through towel loops for added convenience and utility loops designed to enhance practicality in active and leisure scenarios.
+>- Details reinforce the versatility and adaptability of the garments, catering to a variety of user needs.
+
