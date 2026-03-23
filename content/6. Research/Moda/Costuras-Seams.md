@@ -1,0 +1,29 @@
+
+
+# CONSTRUCTION SEAMS
+___
+
+
+
+# DETAIL SEAMS
+___
+
+
+
+# HEMS & FINISHING SEAMS
+___
+
+
+
+
+# OVERVIEW
+___
+
+
+
+# CODES & ABBREVIATIONS
+___
+
+
+# TECHPACK EXAMPLES
+___

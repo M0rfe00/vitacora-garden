@@ -5,7 +5,15 @@ La puntada consiste en el entrelazado de uno o varios hilos de coser en una unid
 Pero en el mercado encontramos diferentes tipos de máquinas con las que se hacen diferentes tipos de puntadas. Éstas se forman mediante el juego de una o más agujas con una canilla, ancora o lanzadera.
 
 
+# Puntadas / Stiches
+___
+Tipos y denominaciones;
 
+
+
+# Pespuntes / TopStitches
+___
+Tipos y denominaciones;
 
 
 
