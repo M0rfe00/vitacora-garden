@@ -94,7 +94,7 @@ ___
 >- Brand-loyal consumers seeking fashionable pieces but also quality and durability. Customers appreciate function + innovation technical details in clothes that help them better perform a workout or exercise.
 
 >[!Info] FABRICS EXAMPLE
->-Activewear & athleisure leverages mesh as a pivotal element to integrate functionality.
+>- Activewear & athleisure leverages mesh as a pivotal element to integrate functionality.
 >- Athleisure predominantly employs 100% cotton and cotton-polyester blends.
 >- Activewear gravitates toward poly-spandex and nylon-spandex composites.
 >- Select fabrics feature advanced four-way stretch capabilities.
