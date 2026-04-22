@@ -242,3 +242,19 @@ Para que pelo no atraviese el rostro del personaje al moverse hay que configurar
 Configurar el movimiento del pelo para añadir realismo, teniendo en cuenta que las partes más cercanas al cráneo se mueven menos que las puntas y que cada mechón interactúa de forma diferente.
 
 Para ello hay que ir modificando las propiedades de los huesos del pelo hasta obtener el resultado deseado Animation>Wiggle2>Bone Tail> Mass, Stiff, Stretch..
+
+
+
+DAZ TO CLO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xJ0eGqPkdRs?si=n05LDTiI_z4l2VDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ANIMATION DAZ/CLO/BLENDER
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYeq3_iIL58?si=5LGwnOyTMPt56LSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ANIMATION CLO/BLENDER/MIXAMO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqYZ1HL0x5c?si=engd6W3qUL5U3XWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3GpXgKEZ5Kk?si=WjKD7m0zX7vLYO4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+CLO3D RETOPOLOGY IN BLENDER
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hIebHFzHUmw?si=rV9_h_JaKZHNBRg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
