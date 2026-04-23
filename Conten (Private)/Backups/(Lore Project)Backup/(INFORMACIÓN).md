@@ -5,7 +5,7 @@ tags:
 >[!Info] **PESTAÑAS DEL PROYECTO**
 >El proyecto está oculto en la web, hay que desplazarse con los desplegables superiores o:
 > 
->[[(INFORMACIÓN)]] || [[(WORKFLOW)]] || [[1. MUNDO & EVENTOS]] || [[2. CONCEPTOS]] || [[3. PERSONAJES]] || [[4. OBJETOS]]
+>[[Conten (Private)/Backups/(Lore Project)Backup/(INFORMACIÓN)]] || [[Conten (Private)/Backups/(Lore Project)Backup/(WORKFLOW)]] || [[Conten (Private)/Backups/(Lore Project)Backup/1. MUNDO & EVENTOS]] || [[Conten (Private)/Backups/(Lore Project)Backup/2. CONCEPTOS]] || [[Conten (Private)/Backups/(Lore Project)Backup/3. PERSONAJES]] || [[Conten (Private)/Backups/(Lore Project)Backup/4. OBJETOS]]
 
 # PRESENTACIÓN PROYECTO:
 ___
