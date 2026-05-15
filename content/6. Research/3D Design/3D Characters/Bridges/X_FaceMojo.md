@@ -3,6 +3,7 @@ tags:
   - 3D
   - Formats
   - Rig
+  - hideInExplorer
 ---
 # **Import-Export Fotmats**
 ___
@@ -12,10 +13,10 @@ ___
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-> [!info] OBJ como estandar
+> [!Tip] OBJ como estandar
 > Generalmente para exportar un personaje a cualquier software, si no tiene animaciones, es mejor Obj,  ya que es más estable y guardara todas las texturas en un directorio aparte.
 
-> [!info] Inconvenientes FBX  
+> [!Warning] Inconvenientes FBX  
 > FBX también puede usarse, pero a veces no es completamente preciso al exportar poses, animaciones.
 
 

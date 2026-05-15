@@ -12,10 +12,10 @@ ___
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-> [!info] OBJ como estandar
+> [!Tip] OBJ como estandar
 > Generalmente para exportar un personaje a cualquier software, si no tiene animaciones, es mejor Obj,  ya que es más estable y guardara todas las texturas en un directorio aparte.
 
-> [!info] Inconvenientes FBX  
+> [!Warning] Inconvenientes FBX  
 > FBX también puede usarse, pero a veces no es completamente preciso al exportar poses, animaciones.
 
 # Workflow
@@ -30,10 +30,14 @@ ___
 
 # **==ANIMATION -DIFFEOMORPHIC==**
 ___
->[!Info] Diffeomorphic
->Diffeomorphic aunque no es un plugin oficial de Daz, es realmente útil ya que permite animar personajes de forma completa en Blender, exportar los personajes con una pose concreta y modificarla posteriormente en Blender, convertir la mesh del pelo a sistemas de particulas, crear físicas con la ropa y exportar el personaje con las texturas ya aplicadas (aunque igualmente hay que ajustarlas para hacerlas ver realistas) [tutorial](https://www.youtube.com/watch?v=jR7HXMhsRa8)
+>[!Success] Diffeomorphic
+>Diffeomorphic aunque no es un plugin oficial de Daz, es realmente útil ya que permite:
+>- Animar personajes de forma completa en Blender.
+>- Exportar los personajes con una pose concreta y modificarla posteriormente en Blender.
+>- Convertir la mesh del pelo a sistemas de particulas
+>- Crear físicas con la ropa y exportar el personaje con las texturas ya aplicadas (aunque igualmente hay que ajustarlas para hacerlas ver realistas) [tutorial](https://www.youtube.com/watch?v=jR7HXMhsRa8)
 
->[!Info] No Exporta animaciones
+>[!Warning] No Exporta animaciones
 >Diffeomorphic como tal no permite exportar animaciones de Daz a Blender pero ofrece muchas formas de animar personajes de la misma forma que se haría en Daz dentro de Blender
 
 ## **Guardar personaje:** 

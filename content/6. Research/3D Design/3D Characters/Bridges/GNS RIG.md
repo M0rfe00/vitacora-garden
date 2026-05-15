@@ -12,20 +12,22 @@ ___
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
-> [!info] OBJ como estandar
+> [!Tip] OBJ como estandar
 > Generalmente para exportar un personaje a cualquier software, si no tiene animaciones, es mejor Obj,  ya que es más estable y guardara todas las texturas en un directorio aparte.
 
-> [!info] Inconvenientes FBX  
+> [!Warning] Inconvenientes FBX  
 > FBX también puede usarse, pero a veces no es completamente preciso al exportar poses, animaciones.
 
 
 # ANIMATION - **==FBX with GNS RIG==**
 ___
+>[!Success] GNS RIG
+>El add-on [GNS](https://22722studios.gumroad.com/l/yFocf) sirve para rigear personajes de Daz en Blender de forma correcta ya que a la hora de exportar fbx desde Daz se pueden encontrar problemas con el rig, este método no solo permite animar de forma manual en Blender sino también utilizar animaciones de Mixamo o Cascadeur.
+
 >[!Info] Exportar en FBX
 >**FBX permite exportar no solo el objeto, también incluye más información como texturas, animaciones.**
 
->[!Info] GNS RIG
->El add-on [GNS](https://22722studios.gumroad.com/l/yFocf) sirve para rigear personajes de Daz en Blender de forma correcta ya que a la hora de exportar fbx desde Daz se pueden encontrar problemas con el rig, este método no solo permite animar de forma manual en Blender sino también utilizar animaciones de Mixamo o Cascadeur.
+
 
 ## **Exportar personaje:** 
 En Daz seleccionar el personaje y ==exportarlo en formato fbx== con los siguientes ajustes:
