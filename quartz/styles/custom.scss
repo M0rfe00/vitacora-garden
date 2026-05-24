@@ -1282,6 +1282,22 @@ h1, h2, h3 {
   }
 }
 
+.three-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+  /**margin-top: 2rem;**/
+}
+
+/* responsive */
+@media (max-width: 800px) {
+  .three-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
 
 /********** ESTILOS EXPOSITOR PROYECTOS***********/
 .project-grid {
