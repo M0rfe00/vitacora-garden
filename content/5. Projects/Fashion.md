@@ -9,7 +9,7 @@ tags:
   <div class="project-card">
     <a href="https://www.behance.net/gallery/246710033/Collection-Design" class="project-link" target="_blank">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/Portfolio/Experimental Collection.jpg" alt="3D Prototypes">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/MOODBOARD Collection.jpg" alt="3D Prototypes">
         <div class="project-overlay">
           <h3>Experimental Collection.jpg</h3>
         </div>
@@ -75,7 +75,7 @@ tags:
   <div class="project-card">
     <a href="Prototypes" class="project-link">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/Portfolio/UnderglamourPortfolio.jpg" alt="3D Prototypes">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/Portfolio - Moda - 300mb-08.jpg" alt="3D Prototypes">
         <div class="project-overlay">
           <h3>3D Prototypes</h3>
         </div>
