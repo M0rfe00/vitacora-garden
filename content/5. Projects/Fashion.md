@@ -50,4 +50,15 @@ tags:
     </a>
   </div>
 
+  <div class="project-card">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Fashion/" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/Portoflio TECHPACK.png" alt="3D Prototypes">
+        <div class="project-overlay">
+          <h3>Fashion research</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
 </div>
