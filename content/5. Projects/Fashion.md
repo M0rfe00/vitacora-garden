@@ -20,7 +20,7 @@ tags:
   <div class="project-card">
     <a href="https://www.behance.net/gallery/247952051/Tailored-Collection-Design" class="project-link" target="_blank">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/Portfolio/6 Black.jpg" alt="3D Prototypes">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/4 Black.jpg" alt="3D Prototypes">
         <div class="project-overlay">
           <h3>Tailored Collection</h3>
         </div>
@@ -31,7 +31,7 @@ tags:
   <div class="project-card">
     <a href="https://www.behance.net/gallery/247952225/Athleisure-Collection-Design" class="project-link" target="_blank">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/Portfolio/6 Green.jpg" alt="3D Prototypes">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/4 Green.jpg" alt="3D Prototypes">
         <div class="project-overlay">
           <h3>Athleisure Collection</h3>
         </div>
@@ -97,7 +97,7 @@ tags:
   <div class="project-card">
     <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Fashion/" class="project-link">
       <div class="project-image-wrapper">
-        <img src="../media-content/PROYECTOS/Moda/Portfolio/Portoflio TECHPACK.png" alt="3D Prototypes">
+        <img src="../media-content/PROYECTOS/Moda/Portfolio/Portoflio TECHPACK.jpg" alt="3D Prototypes">
         <div class="project-overlay">
           <h3>Fashion research</h3>
         </div>
