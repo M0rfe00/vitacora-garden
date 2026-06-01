@@ -11,7 +11,7 @@ tags:
       <div class="project-image-wrapper">
         <img src="../media-content/PROYECTOS/Moda/Portfolio/MOODBOARD Collection.jpg" alt="3D Prototypes">
         <div class="project-overlay">
-          <h3>Experimental Collection.jpg</h3>
+          <h3>Experimental Collection</h3>
         </div>
       </div>
     </a>
