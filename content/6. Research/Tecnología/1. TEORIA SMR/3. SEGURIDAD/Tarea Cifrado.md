@@ -46,56 +46,56 @@ Parámetros de los comandos de openssl a tener en cuenta
 
 **Validó la versión de openssl con el comando**
 - Openssl version
-<img src="./media/image5.png"
-style="width:5.39659in;height:0.91679in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image5.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **1.1 Creó un archivo de texto con el comando**
 - Nano
-<img src="./media/image17.png"
-style="width:5.38617in;height:0.71885in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image17.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="./media/image8.png"
-style="width:5.90556in;height:0.85625in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image8.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **1.2 Codifico el archivo de texto con el comando**
 - **o**penssl enc -base64 -in lucas.txt -out lucas.base64
-<img src="./media/image2.png"
-style="width:5.90556in;height:0.45764in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image2.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Con esto tengo dos archivos uno en texto plano y otro codificado en
 base64**
-<img src="./media/image22.png"
-style="width:1.75394in;height:0.95811in" /><img src="./media/image9.png"
-style="width:4.26736in;height:0.94444in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image22.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" /><img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image9.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **1.3 Ahora ciframos el archivo codificado en base64 con el comando:**
 - openssl enc -aes-256-cbc -in lucas.base64 -out lucascifrado
-<img src="./media/image15.png"
-style="width:5.90556in;height:0.94931in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image15.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Asignamos una contraseña al cifrado y listo**
-<img src="./media/image3.png" style="width:4.1985in;height:1.26059in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image3.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **1.4 Para descifrar el archivo primero hay que decodificarlo con el comando:**
 - openssl enc -aes-256-cbc -d -in lucascifrado -out lucasdecodificado
-<img src="./media/image1.png"
-style="width:5.90556in;height:0.70069in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image1.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Utilizamos la contraseña anterior para ello y listo**
-<img src="./media/image7.png"
-style="width:5.26115in;height:1.06265in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image7.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **1.5 Después de decodificar el archivo podemos descifrarlo con el siguiente comando:**
 - openssl enc -base64 -d -in lucasdecodificado -out lucasdescifrado
-<img src="./media/image10.png"
-style="width:5.90556in;height:0.40347in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image10.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="./media/image12.png"
-style="width:5.90556in;height:1.20764in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image12.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Podemos comprobar que el contenido del archivo es el mismo que escribimos al principio**
-<img src="./media/image13.png"
-style="width:5.90556in;height:0.90486in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image13.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ***En esta última foto podemos apreciar el proceso en orden de izquierda a derecha de como hemos creado un archivo de texto plano, luego lo hemos codificado en base64 para después cifrarlo con una contraseña la cual es supuesto receptor debería utilizar para descifrarlo y finalmente decodificarlo para obtener de nuevo el texto plano.***
 
@@ -104,46 +104,46 @@ style="width:5.90556in;height:0.90486in" />
 ### **Cifrado asimétrico**
 **2.1 Creamos un archivo de texto plano con el comando**
 - nano
-<img src="./media/image18.png" style="width:5.407in;height:0.78136in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image18.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;/>
 
-<img src="./media/image19.png" style="width:5.2924in;height:0.9793in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image19.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;/>
 
 **2.2 Ahora vamos a crear la “Clave semilla” para generar la clave publica y privada, para ello utilizamos el comando:**
 - openssl genrsa -out lucasseed.pem
-<img src="./media/image20.png"
-style="width:5.90556in;height:1.21111in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image20.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **2.3 Una vez hemos creado la clave semilla, generamos la clave publica a partir de ella con el comando:**
 - openssl rsa -in lucasseed.pem -des3 -out lucasprivkey.pem
-<img src="./media/image14.png"
-style="width:5.90556in;height:0.75625in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image14.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Asignamos una contraseña a la clave y listo**
 **2.4 Ahora generamos la clave publica a partir de la clave semilla con el comando:**
 - openssl rsa -in lucasseed.pem -pubout -out lucaspublickey.pem
-<img src="./media/image23.png"
-style="width:5.90556in;height:0.56736in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image23.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En esta foto podemos ver la Clave “semilla” y las clave publica y privada creadas a partir de ella**
-<img src="./media/image21.png"
-style="width:4.19555in;height:1.10094in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image21.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **2.5 Una vez tenemos generadas ambas claves (publica y privada), vamos a cifrar el archivo de texto que creamos antes con la clave publica con el comando:**
 - openssl rsautl -encrypt -in lucas.txt -inkey lucaspublickey.pem -pubin
-  -out lucastextcifrado<img src="./media/image16.png"
-  style="width:7.46875in;height:1.07917in" />
+  -out lucastextcifrado<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image16.png"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **2.6 Después de cifrar el archivo con la clave publica lo desciframos con la clave privada con el comando:**
 - openssl rsautl -decrypt -inkey lucasprivkey.pem -in lucastextcifrado
-  -out lucastextdescifrado<img src="./media/image6.png"
-  style="width:7.99583in;height:1.29028in" />
+  -out lucastextdescifrado<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image6.png"
+  style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Introducimos la contraseña de la clave privada y listo**
 
 **En esta foto podemos ver el archivo de texto original, el cifrado con la clave publica y el descifrado con la clave privada, y comprobar el contenido no ha cambiado**
 
-<img src="./media/image4.png"
-style="width:5.17292in;height:0.77917in" /><img src="./media/image11.png"
-style="width:2.39514in;height:0.83681in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image4.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" /><img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image11.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ***Esto es cifrado asimétrico, hemos utilizado una clave para cifrar y otra para descifrar***

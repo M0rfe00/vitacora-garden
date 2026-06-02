@@ -36,106 +36,106 @@ Las de reenvío analizan el tráfico que atraviesa un equipo, pero está dirigid
     2.  **Caso 2**
 
 **La primera parte va a consistir en configurar las tarjetas de red de los tres equipos y el enrutamiento NAT, vamos a realizar esta arquitectura de red**
-<img src="./media/image19.png"
-style="width:5.90556in;height:2.22847in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image19.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **La configuración del cliente y del servidor son relativamente sencillas.**
 
 **En el cliente deberemos tener una única tarjeta de red la cual estará en red interna y tendrá una IP asignada de forma manual:**
 
 **Cliente:**
-<img src="./media/image7.png"
-style="width:5.90556in;height:1.90556in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image7.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="./media/image24.png"
-style="width:5.90556in;height:1.94562in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image24.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el servidor web deberemos tener una única tarjeta de red que estará en una red interna diferente a la que utilizan el cliente y el enrutador para comunicarse y una dirección IP configurada manualmente.**
-<img src="./media/image29.png"
-style="width:5.90556in;height:1.97083in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image29.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="./media/image18.png"
-style="width:5.25925in;height:1.64815in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image18.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **La configuración de red del enrutador es la mas compleja ya que debemos tener don tarjetas de red una en cada red interna para poder comunicarse con el cliente por una independiente de la que utilizara para comunicarse con el servidor web.**
 
 **Tarjeta de red que se comunica con el cliente(enp0s8)**
-<img src="./media/image5.png"
-style="width:5.26975in;height:1.35522in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image5.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Tarjeta de red que se comunica con el servidor(enp0s3)**
-<img src="./media/image2.png"
-style="width:5.26198in;height:1.45073in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image2.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En la siguiente imagen se puede ver que la tarjeta de red que se comunica con el servidor tiene el DHCP habilitado para que este le asigne una IP automáticamente y tiene como enrutador la dirección del servidor.**
 
 **Y la que se comunica con el cliente tiene una dirección IP asignada manualmente y esta en la misma red que el cliente**
-<img src="./media/image10.png"
-style="width:5.90556in;height:1.66181in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image10.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 Podemos comprobar cuál es el Gateway con el comando
 - ip route
-<img src="./media/image15.png"
-style="width:5.90556in;height:1.17708in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image15.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Enrutamiento**
 
 **Después de configurar las interfaces de red tenemos que habilitar el forward (reenvío de paquetes) para ello vamos a la ruta /proc/sys/net/ipv4/ y modificamos el archivo ip_forward con el comando nano poniendo un 1 en lugar de un 0, con esto lo activamos**
-<img src="./media/image21.png"
-style="width:5.26115in;height:0.72927in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image21.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Hay un inconveniente, y es que cada vez que se reinicie se restablecerá la configuración volviendo el valor a 0 para que esto no sea así debemos ir al siguiente archivo y modificarlo con el comando nano des-comentando la siguiente línea**
 - nano /etc/sysctl.conf
-<img src="./media/image22.png"
-style="width:5.60495in;height:1.38561in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image22.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Después de modificar este archivo para aplicar los cambios debemos utilizar el comando**
 - sysctl -p /etc/sysctl.conf
-<img src="./media/image16.png"
-style="width:4.83401in;height:0.90638in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image16.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Después de configurar las interfaces del enrutador y habilitar el reenvío de paquetes vamos a configurar con IPtables, para ver la configuración actual de IPtables utilizamos el comando**
 - iptables -L
 - 
 En esta imagen se puede ver que por ahora no hay ninguna restricción del firewall ni ninguna regla de entrada/salida/reenvío
-<img src="./media/image23.png"
-style="width:4.73735in;height:1.86502in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image23.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para ver la configuración de IPtables de NAT utilizamos el comando**
 - iptables -L -nv -t nat
 
 **En esta foto se puede ver que no hay ninguna configuración de enrutamiento por ahora**
-<img src="./media/image3.png"
-style="width:5.68435in;height:1.88632in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image3.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para que cada vez que la máquina cliente envié un paquete al servidor web, el enrutador que está en medio del proceso deberá cambiar la dirección de origen por la del enrutador, este al estar en DHCP con el servidor puede que su dirección cambie, para ello debemos activar SNAT**
 
 **Para ello utilizamos el comando:**
 - iptables -t nat -A POSTROUTING -o enp0s3 -j MASQUERADE
 
-<img src="./media/image26.png"
-style="width:5.90556in;height:0.99375in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image26.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 Con este comando he habilitado SNAT en la interfaz de red que esta en DHCP
 
 **Después de añadir esta configuración NAT comprobamos que se ha aplicado en las IP tables con el comando que utilizamos anteriormente:**
 - iptables -L -nv -t nat
 
-<img src="./media/image27.png"
-style="width:5.90556in;height:2.08611in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image27.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Con esto habríamos terminado la parte del enrutamiento y podríamos hacer ping al servidor desde el cliente y acceder a la página web**
 
 *(Esta configuración está centrada únicamente al enrutamiento y no implementa resolución de nombres desde el cliente al servidor, aunque si desde el enrutador al servidor, pero para esta práctica es más que suficiente)*
-<img src="./media/image20.png"
-style="width:5.90556in;height:1.91667in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image20.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="./media/image28.png"
-style="width:5.90556in;height:2.85486in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image28.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Una vez hemos implementado la arquitectura de red, vamos a implementar los siguientes casos:**
-<img src="./media/image30.png"
-style="width:5.90556in;height:2.87014in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image30.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ### **Caso 1:**
 Debemos bloquear el acceso al puerto 80 del servidor desde el enrutador y comprobar desde el navegador del cliente que ya no puede acceder
@@ -148,53 +148,53 @@ Debemos bloquear completamente el acceso al servidor desde el enrutador y compro
 
 - iptables -F
 - iptables -t nat -F (no usar o borraras la configuración de enrutamiento)
-<img src="./media/image25.png"
-style="width:4.80275in;height:0.9274in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image25.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **Para aceptar todo el tráfico de entrada, salida y enrutamiento utilizamos los comandos:**
 
 - iptables -P INPUT ACCEPT
 - iptables -P OUTPUT ACCEPT
 - iptables -P FORWARD ACCEPT
-<img src="./media/image1.png"
-style="width:5.19864in;height:0.95847in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image1.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para ver las reglas que tenemos establecidas utilizamos el comando:**
 - iptables -L -nv –line-numbers
-<img src="./media/image14.png"
-style="width:5.90556in;height:1.29792in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image14.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para ver los puertos que tenemos abiertos utilizamos el comando:**
 - ss -ituna
-<img src="./media/image12.png"
-style="width:5.90556in;height:3.37847in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image12.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para bloquear el puerto 80 tanto de entrada/salida utilizamos los siguientes comandos**
 - iptables -A INPUT -i enp0s8 -p tcp –sport 80 -j DROP
 - iptables -A OUTPUT -o enp0s8 -p tcp –dport 80 -j DROP
-<img src="./media/image4.png"
-style="width:5.90556in;height:0.72847in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image4.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Guardamos la regla con el comando**
 - iptables-save
-<img src="./media/image17.png"
-style="width:5.21794in;height:3.79569in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image17.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Revisamos los protocolos de nuevo con el comando**
 - iptables -L -nv –line-numbers
-<img src="./media/image11.png"
-style="width:5.90556in;height:3.36181in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image11.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Ahora comprobamos en el cliente que no podemos acceder a la web** (en mi caso, pese ha hacerlo igual que en multitud de sitios seguía teniendo acceso, lo mirare y actualizare)
-<img src="./media/image13.png"
-style="width:4.50195in;height:1.44039in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image13.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Eliminamos las reglas y comprobamos**
-<img src="./media/image6.png"
-style="width:3.62551in;height:0.60425in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image6.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="./media/image31.png"
-style="width:4.7347in;height:1.96203in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image31.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 ### **Caso 2:**
 
@@ -204,15 +204,15 @@ style="width:4.7347in;height:1.96203in" />
 - iptables -P OUTPUT DROP
 - iptables -P FORWARD DROP
 
-<img src="./media/image8.png"
-style="width:4.72983in;height:0.63551in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image8.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Guardamos con:**
 - Iptables-save
 - 
 **Comprobamos haciendo ping al servidor desde el cliente:**
-<img src="./media/image9.png"
-style="width:5.84457in;height:1.10432in" />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image9.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 
 #### Webgrafía:
