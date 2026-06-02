@@ -5,9 +5,9 @@ tags:
   - Correo
 ---
 # **Tema 7 Servicios de correo electrónico**
-
+___
 ## **Objetivos:**
-
+___
 - Conocer los protocolos implicados en el envío y la recepción de emails.
 
 - Reconocer los diferentes encabezados y tipos de información que puede contener un email.
@@ -19,7 +19,7 @@ tags:
 - Aprender a instalar y configurar servicios de correo electrónico y webmail sobre sistemas operativos libres y propietarios en determinados escenarios.
 
 ## **Glosario:**
-
+___
 **Active Directory:** Servicio de directorio de entornos Windows compuesto por una base de datos distribuida y jerárquica que comparte información sobre la infraestructura de la organización y que permite la administración de todos sus elementos (equipos, usuarios, grupos...).
 
 **Core:** Opción de instalación mínima disponible en versiones Standard o Datacenter de Windows Server.
@@ -41,7 +41,7 @@ tags:
 **RSAT:** Acrónimo de Remote Server Administration Tools ("herramientas de administración remota del servidor"). Conjunto de herramientas que permiten a los administradores TI administrar de forma remota roles y características en Windows Server desde un equipo cliente con versión de sistema operativo Windows en versión Professional o Enterprise.
 
 ## **Resumen:**
-
+___
 - Los servicios de correo electrónico están formados por un conjunto de protocolos de la capa de aplicación, cada uno de los cuales se ocupa de una tarea determinada.
 
 - Cada cuenta de correo electrónico está formada por el nombre del usuario y el nombre del dominio al cual pertenece dicho usuario. Ambas partes están separadas por @.

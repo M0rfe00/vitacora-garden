@@ -4,27 +4,20 @@ tags:
   - Teoria
 ---
 # **Tema 6 Administración de usuarios y grupos en Windows Server**
-
+___
 ## **Objetivos:**
-
+___
 - Administrar sistemas Windows server.
-
 - Diferenciar distintos tipos de usuarios y grupos del sistema.
-
 - Gestionar permisos.
-
 - Conocer el concepto de domino.
-
 - Instalar el servicio del directorio (Active Directory).
-
 - Saber establecer relaciones de confianza entre dominios.
-
 - Configurar perfiles móviles.
-
 - Monitorizar sistemas Windows Server.
 
 ## **Glosario:**
-
+___
 **Active Directory Domain Services (ADDS):** Servicio de directorio de los servidores Windows.
 
 **Administrador:** Usuario de mayor privilegio. La suya es la primera cuenta que se crea cuando se realiza la instalación del sistema operativo.

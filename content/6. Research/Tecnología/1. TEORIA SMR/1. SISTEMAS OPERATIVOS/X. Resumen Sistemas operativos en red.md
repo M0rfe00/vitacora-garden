@@ -4,8 +4,9 @@ tags:
   - Teoria
 ---
 # **Resumen Sistemas operativos en red 2º Evaluación**
-
+___
 ## **Sistemas operativos**
+___
 El Sistema operativo es el software más importante de un ordenador ya que hace de intermediario entre el usuario y el hardware de la máquina
 
 **Principales sistemas operativos**
@@ -18,7 +19,7 @@ El Sistema operativo es el software más importante de un ordenador ya que hace 
 - Unix
 
 ## **Sistema operativo en red**
-
+___
 Con la evolución de los sistemas operativos se ha dado lugar a los S.O. en red, los cuales además de contar con las herramientas de un S.O. convencional permite compartir los recursos de los equipos en red
 
 Los S.O. en red están íntimamente vinculados a la arquitectura cliente servidor, en la que el cliente solicita un servicio al servidor a través uno o mas puertos del mismo y el servidor recibe las peticiones de los clientes, las procesa elaborando una respuesta para finalmente responder
@@ -26,15 +27,15 @@ al cliente por uno o varios puertos
 
 Algunos de estos servicios pueden ser, DHCP, DNS, FTP, HTTP, Correo, Impresión…
 
-**Características de la arquitectura cliente servidor**
-
+## **Características de la arquitectura cliente servidor**
+___
 - Coordina y centraliza todos los recursos de la red
 - Interconecta todos los equipos y recursos de la red
 - Proporciona seguridad, controlando el acceso a los datos y recursos de la red
 - Escalable y adaptable a cambios, como por ejemplo ampliación de la memoria, almacenamiento, usuarios equipos etc…
 
-**Comprobación previa a instalar un S.O.**
-
+## **Comprobación previa a instalar un S.O.**
+___
 Antes de instalar un S.O. hay que tener en cuenta a que uso vamos a destinarlo, recursos hardware que disponemos, requisitos mínimos del sistema que vamos a instalar, tipo de red
 
 **Requisitos Ubuntu server**
@@ -45,7 +46,7 @@ Antes de instalar un S.O. hay que tener en cuenta a que uso vamos a destinarlo, 
 - Gráfica: 640x480
 
 ### **Modos de instalación de un sistema operativo**
-
+___
 Para realizar la instalación de un sistema operativo tenemos varias opciones, podemos utilizar un USB booteable o mediante la red
 
 **USB:** Para crear un USB booteable utilizaremos una aplicación u otra en función del nº de ISOs que queramos poner dentro del mismo, en caso de utilizar una única ISO, utilizaremos Rufus o Ubuntu, en caso de utilizar varias ISOs dentro del USB podemos utilizar Yumi o Multiboot USB
@@ -53,8 +54,8 @@ Para realizar la instalación de un sistema operativo tenemos varias opciones, p
 **Red** Dependiendo del S.O. que utilicemos para gestionar la instalación mediante la red utilizaremos una aplicación u otra, en el caso de Windows podemos utilizar AOMEI PXE o Serva, y en el caso de Linux podemos utilizar PXE boot
 
 
-**Instalacion de Linux**
-
+## **Instalacion de Linux**
+___
 Los sistemas operativos Linux constan principalmente de 2 partes
 
 **Núcleo:** Parte que interactúa con el hardware, administra todos los recursos hardware como memoria, procesador, almacenamiento, y los periféricos
@@ -64,6 +65,7 @@ Los sistemas operativos Linux constan principalmente de 2 partes
 Algunas de las principales distribuciones basadas en el kernel de Linux son, Debian, Fedora, Red hat…
 
 ### **Sistema de archivos:** 
+___
 Componente del S.O. encargado de administrar el almacenamiento y ubicación de los datos del sistema
 
 Linux es el S.O. que mas sistemas de archivos soporta de EXT1-EXT4
@@ -72,8 +74,8 @@ Linux es el S.O. que mas sistemas de archivos soporta de EXT1-EXT4
 
 **Swap:** Partición con un sistema archivos utilizada en Linux para descargar la memoria RAM cuando esta se ve desbordada
 
-**Directorios principales**
-
+## **Directorios principales**
+___
 **Raiz (/):** Directorio principal a partir del cual se ramifican todo el resto de
 directorios del sistema
 
@@ -116,7 +118,7 @@ programas, archivos spool etc…
 
 
 ### **Arranque del sistema:**
-
+___
 **Bios:** Realiza la comprobación de los dispositivos disponibles, después carga en memoria el cargador de arranque y le pasa el control
 
 **GRUB:** Muestra un menú que ofrece la posibilidad de elegir que partición primaria se quiere elegir para convertir en activa, cargando el Kernel en la memoria
@@ -130,7 +132,7 @@ arranca y deteniéndolos cuando este se apaga.
 
 
 ### **Usuarios grupos y permisos**
-
+___
 **Comandos:**
 
 - **su “user”**: cambiar a otro usuario
@@ -143,7 +145,7 @@ arranca y deteniéndolos cuando este se apaga.
 - **chmod**: cambiar permisos de un archivo
 
 ### **Notación octal de permisos**
-
+___
 A la hora de observar los permisos de un archivo podemos observar tres segmentos en los que hay tres variables posibles, (r), (w), (x), cada segmento representa al propietario del archivo, grupo, otros respectivamente
 
 Cada segmento puede ser representado por un número octal, para hacer la conversión simplemente debemos poner un 1 en caso de haber una variable y 0 en caso de no haberla,

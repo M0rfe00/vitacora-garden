@@ -4,7 +4,7 @@ tags:
   - Teoria
 ---
 ## **Direccionamiento IP:**
-
+___
 - Vamos a repasar como hacer el direccionamiento de red y a dar algunos consejos para ello.
 
 ## **Dirección IP:**
@@ -64,7 +64,7 @@ tags:
 
 
 ## **Identificar la clase de la IP:**
-
+___
 Las direcciones IP están clasificadas según el uso al que están destinados, para identificarlas tenemos que fijarnos en el primer octeto, esto nos sirve además para conocer la máscara de subred predeterminada de la dirección de red, ergo el numero de bits de red y host
 
 
@@ -87,7 +87,7 @@ Un truco para memorizar el N.º de bits de red de cada clase sirve fijarse que s
 
 
 ## **Crear subredes**
-
+___
 Crear subredes consiste en alterar los bits de la máscara y modificar la dirección de red para obtener una nueva dirección de red que dé cabida a un número determinado de host dentro de la red o crear una cantidad determinada de subredes a partir de la dirección original.
 
 

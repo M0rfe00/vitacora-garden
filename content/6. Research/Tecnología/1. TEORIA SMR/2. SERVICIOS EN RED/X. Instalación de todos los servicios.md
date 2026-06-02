@@ -4,7 +4,7 @@ tags:
   - Teoria
 ---
 # **Instalación de todos los servicios**
-
+___
 - Instalar todos los servicios en un Windows Server y probar que funcionan correctamente.
 
 - Dada la dirección de re 204.187.100.0 crear subredes para que en cada una de ellas entren 32 equipos. Debes de quedarte con la tercera subred.
@@ -25,7 +25,7 @@ tags:
 
 
 ## **Direccionamiento:**
-
+___
 - **La dirección 204.187.100.0, es una clase C, tiene 3 octetos de red y 1 de host, por los que tenemos 254 host asignables (28-2 =254).**
 
 - Nos piden 32 equipos, a estos e les añadimos el 10% adicional (36 equipos) para 36 equipos necesitamos 6 bits de host.**
@@ -65,7 +65,8 @@ Confirmamos la instalación y finalizamos, después revisamos la pestaña de Not
 
 
 ### DHCP
-Primero debemos asignarle un dirección IP a nuestro servidor, para ello vamos a servidor local Ethernet, Propiedades y asignamos un configuración de forma manual.![[Instalación Servicios20250709010247.png]]
+___
+Primero debemos asignarle un dirección IP a nuestro servidor, para ello vamos a servidor local Ethernet, Propiedades y asignamos un configuración de forma manual.![[Instalación Servicios 20250709010247.png]]
 
 Para configurar un ámbito vamos a la configuración DCHP, seleccionamos nuestro servidor hacemos clic derecho sobre IPv4 y seleccionamos Ámbito nuevo.![[Instalación Servicios 20250709010302.png]]
 
@@ -92,7 +93,7 @@ Comprobamos en el cliente:![[Instalación Servicios 20250709010536.png]]
 
 
 ### DNS
-
+___
 Para configurar la resolución de nombre debemos crear la zona directa introduciendo la dirección de red y la zona inversa con nuestros dominios y host
 
 Zona directa![[Instalación Servicios 20250709010600.png]]
@@ -103,7 +104,7 @@ Zona inversa
 Creamos la zona net y el host Fuencarral![[Instalación Servicios 20250709010621.png]]
 
 ### WEB
-
+___
 Para tener un servidor web deberemos introducir nuestro archivo de hipertexto en la carpeta wwwroot, y después ir al administrador IIS, agregar un sitio web.![[Instalación Servicios 20250709010636.png]]
 
 Ponemos el archivo como documento predeterminado y nos aseguramos que esta iniciado![[Instalación Servicios 20250709010647.png]]
@@ -132,7 +133,7 @@ Después añadimos el sitio FTP desde el administrador IIS![[Instalación Servic
 
 
 ### Correo electrónico:
-
+___
 Para dar servicio de correo electrónico debemos, crear un intercambiador en DNS, instalar Mercury en el servidor y crear usuarios para después iniciar sesión en Thunderbird desde los clientes y utilizar el servicio
 
 Añadimos los dominios del host y el intercambiador![[Instalación Servicios 20250709011001.png]]

@@ -4,15 +4,15 @@ tags:
   - Wind-Server
 ---
 # **Windows server**
-
+___
 **Windows server es un sistema operativo servidor, esto quiere decir que su función es proporcionar servicios a otros sistemas operativos clientes**
 
 **Modelo Cliente servidor**
 
 # **Instalacion Windows server:**
-
+___
 ## **Para Sistemas en red:**
-
+___
 **Se ha acordado utilizar la ISO de Window Server 2016, por lo que tenemos que instalar la ISO y hacer la configuración**
 
 **Para instalar Windows Server 2016 mediante la imagen ISO en VirtualBox, seleccionamos Maquina -\> Nueva**

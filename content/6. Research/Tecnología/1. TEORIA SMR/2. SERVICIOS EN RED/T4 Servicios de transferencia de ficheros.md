@@ -5,9 +5,9 @@ tags:
   - FTP
 ---
 # **Tema 4 Servicios de transferencia de ficheros**
-
+___
 ## **Objetivos**
-
+___
 - Conocer los protocolos empleados en la transferencia de ficheros a través de la red.
 
 - Manejar los diferentes tipos de cliente del protocolo FTP para realizar tareas básicas.
@@ -23,7 +23,7 @@ tags:
 - Aprender a instalar y configurar servicios FTP sobre sistemas operativos libres y propietarios en determinados escenarios.
 
 ## **Glosario**
-
+___
 **ACL:** Acrónimo de Access Control List ("lista de control de acceso"). Es un mecanismo que permite extender los permisos que ofrece un sistema operativo.
 
 **DoS:** Acrónimo de Denial of Service ("denegación de servicio"). Ataque informático cuyo fin es el bloqueo de un servidor mediante la saturación del mismo o mediante explotación de alguna vulnerabilidad que consiga el mismo resultado.
@@ -49,7 +49,7 @@ tags:
 **Virgulilla:** Signo ortográfico con forma de coma, rasguillo o trazo, que en sistemas operativos UNIX/Linux se corresponde con el directorio home del cliente autenticado.
 
 ## **Resumen:**
-
+___
 - FTP es un protocolo que se diseñó para transferir ficheros con la mayor velocidad, pero que no tiene en cuenta la seguridad, pues todo el tráfico viaja en claro.
 
 - Los clientes FTP deben enviar su login y password, aunque se permiten accesos anónimos. Estos disponen de un amplio repertorio de comandos.

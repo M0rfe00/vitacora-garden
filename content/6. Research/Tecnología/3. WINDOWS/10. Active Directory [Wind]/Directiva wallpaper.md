@@ -21,18 +21,20 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Nos quedamos con la ruta creada del archivo en la red, para después introducirla en la directiva**
-**Según el usuario o grupo al que queramos aplicar la directiva de fondo de pantalla crearemos el GPO en un Dominio u otro, en este caso “segundo"** <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image2.png"
+**Según el usuario o grupo al que queramos aplicar la directiva de fondo de pantalla crearemos el GPO en un Dominio u otro, en este caso “segundo"** 
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image2.png"
 > style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ## **Crear GPO**
 **para crear la directiva vamos a herramientas -\> Administración de directivas de grupo** <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image9.png">style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
-**Para crear el GPO hacemos clic derecho sobre el dominio que queramos y seleccionamos “Crear un GPO en este dominio y vincularlo aquí…”** <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image5.png"
+**Para crear el GPO hacemos clic derecho sobre el dominio que queramos y seleccionamos “Crear un GPO en este dominio y vincularlo aquí…”** 
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image5.png"
 > style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />  
-> >
+
 
 **Le ponemos un nombre al GPO que estamos a punto de crear y siguiente**
-> <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image4.png"
+ <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image4.png"
 > style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ## **Crear directivas**
@@ -41,7 +43,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 Para la directiva de fondo de pantalla vamos a Configuracion de usuario -\> Directivas -\> Plantillas administrativas… -\> Active Desktop -\> y habilitamos Active desktop y aplicamos
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 Habilitamos, aplicamos y aceptamos. (esta pantalla nos explica con que versiones es compatible la directiva y en que consiste)
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image10.png"

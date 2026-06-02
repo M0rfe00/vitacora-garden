@@ -4,9 +4,9 @@ tags:
   - Teoria
 ---
 # **Tema 5 Administración de usuarios y grupos en Linux**
-
+___
 ## **Objetivos**
-
+___
 - Administrar usuarios y grupos.
 - Manejar permisos y propiedad de archivos.
 - Saber administrar las listas de control de acceso.
@@ -17,7 +17,7 @@ tags:
 - Configurar tareas programadas.
 
 ## **Glosario:**
-
+___
 **ACL:** Access Control List o lista de control de acceso. Lista de permisos adjuntos a un objeto que posibilitan realizar una gestión más avanzada de permisos de archivos y directorios, controlando el acceso a ellos.
 
 **Crontab:** Fichero de texto que permite configurar tareas programadas a los usuarios del sistema.
@@ -42,7 +42,7 @@ caché los resultados obtenidos para la siguiente petición.
 
 
 ## **Resumen**
-
+___
 - La administración de las cuentas de usuarios y grupos de un sistema es una parte de vital importancia de su administración, siendo el principal motivo identificar al usuario que lo utiliza, así como permitir la utilización de los recursos disponibles.
 
 - Según la finalidad que dicho usuario le dé al sistema, será creado y clasificado para tal fin, incluso controlando el tiempo que el usuario hará uso de este, mediante fijación de fechas de expiración de las cuentas.

@@ -4,19 +4,14 @@ tags:
   - Wind-Server
 ---
 ## **Visibilidad entre maquinas**
-
-**Para que el servidor y el cliente puedan verse ambos deben de estar la
-misma red, en nuestro caso lo haremos configurando la maquina servidor y
-cliente en red interna desde la configuración de VirtualBox, para
-acceder a la configuración de la maquina hacemos Ctrl+S seleccionando la
-máquina, una vez dentro seleccionamos el apartado Red y en el
-desplegable “Conectado a:” Seleccionamos Red Interna**
+___
+**Para que el servidor y el cliente puedan verse ambos deben de estar la misma red, en nuestro caso lo haremos configurando la maquina servidor y cliente en red interna desde la configuración de VirtualBox, para acceder a la configuración de la maquina hacemos Ctrl+S seleccionando la máquina, una vez dentro seleccionamos el apartado Red y en el desplegable “Conectado a:” Seleccionamos Red Interna**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image1.png"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ## **Posibles errores:**
-
+___
 - Las maquinas no están en la misma red, esto puede ser por que una este
   en red interna o NAT
 
@@ -31,7 +26,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
   correcta
 
 ## **Instalar Guest Adittions**
-
+___
 Las Guest adittions son características adicionales que no tienen las
 máquinas virtuales por defecto, tales como establecer pantalla completa,
 crear carpetas compartidas, opciones de teclado etc.…
@@ -70,7 +65,7 @@ Para terminar la instalación debemos reiniciar
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ## **Crear carpetas Compartidas**
-
+___
 **Las carpetas compartidas son ficheros a los que se puede acceder tanto
 desde una máquina virtual como desde el ordenador real**
 

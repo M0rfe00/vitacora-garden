@@ -4,11 +4,11 @@ tags:
   - DHCP
 ---
 # **Introducción a DHCP**
-
+___
 Al implementar los servidores del Protocolo de configuración dinámica de host (DHCP) en la red, puede proporcionar automáticamente equipos cliente y otros dispositivos basados en TCP/IP con direcciones IP válidas. También puede proporcionar los parámetros de configuración adicionales que estos clientes y dispositivos necesitan. Estos parámetros se denominan opciones DHCP y permiten que los dispositivos se conecten con otros recursos de red, como servidores DNS, servidores WINS y enrutadores.
 
 ## **Qué proporciona un servidor DHCP**
-
+___
 DHCP es una tecnología de cliente y servidor que permite que los servidores DHCP asignen o concedan direcciones IP a equipos y otros dispositivos habilitados como clientes DHCP. Con DHCP, puede hacer lo siguiente:
 
 - Conceder direcciones IP para una cantidad de tiempo específica a los
@@ -41,13 +41,13 @@ DHCP es una tecnología de cliente y servidor que permite que los servidores DHC
   clientes DHCP basados en IP.
 
 ## **Administración de un servidor DHCP**
-
+___
 Las herramientas que puede usar para administrar servidores DHCP incluyen la consola de DHCP y Windows PowerShell para DHCP. La consola de DHCP está disponible en el menú Herramientas del Administrador de servidores y Windows PowerShell para DHCP está automáticamente
 disponible en un símbolo del sistema de Windows PowerShell al instalar el rol de servidor DHCP.
 
 
 ## **Tareas administrativas comunes para DHCP**
-
+___
 Una vez instalado el servidor DHCP, puede usar la consola de DHCP o
 Windows PowerShell para DHCP para realizar las siguientes tareas
 administrativas del servidor básicas:

@@ -5,9 +5,9 @@ tags:
   - DNS
 ---
 # **Tema 3 Servicios de resolución de nombres**
-
+___
 ## **Objetivos**
-
+___
 - Comprender la importancia de utilizar sistemas de resolución de nombres.
 
 - Conocer los protocolos implicados en la resolución de nombres.
@@ -17,7 +17,7 @@ tags:
 - Aprender a instalar y configurar servicios de resolución de nombres en sistemas operativos libres y propietarios.
 
 ## **Glosario**
-
+___
 **IDN:** Acrónimo de Internationalized Domain Name("nombre de dominio internacionalizado"). Se trata de un tipo de nombre que puede contener caracteres que no son ASCII.
 
 **IPX:** Acrónimo de Internetwork Packet Exchange ("intercambio de paquetes interred"). Protocolo de comunicación para redes NetWare de Novell. Ubicado en la capa de red (nivel 3 OSI), se empleaba para el intercambio de datagramas. Trabaja conjuntamente con el protocolo SPX.
@@ -42,7 +42,7 @@ tags:
 
 
 ## **Resumen**
-
+___
 - Existen varios mecanismos que permiten llevar a cabo la traducción de nombres a direcciones IP y viceversa. Por un lado, hay sistemas basados en nombres planos como NetBIOS y WINS, y, por otro lado, sistemas basados en nombres jerárquicos como DNS (ambos pueden integrarse).
 
 - DNS se organiza conforme a un sistema jerárquico en forma de árbol invertido, en el que el elemento raíz del árbol se corresponde con el dominio raíz. Este lo gestiona el ICANN y está disponible en trece servidores con centenares de réplicas por todo el mundo. El siguiente nivel está formado por dominios TLD.

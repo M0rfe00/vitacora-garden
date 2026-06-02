@@ -4,7 +4,7 @@ tags:
   - Wind-Server
 ---
 # **Requisitos mínimos**
-
+___
 Cada sistema requiere especificaciones mínimas y recomendadas para
 funcionar tanto en un equipo real como virtualizado y variaran
 dependiendo el tipo de sistema (Interfaz gráfica o modo comando) y
@@ -12,13 +12,14 @@ versión del mismo (Home, Standard, pro, lite…), estas especificaciones
 pueden ser memoria RAM, espacio en disco, procesador etc.…
 
 ## **Ubuntu server**
+___
 
 | **CPU**         | **RAM** | **Espacio en disco** | **Tarjeta grafica** |
 |-----------------|---------|----------------------|---------------------|
 | 1 GHz (64 bits) | 1 GB    | 10 GB                | 640 x 480           |
 
 ## **Windows server 2016**
-
+___
 <table>
 <colgroup>
 <col style="width: 24%" />
@@ -50,7 +51,7 @@ pueden ser memoria RAM, espacio en disco, procesador etc.…
 </table>
 
 ## **Windows server 2012 (solo 64 bits)**
-
+___
 <table>
 <colgroup>
 <col style="width: 24%" />
@@ -78,7 +79,7 @@ pueden ser memoria RAM, espacio en disco, procesador etc.…
 </table>
 
 ## **Windows 10**
-
+___
 <table>
 <colgroup>
 <col style="width: 24%" />
@@ -110,13 +111,14 @@ pueden ser memoria RAM, espacio en disco, procesador etc.…
 </table>
 
 ## **Lubuntu (64 bits)**
+___
 
 | **CPU** | **RAM** | **Espacio en disco** | **Tarjeta grafica** |
 |---------|---------|----------------------|---------------------|
 | 700 MHz | 1 GB    | 5 GB                 | 640 x 480           |
 
 ## **Windows 7**
-
+___
 <table>
 <colgroup>
 <col style="width: 24%" />

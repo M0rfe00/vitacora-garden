@@ -4,24 +4,19 @@ tags:
   - Teoria
 ---
 # **Tema 1 Introducción a los servicios en red**
-
+___
 ## **Objetivos:**
-
+___
 - Recordar los modelos de red que guían los procesos de interconexión entre dispositivos.
-
 - Conocer el concepto de servicio de red.
-
 - Dominar los conceptos de direccionamiento sobre las dos versiones del protocolo IP para    poder realizar posteriormente las configuraciones necesarias en los equipos servidor y cliente.
-
 - Relacionar los servicios en red con los protocolos y puertos relacionados.
-
 - Adoptar una visión general de los principales servicios en red.
-
 - Preparar los equipos con los que posteriormente se reproducirá los escenarios ejemplo de los capítulos anteriores
 
 
 ## **Glosario:**
-
+___
 **Checksum:** Suma de determinados datos de un mensaje que realiza el emisor y transmite junto con el mensaje original. Cuando el mensaje llega al destino, el receptor puede realizar el mismo cálculo sobre los datos recibidos y comparar el Checksum obtenido y, por tanto, se habrá producido un error.
 
 **CDIR:** Acrónimo de Clasessless Inter-Domain Routing (“encaminamiento entre dominios sin clases”), es la respuesta ante el agotamiento de direcciones que permite un direccionamiento flexible y más ajustado a cada escenario.
@@ -48,7 +43,7 @@ tags:
 
 
 ## **Resumen:**
-
+___
 - Existe una gran cantidad de servicios de red, cada uno orientado a un tipo de tarea, y su uso reporta ventajas en entornos tanto domésticos como corporativos.
 
 - Los modelos de red regulan cómo deben  realizarse las conexiones y comunicaciones. El modelo OSI lo hace desde un punto de vista teórico, mientras que el modelo TCP/IP lo hace desde un punto de vista eminentemente práctico. Ambos dividen el proceso en una serie de capas/niveles.

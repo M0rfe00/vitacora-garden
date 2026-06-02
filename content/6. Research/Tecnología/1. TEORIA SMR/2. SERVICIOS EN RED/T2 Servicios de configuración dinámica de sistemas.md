@@ -5,21 +5,17 @@ tags:
   - DHCP
 ---
 # **Tema 2 Servicios de configuración dinámica de sistemas**
-
+___
 ## **Objetivos:**
-
+___
 - Conocer el protocolo encargado de realizar la configuración automática de los parámetros de conexión de las interfaces de red de los equipos, así como sus alternativas principales.
-
 - Distinguir entre los diferentes modos de trabajo del protocolo de configuración automática.
-
 - Diferenciar los mecanismos que permiten configurar los parámetros de red de los equipos.
-
 - Reconocer los diferentes tipos de mensaje intercambiados entre clientes y servidores en el proceso de asignación, renovación y liberación.
-
 - Aprender a instalar y configurar servicios de configuración dinámica en sistemas operativos libres y propietarios.
 
 ## **Glosario:**
-
+___
 **BIOS:** Acrónimo de Basic  Input Output System (“sistema básico de entrada salida”), es el firmware almacenado en la placa base del equipo que se ejecuta cuando se inicia el equipo para detectar todos los dispositivos conectados, comprobar su funcionamiento e iniciar el gestor de arranque desde uno de ellos.
 
 **IANA:** En sus orígenes era una organización encargada de la asignación global de direcciones IP, asignación de puertos, gestión de los servidores raíz de nombres de dominio DNS, mantenimiento de Internet... Su nombre es el acrónimo de Internet Assigned Numbers Authority. Actualmente es un departamento dirigido por la ICANN.
@@ -46,7 +42,7 @@ tags:
 
 
 ## **Resumen**
-
+___
 - Los equipos que se conectan a una red pueden hacerlo despreocupándose de configurar los parámetros de sus interfaces de red gracias al servicio DHCP.
 
 - Gracias a un agente DHCP Relay, un servidor DHCP puede ofrecer servicio a equipos que se encuentren en otras redes.

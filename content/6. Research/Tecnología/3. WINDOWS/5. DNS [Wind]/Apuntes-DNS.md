@@ -4,7 +4,7 @@ tags:
   - DNS
 ---
 ## **DNS: Domain Name Service**
-
+___
 - **Protocolo que traduce nombres de dominio a direcciones IP**
 
 - Aunque el protocolo IP sigue utilizando direcciones, es más fácil para el usuario memorizar el nombre del dominio en lugar de su dirección IP
@@ -24,9 +24,9 @@ La estructura de un dominio esta formada por varios apartados separados por un p
 la parte superior y ramificándose hacia
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image6.png"
-style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image8.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image8.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 **Ejemplo:** [<u>www.ejemplo.com</u>](http://www.ejemplo.com)
 
@@ -49,7 +49,7 @@ especifica todo el nombre completo del dominio
 
 <table>
 <colgroup>
-<col style="margin: 0 auto; padding: 0; width: 100%; height: auto;>
+<col style=width: 50%>
 <tr>
 <th colspan="2">Dominios de alto nivel de organización</th>
 </tr>
@@ -129,7 +129,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 - **Puntero PTR**
 
 ## **Instalación servicio DNS**
-
+___
 **Para agregar el servicio DNS en el servidor vamos a Administrar -\> Agregar roles y características:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image3.png"
@@ -241,7 +241,7 @@ El apartado “Actualización dinámica” debemos indicar si queremos que la zo
 **Finalizamos y tendríamos la zona creada**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image13.png"
-style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 **Una vez dentro de la configuración DNS accedemos al servidor que queremos configurar y hacemos clic en el apartado “Zonas de búsqueda directa” y seleccionamos “Zona nueva”**
 
@@ -282,7 +282,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image20.png"
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image17.png"
-style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 **Para comprobar que el host ha sido creado con éxito, necesitamos un cliente conectado al servidor**
 

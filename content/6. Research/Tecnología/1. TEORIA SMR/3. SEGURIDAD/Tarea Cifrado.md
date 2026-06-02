@@ -3,13 +3,9 @@ tags:
   - Informática
   - Seguridad
 ---
-Resumen:
-
-La práctica consiste en utilizar cifrado simétrico y asimétrico con
-openssl para simular un caso en el que alguien cifra un mensaje y un
-receptor lo descifra, openssl es una herramienta que permite cifrar y
-descifrar mensajes, generar claves semilla/públicas/privadas, creación
-de certificados x509, CSRs y CRLs entre otras funciones
+## Resumen:
+___
+La práctica consiste en utilizar cifrado simétrico y asimétrico con openssl para simular un caso en el que alguien cifra un mensaje y un receptor lo descifra, openssl es una herramienta que permite cifrar y descifrar mensajes, generar claves semilla/públicas/privadas, creación de certificados x509, CSRs y CRLs entre otras funciones
 
 **Índice:**
 
@@ -43,7 +39,7 @@ Parámetros de los comandos de openssl a tener en cuenta
 
 
 ### **Cifrado simétrico**
-
+___
 **Validó la versión de openssl con el comando**
 - Openssl version
 <img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image5.png"
@@ -74,7 +70,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Asignamos una contraseña al cifrado y listo**
-<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image3.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image3.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **1.4 Para descifrar el archivo primero hay que decodificarlo con el comando:**
 - openssl enc -aes-256-cbc -d -in lucascifrado -out lucasdecodificado
@@ -102,11 +98,12 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 ***Esto es cifrado simétrico, se ha utilizado la misma clave para codificarlo y decodificarlo***
 
 ### **Cifrado asimétrico**
+___
 **2.1 Creamos un archivo de texto plano con el comando**
 - nano
-<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image18.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;/>
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image18.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
-<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image19.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;/>
+<img src="/media-content/Apuntes/media-informatica/Media Teoria SMR/Media Seguridad/media 2EV/image19.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 **2.2 Ahora vamos a crear la “Clave semilla” para generar la clave publica y privada, para ello utilizamos el comando:**
 - openssl genrsa -out lucasseed.pem

@@ -4,9 +4,9 @@ tags:
   - Teoria
 ---
 # **Tema 3 Instalación de Linux**
-
+___
 ## **Objetivos**
-
+___
 - Conocer las ventajas del sistema operativo Linux.
 - Aprender a identificar las necesidades del sistema.
 - Instalar el sistema operativo Ubuntu.
@@ -17,7 +17,7 @@ tags:
 - Monitorizar eventos.
 
 ## **Glosario:**
-
+___
 **APT:** Advanced Packaging Tool. Herramienta avanzada de gestión de paquetes.
 
 **Distribución Linux.:** Kernel de Linux es un conjunto de paquetes de software que satisfacen
@@ -38,7 +38,7 @@ por múltiples usuarios al mismo tiempo, compartiendo procesador, memoria, almac
 información que se aloja en él.
 
 ## **Resumen:**
-
+___
 - Linux es un sistema operativo de software libre y código abierto. Entre sus características principales, se pueden destacar que es multiplataforma, multiusuario y multitarea. Dentro de las diferentes distribuciones de Linux, ha tenido una gran aceptación por parte de la comunidad de usuarios la de Ubuntu.
 
 - Los sistemas operativos Linux cuentan con dos partes fundamentales: el kernel, encargado de interactuar con el hardware del equipo aislando al usuario final de la complejidad del mismo, y la Shell, encargada de  ofrecer al usuario una interfaz que le permita comunicarse con el equipo. Esta interfaz en los equipos servidores suele ser tipo texto CLI (Command Line Interface), pero la tendencia a utilizar el entorno gráfico va en auge.

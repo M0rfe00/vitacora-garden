@@ -4,21 +4,18 @@ tags:
   - Teoria
 ---
 # **Tema 1 Introducción a los sistemas operativos en red**
-
+___
 ## **Objetivos:**
-
+___
 - Identificar, crear, eliminar y formatear particiones.
-
 - Configurar software de aplicación.
-
 - Instalar un sistema operativo.
-
 - Establecer un sistema de instalación por red PXE en diferentes sistemas operativos.
 
 ![[Modos Instalación 20250709005551.png]]
 
 ## **Glosario**
-
+___
 **CLI:** Command Line Interface o interfaz de línea de comandos. Método que permite a los usuarios dar instrucciones a algún programa informático por medio de una línea de texto simple.
 
 **DHCP:** Dynamic Host Configuration Protocol o protocolo de configuración dinámica de host. Protocolo a través del cual se puede configurar automáticamente los parámetros de red de un equipo informático (IP, máscara, puerta de enlace y DNS, entre otros).
@@ -36,7 +33,7 @@ tags:
 **YUMI:** Your Universal MultiBoot Installer. Herramienta de Windows para crear pen multibooteable.
 
 ## **Resumen:**
-
+___
 - En la actualidad, la sociedad se encuentra rodeada de sistemas conectados en red. El teléfono móvil, la televisión, incluso la lavadora de tu casa pueden ofrecer servicios que requieren de una arquitectura cliente-servidor. Los sistemas operativos en red que cubren las necesidades diarias son Android, IOS, Linux, Windows server etcétera.
 
 - El sistema operativo en red se encarga de gestionar los recursos hardware y software de un equipo servidor y de poder atender las peticiones formuladas por los equipos clientes

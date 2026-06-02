@@ -4,12 +4,13 @@ tags:
   - Teoria
 ---
 # **Servicios en red**
+___
 **Servicio:** proporciona algún tipo de funcionalidad
 **En red:** gestionado a través de un conjunto de equipos conectados
 entre sí
 
 ## **Ejemplos** **de servicios en red**
-
+___
 - Obtener una configuración de red al iniciar los ordenadores de una LAN
   (DHCP)
 
@@ -18,7 +19,7 @@ entre sí
 - Traducir un nombre de un equipo a su dirección IP(DNS)
 
 # **Modelo cliente servidor**
-
+___
 **S.O. Servidores:** equipo que proporciona un servicio a los clientes. Proveedor de
 servicios
 
@@ -39,7 +40,7 @@ servicios
 style="width:3.05208in;height:2.23323in" />
 
 ### **Ejemplos**
-
+___
 #### **DHCP**
 **Cliente:** pide una configuración de red
 **Servidor:** proporciona una configuración de red
@@ -58,6 +59,7 @@ style="width:3.05208in;height:2.23323in" />
 
 
 ## **Ventajas modelo C/S**
+___
 - **Distribución del procesamiento entre clientes y**
 - **servidores: un equipo no realiza todas las tareas**
 - **Gestión centralizada del servidor. Mantenimiento sencillo**
@@ -66,6 +68,7 @@ style="width:3.05208in;height:2.23323in" />
 
 
 ## **Inconvenientes modelo C/S**
+___
 - **Debido a la centralización por parte del servidor, si éste no está
 - disponible, ningún cliente verá respondidas sus peticiones → Solución: servidores secundarios**
 - **Errores en el servidor afectan a todos los clientes**
@@ -74,6 +77,7 @@ style="width:3.05208in;height:2.23323in" />
 
 
 ## **Otros modelos: Peer To Peer (P2P)**
+___
 - **En este modelo, todos los equipos funcionan a la vez como cliente y como servidor**
 - **Ejemplos: Emule, BitTorrent, Ares...**
 - **Cada equipo funciona como servidor (ofrece ciertos archivos a la red) y a la vez como cliente (se descarga archivos de otros equipos)**

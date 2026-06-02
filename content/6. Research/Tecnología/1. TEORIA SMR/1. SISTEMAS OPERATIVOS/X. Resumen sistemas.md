@@ -4,7 +4,7 @@ tags:
   - Teoria
 ---
 ## **Requisitos Windows Server**
-
+___
 - **Procesador:** 64 bits, 1.4 GHz
 
 - **RAM:**
@@ -14,7 +14,7 @@ tags:
 - **Almacenamiento:** 32GB
 
 ## **Características de la arquitectura cliente-servidor**
-
+___
 - Coordina las funciones de todos los periféricos y recursos
 
 - Conecta todos los recursos y equipos de la red
@@ -26,11 +26,11 @@ tags:
 - Se puede adaptar a los cambios sin menospreciar recursos, por ejemplo si aumentan los usuarios el S.O escala hacia arriba añadiendo más recursos
 
 ## **¿Para qué sirve la documentación técnica?**
-
+___
 - Ya que una vez se instala el equipo, a lo largo del tiempo se realizan modificaciones, por eso es importante tener una documentación técnica del equipo que indique en qué estado se dejó el equipo después de la instalación y evitará que se formen errores por desconocimiento
 
 ## **Explica los modos de instalación de sistemas operativos**
-
+___
 - Mediante DVD
 
 - **Mediante USB**
@@ -49,7 +49,7 @@ tags:
 	- **Windows Serva**
 
 ## **Sistema de archivos de Windows Server**
-
+___
 **Los más utilizados por Windows son:**
 
 - FAT
@@ -59,7 +59,7 @@ tags:
 - NTFS
 
 ## **¿Para qué sirven las herramientas administrativas**
-
+___
 - Contienen herramientas para los administraciones para configurar el server Define los siguientes conceptos:
 
 - **Dominio de AD:** Es un contenedor lógico utilizado para administrar unidades

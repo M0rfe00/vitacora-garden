@@ -4,15 +4,15 @@ tags:
   - Wind-Server
 ---
 # **Windows server**
-
+____
  - **Windows server es un sistema operativo servidor, esto quiere decir que su función es proporcionar servicios a otros sistemas operativos clientes**
 
 - **Modelo Cliente servidor**
 
 # **Instalacion Windows server:**
-
+___
 ## **Para Servicios en red:**
-
+___
 **Se ha acordado utilizar la OVA de Windows Server 2012, por lo que no es necesario realizar la instalación, únicamente importar la ova sin los servicios instalados**
 
 **Para Importar Windows Server 2012 mediante una OVA en VirtualBox, seleccionamos Archivo -\> Importar servicio virtualizado**

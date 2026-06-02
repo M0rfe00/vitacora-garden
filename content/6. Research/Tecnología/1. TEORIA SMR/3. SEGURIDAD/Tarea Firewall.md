@@ -4,7 +4,7 @@ tags:
   - Seguridad
 ---
 ### **Implementa un servicio de firewall usando tres máquinas virtuales Linux**
-
+___
 **Maquina 1:** Monta un servidor web apache para realizar las pruebas desde la máquina 2
 
 **Maquina 2:** Servirá para comprobar mediante un navegador web si el puerto 80 está bloqueado hacia la máquina 1 y para comprobar si el acceso a la máquina 1 se ha bloqueado por completo mediante ping, cuando se aplique cada uno de los dos escenarios descritos.
@@ -13,7 +13,7 @@ tags:
 servidor (no ping). Comprobar previamente que del cliente al servidor existe conectividad total al habilitar el enrutamiento (ipforward) ping ok = web ok
 
 ## **Introducción**
-
+___
 IP tables es el cortafuegos integrado en Linux, el cual entre otras funciones como NAT (enrutar el tráfico de la red) podemos utilizarlo como firewall para filtrar el tráfico entrante y saliente de nuestra red definiéndolo mediante reglas
 
 Las reglas son el conjunto de normas filtrado que actúan sobre los paquetes que atraviesan el cortafuegos, hay tres tipos de cadenas/reglas:
@@ -138,6 +138,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ### **Caso 1:**
+___
 Debemos bloquear el acceso al puerto 80 del servidor desde el enrutador y comprobar desde el navegador del cliente que ya no puede acceder
 
 **Caso 2:**
@@ -197,7 +198,7 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 ### **Caso 2:**
-
+___
 **Para bloquear todo el tráfico utilizamos los comandos**
 
 - iptables -P INPUT DROP

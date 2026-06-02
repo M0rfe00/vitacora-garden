@@ -4,7 +4,7 @@ tags:
   - Acceso-Remoto
 ---
 # **Configuración e instalación de SSH Ubuntu server**
-
+___
 Para ello necesitamos dos máquinas
 
 Para instalar el servicio ssh en el servidor en caso de no haberlo instalado durante la instalación utilizamos el siguiente comando
@@ -22,7 +22,7 @@ Para conectarnos desde el cliente, debemos introducir lo siguiente
 - ssh “usuario”@”IP/Dominio del servior” -p “puerto del servidor”
 
 Ejemplo
-<img src="/media-content/Apuntes/media-informatica/Media Linux/Media SSH Ubuntu/image3.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
+<img src="/media-content/Apuntes/media-informatica/Media Linux/Media SSH Ubuntu/image3.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 Aceptamos e introducimos la contraseña del usuario con el que nos estamos conectando
 <img src="/media-content/Apuntes/media-informatica/Media Linux/Media SSH Ubuntu/image4.png"

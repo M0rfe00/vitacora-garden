@@ -5,9 +5,9 @@ tags:
   - Web
 ---
 # **Tema 5 Servicios WEB**
-
+___
 ## **Objetivos**
-
+___
 - Familiarizarse con los diferentes tipos de identificadores empleados en Internet y analizar cada una de sus partes.
 
 - Conocer los protocolos empleados en la transferencia de hipertexto.
@@ -25,7 +25,7 @@ tags:
 - Aprender a instalar y configurar servicios HTTP sobre sistemas operativos libres y propietarios en determinados escenarios.
 
 ## **Glosario:**
-
+___
 **Clúster:** Conjunto de ordenadores que, unidos entre sí por redes de alta velocidad, se comportan como si fuesen una única computadora de mayor capacidad.
 
 **CSS:** Acrónimo de Cascading Style Sheets ("hojas de estilo en cascada"). Es el lenguaje utilizado para describir la presentación de documentos HTML o XML.
@@ -53,7 +53,7 @@ tags:
 **XML:** Acrónimo de extensible Markup Language ("lenguaje de marcado extensible"). Es una especificación de W3C como lenguaje de marcado de propósito general en el que no existen etiquetas predefinidas. Se emplea, principalmente, para el intercambio de información entre diferentes sistemas.
 
 ## **Resumen**
-
+___
 - El primer sitio web de la historia surgió como una propuesta para mejorar la compartición de información entre científicos.
 
  - Los contenidos de la WWW están distribuidos a lo largo de múltiples servidores distribuidos por todo el mundo y para poder localizarlos se utilizan URL.

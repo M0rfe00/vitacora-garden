@@ -4,22 +4,19 @@ tags:
   - Teoria
 ---
 # **Tema 2 Modos de instalación de sistemas operativos**
-
+___
 ## **Objetivos**
-
+___
 - Identificar, crear, eliminar y formatear particiones.
-
 - Configurar software de aplicación.
-
 - Instalar un sistema operativo.
-
 - Establecer un sistema por red PXE en diferentes sistemas operativos.
 
 ## **Mapa conceptual: “”**
 
 
 ## **Glosario:**
-
+___
 **CLI:** Command Line Interface o interfaz de línea de comandos. Método que permite a los usuarios dar instrucciones a algún programa informático por medio de línea de texto simple
 
 **DHCP:** Dynamic Host Configuration Protocol o protocolo de configuración dinámica de host. Protocolo a través del cual se puede configurar automáticamente los parámetros de red de un equipo informático (IP, Mascara, Puerta de enlace y DNS, entre otros.)
@@ -39,7 +36,7 @@ tags:
 **YUMI:** Your Universal MultiBoot Installer. Herramienta de Windows para crear pen multibooteable
 
 ## **Resumen:**
-
+___
 - En la actualidad, los dos sistemas de instalación más comunes son mediante memoria USB o red.
 
 - Las memorias USB reemplazan a los conocidos como DVD o CD, ya que presentan numerosas ventajas frente a estos, tales como mayor espacio de almacenamiento, mejor precio y reutilización del dispositivo, ya que permiten numerosas escrituras.
