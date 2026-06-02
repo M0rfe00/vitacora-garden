@@ -3,9 +3,10 @@ tags:
   - Informática
   - Active-Directory
 ---
-> **Perfiles**
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+**Perfiles**
+
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 Podemos definir un perfil como aquellos aspectos de configuración del
 equipo y del entorno de trabajo propios del usuario y que además son
@@ -49,7 +50,7 @@ carpeta de perfil la crearemos dentro de las carpetas particulares de
 los usuarios. Por ejemplo, vamos a hacer que los usuarios del
 departamento Gestión tengan un perfil móvil:
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image2.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image2.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 *Perfil móvil para usuarios de departamento Gestión*
 
@@ -58,7 +59,7 @@ máquinas cliente de nuestro dominio, recupere todo su perfil de la
 carpeta personal del usuario. Para ello, vamos a modificar el siguiente
 campo de la pestaña perfil:
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image3.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image3.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 > *Perfil móvil usuario usudir1*
 
@@ -67,7 +68,7 @@ establecer la ruta de acceso al perfil móvil, dentro de la carpeta
 personal del usuario. Por tanto, seleccionaremos los dos usuarios y con
 el botón de la derecha del ratón:
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image4.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image4.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 > *Perfil móvil usuarios gestion*
 
@@ -79,11 +80,11 @@ De esta forma cuando algún usuario de Gestión inicie sesión, se creará
 en la carpeta personal su perfil. Así independientemente del equipo
 donde se conecte, siempre tendrá la información:
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image5.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image5.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 *Creación de carpeta de perfil móvil*
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image6.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image6.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 > Carga en red Perfil Móvil
 >
@@ -94,7 +95,7 @@ donde se conecte, siempre tendrá la información:
 > Por tanto, hay que saber exactamente en qué usuarios debemos aplicar
 > esta característica.
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.jpeg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 
 **Perfiles obligatorios**
 
@@ -171,7 +172,7 @@ pestaña Opciones avanzadas pulsamos en el botón Configuración, dentro de
 Perfiles de usuario:
 
 <figure>
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image8.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image8.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 <figcaption><p>Perfiles de usuario</p></figcaption>
 </figure>
 
@@ -182,7 +183,7 @@ usuario que tenemos configurado para ser el perfil obligatorio (que será
 local o móvil) y pulsamos el botón Copiar a:
 
 <figure>
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image9.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image9.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 <figcaption><p>Copiar perfil</p></figcaption>
 </figure>
 
@@ -199,7 +200,7 @@ objetos y marcamos la casilla de Grupos, que por defecto está
 desmarcada:
 
 <figure>
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image10.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image10.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 <figcaption><p>Seleccionar usuario o grupo: Tipos de
 objetos</p></figcaption>
 </figure>
@@ -219,8 +220,9 @@ la ruta no acabará con %username%</u>, ya que no queremos una carpeta de
 perfil diferente para cada usuario, sino que todos tendrán el mismo
 perfil, y por lo tanto, accederán a la misma carpeta.
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.jpeg" style="margin: 0 auto; padding: 0; width: 100%;" />**Caso
-práctico** <span class="mark">PROBAR</span>
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image1.jpeg" style="margin: 0 auto; padding: 0; width: 100%;" />
+
+**Caso práctico** <span class="mark">PROBAR</span>
 
 Imaginemos que tenemos que crear un perfil obligatorio para el grupo
 Alumnos de un instituto.
