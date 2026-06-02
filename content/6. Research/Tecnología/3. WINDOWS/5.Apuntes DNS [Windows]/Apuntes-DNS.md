@@ -24,9 +24,9 @@ La estructura de un dominio esta formada por varios apartados separados por un p
 la parte superior y ramificándose hacia
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image6.png"
-style="width:3.63544in;height:0.90416in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image8.png" style="width:2.80491in;height:2.8342in" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image8.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **Ejemplo:** [<u>www.ejemplo.com</u>](http://www.ejemplo.com)
 
@@ -49,10 +49,7 @@ especifica todo el nombre completo del dominio
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
+<col style="margin: 0 auto; padding: 0; width: 100%; height: auto;d>
 <tr>
 <th colspan="2">Dominios de alto nivel de organización</th>
 </tr>
@@ -109,7 +106,7 @@ Agrupación de uno o mas dominios que comparten un espacio contiguo, es decir es
 
 Agrupación de uno o más árboles que comparten un espacio de nomenclatura contiguo y catalogo global
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image5.jpg" style="width:5.11307in;height:2.02022in"
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image5.jpg" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 alt="Blink Activity | BlinkLearning" />
 
 ## **Unidades organizativas:**
@@ -119,7 +116,7 @@ Una Ud. organizativa vendría a ser una carpeta, en la que hay un conjunto de ob
 El objetivo es administrar el conjunto con las unas directivas diferentes al dominio
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image19.png"
-style="width:1.79765in;height:2.63308in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ## **La configuración de DNS consiste en:**
 
@@ -136,57 +133,57 @@ style="width:1.79765in;height:2.63308in" />
 **Para agregar el servicio DNS en el servidor vamos a Administrar -\> Agregar roles y características:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image3.png"
-style="width:3.14338in;height:2.20994in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Una vez dentro del panel seleccionamos Instalacion basada en roles y pulsamos siguiente:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image31.png"
-style="width:3.76783in;height:2.71023in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Seleccionamos el servidor en el que lo queremos instalar y pulsamos en siguiente:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image28.png"
-style="width:4.04362in;height:2.86914in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Seleccionamos el servicio que queremos instalar, en este caso DNS**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image29.png"
-style="width:5.90556in;height:4.18333in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Puede que nos salte un aviso que indique que la instalación requiere agregar características adicionales, las agregamos y pulsamos continuar**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image18.png"
-style="width:3.33483in;height:3.45692in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En este caso no es necesario el apartado características, lo dejamos como esta y pulsamos continuar:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image30.png"
-style="width:5.90556in;height:4.21319in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **El siguiente apartado únicamente nos explica el funcionamiento del servicio DNS, lo leemos y pulsamos continuar**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image10.png"
-style="width:5.90556in;height:4.18056in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **El apartado confirmación nos muestra los datos de la instalación, nos pregunta si deseamos reiniciar en caso de ser necesario y por último una confirmación de la instalación**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image11.png"
-style="width:4.84958in;height:3.43702in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Por último, el apartado Resultados nos muestra el progreso de la instalación**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image12.png"
-style="width:4.76109in;height:3.39054in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Una vez terminada la instalación del servicio DNS es posible que nos salga una notificación de que es necesario completar la configuración DNS, Entramos en la notificación**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image27.png"
-style="width:1.66617in;height:1.01822in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Al acceder a la notificación esta nos redirigirá al asistente posterior a la configuración de DNS, el cual nos dirá que es necesario crear usuarios y administradores de DNS**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image21.png"
-style="width:4.69898in;height:3.32326in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ## **Configuración Servicio DNS**
 
@@ -200,92 +197,92 @@ salir y aceptamos.**
 **Es posible que salte un diagnóstico para detectar posibles problemas tras la configuración, cerramos y continuamos.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image33.png"
-style="width:3.29526in;height:2.28234in" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image35.png"
-style="width:2.55547in;height:2.95998in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image35.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image26.png"
-style="width:2.81325in;height:3.50552in" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image25.png"
-style="width:3.11767in;height:3.43916in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image25.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Una vez instalado procedemos a su configuración desde el apartado herramientas -\> DNS**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image32.png"
-style="width:2.80365in;height:1.84562in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Una vez dentro de la configuración DNS accedemos al servidor que queremos configurar y hacemos clic en el apartado “Zonas de búsqueda inversa” y seleccionamos “Zona nueva”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image7.png"
-style="width:4.71289in;height:3.29526in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Esto nos abrirá el asistente para crear una zona nueva, Seleccionamos “Zona principal”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image9.png"
-style="width:3.90525in;height:3.06623in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En este apartado debemos seleccionar IPv4**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image2.png"
-style="width:4.51867in;height:3.52333in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En este apartado debemos indicar la dirección de red que estamos utilizando en nuestro servidor**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image24.png"
-style="width:4.7705in;height:3.73504in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **En este apartado debemos indicar si queremos utilizar un archivo existente de zona o crear otro**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image14.png"
-style="width:5.37575in;height:4.17767in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 El apartado “Actualización dinámica” debemos indicar si queremos que la zona acepte o no actualizaciones de los registros
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image1.png" style="width:5.3445in;height:4.17767in" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image1.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **Finalizamos y tendríamos la zona creada**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image13.png"
-style="width:5.37575in;height:4.1985in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **Una vez dentro de la configuración DNS accedemos al servidor que queremos configurar y hacemos clic en el apartado “Zonas de búsqueda directa” y seleccionamos “Zona nueva”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image15.png"
-style="width:4.83028in;height:3.35461in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Esto nos abrirá el asistente para crear una zona nueva, Seleccionamos “Zona principal”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image9.png"
-style="width:4.69979in;height:3.69007in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado “Nombre de zona” debemos ponerle un nombre a la zona que queremos crear´**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image16.png"
-style="width:5.33408in;height:4.16725in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado “Archivo de zona” debemos indicar si queremos utilizar el archivo predeterminado para guardar la información, renombrarlo o utilizar otro distinto**
 
 **Por lo general lo habitual es utilizar el predeterminado**
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image4.png" style="width:3.958in;height:3.10599in" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image4.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;/>
 
 **El apartado “Actualización dinámica” debemos indicar si queremos que la zona acepte o no actualizaciones de los registros**
 
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image1.png" style="width:5.3445in;height:4.17767in" />
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image1.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **Finalizamos y tendríamos la zona creada**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image36.png"
-style="width:3.63588in;height:2.82948in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Después de haberla creado accedemos a ella para crear host dentro**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image22.png"
-style="width:4.98481in;height:3.46135in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En la configuración del Host debemos asignarle un nombre al mismo, una IP y marcar la casilla “Crear registro del puntero (PTR) asociado”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image20.png"
-style="width:2.75358in;height:2.76121in" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image17.png"
-style="width:2.73191in;height:1.1284in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" /><img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image17.png"
+style="margin: 0 auto; padding: 0; width: 100%; height: auto; />
 
 **Para comprobar que el host ha sido creado con éxito, necesitamos un cliente conectado al servidor**
 
@@ -295,14 +292,14 @@ style="width:2.73191in;height:1.1284in" />
 
 **Con este comando**  
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image34.png"
-style="width:5.90556in;height:2.96528in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para crear un alias debemos ir a la zona en la que esta el host ya sea la directa o inversa, hacer clic derecho y seleccionar el apartado “Nuevo alias”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image23.png"
-style="width:5.90556in;height:4.13194in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 Esto nos abrirá un panel para crear un nuevo registro de alias, en el que debemos seleccionar el nombre que queremos asignar al dominio y el nombre completo del dominio
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media DNS WIND/image37.png"
-style="width:4.33394in;height:4.86526in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />

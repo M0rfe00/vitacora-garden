@@ -20,51 +20,51 @@ tags:
 ### **Automática:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image1.png"
-style="width:5.64662in;height:2.38575in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Esto nos abrirá la ventana para crear una nueva máquina virtual, aquí
 debemos ponerle nombre a la máquina, especificar donde se van a
 almacenar sus archivos y la ubicación de la imagen ISO.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image2.png"
-style="width:5.59717in;height:3.13162in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el siguiente apartado debemos indicar un Nombre de usuario, su
 respectiva contraseña y si queremos instalar las guest adittions**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image3.png"
-style="width:5.59891in;height:3.11943in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado Hardware debemos indicar la memoria RAM de la maquina y
 CPU**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image4.png"
-style="width:5.55888in;height:3.08602in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado disco duro virtual debemos indicar, si queremos crear
 un disco duro virtual o no, la capacidad del mismo, usar uno ya
 existente..**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image5.png"
-style="width:5.90556in;height:3.35278in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **El apartado de Resumen es el último de configuración de la maquina
 antes de iniciarla y proceder a la instalación del sistema, y nos
 muestra un resumen de la configuración**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image6.png"
-style="width:5.90556in;height:3.28958in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Tras la configuración de la maquina se abrirá y empezará la
 instalación de Windows automáticamente**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image7.png"
-style="width:5.90556in;height:3.19514in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 ### **Manual:**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image8.png"
-style="width:5.46951in;height:2.42742in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Esto nos abrirá la ventana para crear una nueva máquina virtual, aquí
 debemos ponerle nombre a la máquina, especificar donde se van a
@@ -74,49 +74,49 @@ Installation”, lo que nos permitirá configurar cosas como las
 particiones durante la instalación.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image9.png"
-style="width:5.90556in;height:3.27222in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado Hardware debemos indicar la memoria RAM de la maquina y
 CPU**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image10.png"
-style="width:5.90556in;height:3.26042in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado disco duro virtual debemos indicar, si queremos crear
 un disco duro virtual o no, la capacidad del mismo, usar uno ya
 existente.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image11.png"
-style="width:5.90556in;height:3.27708in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **El apartado de Resumen es el último de configuración de la maquina
 antes de iniciarla y proceder a la instalación del sistema, y nos
 muestra un resumen de la configuración**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image12.png"
-style="width:5.90556in;height:3.26875in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Tras la configuración de la maquina hay que abril y seleccionar el
 idioma y formato de hora antes de iniciar la instalación**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image13.png"
-style="width:5.90556in;height:3.83333in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Le damos a Instalar ahora**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image14.png"
-style="width:5.90556in;height:3.83333in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el apartado de clave de producto seleccionamos “No tengo clave de
 producto” y aceptamos los términos**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image15.png"
-style="width:5.90556in;height:3.78125in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **En el tipo de instalación seleccionamos “Personalizada”**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image16.png"
-style="width:5.90556in;height:3.76389in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Para seleccionar un disco en el que instalar el sistema primero
 debemos darle formato, seleccionamos el disco que queremos, le damos a
@@ -127,33 +127,33 @@ inferior al tamaño total del disco original para crear dos unidades y
 posteriormente darle formato.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image17.png"
-style="width:5.90556in;height:3.75694in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image18.png"
-style="width:5.32366in;height:2.21906in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Tras la configuración manual comenzara la instalación del sistema.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image19.png"
-style="width:5.90556in;height:3.77361in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **después debemos seleccionar una contraseña para el usuario
 administrador.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image20.png"
-style="width:5.90556in;height:3.79097in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Después nos va a pedir cambiar la contraseña**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image21.png"
-style="width:5.90556in;height:3.78542in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **La primera vez que iniciemos el sistema nos saldrá un aviso que nos
 pregunta si queremos que nuestro PC pueda ser visto por el resto de
 equipos de la red, marcamos que si**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image22.png"
-style="width:2.31005in;height:2.83827in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Es posible que nos pida configurar Windows essentials, en dicho caso
 le damos a cancelar ya que algunas ISOs crashean durante la

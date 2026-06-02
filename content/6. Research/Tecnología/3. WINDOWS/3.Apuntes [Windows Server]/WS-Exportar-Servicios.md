@@ -18,16 +18,16 @@ tags:
 **Para Importar Windows Server 2012 mediante una OVA en VirtualBox, seleccionamos Archivo -\> Importar servicio virtualizado**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image1.png"
-style="width:3.83593in;height:1.96578in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Después seleccionar donde vamos a el archivo OVA y la ubicación**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image2.png"
-style="width:4.17816in;height:2.73221in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
 
 **Y por último configurar las preferencias de la maquina (Memoria RAM,
 almacenamiento, Nombre, CPU etc.…), tras configurar lo necesario
 seleccionamos terminar y listo.**
 
 <img src="/media-content/Apuntes/media-informatica/Media Windows/Media Windows Server/image3.png"
-style="width:4.87908in;height:3.18999in" />
+style="margin: 0 auto; padding: 0; width: 100%; height: auto;" />
