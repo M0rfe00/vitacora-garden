@@ -49,7 +49,7 @@ especifica todo el nombre completo del dominio
 
 <table>
 <colgroup>
-<col style="margin: 0 auto; padding: 0; width: 100%; height: auto;d>
+<col style="margin: 0 auto; padding: 0; width: 100%; height: auto;>
 <tr>
 <th colspan="2">Dominios de alto nivel de organización</th>
 </tr>
