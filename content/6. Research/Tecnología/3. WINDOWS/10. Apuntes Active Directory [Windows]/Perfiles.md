@@ -131,7 +131,7 @@ Esto lo haremos desde el menú contextual de la carpeta Propiedades -\>
 Seguridad -\> Opciones avanzadas -\> Propietario -\> botón Editar:
 
 <figure>
-<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image7.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;/>
+<img src="/media-content/Apuntes/media-informatica/Media Windows/Media Active Directory WIND/image7.png" style="margin: 0 auto; padding: 0; width: 100%; height: auto;"/>
 <figcaption><p>Cambiar el propietario de una carpeta</p></figcaption>
 </figure>
 
