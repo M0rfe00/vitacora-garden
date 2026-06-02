@@ -25,22 +25,30 @@ tags:
                 viene desglosado en apartados, cuenta con ejemplos y ejercicios.
             </p>
         </article>
-        <article class="post otros-post">
-            <a href="https://computerhoy.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Computerhoy</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/choy.jpg" class="img-post">
+         <article class="post programacion-post">
+            <a href="https://codember.dev/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Codember</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/codember(1).png" class="img-post">
         </a>
             <p class="info-post">
             </p>
             <p class="parrafo-post">
-                Revista de tecnología que cuenta con un canal de YouTube 
-                en el que encontrarás todos los análisis, unboxings, 
-                trucos y videotutoriales que publicamos a diario en 
-                nuestra web. Todo sobre tecnología, smartphones, tablets, 
-                ordenadores, Mac, Android, iOS, estilo de vida y wearables. 
-                Las mejores reviews para estar al día en el mundo tecnológico.
+                Plataforma que propone retos cuyas soluciones pueden
+                ser resueltas en diferentes legunjes de programacion
             </p>
-        </article>
+    </article>
+    <article class="post programacion-post">
+    <a href="https://retosdeprogramacion.com/ejercicios" class="enlace-post" target="_blank">
+        <h2 class="titulo-post">Retos programacion</h2>
+    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/retosmoure.jpg" class="img-post">
+    </a>
+        <p class="info-post">
+        </p>
+        <p class="parrafo-post">
+            Plataforma que propone retos cuyas soluciones pueden
+            ser resueltas en diferentes legunjes de programacion
+        </p>
+    </article>
         <article class="post seguridad-post">
             <a href="https://hackforums.net/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Hack Forums</h2>
@@ -52,50 +60,6 @@ tags:
                 Hack Forums es un foro de Internet similar a Reddit 
                 dedicado a debates relacionados con la cultura hacker 
                 y la seguridad informática.
-            </p>
-        </article>
-        <article class="post redes-post">
-            <a href="https://naseros.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Naseros</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/naseros.jpg" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Sitio web del canal de YouTube Naseros, en su sitio web 
-                podrás encontrar numerosos artículos relacionados con el 
-                mundo de la informática, principalmente sobre redes, Routers, 
-                Wi-Fi, NAS, discos y almacenamiento entre otras cosas.
-            </p>
-        </article>
-        <article class="post redes-post">
-            <a href="https://ccnadesdecero.es/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Ccna desde cero</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/ccna.jpg" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Ccnadesdecero es un sitio web que proporciona cursos gratuitos 
-                y de pago para prepararse las certificaciones cisco.
-            </p>
-        </article>
-        <article class="post otros-post">
-            <a href="https://wuolah.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Wuolah</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/wuolah.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Wuolah es una plataforma de apuntes en las que puedes 
-                subir tus propios apuntes recibiendo una pequeña cantidad
-                 por cada descarga y acceder a los apuntes subidos por otras 
-                 personas de forma gratuita. Mi recomendación es buscar 
-                 apuntes de SMR, DAW, DAM, ASIR e Ingeniería informática, 
-                 de esta forma podréis acceder a apuntes, ejercicios, 
-                 exámenes, preguntas frecuentes, etc. Lo que la hace una 
-                 plataforma ideal para obtener conocimiento de forma gratuita.
             </p>
         </article>
         <article class="post seguridad-post">
@@ -153,6 +117,50 @@ tags:
                 conocimiento de sistemas Linux y redes
             </p>
         </article>
+        <article class="post redes-post">
+            <a href="https://naseros.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Naseros</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/naseros.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Sitio web del canal de YouTube Naseros, en su sitio web 
+                podrás encontrar numerosos artículos relacionados con el 
+                mundo de la informática, principalmente sobre redes, Routers, 
+                Wi-Fi, NAS, discos y almacenamiento entre otras cosas.
+            </p>
+        </article>
+        <article class="post redes-post">
+            <a href="https://ccnadesdecero.es/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Ccna desde cero</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/ccna.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Ccnadesdecero es un sitio web que proporciona cursos gratuitos 
+                y de pago para prepararse las certificaciones cisco.
+            </p>
+        </article>
+        <article class="post otros-post">
+            <a href="https://wuolah.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Wuolah</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/wuolah.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Wuolah es una plataforma de apuntes en las que puedes 
+                subir tus propios apuntes recibiendo una pequeña cantidad
+                 por cada descarga y acceder a los apuntes subidos por otras 
+                 personas de forma gratuita. Mi recomendación es buscar 
+                 apuntes de SMR, DAW, DAM, ASIR e Ingeniería informática, 
+                 de esta forma podréis acceder a apuntes, ejercicios, 
+                 exámenes, preguntas frecuentes, etc. Lo que la hace una 
+                 plataforma ideal para obtener conocimiento de forma gratuita.
+            </p>
+        </article>
         <article class="post programacion-post">
             <a href="https://typings.gg/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Typings (navegador)</b></h2>
@@ -164,6 +172,22 @@ tags:
                 posible sin equivocarnos, podemos seleccionar el número de 
                 palabras para elegir la dificultad, además nos mostrara el 
                 numero de palabras por minuto y errores que hemos tenido
+            </p>
+        </article>
+        <article class="post otros-post">
+            <a href="https://computerhoy.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Computerhoy</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/choy.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Revista de tecnología que cuenta con un canal de YouTube 
+                en el que encontrarás todos los análisis, unboxings, 
+                trucos y videotutoriales que publicamos a diario en 
+                nuestra web. Todo sobre tecnología, smartphones, tablets, 
+                ordenadores, Mac, Android, iOS, estilo de vida y wearables. 
+                Las mejores reviews para estar al día en el mundo tecnológico.
             </p>
         </article>
         <article class="post otros-post">
@@ -187,18 +211,6 @@ tags:
                 en busca de posibles coincidencias con malwere registrado.    
             </p>
         </article>
-        <article class="post programacion-post">
-            <a href="https://codember.dev/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Codember</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/codember(1).png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Plataforma que propone retos cuyas soluciones pueden
-                ser resueltas en diferentes legunjes de programacion
-            </p>
-    </article>
     <article class="post otros-post">
         <a href="https://pixlr.com/es/suite/" class="enlace-post" target="_blank">
             <h2 class="titulo-post">Pixlr</h2>
@@ -211,18 +223,7 @@ tags:
         </p>
 </article>
 <!--   separación  -->
-<article class="post programacion-post">
-    <a href="https://retosdeprogramacion.com/ejercicios" class="enlace-post" target="_blank">
-        <h2 class="titulo-post">Retos programacion</h2>
-    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/retosmoure.jpg" class="img-post">
-</a>
-    <p class="info-post">
-    </p>
-    <p class="parrafo-post">
-        Plataforma que propone retos cuyas soluciones pueden
-        ser resueltas en diferentes legunjes de programacion
-    </p>
-</article>
+
   <!--   separación  -->
 </div>
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->

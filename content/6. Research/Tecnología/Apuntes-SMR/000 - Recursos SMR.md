@@ -10,6 +10,12 @@ tags:
     <div class="container">
         <div class="grid-smr">
             <div class="item">
+                <a href="/6.-Research/Tecnología/Apuntes-SMR">
+                    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/3534049.png" alt="Imagen 4">
+                    <h3>Apuntes</h3>
+                </a>
+            </div>
+            <div class="item">
                 <a href="/6.-Research/Tecnología/Apuntes-SMR/Paginas Web">
                     <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/webicon.png" alt="Imagen 1">
                     <h3>Paginas Web</h3>
@@ -25,12 +31,6 @@ tags:
                 <a href="/6.-Research/Tecnología/Apuntes-SMR/Juegos">
                     <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/gameicon.png" alt="Imagen 4">
                     <h3>Videojuegos</h3>
-                </a>
-            </div>
-                        <div class="item">
-                <a href="/6.-Research/Tecnología/Apuntes-SMR">
-                    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/gameicon.png" alt="Imagen 4">
-                    <h3>Apuntes</h3>
                 </a>
             </div>
     </div>

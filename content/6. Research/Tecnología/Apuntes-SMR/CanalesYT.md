@@ -8,6 +8,98 @@ tags:
 <link rel="stylesheet" href="styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
+    <article class="post seguridad-post">
+            <a href="https://www.youtube.com/@s4vitar" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>S4vitar</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/s4vi.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal de Marcelo Vázquez, actual streamer con experiencia trabajando 
+                como pentester en empresas de ciberseguridad como Eleven Paths, 
+                OneCyber y EnigmaSec. En su canal trata temas sobre ciberseguridad y 
+                hacking ético. Cuenta con su propia academia en la que tiene cursos de 
+                Introducción a Linux e introducción al Hacking entro otros.
+            </p>
+        </article>
+         <article class="post seguridad-post">
+            <a href="https://www.youtube.com/@ContandoBits" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Contando bits</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/contbits.jpeg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal de Kike Gandía, ingeniero en ciberseguridad, 
+                en el cual trata temas relacionados con la ciberseguridad 
+                como Hacking ético y pentesting con Kali Linux entre otros temas.
+            </p>
+        </article>
+        <article class="post seguridad-post">
+            <a href="https://www.youtube.com/@ElPinguinoDeMario" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>El pingüino de Mario</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/pingmari2.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal sobre hacking ético y ciberseguridad en Linux, el cual enseña a 
+                utilizar las principales herramientas dentro del mundo del 
+                hacking ético desde entornos Kali Linux o Parrot OS
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.youtube.com/@AntonioSarosi" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Antonio Sarosi</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/antsrsi.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal de Antonio Sarosi, un ingeniero informático el cual forma parte de la 
+                plantilla de profesores de la academia de Nate Gentile, en su canal trata 
+                temas principalmente sobre programación, aunque puedes encontrar 
+                algún que otro video sobre sistemas y redes
+            </p>
+        </article>
+        <article class="post seguridad-post">
+            <a href="https://www.youtube.com/@borjagalisteo" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">BorjaGalisteo</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/borjgalit.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal de divulgación sobre ciberseguridad en el cual puedes 
+                encontrar videos sobre conceptos, técnicas temas relacionados 
+                con la seguridad informática.
+            </p>
+        </article>
+        <article class="post sistemas-post">
+            <a href="https://www.youtube.com/@PeladoNerd" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Pelado Nerd</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/peladonerd.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal sobre tecnologías como Docker, Kubernetes y Linux 
+                entre otras en el cual, además puedes encontrar videos 
+                sobre redes, sistemas, Bash entre otras tecnologías.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.youtube.com/@devopsea" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>DevOpsea</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/devops.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal especializado en la cultura DevOps, en el cual puedes encontrar contenido 
+                para estar actualizado en cuanto a DevOps y las últimas tecnologías integradas, 
+                el canal trata temas como Kubernetes, Docker, Git y Github, Python, 
+                Shell scripting en Bash, etc.
+            </p>
+        </article>
+        <article class="post seguridad-post">
+            <a href="https://www.youtube.com/@MalignoAlonso" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Jose Maria Alonso</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/chalns.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal que recoge videos, conferencias, entrevistas y documentales 
+                además de algunos videos utilizados en el blog de chema alonso 
+                el conocido informático español.
+            </p>
+        </article>
         <article class="post redes-post">
             <a href="https://www.youtube.com/@AcademiaRedesIP" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Academia de redes IP</h2>
@@ -53,19 +145,6 @@ tags:
                 sobre ciberseguridad, ofimática, sistemas, redes, hardware, etc.
             </p>
         </article>
-        <article class="post seguridad-post">
-            <a href="https://www.youtube.com/@s4vitar" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>S4vitar</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/s4vi.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal de Marcelo Vázquez, actual streamer con experiencia trabajando 
-                como pentester en empresas de ciberseguridad como Eleven Paths, 
-                OneCyber y EnigmaSec. En su canal trata temas sobre ciberseguridad y 
-                hacking ético. Cuenta con su propia academia en la que tiene cursos de 
-                Introducción a Linux e introducción al Hacking entro otros.
-            </p>
-        </article>
         <article class="post programacion-post">
             <a href="https://www.youtube.com/@FaztCode" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Fatz Code</b></h2>
@@ -78,6 +157,24 @@ tags:
                 Flutter, React, React Native, Expressjs, 
                 Mongodb, MySQL, PostgreSQL, GraphQL, REST API, y muchas más.
                 Recomiendo mucho echar un vistazo a sus cursos
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="https://www.youtube.com/@mouredev" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">MoureDev by Brais</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/mouredev.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+            Programación
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.youtube.com/@midulive" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Midudev</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/midudevjpg.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+            Programación
             </p>
         </article>
         <article class="post otros-post">
@@ -136,52 +233,6 @@ tags:
                 aquellos interesados en el mundo de la IA
             </p>
         </article>
-        <article class="post programacion-post">
-            <a href="https://www.youtube.com/@devopsea" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>DevOpsea</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/devops.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal especializado en la cultura DevOps, en el cual puedes encontrar contenido 
-                para estar actualizado en cuanto a DevOps y las últimas tecnologías integradas, 
-                el canal trata temas como Kubernetes, Docker, Git y Github, Python, 
-                Shell scripting en Bash, etc.
-            </p>
-        </article>
-        <article class="post seguridad-post">
-            <a href="https://www.youtube.com/@ContandoBits" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Contando bits</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/contbits.jpeg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal de Kike Gandía, ingeniero en ciberseguridad, 
-                en el cual trata temas relacionados con la ciberseguridad 
-                como Hacking ético y pentesting con Kali Linux entre otros temas.
-            </p>
-        </article>
-        <article class="post seguridad-post">
-            <a href="https://www.youtube.com/@ElPinguinoDeMario" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>El pingüino de Mario</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/pingmari2.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal sobre hacking ético y ciberseguridad en Linux, el cual enseña a 
-                utilizar las principales herramientas dentro del mundo del 
-                hacking ético desde entornos Kali Linux o Parrot OS
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.youtube.com/@AntonioSarosi" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Antonio Sarosi</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/antsrsi.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal de Antonio Sarosi, un ingeniero informático el cual forma parte de la 
-                plantilla de profesores de la academia de Nate Gentile, en su canal trata 
-                temas principalmente sobre programación, aunque puedes encontrar 
-                algún que otro video sobre sistemas y redes
-            </p>
-        </article>
         <article class="post hardware-post">
             <a href="https://www.youtube.com/@TechnoReviewsPlay" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>TechnoReviews</b></h2>
@@ -204,28 +255,6 @@ tags:
                 el cual puedes encontrar múltiples videos y cursos gratuitos.
             </p>
         </article>
-        <article class="post seguridad-post">
-            <a href="https://www.youtube.com/@borjagalisteo" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">BorjaGalisteo</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/borjgalit.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal de divulgación sobre ciberseguridad en el cual puedes 
-                encontrar videos sobre conceptos, técnicas temas relacionados 
-                con la seguridad informática.
-            </p>
-        </article>
-        <article class="post sistemas-post">
-            <a href="https://www.youtube.com/@PeladoNerd" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Pelado Nerd</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/peladonerd.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal sobre tecnologías como Docker, Kubernetes y Linux 
-                entre otras en el cual, además puedes encontrar videos 
-                sobre redes, sistemas, Bash entre otras tecnologías.
-            </p>
-        </article>
         <article class="post programacion-post">
             <a href="https://www.youtube.com/@HolaMundoDev" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Hola mundo</h2>
@@ -235,17 +264,6 @@ tags:
                 Canal principalmente enfocado al ámbito de la programación en el cual 
                 puedes encontrar videos relacionados como cursos, Tips, 
                 vlogs y contenido sobre el mundo de la programación.
-            </p>
-        </article>
-        <article class="post seguridad-post">
-            <a href="https://www.youtube.com/@MalignoAlonso" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Jose Maria Alonso</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/chalns.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal que recoge videos, conferencias, entrevistas y documentales 
-                además de algunos videos utilizados en el blog de chema alonso 
-                el conocido informático español.
             </p>
         </article>
         <article class="post otros-post">
@@ -265,6 +283,7 @@ tags:
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/guinxu.jpg" class="img-post">
         </a>
             <p class="parrafo-post">
+            Desarrollo de videojuegos
             </p>
         </article>
         <article class="post videojuegos-post">
@@ -273,6 +292,7 @@ tags:
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/lyyvd.jpg" class="img-post">
         </a>
             <p class="parrafo-post">
+            Desarrollo de videojuegos
             </p>
         </article>
         <article class="post videojuegos-post">
@@ -281,22 +301,7 @@ tags:
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/lyyvd.jpg" class="img-post">
         </a>
             <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.youtube.com/@mouredev" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">MoureDev by Brais</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/mouredev.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.youtube.com/@midulive" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Midudev</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/midudevjpg.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
+            Desarrollo de videojuegos
             </p>
         </article>
             <article class="post otros-post">
