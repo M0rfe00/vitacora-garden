@@ -1,3 +1,7 @@
+---
+tags:
+  - Lore
+---
 # El arte de amar – Erich Fromm(caída de la naturaleza)
 ___
 Lo esencial en la existencia del hombre es el hecho de que ha emergido del reino

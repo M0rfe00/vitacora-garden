@@ -7,35 +7,54 @@ tags:
 # CURSOS HACKING
 ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=muMottcAm2MmooX2&amp;list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V&si=Npc80vZIlW-K3qSp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=78DT0iR4reVSnIf-&amp;list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u&si=boQQ4pieg4bmKKSZ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RFuW65bytxdr_RTr&amp;list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi&si=V0nVJhJ_wSllVVe8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxghML8aprSl8nGi&amp;list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5&si=3u9f66pPQSeNIbxE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=q90q5g7JOTSW23tD&amp;list=PLHjuPxrwcdsZuMRWmZa-BAbT-QZCOmir2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## TRY HACK ME
 ___
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=dluz0G0ZCOwgBiM3&amp;list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz&si=EJn6ZteKWP37ArsC
 
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=KDXwCMI4tDJPOnPA&amp;list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk&si=rTK69B-cQmlnp6nd
 
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=349NGzQPOHrHXTQ9&amp;list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9&si=dLD_cLlTLyyY2kAg
 
 ## HACK THE BOX
 ___
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=w8gtbeS8XwYaGGcW&amp;list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p&si=suA0quYF7-IOlcfd
 
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=1CdZJQLV-nLvPNqd&amp;list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt&si=5oj5hc57OzO_bHT5
 
 <iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=x7JsZ_L52W4d3uxJ&amp;list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b&si=gqEZ9o4DQsgK5XbZ
 
+
+# LINUX
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh&si=5QqyZNdiTQUvWmHO
+
+# CMD
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM&si=bVYKAZtBuaikAfVQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni&si=xvLxr6-n90HnZGlX
 
 # CURSOS CYBERSEGURIDAD - MASTERMING
 ___
@@ -162,15 +181,7 @@ ___
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
 
-# LINUX
-___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# CMD
-___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # CURSOS REDES
@@ -262,9 +273,10 @@ ___
 # CURSOS SISTEMAS
 ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qmSwQP660X4tkbB_&amp;list=PLTd5ehIj0goPCodyeh2ThX37Ceh-2torY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU&si=_Krm0ZPM1yaLVDxp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZ4nG3szRQi_NtP0&amp;list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Playlis: https://youtube.com/playlist?list=PLTd5ehIj0goPCodyeh2ThX37Ceh-2torY&si=T0pwatHsVLm7uG2o
 
 
 ___

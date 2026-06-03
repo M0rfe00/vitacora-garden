@@ -1,3 +1,7 @@
+---
+tags:
+  - Lore
+---
 # Disciplinas
 ___
 #### **1. Simpatía:** 

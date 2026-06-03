@@ -1,3 +1,7 @@
+---
+tags:
+  - Lore
+---
 # Trinidad del ser
 ___
 A diferencia de las creencias platónicas, la biblia sostiene que el hombre no es una dualidad parte material y otra inmaterial, sino una trinidad compuesta por espíritu, alma y cuerpo.

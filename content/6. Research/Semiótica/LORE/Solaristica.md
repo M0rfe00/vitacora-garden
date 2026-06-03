@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Lore
+---
 "Solarística" en el contexto de la novela "Solaris" de Stanisław Lem, se refiere a la ciencia o disciplina hipotética que se dedica al estudio y la interpretación del planeta Solaris y su enigmático océano. Es un campo que surge a partir de la imposibilidad de comprender completamente la naturaleza y comportamiento de Solaris, convirtiéndose en un intento constante de descifrar sus misterios y comunicarse con él.
 
 En la novela, la "solarística" se describe como una disciplina que ha evolucionado desde la exploración inicial de Solaris hasta un estudio más profundo y, a menudo, frustrante de sus fenómenos. Los científicos en la estación espacial que orbita Solaris se dedican a la "solarística", intentando comprender la inteligencia del planeta y la extraña aparición de "visitantes" hechos a imagen de los recuerdos de la tripulación.

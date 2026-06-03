@@ -1,3 +1,7 @@
+---
+tags:
+  - Lore
+---
 Muy sintetizadamente la teoría sostiene que no somos capaces de percibir la
 realidad tal como es, si no, que lo que confundimos con realidad, no es más que una
 realidad perceptual, es decir, lo que consideramos realidad, es la percepción
