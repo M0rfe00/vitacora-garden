@@ -4,19 +4,14 @@ tags:
   - hideInExplorer
 ---
 
-# CURSOS CYBERSEGURIDAD
+# CURSOS HACKING
 ___
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=muMottcAm2MmooX2&amp;list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=78DT0iR4reVSnIf-&amp;list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RFuW65bytxdr_RTr&amp;list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dluz0G0ZCOwgBiM3&amp;list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=KDXwCMI4tDJPOnPA&amp;list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -24,20 +19,26 @@ ___
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=q90q5g7JOTSW23tD&amp;list=PLHjuPxrwcdsZuMRWmZa-BAbT-QZCOmir2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## TRY HACK ME
+___
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=dluz0G0ZCOwgBiM3&amp;list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=KDXwCMI4tDJPOnPA&amp;list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=349NGzQPOHrHXTQ9&amp;list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## HACK THE BOX
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=w8gtbeS8XwYaGGcW&amp;list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=w8gtbeS8XwYaGGcW&amp;list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=1CdZJQLV-nLvPNqd&amp;list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=1CdZJQLV-nLvPNqd&amp;list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=x7JsZ_L52W4d3uxJ&amp;list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=x7JsZ_L52W4d3uxJ&amp;list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## TRY HACK ME
+
+# CURSOS CYBERSEGURIDAD - MASTERMING
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=349NGzQPOHrHXTQ9&amp;list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
         <article class="post programacion-post">
@@ -98,7 +99,8 @@ ___
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
-
+# CURSOS CYBERSEGURIDAD - HACK4U
+___
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
         <article class="post programacion-post">
@@ -159,132 +161,6 @@ ___
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
-
-
-
-
-
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://www.compuhoy.com/que-es-bashrc-en-linux/">
-                <h2 class="titulo-post">Bashrc en Linux - Computerhoy</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                ¿Qué es Bashrc en Linux? 
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://respontodo.com/que-es-zsh-y-por-que-deberia-usarlo-en-lugar-de-bash/">
-                <h2 class="titulo-post">ZSH - respondotodo</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                ¿Qué es ZSH y por qué debería usarlo en lugar de Bash?
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.hostinger.com/es/tutoriales/como-usar-comando-find-locate-en-linux">
-                <h2 class="titulo-post">Find y locate en Linux</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.hostinger.com/es/tutoriales/bash-script-linux">
-                <h2 class="titulo-post">Bash Script</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            Bash Script: qué es, cómo escribir uno y ejemplos
-            <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.hostinger.com/tutorials/linux-commands">
-                <h2 class="titulo-post">Top 60 Linux commands</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://sw.kovidgoyal.net/kitty/overview/">
-                <h2 class="titulo-post">kitty</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://sw.kovidgoyal.net/kitty/overview/">
-                <h2 class="titulo-post">kitty</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.freecodecamp.org/espanol/news/como-usar-vim-tutorial-para-principiantes/">
-                <h2 class="titulo-post">Vim: Tutorial</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            Cómo usar Vim: Tutorial para principiantes
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/comando-linux-find/">
-                <h2 class="titulo-post">Find Linux</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            Linux find comando
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://victorhckinthefreeworld.com/2021/10/21/el-comando-uniq-de-gnu/">
-                <h2 class="titulo-post">uniq de GNU</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            El comando uniq de #GNU
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://geekland.eu/uso-del-comando-tr-en-linux-y-unix-con-ejemplos/">
-                <h2 class="titulo-post">tr en Linux</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-            Uso del comando tr en Linux y UNIX con ejemplos
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
 
 
 # CURSOS REDES
@@ -419,40 +295,138 @@ ___
 
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://pypi.org/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Python Package Index</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Índice de paquetes de Python (PyPI) es un repositorio de software para el lenguaje de programación Python.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://pypi.org/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">CSS ZEN Garden</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://codepen.io/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Codepen io</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
-            </p>
-        </article>
+
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
 
+
+
+
+
+___
+<!--
+# RECURSOS HACK4U
+___
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://www.compuhoy.com/que-es-bashrc-en-linux/">
+                <h2 class="titulo-post">Bashrc en Linux - Computerhoy</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                ¿Qué es Bashrc en Linux? 
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://respontodo.com/que-es-zsh-y-por-que-deberia-usarlo-en-lugar-de-bash/">
+                <h2 class="titulo-post">ZSH - respondotodo</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                ¿Qué es ZSH y por qué debería usarlo en lugar de Bash?
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.hostinger.com/es/tutoriales/como-usar-comando-find-locate-en-linux">
+                <h2 class="titulo-post">Find y locate en Linux</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.hostinger.com/es/tutoriales/bash-script-linux">
+                <h2 class="titulo-post">Bash Script</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            Bash Script: qué es, cómo escribir uno y ejemplos
+            <p class="parrafo-post">
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.hostinger.com/tutorials/linux-commands">
+                <h2 class="titulo-post">Top 60 Linux commands</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://sw.kovidgoyal.net/kitty/overview/">
+                <h2 class="titulo-post">kitty</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://sw.kovidgoyal.net/kitty/overview/">
+                <h2 class="titulo-post">kitty</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.freecodecamp.org/espanol/news/como-usar-vim-tutorial-para-principiantes/">
+                <h2 class="titulo-post">Vim: Tutorial</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            Cómo usar Vim: Tutorial para principiantes
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/comando-linux-find/">
+                <h2 class="titulo-post">Find Linux</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            Linux find comando
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://victorhckinthefreeworld.com/2021/10/21/el-comando-uniq-de-gnu/">
+                <h2 class="titulo-post">uniq de GNU</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            El comando uniq de #GNU
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://geekland.eu/uso-del-comando-tr-en-linux-y-unix-con-ejemplos/">
+                <h2 class="titulo-post">tr en Linux</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+            Uso del comando tr en Linux y UNIX con ejemplos
+            </p>
+        </article>
+    </section>
+<!--</section>-->
+-->

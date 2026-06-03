@@ -10,46 +10,7 @@ tags:
     <section id="publicaciones"> <!--secion de los post-->
 <!-----------Aqui voy a probar a hacer el filtro de busqueda-------------->
 <!----------------Aqui acaba el codigo del filtro------------------->
-        <article class="post programacion-post">
-            <a href="https://www.w3schools.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">W3c School</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/w3c.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                W3School es un sitio web para aprender tecnologías web en línea, 
-                contiene tutoriales de HTML, Python, CSS, JavaScript, SQL, 
-                PHP, XML y otras tecnologías. Muy útil para todos aquellos 
-                que quieran aprender lenguajes de programación. el contenido 
-                viene desglosado en apartados, cuenta con ejemplos y ejercicios.
-            </p>
-        </article>
-         <article class="post programacion-post">
-            <a href="https://codember.dev/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Codember</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/codember(1).png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Plataforma que propone retos cuyas soluciones pueden
-                ser resueltas en diferentes legunjes de programacion
-            </p>
-    </article>
-    <article class="post programacion-post">
-    <a href="https://retosdeprogramacion.com/ejercicios" class="enlace-post" target="_blank">
-        <h2 class="titulo-post">Retos programacion</h2>
-    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/retosmoure.jpg" class="img-post">
-    </a>
-        <p class="info-post">
-        </p>
-        <p class="parrafo-post">
-            Plataforma que propone retos cuyas soluciones pueden
-            ser resueltas en diferentes legunjes de programacion
-        </p>
-    </article>
-        <article class="post seguridad-post">
+                <article class="post seguridad-post">
             <a href="https://hackforums.net/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Hack Forums</h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/hforum.jpg" class="img-post">
@@ -137,6 +98,78 @@ tags:
             </p>
             <p class="parrafo-post">
                 This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks. The best way to learn things is by doing, so you'll get a chance to do some real penetration testing, actually exploiting a real application.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.w3schools.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">W3c School</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/w3c.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                W3School es un sitio web para aprender tecnologías web en línea, 
+                contiene tutoriales de HTML, Python, CSS, JavaScript, SQL, 
+                PHP, XML y otras tecnologías. Muy útil para todos aquellos 
+                que quieran aprender lenguajes de programación. el contenido 
+                viene desglosado en apartados, cuenta con ejemplos y ejercicios.
+            </p>
+        </article>
+         <article class="post programacion-post">
+            <a href="https://codember.dev/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Codember</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/codember(1).png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Plataforma que propone retos cuyas soluciones pueden
+                ser resueltas en diferentes legunjes de programacion
+            </p>
+    </article>
+    <article class="post programacion-post">
+    <a href="https://retosdeprogramacion.com/ejercicios" class="enlace-post" target="_blank">
+        <h2 class="titulo-post">Retos programacion</h2>
+    <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/retosmoure.jpg" class="img-post">
+    </a>
+        <p class="info-post">
+        </p>
+        <p class="parrafo-post">
+            Plataforma que propone retos cuyas soluciones pueden
+            ser resueltas en diferentes legunjes de programacion
+        </p>
+    </article>
+        <article class="post programacion-post">
+            <a href="https://pypi.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">CSS ZEN Garden</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
+            </p>
+        </article>
+            <article class="post programacion-post">
+            <a href="https://pypi.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Python Package Index</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Índice de paquetes de Python (PyPI) es un repositorio de software para el lenguaje de programación Python.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://codepen.io/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Codepen io</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
             </p>
         </article>
         <article class="post redes-post">
