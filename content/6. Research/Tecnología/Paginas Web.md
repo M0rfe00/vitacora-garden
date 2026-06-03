@@ -255,6 +255,17 @@ tags:
                 mokups de paginas web, modelos entidad relacion...
             </p>
         </article>
+        <article class="post programacion-post">
+            <a href="https://app.diagrams.net/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Diagrams.Net</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Pagina onlina para crear diagramas de bases de datos
+            </p>
+        </article>
         <article class="post seguridad-post">
             <a href="https://www.virustotal.com/gui/home/upload" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Virus total</b></h2>

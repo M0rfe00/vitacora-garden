@@ -48,3 +48,23 @@ ___
 - Todos los equipos que tengan instalado el SO Ubuntu o cualquiera de las distribuciones de Linux disponen de herramientas, ya sean modo texto o gráficas, que permiten controlar y monitorizar la situación en la que se encuentra este. Con ello, se pretende aprovechar al máximo los recursos hardware del equipo y prevenir problemas que puedan suceder debido a la sobrecarga del mismo.
 
 - Los recursos hardware que se deben monitorizar son el procesador, la memoria RAM y la memoria virtual, el disco duro y las interfaces de red. Un mal uso de alguno de estos componentes puede hacer que el sistema tenga un mal funcionamiento y el ser- vicio que está dando el equipo se vea comprometido. Una tarea previa a la monitorización de los recursos es el conocimiento del hardware con el que el equipo ha sido configurado. Para lo cual, también se dispone de herramientas con las que obtener esa información de manera precisa.
+
+
+
+
+
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/ubuntu-server/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Instalación Ubuntu IONOS</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Curso online de SQL
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->

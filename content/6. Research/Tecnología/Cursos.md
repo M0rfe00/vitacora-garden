@@ -162,6 +162,16 @@ ___
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
 
+# LINUX
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# CMD
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # CURSOS REDES
 ___
@@ -217,11 +227,7 @@ ___
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Mrr6_OPE7xa8lCLO&amp;list=PLG1hKOHdoXkvFy_6g4_zf7mgq4kEu8V9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=otIG_GciQyhl0w4u&amp;list=PLEmsMMOSNtyqGsnjxx-YkPWo1xqu7YyXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=oZCEwF-YIkIpZUDl&amp;list=PLnB2gEd2oMZaqYiNmioryiYDINhs9aZc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hSWK4YALZfHSCOzK&amp;list=PLThkZy_SrhoUyN24kzmjo01a03vYqKXdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # CURSOS BASES DE DATOS
 ___
@@ -239,17 +245,6 @@ ___
             </p>
         </article>
         <article class="post programacion-post">
-            <a href="https://app.diagrams.net/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Diagrams.Net</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Pagina onlina para crear diagramas de bases de datos
-            </p>
-        </article>
-                <article class="post programacion-post">
             <a href="https://bookdown.org/paranedagarcia/database/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Introducción bases de datos</h2>
             <img src="N/A" class="img-post">
@@ -266,50 +261,26 @@ ___
 
 # CURSOS SISTEMAS
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qmSwQP660X4tkbB_&amp;list=PLTd5ehIj0goPCodyeh2ThX37Ceh-2torY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZ4nG3szRQi_NtP0&amp;list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/ubuntu-server/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Instalación Ubuntu IONOS</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Curso online de SQL
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
-
 
 
 
 ___
 <!--
+# REDES
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=otIG_GciQyhl0w4u&amp;list=PLEmsMMOSNtyqGsnjxx-YkPWo1xqu7YyXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=oZCEwF-YIkIpZUDl&amp;list=PLnB2gEd2oMZaqYiNmioryiYDINhs9aZc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hSWK4YALZfHSCOzK&amp;list=PLThkZy_SrhoUyN24kzmjo01a03vYqKXdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
+
+___
+<!--
 # RECURSOS HACK4U
 ___
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
         <article class="post programacion-post">
             <a href="https://www.compuhoy.com/que-es-bashrc-en-linux/">
                 <h2 class="titulo-post">Bashrc en Linux - Computerhoy</h2>
@@ -427,6 +398,4 @@ ___
             Uso del comando tr en Linux y UNIX con ejemplos
             </p>
         </article>
-    </section>
-<!--</section>-->
 -->
