@@ -1,4 +1,9 @@
-# Techpacker
+---
+tags:
+    - Fashion
+---
+
+ Techpacker
 ___
 Este software para paquetes técnicos ofrece un sistema visual basado en fichas para crear paquetes técnicos. En lugar de utilizar diseños de documentos estándar, cada componente —como bocetos, materiales y medidas— se almacena en forma de «ficha» modular.
 

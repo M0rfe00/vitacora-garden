@@ -1,6 +1,6 @@
 ---
 tags:
-  - Moda
+  - Fashion
 ---
 # **Hoarding:** **la importancia de no acaparar** **- Ché Abjeli**
 ___

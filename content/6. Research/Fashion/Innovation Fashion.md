@@ -1,6 +1,6 @@
 ---
 tags:
-  - Moda
+  - Fashion
 ---
 # **Fashion week de parís ss25 – Che abjeli & Orson**
 ___ 

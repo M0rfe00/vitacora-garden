@@ -1,3 +1,8 @@
+---
+tags:
+  - Makeup
+---
+
 La documentación del makeup debe incluir:
 - **Moodboard:** Referencias visuales del look buscado
 - **Product & Equipment List**: Lista de productos necesarios para el pelo y maquillaje.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Makeup
+---
+
 >[!Info] MAKEUP RESOURCES
 >[itsdefined](https://itsdefined.com/glossary-cat/makeup/) - Glosary
 >[EdhaCometics](https://edhacosmetics.es/diccionario-make-up/?utm_source=chatgpt.com) - Glosary

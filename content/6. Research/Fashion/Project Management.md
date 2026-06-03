@@ -1,3 +1,8 @@
+---
+tags:
+    - Fashion
+---
+
 # How Project Management in Fashion Works 
 ___
 En el vertiginoso mundo de la moda, la creatividad por sí sola no basta. Detrás de cada colección de éxito hay un proceso cuidadosamente orquestado que garantiza que los diseños pasen sin contratiempos del concepto al consumidor. El proceso de producción de moda es la columna vertebral de tu marca de ropa. Ahí es donde entra en juego la gestión de proyectos en el sector de la moda. Esta tiende un puente entre tu visión creativa y las realidades de la producción.

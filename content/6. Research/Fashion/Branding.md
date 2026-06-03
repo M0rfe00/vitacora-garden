@@ -1,6 +1,6 @@
 ---
 tags:
-  - Moda
+  - Fashion
   - Branding
 ---
 # **Grupos de marcas**

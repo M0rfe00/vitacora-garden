@@ -1,3 +1,9 @@
+---
+tags:
+  - Informática
+  - Wind-Server
+---
+
 # Herramientas administrativas en Windows Server
 ___
 ## Administración de equipos:
