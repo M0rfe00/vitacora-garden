@@ -4,188 +4,6 @@ tags:
   - hideInExplorer
 ---
 
-# CURSOS REDES
-___
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Conversor Unidades</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Util para realizar operaciones de binario a decimal y de bytes a otras unidades.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://juannava64.wordpress.com/wp-content/uploads/2012/02/redes-comandos-switch-y-router-cisco-v2-3.pdf" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Comandos Packet Tracer</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                PDF online con comandos utiles para configurar switches y routers en Cisco Packet tracer.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://gist.github.com/GusGA/51e17fc59e701fcf0cb1c3a9cd92eabc" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Configuración equipos en packet tracer</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Guía de configuración de equipos en packet tracer
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://ccnadesdecero.es/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">CCNA Desde Cero</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Plataforma para preparar las certificaciones CCNA de cisco.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://elportafoliodelasredes.wordpress.com/2015/07/29/comandos-basicos-para-trabajar-con-packet-tracer/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Comandos packet tracer</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Comandos básicos para trabajar con Packet Tracer.
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Mrr6_OPE7xa8lCLO&amp;list=PLG1hKOHdoXkvFy_6g4_zf7mgq4kEu8V9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=otIG_GciQyhl0w4u&amp;list=PLEmsMMOSNtyqGsnjxx-YkPWo1xqu7YyXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=oZCEwF-YIkIpZUDl&amp;list=PLnB2gEd2oMZaqYiNmioryiYDINhs9aZc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hSWK4YALZfHSCOzK&amp;list=PLThkZy_SrhoUyN24kzmjo01a03vYqKXdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-# CURSOS BASES DE DATOS
-___
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://sqlmastery.net/curso-sql-completo" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">SQL MASTERY</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/w3c.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Curso online de SQL
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://app.diagrams.net/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Diagrams.Net</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Pagina onlina para crear diagramas de bases de datos
-            </p>
-        </article>
-                <article class="post programacion-post">
-            <a href="https://bookdown.org/paranedagarcia/database/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Introducción bases de datos</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Curso de bases de datos hecho por Patricio Araneda García
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
-# CURSOS SISTEMAS
-___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qmSwQP660X4tkbB_&amp;list=PLTd5ehIj0goPCodyeh2ThX37Ceh-2torY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZ4nG3szRQi_NtP0&amp;list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/ubuntu-server/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Instalación Ubuntu IONOS</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Curso online de SQL
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://pypi.org/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Python Package Index</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Índice de paquetes de Python (PyPI) es un repositorio de software para el lenguaje de programación Python.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://pypi.org/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">CSS ZEN Garden</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://codepen.io/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Codepen io</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
 # CURSOS CYBERSEGURIDAD
 ___
 <section id="principal"> <!--Secion general, post y sidebar-->
@@ -310,21 +128,6 @@ ___
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
 
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://google-gruyere.appspot.com/">
-                <h2 class="titulo-post">Gruyere Codelab</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks. The best way to learn things is by doing, so you'll get a chance to do some real penetration testing, actually exploiting a real application.
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=q90q5g7JOTSW23tD&amp;list=PLHjuPxrwcdsZuMRWmZa-BAbT-QZCOmir2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -470,3 +273,174 @@ ___
         </article>
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
 </section> <!--Esta etiqueta cierra la seccion del main-->
+
+
+# CURSOS REDES
+___
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://juannava64.wordpress.com/wp-content/uploads/2012/02/redes-comandos-switch-y-router-cisco-v2-3.pdf" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Comandos Packet Tracer</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                PDF online con comandos utiles para configurar switches y routers en Cisco Packet tracer.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://gist.github.com/GusGA/51e17fc59e701fcf0cb1c3a9cd92eabc" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Configuración equipos en packet tracer</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Guía de configuración de equipos en packet tracer
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://ccnadesdecero.es/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">CCNA Desde Cero</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Plataforma para preparar las certificaciones CCNA de cisco.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://elportafoliodelasredes.wordpress.com/2015/07/29/comandos-basicos-para-trabajar-con-packet-tracer/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Comandos packet tracer</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Comandos básicos para trabajar con Packet Tracer.
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Mrr6_OPE7xa8lCLO&amp;list=PLG1hKOHdoXkvFy_6g4_zf7mgq4kEu8V9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=otIG_GciQyhl0w4u&amp;list=PLEmsMMOSNtyqGsnjxx-YkPWo1xqu7YyXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=oZCEwF-YIkIpZUDl&amp;list=PLnB2gEd2oMZaqYiNmioryiYDINhs9aZc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hSWK4YALZfHSCOzK&amp;list=PLThkZy_SrhoUyN24kzmjo01a03vYqKXdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# CURSOS BASES DE DATOS
+___
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://sqlmastery.net/curso-sql-completo" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">SQL MASTERY</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/w3c.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Curso online de SQL
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://app.diagrams.net/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Diagrams.Net</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Pagina onlina para crear diagramas de bases de datos
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="https://bookdown.org/paranedagarcia/database/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Introducción bases de datos</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Curso de bases de datos hecho por Patricio Araneda García
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->
+
+
+# CURSOS SISTEMAS
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qmSwQP660X4tkbB_&amp;list=PLTd5ehIj0goPCodyeh2ThX37Ceh-2torY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZ4nG3szRQi_NtP0&amp;list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/ubuntu-server/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Instalación Ubuntu IONOS</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Curso online de SQL
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->
+
+
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://pypi.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Python Package Index</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Índice de paquetes de Python (PyPI) es un repositorio de software para el lenguaje de programación Python.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://pypi.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">CSS ZEN Garden</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://codepen.io/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Codepen io</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->
+
+

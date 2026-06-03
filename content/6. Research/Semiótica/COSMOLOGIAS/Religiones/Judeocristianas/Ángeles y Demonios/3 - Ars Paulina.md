@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # 3. ARTE PAULINO
 ___
 <img

@@ -1,3 +1,9 @@
+---
+tags:
+  - 3D
+  - Formats
+  - Rig
+---
 # How to add real physics
 ___
 **To objects and characters in Blender (Hair with realistic movement) IN REAL TIME**

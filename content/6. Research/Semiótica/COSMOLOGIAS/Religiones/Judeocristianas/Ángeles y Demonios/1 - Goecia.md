@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # 1. GOECIA
 ___
 Libro de Espíritus del Mal  que muestra cómo  sometió a esos Espíritus y los usó para realizar tareas de diversa índole, por lo que adquirió gran fama.

@@ -119,6 +119,28 @@ tags:
         </article>
         <article class="post redes-post">
             <a href="https://naseros.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>CLOCKWORK COMPUTER</b></h2>
+            <img src="https://clockworkcomputerip.blogspot.com/CloclkworkC.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Blog dedicado a la enseñanza en el sector del mundo de la informática, en concreto a la implantación y administración de sistemas operativos y los servicios que estos tienen en red, tanto Windows como Ubuntu. Explicando de manera visual ciertas prácticas que se dan hoy en día en ciclos informáticos.
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="https://google-gruyere.appspot.com/">
+                <h2 class="titulo-post">Gruyere Codelab</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks. The best way to learn things is by doing, so you'll get a chance to do some real penetration testing, actually exploiting a real application.
+            </p>
+        </article>
+        <article class="post redes-post">
+            <a href="https://naseros.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Naseros</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/naseros.jpg" class="img-post">
         </a>
@@ -209,6 +231,17 @@ tags:
                 Virus total es una pagina web que nos permite subir archivos
                 para que esta los compare con su base de datos y los analice 
                 en busca de posibles coincidencias con malwere registrado.    
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Conversor Unidades</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Util para realizar operaciones de binario a decimal y de bytes a otras unidades.
             </p>
         </article>
     <article class="post otros-post">

@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # 4. ALMADEL/SALOMON
 ___
 Contiene los espíritus que gobiernan las Cuatro Alturas, o los 360 grados del Zodiaco. Estas últimas dos Órdenes de los Espíritus son buenas, y deben buscarse por investigación divina. Se les llama Teurgia.

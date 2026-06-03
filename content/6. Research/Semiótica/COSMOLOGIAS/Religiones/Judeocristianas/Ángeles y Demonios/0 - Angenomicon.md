@@ -1,3 +1,8 @@
+---
+tags:
+  - Religiones
+  - Judeocristianas
+---
 # El Shem HaMephorash
 ___
 Y la conexión entre el Nombre Divino y los 72 Ángeles
