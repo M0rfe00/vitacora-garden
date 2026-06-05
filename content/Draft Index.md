@@ -18,6 +18,7 @@ Here you will find my creative projects and learning resources on 3D, audiovisua
 >The website is built using Obsidian for content creation and Quartz to publish Markdown as a Static website. It integrates community plugins and custom modifications developed thorught HTML, CSS, GithHub and web server management, using exclusively open-source and free tools.
 
 
+
 # About Me
 ___
 
@@ -33,6 +34,9 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 -->
 
+
+<img src="../media-content/galeria/2025/PFP.jpg" alt="Yo" style="display: block; margin: 0 auto; padding: 0%; width: 270px; height: 270px; border-radius: 50%; object-fit: cover;" />
+
 <div class="two-columns">
 <div>
 
@@ -44,3 +48,11 @@ To do this, I use CLO3D for clothing design and pattern making, Blender to creat
 </div>
 
 <div>
+
+# Statement
+___
+Some time ago, I decided that I would not follow the easy path, but rather the one that made me happy, and that I would not stop until I found my own way. It is not ambition, it´s a need to pursue my dreams. 
+
+Vitacora is the name of my website, but also my philosophy. [[index|Learn More]]
+</div>
+</div>
