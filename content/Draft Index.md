@@ -4,6 +4,7 @@ tags:
   - hideInExplorer
 ---
 <img src="../media-content/galeria/2025/PFP.jpg" alt="Yo" style="display: block; margin: 0 auto; padding: 0%; width: 270px; height: 270px; border-radius: 50%; object-fit: cover;" />
+
 # ABOUT ME
 ___
 Hello, I'm Lucas, a multidisciplinary designer with experience in digital fashion, audiovisual arts, and computer science.
@@ -33,6 +34,7 @@ Vitacora is the name of my website, but also my philosophy. [[index|Learn More]]
 
 <br>
 <img src="../media-content/Heart.png" alt="Yo" style="display: block; margin: 0 auto 0.4rem auto; padding: 1%; width: 250px; height: 250px; border-radius: 50%; object-fit: cover;" />
+
 # WHAT IS VITACORA
 ___
 VitaCora takes its name from the logbook/bitácora, a journal historically used by sailors to record daily events during a journey. The name also combines "Vita" (life, in Latin) and "Cor" (heart), reflecting a personal space focused on daily practice, lived experience and working with intention, following one´s passions while staying grounded.
