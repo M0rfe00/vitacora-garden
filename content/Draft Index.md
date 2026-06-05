@@ -11,25 +11,11 @@ Hello, I'm Lucas, a multidisciplinary designer with experience in digital fashio
 
 I've always been interested in technology and arts, just as I learned mechanics in video games, I started learning and continue to learn almost insatiably, as learning new things is what I enjoy most and allows me to stop being a spectator and start creating and expressing myself. 
 
-<div class="two-columns">
-<div>
+Statement: Some time ago, I decided that I would not follow the easy path, but rather the one that made me happy, and that I would not stop until I found my own way. It is not ambition, it´s a need to pursue my dreams. 
 
-# How I work
-___
-I am currently trying to combine all my artistic interests and the software I have learned and continue to learn on my own, inspired by the concept of total artwork.
+How I work: I am currently trying to combine all my artistic interests and the software I have learned and continue to learn on my own, inspired by the concept of total artwork.
 
 To do this, I use CLO3D for clothing design and pattern making, Blender to create scenes, 3D models, and rendering, Daz Studio to create digital avatars, Davinci for video editing, Photoshop and Lightroom for image editing and graphic design, Illustrator for mockups and clothing designs, Quartz/Obsidian for my website and in progress...
-</div>
-
-<div>
-
-# Statement
-___
-Some time ago, I decided that I would not follow the easy path, but rather the one that made me happy, and that I would not stop until I found my own way. It is not ambition, it´s a need to pursue my dreams. 
-
-Vitacora is the name of my website, but also my philosophy. [[index|Learn More]]
-</div>
-</div>
 
 
 <br>
