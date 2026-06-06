@@ -8,6 +8,9 @@ VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and it
 
 Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br><br>
 
+# Recent post
+___
+
 <div class="newsletter-grid">
 
   <div class="project-card">
