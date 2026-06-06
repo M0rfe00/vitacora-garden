@@ -37,7 +37,8 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 
 <img src="../media-content/galeria/2025/PFP.jpg" alt="Yo" style="display: block; margin: 0 auto; padding: 0%; width: 270px; height: 270px; border-radius: 50%; object-fit: cover;" />
 
-
+<br>
+<br>
 
 <div class="mobile-menu">
 
@@ -64,14 +65,6 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
       ⚒️ <strong>Projects</strong>
     </div>
   </a>
-
-  <!--
-  <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" class="mobile-card">
-    <div>
-      📝 <strong>Research</strong>
-    </div>
-  </a>
-  -->
 
 </div>
 
