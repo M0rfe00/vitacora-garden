@@ -1301,6 +1301,18 @@ h1, h2, h3 {
 }
 
 
+/********** ESTILOS EXPOSITOR NEWSLETTER***********/
+.newsletter-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .newsletter-grid {
+    grid-template-columns: 2fr;
+  }
+}
 
 
 /********** ESTILOS EXPOSITOR PROYECTOS***********/

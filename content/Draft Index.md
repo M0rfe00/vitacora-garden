@@ -56,3 +56,166 @@ Some time ago, I decided that I would not follow the easy path, but rather the o
 Vitacora is the name of my website, but also my philosophy. [[index|Learn More]]
 </div>
 </div>
+
+
+
+
+
+
+<div class="newsletter-grid">
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Handpoke.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Handpoke</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/fashion theory.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Fashion theory</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/RedWhite.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Graphic Design</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Poetry.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Poetry</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/camera basics.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Photography</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/video editing.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Video editing</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Art History.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Art History</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/4 Seasons Temperature+Light.PNG" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Makeup</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Colorpalettes.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Color Palettes</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/floriography.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Floriography</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/ColorInFilm.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Color in Films</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/20251014223624.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Orientación estelar</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/lepus.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Catasterismos</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Linux.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Linux</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+</div>

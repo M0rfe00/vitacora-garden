@@ -8,11 +8,11 @@ tags:
 ___
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/aquarius.png"
+  src="../media-content/Research/Simbologia/astronomia/aquarius.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/aquarius.jpg"
+  src="../media-content/Research/Simbologia/astronomia/aquarius.jpg"
   alt=""
 />
 </div>
@@ -40,11 +40,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/aquila.png"
+  src="../media-content/Research/Simbologia/astronomia/aquila.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/aquila.jpg"
+  src="../media-content/Research/Simbologia/astronomia/aquila.jpg"
   alt=""
 />
 </div>
@@ -71,11 +71,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/ara.png"
+  src="../media-content/Research/Simbologia/astronomia/ara.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/ara.jpg"
+  src="../media-content/Research/Simbologia/astronomia/ara.jpg"
   alt=""
 />
 </div>
@@ -98,11 +98,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/andromeda.png"
+  src="../media-content/Research/Simbologia/astronomia/andromeda.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/andromeda.jpg"
+  src="../media-content/Research/Simbologia/astronomia/andromeda.jpg"
   alt=""
 />
 </div>
@@ -129,11 +129,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/antlia.jpg"
+  src="../media-content/Research/Simbologia/astronomia/antlia.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/antlia.png"
+  src="../media-content/Research/Simbologia/astronomia/antlia.png"
   alt=""
 />
 </div>
@@ -151,11 +151,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/apus.png"
+  src="../media-content/Research/Simbologia/astronomia/apus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/apus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/apus.jpg"
   alt=""
 />
 </div>
@@ -172,11 +172,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/aries.jpg"
+  src="../media-content/Research/Simbologia/astronomia/aries.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/aries.png"
+  src="../media-content/Research/Simbologia/astronomia/aries.png"
   alt=""
 />
 </div>
@@ -208,11 +208,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/auriga.png"
+  src="../media-content/Research/Simbologia/astronomia/auriga.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/auriga.jpg"
+  src="../media-content/Research/Simbologia/astronomia/auriga.jpg"
   alt=""
 />
 </div>
@@ -260,11 +260,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/bootes.png"
+  src="../media-content/Research/Simbologia/astronomia/bootes.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/bootes.jpg"
+  src="../media-content/Research/Simbologia/astronomia/bootes.jpg"
   alt=""
 />
 </div>
@@ -298,11 +298,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/caelum.png"
+  src="../media-content/Research/Simbologia/astronomia/caelum.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/caelum.jpg"
+  src="../media-content/Research/Simbologia/astronomia/caelum.jpg"
   alt=""
 />
 </div>
@@ -348,11 +348,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/canis-minor.png"
+  src="../media-content/Research/Simbologia/astronomia/canis-minor.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/canis-minor.jpg"
+  src="../media-content/Research/Simbologia/astronomia/canis-minor.jpg"
 />
 </div>
 
@@ -369,11 +369,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/cancer.png"
+  src="../media-content/Research/Simbologia/astronomia/cancer.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/cancer.jpg"
+  src="../media-content/Research/Simbologia/astronomia/cancer.jpg"
 />
 </div>
 
@@ -400,11 +400,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/canes-venatici.png"
+  src="../media-content/Research/Simbologia/astronomia/canes-venatici.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/canes-venatici.jpg"
+  src="../media-content/Research/Simbologia/astronomia/canes-venatici.jpg"
 />
 </div>
 
@@ -419,11 +419,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/capricornus.png"
+  src="../media-content/Research/Simbologia/astronomia/capricornus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/capricornus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/capricornus.jpg"
 />
 </div>
 
@@ -452,11 +452,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/carina.png"
+  src="../media-content/Research/Simbologia/astronomia/carina.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/vela-carina-puppis.jpg"
+  src="../media-content/Research/Simbologia/astronomia/vela-carina-puppis.jpg"
 />
 </div>
 
@@ -472,11 +472,11 @@ Carina (la quilla), en castellano Quilla, es una constelación austral que forma
 ___
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/cassiopeia.png"
+  src="../media-content/Research/Simbologia/astronomia/cassiopeia.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/cassiopeia.jpg"
+  src="../media-content/Research/Simbologia/astronomia/cassiopeia.jpg"
 />
 </div>
 
@@ -498,11 +498,11 @@ Tiene una estrella brillante sobre la cabeza, una también brillante sobre cada 
 ___
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/cepheus.png"
+  src="../media-content/Research/Simbologia/astronomia/cepheus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/cepheus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/cepheus.jpg"
 />
 </div>
 
@@ -526,11 +526,11 @@ Posee dos estrellas brillantes sobre la cabeza, una en cada hombro, una sobre ca
 ___
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/centaurus.png"
+  src="../media-content/Research/Simbologia/astronomia/centaurus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/centaurus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/centaurus.jpg"
 />
 </div>
 
@@ -561,11 +561,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/cetus.png"
+  src="../media-content/Research/Simbologia/astronomia/cetus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/cetus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/cetus.jpg"
 />
 </div>
 
@@ -587,11 +587,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/chamaeleon.png"
+  src="../media-content/Research/Simbologia/astronomia/chamaeleon.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/chamaeleon.jpg"
+  src="../media-content/Research/Simbologia/astronomia/chamaeleon.jpg"
 />
 </div>
 
@@ -606,11 +606,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/circinus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/circinus.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/circinus.png"
+  src="../media-content/Research/Simbologia/astronomia/circinus.png"
 />
 </div>
 
@@ -626,11 +626,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/cygnus.png"
+  src="../media-content/Research/Simbologia/astronomia/cygnus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/cygnus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/cygnus.jpg"
 />
 </div>
 
@@ -663,11 +663,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/columba.png"
+  src="../media-content/Research/Simbologia/astronomia/columba.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/columba.jpg"
+  src="../media-content/Research/Simbologia/astronomia/columba.jpg"
 />
 </div>
 
@@ -682,11 +682,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/coma-berenices.png"
+  src="../media-content/Research/Simbologia/astronomia/coma-berenices.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/coma-berenices.jpg"
+  src="../media-content/Research/Simbologia/astronomia/coma-berenices.jpg"
 />
 </div>
 
@@ -704,11 +704,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/corona-australis.png"
+  src="../media-content/Research/Simbologia/astronomia/corona-australis.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/corona-australis.jpg"
+  src="../media-content/Research/Simbologia/astronomia/corona-australis.jpg"
 />
 </div>
 
@@ -723,11 +723,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/corona-borealis.png"
+  src="../media-content/Research/Simbologia/astronomia/corona-borealis.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/corona-borealis.jpg"
+  src="../media-content/Research/Simbologia/astronomia/corona-borealis.jpg"
 />
 </div>
 
@@ -755,11 +755,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/corvus.png"
+  src="../media-content/Research/Simbologia/astronomia/corvus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/corvus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/corvus.jpg"
   alt=""
   />
 </div>
@@ -821,11 +821,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/crater.jpg"
+  src="../media-content/Research/Simbologia/astronomia/crater.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/crater.png"
+  src="../media-content/Research/Simbologia/astronomia/crater.png"
   alt=""
   />
 </div>
@@ -842,11 +842,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/crux.jpg"
+  src="../media-content/Research/Simbologia/astronomia/crux.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/crux.png"
+  src="../media-content/Research/Simbologia/astronomia/crux.png"
   alt=""
   />
 </div>
@@ -879,11 +879,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/delphinus.png"
+  src="../media-content/Research/Simbologia/astronomia/delphinus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/delphinus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/delphinus.jpg"
   alt=""
   />
 </div>
@@ -912,11 +912,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/doradus.png"
+  src="../media-content/Research/Simbologia/astronomia/doradus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/doradus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/doradus.jpg"
   alt=""
   />
 </div>
@@ -935,11 +935,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/draco.png"
+  src="../media-content/Research/Simbologia/astronomia/draco.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/draco.jpg"
+  src="../media-content/Research/Simbologia/astronomia/draco.jpg"
   alt=""
   />
 </div>
@@ -971,11 +971,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/equuleus.png"
+  src="../media-content/Research/Simbologia/astronomia/equuleus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/equuleus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/equuleus.jpg"
   alt=""
   />
 </div>
@@ -994,11 +994,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/eridanus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/eridanus.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/eridanus.png"
+  src="../media-content/Research/Simbologia/astronomia/eridanus.png"
   alt=""
   />
 </div>
@@ -1025,11 +1025,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/scorpius.jpg"
+  src="../media-content/Research/Simbologia/astronomia/scorpius.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/scorpius.png"
+  src="../media-content/Research/Simbologia/astronomia/scorpius.png"
   alt=""
   />
 </div>
@@ -1055,11 +1055,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/phoenix.png"
+  src="../media-content/Research/Simbologia/astronomia/phoenix.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/phoenix.jpg"
+  src="../media-content/Research/Simbologia/astronomia/phoenix.jpg"
   alt=""
   />
 </div>
@@ -1077,11 +1077,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/fornax.png"
+  src="../media-content/Research/Simbologia/astronomia/fornax.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/fornax.jpg"
+  src="../media-content/Research/Simbologia/astronomia/fornax.jpg"
   alt=""
   />
 </div>
@@ -1100,11 +1100,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/gemini.png"
+  src="../media-content/Research/Simbologia/astronomia/gemini.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/gemini.jpg"
+  src="../media-content/Research/Simbologia/astronomia/gemini.jpg"
   alt=""
   />
 </div>
@@ -1133,11 +1133,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/grus.png"
+  src="../media-content/Research/Simbologia/astronomia/grus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/grus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/grus.jpg"
   alt=""
   />
 </div>
@@ -1155,11 +1155,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/hercules.png"
+  src="../media-content/Research/Simbologia/astronomia/hercules.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/hercules.jpg"
+  src="../media-content/Research/Simbologia/astronomia/hercules.jpg"
   alt=""
   />
 </div>
@@ -1187,11 +1187,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/hydra.png"
+  src="../media-content/Research/Simbologia/astronomia/hydra.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/hydra.jpg"
+  src="../media-content/Research/Simbologia/astronomia/hydra.jpg"
   alt=""
   />
 </div>
@@ -1210,11 +1210,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/horologium.jpg"
+  src="../media-content/Research/Simbologia/astronomia/horologium.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/horologium.png"
+  src="../media-content/Research/Simbologia/astronomia/horologium.png"
   alt=""
   />
 </div>
@@ -1231,11 +1231,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/hydrus.png"
+  src="../media-content/Research/Simbologia/astronomia/hydrus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/hydrus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/hydrus.jpg"
   alt=""
   />
 </div>
@@ -1254,11 +1254,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/indus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/indus.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/indus.png"
+  src="../media-content/Research/Simbologia/astronomia/indus.png"
   alt=""
   />
 </div>
@@ -1276,11 +1276,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/lacerta.png"
+  src="../media-content/Research/Simbologia/astronomia/lacerta.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/lacerta.jpg"
+  src="../media-content/Research/Simbologia/astronomia/lacerta.jpg"
   alt=""
   />
 </div>
@@ -1299,11 +1299,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/leo.jpg"
+  src="../media-content/Research/Simbologia/astronomia/leo.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/leo.png"
+  src="../media-content/Research/Simbologia/astronomia/leo.png"
   alt=""
   />
 </div>
@@ -1333,11 +1333,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/leo-minor.png"
+  src="../media-content/Research/Simbologia/astronomia/leo-minor.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/leo-minor.jpg"
+  src="../media-content/Research/Simbologia/astronomia/leo-minor.jpg"
   alt=""
   />
 </div>
@@ -1354,11 +1354,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/lepus.png"
+  src="../media-content/Research/Simbologia/astronomia/lepus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/lepus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/lepus.jpg"
   alt=""
   />
 </div>
@@ -1380,11 +1380,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/libra.png"
+  src="../media-content/Research/Simbologia/astronomia/libra.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/libra.jpg"
+  src="../media-content/Research/Simbologia/astronomia/libra.jpg"
   alt=""
   />
 </div>
@@ -1401,11 +1401,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/lyra.png"
+  src="../media-content/Research/Simbologia/astronomia/lyra.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/lyra.jpg"
+  src="../media-content/Research/Simbologia/astronomia/lyra.jpg"
   alt=""
   />
 </div>
@@ -1437,11 +1437,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/lupus.png"
+  src="../media-content/Research/Simbologia/astronomia/lupus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/lupus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/lupus.jpg"
   alt=""
   />
 </div>
@@ -1458,11 +1458,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/lynx.png"
+  src="../media-content/Research/Simbologia/astronomia/lynx.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/lynx.jpg"
+  src="../media-content/Research/Simbologia/astronomia/lynx.jpg"
   alt=""
   />
 </div>
@@ -1479,11 +1479,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/mensa.png"
+  src="../media-content/Research/Simbologia/astronomia/mensa.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/mensa.jpg"
+  src="../media-content/Research/Simbologia/astronomia/mensa.jpg"
   alt=""
   />
 </div>
@@ -1502,11 +1502,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/microscopium.png"
+  src="../media-content/Research/Simbologia/astronomia/microscopium.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/microscopium.jpg"
+  src="../media-content/Research/Simbologia/astronomia/microscopium.jpg"
   />
 </div>
 
@@ -1523,11 +1523,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/monoceros.jpg"
+  src="../media-content/Research/Simbologia/astronomia/monoceros.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/monoceros.png"
+  src="../media-content/Research/Simbologia/astronomia/monoceros.png"
 />
 </div>
 
@@ -1544,11 +1544,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/musca.png"
+  src="../media-content/Research/Simbologia/astronomia/musca.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/musca.jpg"
+  src="../media-content/Research/Simbologia/astronomia/musca.jpg"
 />
 </div>
 
@@ -1564,11 +1564,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/norma.png"
+  src="../media-content/Research/Simbologia/astronomia/norma.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/norma.jpg"
+  src="../media-content/Research/Simbologia/astronomia/norma.jpg"
 />
 </div>
 
@@ -1585,11 +1585,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/octans.png"
+  src="../media-content/Research/Simbologia/astronomia/octans.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/octans.jpg"
+  src="../media-content/Research/Simbologia/astronomia/octans.jpg"
 />
 </div>
 
@@ -1605,11 +1605,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/ophiuchus.png"
+  src="../media-content/Research/Simbologia/astronomia/ophiuchus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/ophiuchus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/ophiuchus.jpg"
 />
 </div>
 
@@ -1637,11 +1637,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/orion.png"
+  src="../media-content/Research/Simbologia/astronomia/orion.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/orion.jpg"
+  src="../media-content/Research/Simbologia/astronomia/orion.jpg"
 />
 </div>
 
@@ -1683,11 +1683,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/ursa-major.png"
+  src="../media-content/Research/Simbologia/astronomia/ursa-major.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/ursa-major.jpg"
+  src="../media-content/Research/Simbologia/astronomia/ursa-major.jpg"
 />
 </div>
 
@@ -1712,11 +1712,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/ursa-minor.png"
+  src="../media-content/Research/Simbologia/astronomia/ursa-minor.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/ursa-minor.jpg"
+  src="../media-content/Research/Simbologia/astronomia/ursa-minor.jpg"
 />
 </div>
 
@@ -1741,11 +1741,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/pavo.jpg"
+  src="../media-content/Research/Simbologia/astronomia/pavo.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/pavo.png"
+  src="../media-content/Research/Simbologia/astronomia/pavo.png"
 />
 </div>
 
@@ -1762,11 +1762,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/pegasus.png"
+  src="../media-content/Research/Simbologia/astronomia/pegasus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/pegasus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/pegasus.jpg"
 />
 </div>
 
@@ -1801,11 +1801,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/perseus.png"
+  src="../media-content/Research/Simbologia/astronomia/perseus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/perseus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/perseus.jpg"
 />
 </div>
 
@@ -1853,11 +1853,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/pictor.png"
+  src="../media-content/Research/Simbologia/astronomia/pictor.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/pictor.jpg"
+  src="../media-content/Research/Simbologia/astronomia/pictor.jpg"
 />
 </div>
 
@@ -1874,11 +1874,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/pisces.png"
+  src="../media-content/Research/Simbologia/astronomia/pisces.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/pisces.jpg"
+  src="../media-content/Research/Simbologia/astronomia/pisces.jpg"
 />
 </div>
 
@@ -1903,11 +1903,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/piscis-austrinus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/piscis-austrinus.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/piscis-austrinus.png"
+  src="../media-content/Research/Simbologia/astronomia/piscis-austrinus.png"
 />
 </div>
 
@@ -1938,11 +1938,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/puppis.png"
+  src="../media-content/Research/Simbologia/astronomia/puppis.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/vela-carina-puppis.jpg"
+  src="../media-content/Research/Simbologia/astronomia/vela-carina-puppis.jpg"
 />
 </div>
 
@@ -1960,11 +1960,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/pyxis.png"
+  src="../media-content/Research/Simbologia/astronomia/pyxis.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/pyxis.jpg"
+  src="../media-content/Research/Simbologia/astronomia/pyxis.jpg"
 />
 </div>
 
@@ -1981,11 +1981,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/reticulum.png"
+  src="../media-content/Research/Simbologia/astronomia/reticulum.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/reticulum.jpg"
+  src="../media-content/Research/Simbologia/astronomia/reticulum.jpg"
 />
 </div>
 
@@ -2002,11 +2002,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/sagittarius.png"
+  src="../media-content/Research/Simbologia/astronomia/sagittarius.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/sagittarius.jpg"
+  src="../media-content/Research/Simbologia/astronomia/sagittarius.jpg"
 />
 </div>
 
@@ -2038,11 +2038,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/sagitta.png"
+  src="../media-content/Research/Simbologia/astronomia/sagitta.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/sagitta.jpg"
+  src="../media-content/Research/Simbologia/astronomia/sagitta.jpg"
 />
 </div>
 
@@ -2068,11 +2068,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/sculptor.png"
+  src="../media-content/Research/Simbologia/astronomia/sculptor.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/sculptor.jpg"
+  src="../media-content/Research/Simbologia/astronomia/sculptor.jpg"
 />
 </div>
 
@@ -2088,11 +2088,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/scutum.png"
+  src="../media-content/Research/Simbologia/astronomia/scutum.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/scutum.jpg"
+  src="../media-content/Research/Simbologia/astronomia/scutum.jpg"
 />
 </div>
 
@@ -2108,11 +2108,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/serpens.png"
+  src="../media-content/Research/Simbologia/astronomia/serpens.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/serpens.jpg"
+  src="../media-content/Research/Simbologia/astronomia/serpens.jpg"
 />
 </div>
 
@@ -2129,11 +2129,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/sextans.png"
+  src="../media-content/Research/Simbologia/astronomia/sextans.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/sextans.jpg"
+  src="../media-content/Research/Simbologia/astronomia/sextans.jpg"
 />
 </div>
 
@@ -2149,11 +2149,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/taurus.png"
+  src="../media-content/Research/Simbologia/astronomia/taurus.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/taurus.jpg"
+  src="../media-content/Research/Simbologia/astronomia/taurus.jpg"
 />
 </div>
 
@@ -2199,11 +2199,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/telescopium.png"
+  src="../media-content/Research/Simbologia/astronomia/telescopium.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/telescopium.jpg"
+  src="../media-content/Research/Simbologia/astronomia/telescopium.jpg"
 />
 </div>
 
@@ -2219,11 +2219,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/triangulum.png"
+  src="../media-content/Research/Simbologia/astronomia/triangulum.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/triangulum.jpg"
+  src="../media-content/Research/Simbologia/astronomia/triangulum.jpg"
 />
 </div>
 
@@ -2248,11 +2248,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/triangulum 1.jpg"
+  src="../media-content/Research/Simbologia/astronomia/triangulum 1.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/triangulum-australe.jpg"
+  src="../media-content/Research/Simbologia/astronomia/triangulum-australe.jpg"
 />
 </div>
 
@@ -2270,11 +2270,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/tucana.jpg"
+  src="../media-content/Research/Simbologia/astronomia/tucana.jpg"
   alt=""
 />
 <img
-  src="../media-content/astronomia/tucana.png"
+  src="../media-content/Research/Simbologia/astronomia/tucana.png"
   alt=""
 />
 </div>
@@ -2292,11 +2292,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/vela.png"
+  src="../media-content/Research/Simbologia/astronomia/vela.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/vela-carina-puppis.jpg"
+  src="../media-content/Research/Simbologia/astronomia/vela-carina-puppis.jpg"
   alt=""
 />
 </div>
@@ -2314,11 +2314,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/virgo.png"
+  src="../media-content/Research/Simbologia/astronomia/virgo.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/virgo.jpg"
+  src="../media-content/Research/Simbologia/astronomia/virgo.jpg"
   alt=""
 />
 </div>
@@ -2353,11 +2353,11 @@ ___
 
 <div class="galeria2">
 <img
-  src="../media-content/astronomia/volans.png"
+  src="../media-content/Research/Simbologia/astronomia/volans.png"
   alt=""
 />
 <img
-  src="../media-content/astronomia/volans.jpg"
+  src="../media-content/Research/Simbologia/astronomia/volans.jpg"
   alt=""
 />
 </div>
