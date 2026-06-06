@@ -8,33 +8,33 @@ VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and it
 
 Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
+<div class="mobile-menu">
 
-  <a href="1. About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+  <a href="1. About Me" class="mobile-card">
     <div>
        👨🏼‍💻 <strong>About Me</strong>
     </div>
   </a>
 
-<a href="2. Journal" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="2. Journal" class="mobile-card">
     <div>
 	📰 <strong>Journal</strong>
     </div>
   </a>
 
-<a href="4. Inspiration" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="4. Inspiration" class="mobile-card">
     <div>
     📚 <strong>Inspiration</strong>
     </div>
   </a>
 
-<a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" class="mobile-card">
     <div>
        ⚒️ <strong>Projects</strong>
     </div>
   </a>
 
-<a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+<a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" class="mobile-card">
     <div>
        📝 <strong>Research</strong>
     </div>
