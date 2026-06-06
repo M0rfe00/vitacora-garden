@@ -1308,9 +1308,10 @@ h1, h2, h3 {
   gap: 1rem;
   margin: 2rem 0;
 }
+
 @media (max-width: 768px) {
   .newsletter-grid {
-    grid-template-columns: 2fr;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
