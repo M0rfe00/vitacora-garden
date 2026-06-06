@@ -37,6 +37,48 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 
 <img src="../media-content/galeria/2025/PFP.jpg" alt="Yo" style="display: block; margin: 0 auto; padding: 0%; width: 270px; height: 270px; border-radius: 50%; object-fit: cover;" />
 
+
+
+<div class="mobile-menu">
+
+  <a href="1. About Me" class="mobile-card">
+    <div>
+      👨🏼‍💻 <strong>About Me</strong>
+    </div>
+  </a>
+
+  <a href="2. Journal" class="mobile-card">
+    <div>
+      📰 <strong>Journal</strong>
+    </div>
+  </a>
+
+  <a href="4. Inspiration" class="mobile-card">
+    <div>
+      📚 <strong>Inspiration</strong>
+    </div>
+  </a>
+
+  <a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" class="mobile-card">
+    <div>
+      ⚒️ <strong>Projects</strong>
+    </div>
+  </a>
+
+  <!--
+  <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" class="mobile-card">
+    <div>
+      📝 <strong>Research</strong>
+    </div>
+  </a>
+  -->
+
+</div>
+
+
+
+
+
 <div class="two-columns">
 <div>
 
