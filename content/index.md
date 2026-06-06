@@ -7,6 +7,7 @@ VitaCora takes its name from the logbook/bitácora, a journal historically used 
 VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and its architecture is based on the  <a href="https://es.wikipedia.org/wiki/Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>zettelkasten</strong></a> system. Is an ecosystem for organizing and sharing my projects, ideas, and reflections in a mental-digital palace. 
 
 Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br>
+<br>
 
 <div class="mobile-menu">
 
