@@ -1478,7 +1478,9 @@ h1, h2, h3 {
   display: none;
 }
 
+/* SOLO móvil */
 @media (max-width: 768px) {
+
   .mobile-menu {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -1486,19 +1488,25 @@ h1, h2, h3 {
     padding: 1rem;
   }
 
-  .mobile-card {
+  .mobile-menu a.mobile-card {
     display: flex;
     align-items: center;
     gap: 0.75rem;
 
     padding: 1rem;
-    background: #f0f0f0;
     border-radius: 0.75rem;
+    background: #f0f0f0;
 
     text-decoration: none;
-    color: inherit;
 
+    /* 🔥 CLAVE: rompe el color del tema */
+    color: #222 !important;
+
+    font-family: sans-serif;
     box-sizing: border-box;
-    width: 100%;
+  }
+
+  .mobile-menu a.mobile-card strong {
+    color: #222 !important;
   }
 }

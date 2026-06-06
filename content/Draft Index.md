@@ -43,19 +43,19 @@ style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 <div class="mobile-menu">
 
   <a href="1. About Me" class="mobile-card">
-    👨🏼‍💻 <strong>About Me</strong>
+    👨🏼‍💻 <strong>LinkedIn</strong>
+  </a>
+
+  <a href="Photography" class="mobile-card">
+    📸 <strong>Instagram</strong>
   </a>
 
   <a href="2. Journal" class="mobile-card">
-    📰 <strong>Journal</strong>
+    📰 <strong>Behance</strong>
   </a>
 
   <a href="4. Inspiration" class="mobile-card">
-    📚 <strong>Inspiration</strong>
-  </a>
-
-  <a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" class="mobile-card">
-    ⚒️ <strong>Projects</strong>
+    📚 <strong>TikTok</strong>
   </a>
 
 </div>
