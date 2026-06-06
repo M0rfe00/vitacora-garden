@@ -8,53 +8,166 @@ VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and it
 
 Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br><br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
+<div class="newsletter-grid">
 
-  <a href="1. About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-       👨🏼‍💻 <strong>About Me</strong>
-    </div>
-  </a>
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Handpoke.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Handpoke</h3>
+        </div>
+      </div>
+    </a>
+  </div>
 
-  <a href="Photography" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-       📸 <strong>Photography</strong>
-    </div>
-  </a>
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/fashion theory.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Fashion theory</h3>
+        </div>
+      </div>
+    </a>
+  </div>
 
-  
-<a href="2. Journal" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-	📰 <strong>Journal</strong>
-    </div>
-  </a>
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/RedWhite.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Graphic Design</h3>
+        </div>
+      </div>
+    </a>
+  </div>
 
-<a href="4. Inspiration" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-    📚 <strong>Inspiration</strong>
-    </div>
-  </a>
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Poetry.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Poetry</h3>
+        </div>
+      </div>
+    </a>
+  </div>
 
-<a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-       ⚒️ <strong>Projects</strong>
-    </div>
-  </a>
-<!--
-<a href="https://m0rfe00.github.io/vitacora-garden/006-Apuntes/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-       📝 <strong>Apuntes</strong>
-    </div>
-  </a>
-  -->
-<a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
-    <div>
-       📝 <strong>Research</strong>
-    </div>
-  </a>
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/camera basics.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Photography</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/video editing.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Video editing</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Art History.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Art History</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/4 Seasons Temperature+Light.PNG" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Makeup</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Colorpalettes.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Color Palettes</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/floriography.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Floriography</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/ColorInFilm.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Color in Films</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/20251014223624.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Orientación estelar</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/lepus.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Catasterismos</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Linux.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Linux</h3>
+        </div>
+      </div>
+    </a>
+  </div>
 
 </div>
 <br>
+
+___
 
 >[!Info] About this website
 >The website is built using Obsidian for content creation and Quartz to publish Markdown as a Static website. It integrates community plugins and custom modifications developed thorught HTML, CSS, GithHub and web server management, using exclusively open-source and free tools.
