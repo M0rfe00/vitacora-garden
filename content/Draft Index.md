@@ -59,8 +59,8 @@ Vitacora is the name of my website, but also my philosophy. [[index|Learn More]]
 
 
 
-
-
+# Recent post
+___
 
 <div class="newsletter-grid">
 
