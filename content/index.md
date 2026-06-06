@@ -6,23 +6,46 @@ VitaCora takes its name from the logbook/bitácora, a journal historically used 
 
 VitaCora follows the philosophy of [[Jardines digitales|Digital Gardens]] and its architecture is based on the  <a href="https://es.wikipedia.org/wiki/Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>zettelkasten</strong></a> system. Is an ecosystem for organizing and sharing my projects, ideas, and reflections in a mental-digital palace. 
 
-Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br><br>
+Here you will find my creative projects and learning resources on 3D, audiovisual design, fashion, cultural research, and software, documenting my process and sharing useful knowledge for other creators.<br>
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; font-family: sans-serif; color: #222;">
+
+  <a href="1. About Me" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+    <div>
+       👨🏼‍💻 <strong>About Me</strong>
+    </div>
+  </a>
+
+<a href="2. Journal" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+    <div>
+	📰 <strong>Journal</strong>
+    </div>
+  </a>
+
+<a href="4. Inspiration" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+    <div>
+    📚 <strong>Inspiration</strong>
+    </div>
+  </a>
+
+<a href="https://m0rfe00.github.io/vitacora-garden/5.-Projects/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+    <div>
+       ⚒️ <strong>Projects</strong>
+    </div>
+  </a>
+<!--
+
+<a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/" style="flex: 1 1 45%; padding: 1rem; background: #f0f0f0; border-radius: 0.75rem; text-decoration: none; color: inherit; display: flex; align-items: center; gap: 0.75rem;">
+    <div>
+       📝 <strong>Research</strong>
+    </div>
+  </a>
+
+</div>
 
 # Highlighted Post
 ___
 
 <div class="newsletter-grid">
-
-  <div class="project-card">
-    <a href="Card Deck" class="project-link">
-      <div class="project-image-wrapper">
-        <img src="../media-content/Diario/thumbnails/Handpoke.png" alt="Promotional Card Deck">
-        <div class="project-overlay">
-          <h3>Handpoke</h3>
-        </div>
-      </div>
-    </a>
-  </div>
 
   <div class="project-card">
     <a href="Card Deck" class="project-link">
@@ -96,6 +119,17 @@ ___
         <img src="../media-content/Diario/thumbnails/4 Seasons Temperature+Light.PNG" alt="Promotional Card Deck">
         <div class="project-overlay">
           <h3>Makeup</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="project-card">
+    <a href="Card Deck" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/Handpoke.png" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Handpoke</h3>
         </div>
       </div>
     </a>
