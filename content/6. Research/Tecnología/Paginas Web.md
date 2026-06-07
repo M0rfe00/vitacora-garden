@@ -79,6 +79,63 @@ tags:
             </p>
         </article>
         <article class="post redes-post">
+            <a href="https://sadservers.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>SadServers</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/SadServers.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Simulación de escenarios realistas del trabajo que realiza un administrador de sistemas, al contrario que OverTheWire, permite correr un servidor en modo terminal en el propio navegador, similar a Leet code pero para DevOps de Linux. 
+                <br>
+                Master Linux & DevOps troubleshooting on live servers.Fun, real-world challenges for engineers and powerful assessments for hiring teams.
+            </p>
+        </article>
+        <article class="post redes-post">
+            <a href="https://cmdchallenge.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Command Challenge</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/cmdchallenge.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Plataforma web educativa gratuita y de código abierto diseñada para poner a prueba y mejorar tus habilidades con comandos en la terminal de Linux.
+            </p>
+        </article>
+        <article class="post redes-post">
+            <a href="https://picoctf.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Pico CTF</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/PICOCTF.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Plataforma gratuita de retos, de la Academia de ciberseguridad Cylab de la universidad Mellon.
+                Diseñada para aprender desde los fundamentos de la seguridad hasta  AI security, blockchain integrity... 
+            </p>
+        </article>
+        <article class="post redes-post">
+            <a href="https://microcorruption.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Microcorruption</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Microcorruption.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Plataforma centrada en aprender hacking de bajo nivel, para entencer conceptos como memoria, registros, ejecución...  
+            </p>
+        </article>
+        </article>" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Terminus</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Terminus.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Juego de terminal en el que hay que interactuar usando comandos de Unix/Linux  
+            </p>
+        </article>
+        <article class="post redes-post">
             <a href="https://naseros.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>CLOCKWORK COMPUTER</b></h2>
             <img src="https://clockworkcomputerip.blogspot.com/CloclkworkC.png" class="img-post">
