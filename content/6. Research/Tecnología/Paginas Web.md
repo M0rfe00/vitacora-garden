@@ -139,7 +139,7 @@ tags:
         <article class="post redes-post">
             <a href="https://clockworkcomputerip.blogspot.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>CLOCKWORK COMPUTER</b></h2>
-            <img src="https://clockworkcomputerip.blogspot.com/Clockwork.png" class="img-post">
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Clockwork.png" class="img-post">
         </a>
             <p class="info-post">
             </p>
@@ -150,7 +150,7 @@ tags:
                 <article class="post programacion-post">
             <a href="https://google-gruyere.appspot.com/">
                 <h2 class="titulo-post">Gruyere Codelab</h2>
-            <img src="https://clockworkcomputerip.blogspot.com/Gruyere.png" class="img-post">
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Gruyere.png" class="img-post">
         </a>
             <p class="info-post">
             </p>
