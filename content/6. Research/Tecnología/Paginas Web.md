@@ -125,7 +125,7 @@ tags:
                 Plataforma centrada en aprender hacking de bajo nivel, para entencer conceptos como memoria, registros, ejecución...  
             </p>
         </article>
-        </article>" class="enlace-post" target="_blank">
+        <article>" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Terminus</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Terminus.png" class="img-post">
         </a>
