@@ -125,7 +125,8 @@ tags:
                 Plataforma centrada en aprender hacking de bajo nivel, para entencer conceptos como memoria, registros, ejecución...  
             </p>
         </article>
-        <article>" class="enlace-post" target="_blank">
+        <article class="post redes-post">
+        <a href="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Terminus</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Terminus.png" class="img-post">
         </a>
@@ -136,9 +137,9 @@ tags:
             </p>
         </article>
         <article class="post redes-post">
-            <a href="https://naseros.com/" class="enlace-post" target="_blank">
+            <a href="https://clockworkcomputerip.blogspot.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>CLOCKWORK COMPUTER</b></h2>
-            <img src="https://clockworkcomputerip.blogspot.com/CloclkworkC.png" class="img-post">
+            <img src="https://clockworkcomputerip.blogspot.com/Clockwork.png" class="img-post">
         </a>
             <p class="info-post">
             </p>
@@ -149,7 +150,7 @@ tags:
                 <article class="post programacion-post">
             <a href="https://google-gruyere.appspot.com/">
                 <h2 class="titulo-post">Gruyere Codelab</h2>
-            <img src="N/A" class="img-post">
+            <img src="https://clockworkcomputerip.blogspot.com/Gruyere.png" class="img-post">
         </a>
             <p class="info-post">
             </p>
