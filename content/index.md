@@ -52,7 +52,7 @@ ___
 <div class="newsletter-grid">
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Fashion/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/fashion theory.png" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -63,7 +63,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Design/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/RedWhite.png" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -74,7 +74,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Poetry/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/Poetry.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -85,7 +85,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Foto--and--Video/Fotograf%C3%ADa/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/camera basics.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -96,7 +96,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Foto--and--Video/Video/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/video editing.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -107,7 +107,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Semi%C3%B3tica/ART-HISTORY/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/Art History.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -118,7 +118,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Makeup/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/4 Seasons Temperature+Light.PNG" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -129,7 +129,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Handpoke/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/Handpoke.png" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -140,7 +140,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Semi%C3%B3tica/COLOR/0.-Color-Palettes" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/Colorpalettes.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -151,7 +151,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Semi%C3%B3tica/SIGNOS/Floriograf%C3%ADa" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/floriography.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -162,7 +162,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Semi%C3%B3tica/COLOR/Armonias/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/ColorInFilm.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -173,7 +173,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Semi%C3%B3tica/ASTROS/Orientaci%C3%B3n-estelar" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/20251014223624.png" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -184,7 +184,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Semi%C3%B3tica/ASTROS/Firmamento" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/lepus.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
@@ -195,7 +195,7 @@ ___
   </div>
 
   <div class="project-card">
-    <a href="Card Deck" class="project-link">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Tecnolog%C3%ADa/2.-LINUX/" class="project-link">
       <div class="project-image-wrapper">
         <img src="../media-content/Diario/thumbnails/Linux.jpg" alt="Promotional Card Deck">
         <div class="project-overlay">
