@@ -205,6 +205,39 @@ ___
     </a>
   </div>
 
+  <div class="project-card">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Tecnolog%C3%ADa/3.-WINDOWS/" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/windows.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Windows</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+<div class="project-card">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Tecnolog%C3%ADa/IA/" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/AI.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>A.I.</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
+<div class="project-card">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Tecnolog%C3%ADa/1.-TEORIA-SMR/" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/computerscience.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Computer Science</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
 </div>
 <br>
 
