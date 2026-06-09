@@ -51,6 +51,17 @@ ___
 
 <div class="newsletter-grid">
 
+ <div class="project-card">
+    <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Tecnolog%C3%ADa/Jardines-digitales" class="project-link">
+      <div class="project-image-wrapper">
+        <img src="../media-content/Diario/thumbnails/digitalgarden.jpg" alt="Promotional Card Deck">
+        <div class="project-overlay">
+          <h3>Digital Gardens</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+
   <div class="project-card">
     <a href="https://m0rfe00.github.io/vitacora-garden/6.-Research/Fashion/" class="project-link">
       <div class="project-image-wrapper">
