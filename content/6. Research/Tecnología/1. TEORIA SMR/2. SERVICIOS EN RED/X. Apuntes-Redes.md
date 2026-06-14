@@ -3,7 +3,7 @@ tags:
   - Informática
   - Teoria
 ---
-## **Direccionamiento IP:**
+# **Direccionamiento IP:**
 ___
 - Vamos a repasar como hacer el direccionamiento de red y a dar algunos consejos para ello.
 
@@ -86,13 +86,13 @@ Un truco para memorizar el N.º de bits de red de cada clase sirve fijarse que s
 
 
 
-## **Crear subredes**
+# **Crear subredes**
 ___
 Crear subredes consiste en alterar los bits de la máscara y modificar la dirección de red para obtener una nueva dirección de red que dé cabida a un número determinado de host dentro de la red o crear una cantidad determinada de subredes a partir de la dirección original.
 
 
 ## **Crear subredes teniendo en cuenta el número de host/equipos:**
-
+___
 - Si nos piden crear una subred que dé cabida a un determinado número de host debemos modificar el número los bits de host de la máscara para obtener una dirección que dé cabida a la cantidad solicitada
 
 - Para calcular el número de bits de host necesarios para dar cabida a una determinada cantidad de host sirve la siguiente formula:
@@ -113,7 +113,7 @@ Crear subredes consiste en alterar los bits de la máscara y modificar la direcc
  
 
 ## **Crear subredes teniendo en cuenta el número de subredes:**
-
+___
 - Si nos dan una dirección IP y nos piden crear un número determinado de subredes a partir de ella, debemos modificar el número de bits de red y host, para calcular el número de bits necesarios para crear un número determinado de subredes utilizamos la formula:
 
 - N.º bits 2 = N.º de subredes
@@ -129,7 +129,7 @@ Crear subredes consiste en alterar los bits de la máscara y modificar la direcc
 
 
 ## **Crear redes desde 0**
-
+___
 - En caso de que nos soliciten crear una red a partir de la cual trabajar, deberemos crearla nosotros mismos
 
 - Para ello debemos tener en cuenta el número de equipos que queremos dar cabida
@@ -163,8 +163,8 @@ Crear subredes consiste en alterar los bits de la máscara y modificar la direcc
 | **D. Broadcast**     | 182.168.20.63/26    |
 
 
-## **Intervalo entre Subredes:**
-
+# **Intervalo entre Subredes:**
+___
 - Distancia numérica entre subredes creadas a partir de la misma dirección de red, es decir donde acaba una y empieza la siguiente, esto nos sirve para calcular el rango de asignación de direcciones IP y calcular de forma más ágil una subred en concreto
 
 - Para calcular el intervalo entre subredes, nos fijamos en tras que numero se ha quedado la frontera al hacer la subred a partid de una dirección de red
@@ -192,8 +192,8 @@ Crear subredes consiste en alterar los bits de la máscara y modificar la direcc
 
  
 
-## **Rango de asignación IP:**
-
+# **Rango de asignación IP:**
+___
 - Intervalo de direcciones IP asignables a host dentro de una red
 
 - Cogiendo como ejemplo la quinta subred del apartado anterior sabemos que su dirección de red es la: 128.80.80.0
@@ -213,8 +213,8 @@ Crear subredes consiste en alterar los bits de la máscara y modificar la direcc
 
  
 
-## **Porcentaje adicional (10%)**
-
+# **Porcentaje adicional (10%)**
+___
 - A la hora de crear subredes debemos tener en cuenta un 10% adicional a lo que nos pidan para evitar problemas
 
 	- A) Si nos piden crear 10 subredes deberemos crear un 10% adicional, en este caso serian 11 subredes
@@ -226,130 +226,9 @@ Crear subredes consiste en alterar los bits de la máscara y modificar la direcc
 		- A)     (10 x 10) /100 +10 = 11
 		- B)     (10 x 30) /100 + 30 = 33
 
-## **Ejercicios resueltos**
 
-### **Prueba DHCP, A**
-
-**Dada la dirección 192.158.20.0 crea subredes para almacenar 30 equipos en cada una de ellas, quédate con la primera**
-
-**Fijándonos en el primer octeto observamos que es una clase C, es decir tiene 3 octetos de red y 1 de host, /24**
-
-**Mascara: 11111111.11111111.11111111.00000000**
-
-**Nos piden 30 host, calculamos el 10% adicional, 33 host, para dar cabida a 33 host necesitamos 6 bits de host**
-
-**Mascara: 11111111.11111111.11111111.00000000**
-
-**Modificamos la mascara y el octeto correspondiente en la red**
-
-**Red anterior: 192.158.20.0/24**
-
-**Red actual:    192.158.20.0/26**
-
-| **Dirección de red** | **192.158.20.0/26**  |
-| -------------------- | -------------------- |
-| **Primer host**      | **192.158.20.1/26**  |
-| **Ultimo host**      | **192.158.20.62/26** |
-| **D. Broadcast**     | **192.158.20.63/26** |
-
-### **Prueba DHCP Instituto**
-
-**Dada la dirección 192.168.200.0, haz 6 subredes y quédate con la segunda**
-
-**La IP es una clase C, /24**
-
-**Mascara: 11111111.11111111.11111111.00000000**
-
-**Nos piden 6 subredes, calculando el 10% adicional tenemos que crear 7 subredes**
-
-**Para crear 7 subredes necesitamos 3 bits**
-
-**Modificamos la dirección de red y la mascara**
-
-**Mascara: 11111111.11111111.11111111.00000000**
-
-**Para sacar la segunda multiplicar 2 por 32   = 64**
-
-**(numero de la subred por el intervalo entre subredes)**
-
-**Red anterior: 192.168.200.0/24**
-
-**Segunda subred: 192.168.200.32/27**
-
-| **Dirección de red** | **192.168.200.32/27** |
-| -------------------- | --------------------- |
-| **Primer host**      | **192.168.200.32/27** |
-| **Ultimo host**      | **192.158.20.62/27**  |
-| **D. Broadcast**     | **192.158.20.63/27**  |
-
-### **Ejercicio DHCP y DNS Windows, A**
-
-**Dada la dirección 176.143.0.0 realiza 10 subredes, quédate con la cuarta**
-
-**Fijándonos en el primer octeto observamos que es una clase B, es decir tiene 2 octetos de red y 2 octetos de host**
-
-**Mascara: 11111111.11111111.00000000.00000000**
-
-**Nos piden 10 subredes, calculando el 10% adicional tenemos que obtener 11 subredes**
-
-**Para crear 11 subredes necesitamos 4 bits**
-
-**Modificamos la dirección de red y la mascara**
-
-**Mascara: 11111111.11111111.00000000.00000000**
-
-**Observamos al quedarnos con el cuarto bit, que equivale a 16 y queremos obtener la cuarta subred multiplicamos 16 x 4**
-
-**(intervalo entre subredes por el numero de la subred)**
-
-**Modificamos el octeto correspondiente, en este caso el tercero e introducimos el valor que hemos obtenido al calcular la cuarta subred (64.0)**
-
-**Al modificar 4 bits se los añadimos a la máscara, pasando de /16 a /20**
-
-**Red anterior: 176.143.0.0/16**
-
-**Segunda subred: 176.143.64.0/20**
-
-| **Dirección de red** | **176.143.64.0/20**   |
-| -------------------- | --------------------- |
-| **Primer host**      | **176.143.64.1/20**   |
-| **Ultimo host**      | **176.143.79.255/20** |
-| **D. Broadcast**     | **176.143.79.256/20** |
-
-### **Ejercicio DHCP, DNS y WEB**
-
-**Dada la dirección 172.124.1.5 crea 12 subredes, quédate con la tercera**
-
-**Es una clase B, /16**
-
-**Mascara: 11111111.1111111.00000000.00000000**
-
-**Para crear 16 subredes necesitamos 4 bits**
-
-**Modificamos la dirección de red y la mascara**
-
-**Mascara: 11111111.1111111.00000000.00000000**
-
-**Para obtener la cuarta subred multiplicamos 4 por 16 = 64**
-
-**(intervalo entre subredes por el numero de la subred)**
-
-**Modificamos el octeto correspondiente, en este caso el tercero y cuarto e introducimos el valor que hemos obtenido al calcular la cuarta subred (64.0)**
-
-**Al modificar 4 bits se los añadimos a la máscara, pasando de /16 a /20**
-
-**Red anterior: 172.124.1.5/16**
-
-**Segunda subred: 172.124.64.0/20**
-
-| **Dirección de red** | **172.124.64.0/20**   |
-| -------------------- | --------------------- |
-| **Primer host**      | **172.124.64.1/20**   |
-| **Ultimo host**      | **172.124.79.255/20** |
-| **D. Broadcast**     | **172.124.79.256/20** |
-
-### **Modelo TCP/IP**
-
+# **Modelo TCP/IP**
+___
 **Es un modelo arquitectónico de redes de ordenadores basado en capas o niveles,**
 
 **Surgió como mejora del modelo OSI**
@@ -403,3 +282,125 @@ Van desde el 49152 hasta el 65535 y son unos puertos temporales de usar y tirar 
 | **Bien conocidos** | **0**     | **1023**  |
 | **Registrados**    | **1024**  | **49151** |
 | **Efímeros**       | **49151** | **65535** |
+
+
+
+
+# **Ejercicios resueltos**
+___
+### **Prueba DHCP, A**
+**Dada la dirección 192.158.20.0 crea subredes para almacenar 30 equipos en cada una de ellas, quédate con la primera**
+___
+**Fijándonos en el primer octeto observamos que es una clase C, es decir tiene 3 octetos de red y 1 de host, /24**
+
+**Mascara: 11111111.11111111.11111111.00000000**
+
+**Nos piden 30 host, calculamos el 10% adicional, 33 host, para dar cabida a 33 host necesitamos 6 bits de host**
+
+**Mascara: 11111111.11111111.11111111.00000000**
+
+**Modificamos la mascara y el octeto correspondiente en la red**
+
+**Red anterior: 192.158.20.0/24**
+
+**Red actual:    192.158.20.0/26**
+
+| **Dirección de red** | **192.158.20.0/26**  |
+| -------------------- | -------------------- |
+| **Primer host**      | **192.158.20.1/26**  |
+| **Ultimo host**      | **192.158.20.62/26** |
+| **D. Broadcast**     | **192.158.20.63/26** |
+
+### **Prueba DHCP Instituto**
+**Dada la dirección 192.168.200.0, haz 6 subredes y quédate con la segunda**
+___
+**La IP es una clase C, /24**
+
+**Mascara: 11111111.11111111.11111111.00000000**
+
+**Nos piden 6 subredes, calculando el 10% adicional tenemos que crear 7 subredes**
+
+**Para crear 7 subredes necesitamos 3 bits**
+
+**Modificamos la dirección de red y la mascara**
+
+**Mascara: 11111111.11111111.11111111.00000000**
+
+**Para sacar la segunda multiplicar 2 por 32   = 64**
+
+**(numero de la subred por el intervalo entre subredes)**
+
+**Red anterior: 192.168.200.0/24**
+
+**Segunda subred: 192.168.200.32/27**
+
+| **Dirección de red** | **192.168.200.32/27** |
+| -------------------- | --------------------- |
+| **Primer host**      | **192.168.200.32/27** |
+| **Ultimo host**      | **192.158.20.62/27**  |
+| **D. Broadcast**     | **192.158.20.63/27**  |
+
+### **Ejercicio DHCP y DNS Windows, A**
+**Dada la dirección 176.143.0.0 realiza 10 subredes, quédate con la cuarta**
+___
+**Fijándonos en el primer octeto observamos que es una clase B, es decir tiene 2 octetos de red y 2 octetos de host**
+
+**Mascara: 11111111.11111111.00000000.00000000**
+
+**Nos piden 10 subredes, calculando el 10% adicional tenemos que obtener 11 subredes**
+
+**Para crear 11 subredes necesitamos 4 bits**
+
+**Modificamos la dirección de red y la mascara**
+
+**Mascara: 11111111.11111111.00000000.00000000**
+
+**Observamos al quedarnos con el cuarto bit, que equivale a 16 y queremos obtener la cuarta subred multiplicamos 16 x 4**
+
+**(intervalo entre subredes por el numero de la subred)**
+
+**Modificamos el octeto correspondiente, en este caso el tercero e introducimos el valor que hemos obtenido al calcular la cuarta subred (64.0)**
+
+**Al modificar 4 bits se los añadimos a la máscara, pasando de /16 a /20**
+
+**Red anterior: 176.143.0.0/16**
+
+**Segunda subred: 176.143.64.0/20**
+
+| **Dirección de red** | **176.143.64.0/20**   |
+| -------------------- | --------------------- |
+| **Primer host**      | **176.143.64.1/20**   |
+| **Ultimo host**      | **176.143.79.255/20** |
+| **D. Broadcast**     | **176.143.79.256/20** |
+
+### **Ejercicio DHCP, DNS y WEB**
+**Dada la dirección 172.124.1.5 crea 12 subredes, quédate con la tercera**
+___
+**Es una clase B, /16**
+
+**Mascara: 11111111.1111111.00000000.00000000**
+
+**Para crear 16 subredes necesitamos 4 bits**
+
+**Modificamos la dirección de red y la mascara**
+
+**Mascara: 11111111.1111111.00000000.00000000**
+
+**Para obtener la cuarta subred multiplicamos 4 por 16 = 64**
+
+**(intervalo entre subredes por el numero de la subred)**
+
+**Modificamos el octeto correspondiente, en este caso el tercero y cuarto e introducimos el valor que hemos obtenido al calcular la cuarta subred (64.0)**
+
+**Al modificar 4 bits se los añadimos a la máscara, pasando de /16 a /20**
+
+**Red anterior: 172.124.1.5/16**
+
+**Segunda subred: 172.124.64.0/20**
+
+| **Dirección de red** | **172.124.64.0/20**   |
+| -------------------- | --------------------- |
+| **Primer host**      | **172.124.64.1/20**   |
+| **Ultimo host**      | **172.124.79.255/20** |
+| **D. Broadcast**     | **172.124.79.256/20** |
+

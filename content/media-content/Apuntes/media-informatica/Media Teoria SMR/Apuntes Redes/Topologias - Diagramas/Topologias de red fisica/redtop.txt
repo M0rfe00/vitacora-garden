@@ -1,0 +1,18 @@
+1º 3 direccion 2 comercial
+
+2º 4 comercial 1 direccion 2 soporte tecnico
+
+3º 7 soporte tecnico 1 direccion 1 almacen
+
+4º 1 soporte tecnico 1 direccion 1 almacen 1 comercial
+
+
+
+
+
+
+Cableado/Vlanes/IP
+
+IP= 192.168.
+
+Vlan: Direccion=2 Comercial=3 Soporte=4 Almacen=5
