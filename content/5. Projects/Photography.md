@@ -3,7 +3,7 @@ ___
 <div class="galeria">
 <!--<img loading= "lazy" src="../media-content/galeria/2024/1752587004373.jpg" alt="">-->
 <img loading= "lazy" src="../media-content/galeria/2026/IMG_0926.JPG" alt="">
-<img loading= "lazy" src="../media-content/galeria/2026/" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/DJI_20260430133754_0033_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2026/IMG_0890.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2026/DJI_20260422195049_0194_D-2.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2026/IMG_0769-2.JPG" alt="">
