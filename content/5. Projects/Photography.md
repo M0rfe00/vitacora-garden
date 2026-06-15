@@ -1,6 +1,35 @@
+# 2026
+___
+<div class="galeria">
+<!--<img loading= "lazy" src="../media-content/galeria/2024/1752587004373.jpg" alt="">-->
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0926.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0890.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/DJI_20260422195049_0194_D-2.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0769-2.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0760-2.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0726.JPEG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0540-2.JPEG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0602.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0499.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0657.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0311.JPEG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0263.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/DJI_20260304000934_0044_D.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/DJI_20260304000335_0038_D.JPG" alt="">
+</div>
+
+
+
+
 # 2025
 ___
 <div class="galeria">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0112.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/DJI_20251023160256_0087_D.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/DJI_20251023160155_0069_D.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0066.JPG" alt="">
+<img loading= "lazy" src="../media-content/galeria/2026/IMG_0027.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250905003312_0035_D_2.png" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DJI_20250903203403_0021_D.JPG" alt="">
 <img loading= "lazy" src="../media-content/galeria/2025/DSC02129.JPG" alt="">
