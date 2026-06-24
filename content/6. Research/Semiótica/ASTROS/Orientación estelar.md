@@ -26,13 +26,13 @@ Al estar tan cerca del eje de rotación permite saber que al dirigirse hacia ell
 
 Es la cola de la osa menor
 <img
-  src="../media-content/astronomia/20251014223537.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014223537.png"
   alt="OsaMayor"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 Aunque habitualmente se utiliza la osa mayor para ubicarla
 <img
-  src="../media-content/astronomia/20251014223624.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014223624.png"
   alt="5veces"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -41,14 +41,14 @@ Aunque habitualmente se utiliza la osa mayor para ubicarla
 ## **Cefeo:** 
 Teniendo localizada Polaris, la punta de la osa menor, inclinado hacia el mango del cazo se encuentra Cefeo, constelación en forma de casa.
 <img
-  src="../media-content/astronomia/20251014223929.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014223929.png"
   alt="Cefeo"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Con buenas condiciones puede observarse una estrella anaranjada.
 <img
-  src="../media-content/astronomia/20251014224109.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014224109.png"
   alt="Cefeo2"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -56,7 +56,7 @@ Con buenas condiciones puede observarse una estrella anaranjada.
 ## **El dragón:** 
 entre las dos osas se encuentra la cola de la constelación del draco
 <img
-  src="../media-content/astronomia/20251014224322.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014224322.png"
   alt="El dragon"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -65,7 +65,7 @@ Alcor en si mismo, es un sistema binario, mientras que Mizar es un sistema cuád
 
 
 <img
-  src="../media-content/astronomia/20251014224346.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014224346.png"
   alt="El dragon"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -74,13 +74,13 @@ Alcor en si mismo, es un sistema binario, mientras que Mizar es un sistema cuád
 Utilizando la cabeza del dragón como referencia se puede encontrar a Cefeo.
 
 <img
-  src="../media-content/astronomia/20251014225339.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225339.png"
   alt="El dragon"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 Al otro lado, se encuentran unas estrellas que forman un semicirculo, la Corona boreal.
 <img
-  src="../media-content/astronomia/20251014225505.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225505.png"
   alt="El dragon"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -89,7 +89,7 @@ Al otro lado, se encuentran unas estrellas que forman un semicirculo, la Corona 
 ## **Hercules:** 
 entre la cabeza del dragón y la corona se puede identificar un cuadrado, el cual es el cuerpo de Hércules
 <img
-  src="../media-content/astronomia/20251014225536.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225536.png"
   alt="Hercules"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -97,7 +97,7 @@ entre la cabeza del dragón y la corona se puede identificar un cuadrado, el cua
 
 Sobre el círculo puede llegar a apreciarse una especie de estrella borrosa, es el Cúmulo de Hércules
 <img
-  src="../media-content/astronomia/20251014225700.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225700.png"
   alt="Hercules"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -105,12 +105,12 @@ Sobre el círculo puede llegar a apreciarse una especie de estrella borrosa, es 
 
 Es un cúmulo globular, los cuales son grupos de miles de estrellas que se encuentran fuera del disco de la galaxia, orbitando dentro de su halo, suelen ser estructuras muy antiguas, estrellas formadas en las primeras etapas de nuestra galaxia
 <img
-  src="../media-content/astronomia/20251014225750.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225750.png"
   alt="Hercules"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/astronomia/20251014225904.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225904.png"
   alt="Hercules"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -124,7 +124,7 @@ ___
 ## **Orión:** 
 Las estrellas de su cinturón son muy brillantes e identificables, y Betelgeuse, una gigante roja en su hombro también puede ayudar.
 <img
-  src="../media-content/astronomia/20251014230038.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230038.png"
   alt="Hercules"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -132,14 +132,14 @@ Las estrellas de su cinturón son muy brillantes e identificables, y Betelgeuse,
 ## **Tauro:** 
 Frente a Orión se encuentra otra gigante roja, Aldebarán.
 <img
-  src="../media-content/astronomia/20251014230232.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230232.png"
   alt="Tauro"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 
 Aldebarán forma parte de la cabeza del toro, pudiendo trazar los cuernos con las estrellas cercanas
 <img
-  src="../media-content/astronomia/20251014230301.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230301.png"
   alt="Aldebarán"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -147,12 +147,12 @@ Aldebarán forma parte de la cabeza del toro, pudiendo trazar los cuernos con la
 ## **Pléyades:** 
 Tras Tauro se encuentran las Pléyades, un grupo de estrellas muy pegadas.
 <img
-  src="../media-content/astronomia/20251014230439.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230439.png"
   alt="Pleyades"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/astronomia/20251014230534.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230534.png"
   alt="Pleyades"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -161,7 +161,7 @@ Tras Tauro se encuentran las Pléyades, un grupo de estrellas muy pegadas.
 ## **Casiopea:** 
 Cerca de Cefeo se encuentra Casiopea, la cual puede aparecer en forma de W o M
 <img
-  src="../media-content/astronomia/20251014230701.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230701.png"
   alt="Casiopea"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -171,12 +171,12 @@ Cerca de Cefeo se encuentra Casiopea, la cual puede aparecer en forma de W o M
 ## **Vía Láctea:** 
 Tras Casiopea puede observarse una zona más iluminada en el firmamento, es nuestra propia galaxia vista de perfil, el brillo acumulado de las millones de estrellas de la galaxia apagado por su lejanía, en el ecuador y hemisferio sur puede observarse con mayor detalle
 <img
-  src="../media-content/astronomia/20251014230744.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014230744.png"
   alt="ViaLactea"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/astronomia/20251014231049.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014231049.png"
   alt="ViaLactea"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -184,7 +184,7 @@ Tras Casiopea puede observarse una zona más iluminada en el firmamento, es nues
 
 Uniendo el borde del carro con el medio de Casiopea se encuentra a la mitad la estrella polar
 <img
-  src="../media-content/astronomia/20251014232736.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014232736.png"
   alt="ViaLactea"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -197,7 +197,7 @@ ____
 ## **La cruz del sur:** 
 aunque en el hemisferio sur no hay una estrella justo en el sur celeste, se puede localizar utilizando la cruz del sur, cogiendo su eje mayor y prolongándolo 4,5 veces
 <img
-  src="../media-content/astronomia/20251014223827.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014223827.png"
   alt="Cruz del sur"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -206,7 +206,7 @@ aunque en el hemisferio sur no hay una estrella justo en el sur celeste, se pued
 ## **Centauro:** 
 Poniendo la cruz del sur recta, prologando su eje menor a la izquierda, se encuentran dos estrellas muy brillantes, Beta y Centauri, la estrella más cercana a la tierra.
 <img
-  src="../media-content/astronomia/20251014224837.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014224837.png"
   alt="Centauro"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -214,7 +214,7 @@ Poniendo la cruz del sur recta, prologando su eje menor a la izquierda, se encue
 
 Beta y Centauri son las patas delanteras de la constelación del centauro.
 <img
-  src="../media-content/astronomia/20251014224941.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014224941.png"
   alt="BetaCentauri"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -223,7 +223,7 @@ Beta y Centauri son las patas delanteras de la constelación del centauro.
 ## **Escorpio:** 
 Siguiendo la mirada del centauro se encuentra una estrella brillante y anaranjada, Antares
 <img
-  src="../media-content/astronomia/20251014224956.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014224956.png"
   alt="Escorpio"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -231,7 +231,7 @@ Siguiendo la mirada del centauro se encuentra una estrella brillante y anaranjad
 
 Antares es el torso de la constelación de escorpio
 <img
-  src="../media-content/astronomia/20251014225138.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014225138.png"
   alt="Antares"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -257,7 +257,7 @@ es muy fácil de ver en verano, pareciendo una taza de té derramándose sobre l
 ## **Planetas:** 
 En la eclíptica también se encuentran los planetas.
 <img
-  src="../media-content/astronomia/20251014233833.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014233833.png"
   alt="PlanetasEliptica"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
@@ -266,17 +266,17 @@ En la eclíptica también se encuentran los planetas.
 ___
 Representaciones de como el sol tapa las estaciones según la estación
 <img
-  src="../media-content/astronomia/20251014233214.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014233214.png"
   alt="PlanetasEliptica"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/astronomia/20251014233238.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014233238.png"
   alt="PlanetasEliptica"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
 <img
-  src="../media-content/astronomia/20251014233258.png"
+  src="../media-content/Research/Simbologia/astronomia/20251014233258.png"
   alt="PlanetasEliptica"
   style="margin: 0 auto; padding: 0; width: 100%; height: auto;"
 />
