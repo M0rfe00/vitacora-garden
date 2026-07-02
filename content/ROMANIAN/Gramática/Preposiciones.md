@@ -1,6 +1,5 @@
-# Preposiciones  
-##   
-## Preposiciones de Lugar y Dirección  
+# Preposiciones de Lugar y Dirección  
+___
 Estas preposiciones te ayudan a orientarte por la ciudad o ubicar objetos: [++[1](https://www.youtube.com/watch?v=aQfloStG06w&t=4)++]  
 * **==În==**: ==En== / ==Hacia==. (Ej: *în Brașov* / En Brașov).  
 * **==La==**: ==A== / ==Hacia==. Usado frecuentemente para indicar dirección o ir a casa de alguien. (Ej: *mergem la restaurant* / vamos al restaurante).  
@@ -10,14 +9,16 @@ Estas preposiciones te ayudan a orientarte por la ciudad o ubicar objetos: [++[1
 * **==Între==**: ==Entre==.  
 * **==În fața / În spatele==**==:== ==Delante de== / ==Detrás de==. [++[1](https://www.lingohut.com/es/v714982/lecciones-de-rumano-las-preposiciones)++, ++[2](https://www.youtube.com/watch?v=kYlaA9S7jC4&t=129)++, ++[3](https://www.youtube.com/watch?v=00K36z_MBI8&t=13)++, ++[4](https://www.youtube.com/watch?v=aQfloStG06w&t=4)++]  
   
-## Preposiciones de Tiempo y Origen  
+# Preposiciones de Tiempo y Origen  
+___
 * **==De==**: ==De== (desde).  
 * **==Pentru==**: ==Para==.  
 * **==După==**: ==Después==.  
 * **==Până==**: ==Hasta==.  
 * **==Dincolo de==**: ==Más allá de==. [++[1](https://www.lingohut.com/es/v714982/lecciones-de-rumano-las-preposiciones)++, ++[2](https://www.lingohut.com/es/v714983/lecciones-de-rumano-las-preposiciones-comunes)++, ++[3](https://forum.wordreference.com/threads/cuales-son-las-preposiciones-en-rumano.1274636/)++, ++[4](http://ilanguages.org/es/romanian_grammar.php)++, ++[5](https://www.reddit.com/r/romanian/comments/1b0j27a/origin_prepositions_in_romanian_an_intro/?tl=es-419)++]  
   
-## Preposiciones de Compañía e Instrumento  
+# Preposiciones de Compañía e Instrumento  
+___
 * **==Cu==**: ==Con==. (Ej: *cu mașina* / en coche).  
 * **==Fără==**: ==Sin==.  
 * **==De la==**: ==Desde==. [++[1](https://forum.wordreference.com/threads/cuales-son-las-preposiciones-en-rumano.1274636/)++, ++[2](http://ilanguages.org/es/romanian_grammar.php)++]  
@@ -25,6 +26,7 @@ Estas preposiciones te ayudan a orientarte por la ciudad o ubicar objetos: [++[1
   
   
 # Preposición PE  
+___
 Pe: Se refiere a la superficie de un objeto o lugar  
 Cu: indica una asociación  
 "Spre" y "La": Indican dirección  
@@ -74,6 +76,7 @@ Pe maîne - Hasta mañana
   
   
 # Preposición CU  
+___
 Principalmente tiene valores asociativos e intrumentales  
   
 Asociativo  
@@ -126,6 +129,7 @@ Cu bine - Que vaya bien!
   
   
 # Preposición LA  
+___
 La (hacia, al, a la)  
 Până la (hasta)  
 Indican una dirección concreta o establecen un contacto entre dos objetos entre tiempo y espacio  
@@ -210,7 +214,7 @@ La revedere - Adios
   
   
 # Preposición DE  
-  
+___
 +Expresa los materiales de los que esta hecho un objeto  
   
 Masa de este lemn - La mesa es de madera  
@@ -259,3 +263,61 @@ De moarte - Terriblemente
 De minune - Maravillosamente, admirablemente  
   
 Mă înteleg de minune/de moarte cu soacra mea - Me entiendo maravillosamente/terriblemente con mi suegra  
+
+
+# Pentru (Por/Para)
+___
+### Finalidad o utilizad de un sustantivo:
+Trebuie să rezerv un hotel pentru vacanță/concediu.
+Tengo que reservar un hotel para las vacaciones.
+
+Sacul de dormit este pentru excursia la munte.
+El saco de dormir es para la excursión a la montaña.
+
+### Finalidad de una acción:
+Vin pentru a cumpăra - Vengo a compeae.
+Învață pentru a ști - Aprende para saber.
+
+
+Cumpăr ochelari pentru a vedea mai bine.
+Compro gafas para ver mejor.
+
+Merg la cofetărie pentru a cumpăra un tort.
+Voy a la pastelería a comprar una tarta.
+
+Merg la farmacie pentru a cumpăra medicamente și o cremă.
+Voy a la farmacia para comprar medicamentos y una crema.
+
+### Fecha limite de un trabajo:
+Pentru când îți trebuie tortul? - Para cuándo necesitar la tarta?
+Îmi trebuie pentru petrecerea de azi. - La necesito para la fiesta de hoy.
+
+### Opinión:
+Pentru mine, e mai bine așa
+Para mi es mejor así.
+
+### Destinatario de una acción:
+Cumpăr un cadou pentru mine/tine/el/ea...
+Compro un regalo para mí/ti/él/ella...
+
+### Vinculo entre un sustantivo y su determinante:
+Am nevoie de cremă pentry/de pantofi.
+Necesito crema de zapatos.
+
+Am nevoie de un taxi pentru aeroport.
+NEcesito un taxi para el aeropuerto.
+
+### Pentru că / Porque (Respuesta)
+De ce nu vii la plajă? - Por qué no vienes a la playa?
+Pentru că sunt prea obosit.  - Porque estoy muy cansado
+
+Cum de vorbești așa bine românește? - Como es que hablas tan bien el rumano?
+Pentru că îmi place și mi se pare ușor. - Porque me gusta y me parece fácil.
+
+### Agradecer un servicio/favor.
+Mulțumesc pentru masă - Gracias por la comida.
+Mulțumesc pentru tot - Gracias por todo
+
+### Pentru + Adv. = Por
+(Azi, mâine, săptămâna aceasta, anul aceasta, etc...)
+Aste e tot pentru azi - Esto es todo por hoy
