@@ -5,7 +5,7 @@ El zapatero tiene una zapateria donde arregla botas y botitas
   
   
 ## ==#Ce==  
-==Ceea ce cereau cercetătorii ceruse și cetățenul pierdut în ceață==  
+==Ceea ce cereau cercetătorii ceruse și cetățeanul pierdut în ceață==  
   
 Lo que pedían los investigadores había pedido también el ciudadano perdido en la niebla  
   
@@ -16,7 +16,7 @@ La gallina pone nueve huevos: nueve huevos para nosotros
   
   
 ## ==#Â==  
-==Cântecul cântat de cântãreața încâtãtoare încântã cântãrețul încântat de cântarea cântãreștei==  
+==Cântecul cântat de cântãreața încântãtoare încântã cântãrețul încântat de cântarea cântãreței==  
 La canción cantada por la cantante encantadora encantó al cantante encantado por la canción de la cantante  
   
 ## ==#B/V==  
@@ -24,7 +24,7 @@ La canción cantada por la cantante encantadora encantó al cantante encantado p
 Una cigüeña animosa hace ruido, encima de una col  
   
 ## ==#H==  
-==Hohoteau hăhpind dihăniile cu lehamite jucând șah==  
+==Hohoteau hăhăind dihaniile cu lehamite jucând șah==  
 Rugian "jaja" los monstruos con disgusto, mientras jugaban al ajederez  
   
   
@@ -33,14 +33,14 @@ Rugian "jaja" los monstruos con disgusto, mientras jugaban al ajederez
 Mojados y patéticos, jóvenes apuñalados se sacrificaban en filas  
   
 ## ==#Ș==  
-==Șarpele, șerpoaica și șerpișorul șerpuiesc șerpuitor spre eleșteu==  
+==Șarpele, șerpoaica și șerpișorul șerpuiesc șerpuitor spre heleșteu==  
 La serpiente macho, la serpiente hembra y la cría se arrastran con ondulaciones hacia el estanque  
   
 ## ==#Ț==  
-==E prestrița prepelița pestrița, dar mai pestriți sunt puii prepeliței pestrițe==  
+==E pestriță prepelița pestriță, dar mai pestriți sunt puii prepeliței pestrițe==  
 Está jaspeada la codorniz jaspeada, pero los polluelos de la codorniz jaspeada estan aún más jaspeados  
   
-==Țântarul soț însoți soața țanțãreasã, țanțãrind și înțepând nesãțios==  
+==Țânțarul soț însoți soața țânțãreasã, țânțãrind și înțepând nesãțios==  
 El marido mosquito acompañó a la mujer mosquito, mosquiteando y picando insaciablemente  
   
   

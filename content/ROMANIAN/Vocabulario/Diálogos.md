@@ -18,10 +18,16 @@ ___
 ___
 +Bună seara! Mă numesc Lucas sanz / Buenas tardes! Me llamo Lucas sanz  
 -Bună seara! Aveți rezervare - Buenas! ¿Tiene reserva?  
-+Da am o cameră pentru o persoană rezervată pe numele meu. - Sì, tengo tengo una habitación para una persona a mi nombre.  
+
++Da am o cameră pentru o persoană rezervată pe numele meu. 
+-Sì, tengo tengo una habitación para una persona a mi nombre.  
+
 -Perfect, Aveți camera 208, la etjul doi. Poftiți cheia. - Perfecto, tiene la habitación 208, en la segunda planta, aquí tiene la llave.  
+
 +Unde e liftul - Donde esta el ascensor?  
--Liftul e aici, la stânga. Ședere plăcută / El ascensor está aquí, a la izquierda, Que tenga una buena estancia!  
+
+-Liftul e aici, la stânga. Ședere plăcută
+-El ascensor está aquí, a la izquierda, Que tenga una buena estancia!  
   
   
 # ==Căutând un restaurant/Buscando un restaurante== 
@@ -67,7 +73,6 @@ Un capuchino
   
 Un ceai - Un te  
 O infuzie - Una infusión  
-  
   
 Apa plată - agua sin gas  
 Apa minerală - agua mineral  
@@ -135,7 +140,7 @@ ___
   
   
   
-# ==Spre aeroport/Yengo al aeropuerto==  
+# ==Spre aeroport/Yendo al aeropuerto==  
 ___
 +Cum pot ajunge la aeroport - Cómo puedo llegar al aeropuerto?  
 -E foarte târziu. Am nevoie urgentă de un texi sau de o mașina - Es muy tarde. Necesito ungentemente un taxi o un coche  
@@ -227,7 +232,8 @@ E foarte frig - hace mucho frio
   
 E ger  
   
-Mic-dejun la hotel/Desayuno en el Hotel  
+# ==Mic-dejun la hotel/Desayuno en el Hotel==  
+___
 Ce cameră aveți? - Que habitación tiene?  
 Camera 314 - La habitación 314  
   

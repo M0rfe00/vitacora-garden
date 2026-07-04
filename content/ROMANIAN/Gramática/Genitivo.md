@@ -11,8 +11,8 @@ El rumano tiene 5 casos; nominativo, acusativo, genitivo, vocativo, dativo
 Masculino singular  
   
 a) lui + nombre propio  
-causa lui Radu - La casa de Radu  
-Scaunlul lui adrian - La silla de Adrian  
+casa lui Radu - La casa de Radu  
+Scaunul lui adrian - La silla de Adrian  
   
   
 b) sustantivo común + -lui  
@@ -20,8 +20,8 @@ Culoarea tricoului - el color de la camiseta
 Mama băiatului - la madre del chico  
   
   
-Femenino singular  
-  
+## Femenino singular  
+___
 nombre propio o sustantivo + -ei  
 cartea Mariei - El libro de maria  
   
