@@ -26,7 +26,11 @@ Capu puli
 Aoleu  
 Futos fortimati   
 Nebun/ā  
-  
+Tu puți
+S-a duș dracu
+Băga-mi-aș
+Care-te
+Nu fuma, să-ți cadă pula
   
   
 ### Discusión  

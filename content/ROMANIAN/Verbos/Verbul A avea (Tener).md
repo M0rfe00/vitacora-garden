@@ -8,14 +8,14 @@ ___
 * Voi ==aveți==  
 * Ei/Ele ==au==  
   
-  
-* Ei au un coleg din Italia  
-* Cine are un bilet de autobuz  
-* Eu am un bilet în plus  
-* Voi aveți un frate  
-* El are un Computer nou  
-* Ele au timp acum  
-* Noi avem ora de limba română  
+  >[!Example] **Ejemplo**
+>* Ei au un coleg din Italia  
+>* Cine are un bilet de autobuz  
+>* Eu am un bilet în plus  
+>* Voi aveți un frate  
+>* El are un Computer nou  
+>* Ele au timp acum  
+>* Noi avem ora de limba română  
   
   
 ## FORMA NEGATIVA:  
@@ -27,10 +27,10 @@ ___
 * Voi ==nu aveți==  
 * Ei/Ele ==nu au==  
   
-  
-* Eu nu am bani  
-* Florin nu are timp suficient  
-* Ty nu ai un dicționar?  
+  >[!Example] **Ejemplo**
+>* Eu nu am bani  
+>* Florin nu are timp suficient  
+>* Ty nu ai un dicționar?  
   
   
 ### FORMA CORTA NEGATIVA:  
@@ -41,14 +41,15 @@ ___
 * Voi ==n-aveți (na-vetsi)==  
 * Ei/Ele ==n-au (nau)==  
   
-  
--Adriana are o mașină nouă  
-+Nu, ea n-are o mașină nouă  
-+Ea are o mașină veche  
-  
--Tu ai un dicționar  
-+N-am dicționar  
--Eu am o carte de gramatică  
+>[!Example] **Ejemplo**  
+>-Adriana are o mașină nouă  
+>+Nu, ea n-are o mașină nouă  
+>+Ea are o mașină veche  
+
+>[!Example] **Ejemplo**
+>-Tu ai un dicționar  
+>+N-am dicționar  
+>-Eu am o carte de gramatică  
   
   
 # Expresii cu Verbul "A avea"  

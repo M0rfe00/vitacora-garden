@@ -560,54 +560,8 @@ E aproape de birou - Esta cerca de la oficina
   
 E pe strada Mihai Eminescu - Esta la calle Mihai Eminescu  
   
-### Verbul A merger (Ir)  
-___
-Eu merg - Yo voy  
-Tu mergi - Tu vas  
-El/Ea merge - Él/Ella va  
+
   
-Noi mergem - Nosotros vamos  
-Voi mergeți - Vosotros vais  
-Ei/Ele merg - Ellos/Ellas van  
-  
-Merg la universitate - Voy a la universidad  
-Merg la bancă - Voy al banco  
-Merg la birou - Voy a la oficina  
-Merg la muzeu - Voy al museo  
-  
-Merg acasă - Voy a casa  
-  
-Unde mergi? - Dónde vas?  
-Merg la bar cu colegii, apoi merg la universitate - Voy al bar con compañeros, luego voy a la universidad  
-  
-Vin cu voi! - Voy con vosotros  
-Sunt vesel/ă - Estoy alegra  
-Mă simt minunat! - Me siento estupendamente  
-Hai să mergem! - Vamonos!  
-  
-# Conjución Dar  
-___
-Ce faci? - Que tal?  
-Bine, dar tu? - Bien y tu?  
-  
-Sunt obosit, dar ies cu tine - Estoy cansado pero salgo contigo  
-  
-Stau acasă - Me quedo en casa  
-Nu merg cu voi - No voy con vostros  
-Sunt bolnav/ă - Estoy enfermo/a  
-Sunt răcit/ă - Estoy resfriado  
-Am febră - Tengo fiebre  
-  
-+Vii în oraș - Sales por la ciudad?  
--Nu, nu pot - No, no puedo  
-+Ești răcit - Estas resfriado  
--Da, sunt puțin bolnav - Si, creo que tengo fiebre  
--Cred că am febră - Creo que tengo fiebre  
-  
-Sunt grăbit/ă - Tengo prisa  
-E deja târziu - Ya es tarde  
-Am foarte mult de studiat - Tengo mucho que estudiar  
-Nu am timp de nimic! - No tengo tiempo de nada  
 
 
 
@@ -625,12 +579,4 @@ Cine este în clasă? - Quien hay en clase?
   
 
 
-# ==Jurământul de credință pentru obținerea cetățeniei române==
-___
-Jur să fiu devotát patriei   
-și popórului român  
-să ápăr drépturile  
-și intéresele naționále  
-șă respéct Constitúția  
-și légile Româníei  
   
