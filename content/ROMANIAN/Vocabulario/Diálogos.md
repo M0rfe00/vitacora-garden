@@ -579,4 +579,98 @@ Cine este în clasă? - Quien hay en clase?
   
 
 
-  
+# TRADUCCIONES
+___
+Cel lalți bărbați citesc o carte acum
+El otro hombre esta leyendo un libro
+
+Acea fată cade din arbore/copac
+Esa chica esta cayendo del arbol
+
+Eu pot să văd pălăria Claudie
+Puedo ver el sombrero de Claudia
+
+Eu vreau să învaț cum să citesc o harta
+Quiero aprender a como leer un mapa
+
+Colega mea merge la București mâine cu trenul pentru o zi de naștere
+Mi amiga va a Bucarest mañana en tren por/para un cumpleaños
+
+Eu nu știan să vorbesc românp anul trecur/acum un an
+No sabia hablar rumano un año atrás/hace un año
+
+Magazinul se închide la 9
+La tienda cierra a las 9
+
+Cine a lăsat ușa deschisă?
+Quien dejó la puerta abierta?
+
+Câți oameni sunt la birou astăzi?
+Cuantas personas hay hoy en la oficina?
+
+A un loc pe scaun lângă mine
+Tienes un asiento a mi lado.
+
+Eu vreau să învaț să scriu și să citesc în limba română ca să comunic cu localnicii
+Quiero aprender a escribir y leer en idioma rumano para comunicarme con locales
+
+Rica nu știa să zică rău rățușcă rămurică
+No sabia como decirle que no a un patito
+
+Să nu îți fie frică/teamă să încerci
+No tengas miedo de intentarlo.
+
+Vino cu mine să îți arăt ceva
+Ven conmigo te voy a enseñar algo
+
+Vino să îți spun ceva
+Ven, déjame contarte algo.
+
+Când eram mic voiam să mă fac avocat
+Cuando era pequeño quería ser abogado
+
+(Eu) Încep să înțeleg ce (tu) spui/zici
+
+Camera mea este mai mare și mai luminoasă decât camera Claudie
+
+La parter locuiește o femeie bătrână
+Una anciana vive en la planta baja.
+
+Jos este un centru muzical
+En la planta baja hay un centro de música.
+
+Trebuie să urc multe scări ca să ajung acasă
+Tengo que subir muchas escaleras para llegar a casa.
+
+Dacă mă enervezi, nu o să mai vorbesc cu tine
+Si me haces enfadar, no te volveré a hablar.
+
+Vă rog să-mi spuneți la ce oră este programarea
+Por favor, dígame a qué hora es la cita.
+
+Dumneavoastră ce vârstă aveți? / Tu câti ani ai?
+Usted cuantos años tiene? / Cuantos años tienes?
+
+Cerceii ei sunt superbi
+Sus pendientes son preciosos.
+
+Mâine Ana merge la nunta unui fost coleg de muncă
+Mañana Ana va a la boda de una antigua compañera de trabajo
+
+Coptorul nostru din bucătărie este prea mic pentru atâta mâncare, însă tot e mai bine decât la Elfi, pentru că ei nici măcar nu au unul
+Nuestro horno de cocina es demasiado pequeño para toda esa comida, pero aun así es mejor que el de los Elfs, porque ellos ni siquiera tienen uno.
+
+Cum v-ați cunoscut? / De când vă știți?
+¿Cómo se conocieron? / ¿Cuánto tiempo llevan conociéndose?
+
+Mai stai măcar un pic!
+¡Quédate un poco más!
+
+Nici lucas, nici Irene nu vor să picteze
+Ni Lucas ni Irene quieren pintar.
+
+Cred că e mai bine așa
+Creo que es mejor así.
+
+Sper să te faci bine curând
+Espero que te recuperes pronto.
