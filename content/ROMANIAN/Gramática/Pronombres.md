@@ -76,6 +76,14 @@ ___
 >[!Example] **Ejemplo**
 >- Scaunul acesta - **Esta silla**
 >- Acest scaun - **Esta silla**
+>- Aceasta este fiica mea - Esta es mi hija
+>- Acesta este fiul meu
+>- Aceasta sunt nepoatele mele - Estas son mis sobrinas/nietas
+>- Aceștia sunt frații mei - Estos son mis nietos
+>- Ce este asta? - Qué es esta?
+>- Ăsta este puloverul meu - Este es mi jersey
+>- Astea sunt florile mele - Estas son mis flores
+>- Ăștia sunt pantofii mei - Estos son mis zapatos
 
 
 
