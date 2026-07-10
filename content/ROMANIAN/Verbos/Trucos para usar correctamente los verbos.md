@@ -39,3 +39,37 @@ Pot să fac un tort de ciocolată - Puedo hacer una tarta de chocolate
 Pot să vorbesc la telefon cu sora mea - Puedo hablar por telefono con mi hermana  
 Pot să citesct o carte - Puedo leer un libro  
 Pot să cânt la pian - Puedo tocar el piano  
+
+
+# Diferencias A
+___
+A duce - Llevar
+A se duce - Irse
+A aduce - Traer
+
+Ei duc copiii în excurise. Se duc cu bicicleta.
+El aduce o carte în geantă.
+
+
+A mesteca - Masticas
+A amesteca - Mezclar
+
+Trebuie să mesteci cu gura închisă.
+Amestec zahărul cu oul într-un bol.
+
+A minți - Mentir
+A aminti - Recordar
+A-și aminti - Acordarse
+
+Nu minți!
+Nu îmi amintesc nimic.
+
+A pune - Poner/Colocar
+A apune - Ponerse (el sol)
+Pune cartea în bibliotecă!.
+Soarele apune la ora 19.00.
+
+A trage - Arrastrar/Disparar
+A atrage - Atraer
+Băiatul trage căruciorul.
+Nu mă atrage ideea ta.

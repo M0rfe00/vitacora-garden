@@ -1,4 +1,3 @@
-#   
 # Artículo Definido Singular  
 ## ==Masculino (u)l==  
 * Ministru - Ministru(l) [El ministro]  
@@ -73,9 +72,11 @@
 -Acesta este un hotel  - Esto es un hotel  
   
 * O fată - Una chica  
-* O carta - un libro  
-* O floare - una flor  
-  
+* O carta - Un libro  
+* O floare - Una flor  
+- O cafea - Un café
+- O masă - Una mesa
+
 +Ce este aceasta? - Que es esta?  
 -Aceasta este o fată - Esta es una chica  
   
@@ -84,3 +85,40 @@
   
 +Ce este aceasta? - Que es esta?  
 -Aceasta este o floare - Esta es una flor  
+
+
+# Artículo indefinido plural (Niște)
+___
+
+|      | Singular | Plural |
+| ---- | -------- | ------ |
+| Masc | Un       | Niște  |
+| Fem  | O        | Niște  |
+
+| Masculino Singular | Masculino Plural |
+| ------------------ | ---------------- |
+| Un bărbat          | Niște bărbați    |
+| Un doctor          | Niște doctori    |
+| Un creion          | Niște creioane   |
+| Un loc             | Niște locuri     |
+| Un scaun           | Niște scaune     |
+
+| Femenino Singular | Femenino Plural  |
+| ----------------- | ---------------- |
+| O fată            | Niște fete       |
+| O bibliotecă      | Niște biblioteci |
+| O masă            | Niște mese       |
+| O floare          | Niște flori      |
+| O cafea           | Niște cafele     |
+
+>[!Example]
+>-Ce sunt aceștia / Qué son estos?
+>+Aceștia sunt niște copaci/copii.
+
+>[!Example]
+>-Ce sunt acestea / Qué son estas?
+>+Acestea sunt niște fete/flori.
+
+
+
+

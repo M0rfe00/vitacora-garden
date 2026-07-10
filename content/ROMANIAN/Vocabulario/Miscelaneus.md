@@ -76,8 +76,7 @@ el, ea ia — él/ella toma — *(el, ea IA)*
   
   
 
-  
-  
+
   
   
   

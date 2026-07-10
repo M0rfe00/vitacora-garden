@@ -59,6 +59,23 @@ Sa (lor)
 >Munca voastră - Vuestro trabajo  
 
 
+# ==Pronombres reflexivos== 
+___
+- Mă - Me
+- Te - Te
+- Se - Se
+- Ne - Nos
+- Vă - Os
+- Se - Se
+
+>[!Example]
+>- Eu mă distrez - Yo me divierto.
+>- Tu te distrezi - Tú te diviertes.
+>- El/Ea se distrază - Él/Ella se divierte. 
+>- Noi ne distrăm - Nosotros nos divertimos. 
+>- Voi vă distrați - Vosotros os divertís.
+>- Ei/Ele se distrează - Ellos/Ellas se divierten.
+
 # Cercanía (este, esta, estos, estas)
 ___
 **Pronombres**
