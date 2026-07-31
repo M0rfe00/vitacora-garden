@@ -321,3 +321,172 @@ Mulțumesc pentru tot - Gracias por todo
 ### Pentru + Adv. = Por
 (Azi, mâine, săptămâna aceasta, anul aceasta, etc...)
 Aste e tot pentru azi - Esto es todo por hoy
+
+
+
+______
+______
+
+## Preposiciones simples
+
+| Prep + | Acusativo        | Prep +     | Genitivo  | Prep +    | Dativo       |
+| ------ | ---------------- | ---------- | --------- | --------- | ------------ |
+| Pe     | En               | Asupra     | En, sobre | Datorită  |              |
+| La     | A                | Contra     | Contra    | Mulțumită |              |
+| Lângă  | Cerca            | Deasupra   | Arriba    | grație    |              |
+| Sub    | Bajo             | Dedesubtul | Bajo      | Conform   | De acuerdo a |
+| Cu     | Con              | Împrotiva  | Contra    | Contar    | Contrario a  |
+| Fără   | Sin              | Înaintea   | Antes de  | Asemenea  | Parecido a   |
+| După   | Después de       |            |           |           |              |
+| Spre   | Hacia            |            |           |           |              |
+| În     | En, Desde        |            |           |           |              |
+| Din    | Desde            |            |           |           |              |
+| Până   | Hasta            |            |           |           |              |
+| Despre | Acerca de, sobre |            |           |           |              |
+| Către  | A                |            |           |           |              |
+| Prin   | A través de      |            |           |           |              |
+| De     | De, Ya que, por  |            |           |           |              |
+
+
+## Frases preposicionales 
+| Prep +              | Acusativo           | Prep +      | Genitivo            |
+| ------------------- | ------------------- | ----------- | ------------------- |
+| În afară            | Además de           | În fața     | En frente de        |
+| În loc de           | En lugar de         | În spatele  | Detrás              |
+| O dată cu           | Al mismo tiempo que | În afara    | Además de           |
+| fața de             | En comparación con  | Cu ocazia   | Con ocasión de      |
+| Legat de            | Con respecto a      | În scopul   | Con la intención de |
+| În curs de          | En vías de          | Din cauza   | Debido a            |
+| Privitor la         | Con respecto a      | La nivelul  | Al nivel de         |
+| În ceea ce privește | Con respecto a      | De/a lungul | Junto               |
+
+## Usos
+Los sustantivos en acusativo precedidos de una preposición y no seguidos por ningún modificador no llevan artículo: 
+- la mare > a orillas del mar
+- la munte > en las montañas
+- fără rost > literalmente “sin punto”
+- lângă oraș > cerca de la ciudad
+- pentru femei > para las mujeres
+
+>[!Info] 
+>La preposición CU tiene un régimen especial. Si cu se refiere a sustancia o materia, el sustantivo no lleva artículo: cafea cu zahăr (café con azúcar), pâine cu unt (pan con mantequilla). Si cu refiere a un instrumento, o significa hacer algo, el sustantivo se usa en la forma definida: cu autobuzul (en autobús), cu stiloul (con un lápiz), cu masina (en coche), cu pianul (con el piano).
+
+Los sustantivos en genitivo y dativo precedidos de una preposición o una frase preposicional están siempre en forma definida:
+- cu ocazia sărbătoririi > con motivo de la celebración de
+- de-a lungul istoriei > a lo largo de la historia
+- împotriva guvernului > contra el gobierno
+- datorită întârzierii > debido al retraso
+- asemănător exemplului > igual que el ejemplo
+
+- Las preposiciones în (en), din (desde), prin (através de) seguidas por un sustantivo
+
+en forma indefinida aparecen así:
+
+### ÎN, DIN, PRIN 
+
+| În un oraș        | într-un oraș        | En una ciudad          |
+| ----------------- | ------------------- | ---------------------- |
+| Din un oraș       | dintr-un oraș       | De una ciudad          |
+| În o casă         | printr-un oraș      | A través de una ciudad |
+| În o casă         | într-o casă         | En una casa            |
+| Din o casă        | dintr-o casă        | De una casa            |
+| Prin o întămplare | printr-o întâmplare | Por accidente          |
+La preposición de seguida por a en frases lleva guión: de-a lungul (a lo argo), de-a latul (a lo ancho), de-a curmezișul (a través de).
+
+## VERBOS SEGUIDOS DE UNA PREPOSICIÓN ESPECÍFICA
+___
+
+### verbo + CU
+
+| a se asemăna cu   | parecerse a      |
+| ----------------- | ---------------- |
+| a se căsători cu  | casarse con      |
+| a (se) certa cu   | discutir con     |
+| a echivala cu     | ser igual que    |
+| a (se) hrăni cu   | alimentarse      |
+| a (se) întâlni cu | multiplicar por  |
+| a (se) întâlni cu | encontrar        |
+| a (se) ocupa cu   | involucrarse con |
+| a vorbi cu        | hablar con       |
+
+### verbo + DE
+
+| a aparţine de      | pertenecer a     |
+| ------------------ | ---------------- |
+| a se bucura de     | disfrutar de     |
+| a (se) convinge de | convencer de     |
+| a (se) deosebi de  | diferir de       |
+| a depinde de       | depender de      |
+| a (se) despărţi de | separarse de     |
+| a fugi de          | huir de          |
+| a se mira de       | sorprenderse por |
+| a se plictisi de   | aburrirse con    |
+| a râde de          | reírse de        |
+| a se teme de       | temer            |
+
+
+
+### verbo + DESPRE
+
+| a întreba despre | preguntar sobre           |
+| ---------------- | ------------------------- |
+| a povesti despre | contar una historia sobre |
+| a ști despre     | saber sobre               |
+| a vorbi despre   | hablar sobre              |
+
+
+### verbo + LA
+
+| a ajuta la     | ayudar con     |
+| -------------- | -------------- |
+| a asista la    | presenciar     |
+| a se gândi la  | pensar en      |
+| a împărţi la   | dividir por    |
+| a răspunde la  | preguntar      |
+| a reacţiona la | reaccionar a   |
+| a renunţa la   | renunciar a    |
+| a reuși la     | tener éxito en |
+| a trimite la   | enviar a       |
+
+
+
+
+
+### verbo + ASUPRA
+
+| A acționa asupra         | Actuar sobre        |
+| ------------------------ | ------------------- |
+| A avea consecințe asupra | Tener consecuencias |
+| A avea efect asupra      | Tener efecto sobre  |
+
+
+### verbo + CONTRA
+
+| A lua măsuri contra | Tomar medidas contra |
+| ------------------- | -------------------- |
+| A lipta contra      | Luchar contra        |
+
+
+
+
+verbo + PRIN
+
+| A se caracteriza prin | ser conocido |
+| --------------------- | ------------ |
+| A începe prin         | empezar      |
+| A (se) termina prin   | terminar     |
+
+verbo + ÎN
+
+| A lucra în         | Trabajar en (area) |
+| ------------------ | ------------------ |
+| A se specializa în | Especializarse en  |
+| A crede în ceva    | Creer en algo      |
+| A se transforma    | Cambiar a          |
+
+verbo + DIN
+
+| A se forma din | Formar a partir de     |
+| -------------- | ---------------------- |
+| A proveni din  | Venir de / proceder de |
+| A rezulta din  | Restultar              |

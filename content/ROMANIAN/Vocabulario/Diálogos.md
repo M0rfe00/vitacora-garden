@@ -427,7 +427,7 @@ Român, Româncă, Românesc
 * Român / Hombre de origen rumano  
 * Româncă / Mujer de origen rumano  
   
-Eu runt român/ca Yo soy rumano/a  
+Eu sunt român/ca - Yo soy rumano/a  
 Țara mea se numește România - Mi país se llama Rumanía  
 Eu lucuiesc în România - Yo vivo en Rumanía  
 Eu vorbesc limba româmă - Yo hablo rumano  
