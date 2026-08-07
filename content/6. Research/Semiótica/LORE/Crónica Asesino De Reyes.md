@@ -378,33 +378,167 @@ ___
 
 >[!Info] ### Cap 29: [Clase de Elodin]  
 >___
-  
+>Hoy hablaremos de cosas de las que no se puede hablar. Concretamente discutiremos de por qué hay cosas de las que no se puede discutir.
+>
+>==La mayoría de las cosas importantes no pueden decirse abiertamente. No pueden hacerse explícitas. Solo pueden insinuarse.== Nombrad algo que no pueda explicarse.
+>
+>No hay nada que no pueda explicarse. Si algo se puede entender, se puede explicar. Puede ser que alguien no sepa explicarlo bien. Pero eso solo significa que es difícil explicarlo, no que sea imposible.
+>
+>Ni difícil ni imposible. Meramente inútil. Hay cosas que solo pueden deducirse. . Por cierto, tu respuesta debería haber sido «la música».
+>
+—La música se explica por sí sola. Es el camino y es el mapa que enseña el camino. Es ambas cosas a la vez. 
+>
+>—Pero ¿puedes explicar cómo funciona la música?
+> —Por supuesto, afirmé, aunque no estaba seguro, ni mucho menos.
+>
+>—¿Puedes explicar cómo funciona la música sin utilizar la música? Me quedé cortado. Mientras pensaba qué podía contestar, Elodin se volvió hacia Fela.
+>
+—¿El amor? —preguntó ella. Elodin arqueó una ceja, como si esa respuesta lo escandalizara ligeramente; entonces asintió en señal de aprobación.
+>
+>—Tenemos tres caminos 
+>—==Primero:== nuestros jóvenes enamorados pueden intentar expresar lo que sienten. Pueden intentar cantar eso que han oído cantar a sus corazones. 
+>—Ese es el camino del loco honrado, y es un mal camino. Esa cosa que hay entre vosotros es demasiado trémula para hablar de ella. Es una chispa tan débil que hasta el aliento más suave la apagaría. 
+>—Aunque seas inteligente y sepas expresarte, estás condenado al fracaso. Porque si bien vuestros labios quizá hablen el mismo idioma, vuestros corazones no. Esto es un caso de traducción.
+>
+>—==El segundo== camino es más prudente. Habláis de cosas sin importancia. Del tiempo. De la última obra de teatro que habéis visto. Pasáis un rato juntos. Os dais la mano. De ese modo, poco a poco aprenderéis el significado secreto de las palabras del otro. 
+>Así, cuando llegue el momento podréis hablar añadiendo un significado sutil a vuestras palabras, para que haya entendimiento por ambas partes. 
+>
+>—Y luego está el ==tercer== camino. —. Percibes que hay algo entre vosotros dos. Algo maravilloso y delicado. Dio un suspiro romántico de enamorado.
+>
+>—Y como aspiras a tener certeza en todo, decides forzar la situación. Tomas la ruta más corta. Mejor cuanto más sencillo, piensas. —Elodin abrió las manos y flexionó los dedos varias veces seguidas, como si quisiera apresar a Fela—. Y te lanzas sobre los pechos de esta joven.
+>
+>—. Intento despertar tu mente dormida al sutil lenguaje que susurra el mundo. Intento seducirte para que comprendas. Intento enseñarte. —Se inclinó hacia delante, hasta que nuestras caras casi se tocaron—. Suéltame las tetas.
+
+
+
+
+
+
 >[!Quote] ### Cap 36: [Will y Sim incitando a declarase a Kvothe]  
 >___
->Por el final 4:05 aprox  
+>—Ya nos has recordado lo guapa que es tu Denna —me interrumpió Wil—. Cinco veces. —Mira —terció Simmon con repentina seriedad—, tienes que dar el paso. Es evidente que a Denna le interesas.
+>
+>—Nunca me lo ha dicho. 
+>
+>—Las mujeres nunca te dicen que les interesas. —Simmon se rio de lo absurdo de esa idea—. Hay pequeños juegos. Es como una danza. «Oh, qué bien que te encuentro aquí». «Ah, hola. Iba a comer algo». «Qué casualidad, yo también. ¿Me dejas que te lleve los libros?».
+>
+>—Tiene toda una corte de pretendientes. Vienen y van como… Prefiero que seamos amigos.
+>
+>—Prefieres estar cerca de su corazón —dijo Wilem sin dar a su voz ninguna entonación en particular—. Prefieres ser feliz en sus brazos. Pero temes que te rechace. Te da miedo que se ría de ti y que quedes en ridículo. 
+>—No eres el primero al que le pasa. No tienes de qué avergonzarte. Wilem había dado en el blanco, mal que me pesara, y me quedé un buen rato sin saber qué decir.
+>
+>—Me gustaría —admití en voz baja—. Pero no quiero dar nada por hecho. He visto lo que les pasa a los hombres que dan demasiado por hecho y que se aferran a ella.
+>
+>—Te regaló el estuche del laúd —dijo Sim para animarme—. Eso tiene que significar algo. 
+>
+>—Pero ¿qué significa? —pregunté—. Da la impresión de que le intereso, pero ¿y si solo son ilusiones mías? Todos esos otros hombres también deben de pensar que le interesan. Pero es evidente que se equivocan. ¿Y si yo también me equivoco?
+>
+>—Si no lo pruebas, nunca lo sabrás —dijo Sim con cierta amargura—. Eso es lo que suelo decirme yo. Pero ¿sabes qué? No sirve de nada. Las persigo, y ellas me echan de una patada, como si fuera un perro que se acerca a pedir a la mesa. Estoy harto de esforzarme tanto. Lo único que quiero es gustarle a alguien. 
+>
+>—Yo solo quiero una señal clara.
+>
 
 
 >[!Info] ### Cap 36: [historia sobre los Adem] 4:07  
 >___
 
 
->[!Quote] ### Cap ?: [Kvothe inventando una historia sobre cronista]  
+>[!Quote] ### Cap 47: [Kvothe inventando una historia sobre cronista]  
 >___
->6:55  
-  
+>—¿A qué demonios ha venido eso? —preguntó Cronista. Kvothe miró de soslayo al escribano. Compuso una breve y afilada sonrisa, y preguntó: —¿Qué se siente cuando la gente cuenta historias sobre ti? 
+>
+>—¡No estaban contando historias sobre mí!. Eso solo eran tonterías. 
+>
+>—Tonterías no. Quizá no sea cierto, pero eso no significa que sea una tontería.
+>
+>—No lo entiendes, ¿verdad? Una historia inédita como esa, un día de siega… Se lanzarán sobre ella como críos sobre un juguete nuevo. El viejo Cob hablará de Cronista con una docena de personas mientras estén aventando el heno o bebiendo agua a la sombra. Esta noche, en el velatorio de Shep, vecinos de diez pueblos oirán hablar del Señor de las Historias. La historia se extenderá como el fuego por un campo. 
+>
+>Cronista los miró a los dos con cierto horror. 
+>
+>—¿Por qué? 
+>—Es un regalo
+> —¿Acaso crees que eso es lo que busco? —preguntó Cronista, asombrado—. ¿La fama?
+> 
+>—No, la fama no —respondió Kvothe con gravedad—. Perspectiva. Vas por ahí escarbando en la vida de las personas. Oyes rumores y hurgas en la dolorosa verdad que subyace a las bonitas mentiras. Crees que tienes derecho a hacerlo. Pero no lo tienes. —Miró con dureza al escribano—. Cuando alguien te cuenta un trozo de su vida, te está haciendo un regalo, y no dándote lo que te debe.
+>
+>—Yo te estoy contando mi historia con las repugnantes verdades intactas y desnudas. Con todos mis errores y mis idioteces expuestos a la luz. Si decido saltarme un pequeño fragmento porque me aburre, estoy en mi perfecto derecho. Lo que pueda contar un granjero no me hará cambiar de opinión. No soy imbécil.
+
+
+
+
+
 >[!Info] ### Cap ? [Elodin sobre los nombres]  
 >___
->7:40  
+>—Hola, maestro Elodin. Me temo que voy a tener que marcharme de la Universidad durante un bimestre o dos. 
+>
+>—¿De verdad lo temes? —Detecté un susurro de regocijo en su voz, serena y resonante. Tardé un momento en darme cuenta de a qué se refería. 
+>
+>—Es solo una forma de hablar. 
+>
+>—Nuestras formas de hablar son como dibujos de nombres. Nombres vagos, débiles, pero nombres al fin y al cabo. Ten cuidado con ellos. Siéntate un momento a mi lado.
+>
+—Prefiero no sentarme, maestro Elodin. 
+>
+>—La prudencia le aviene al arcanista. La seguridad en sí mismo le aviene al nominador. El temor no se aviene con ninguno de los dos. No se aviene contigo.
+>
+>—¿Ves el viento? 
+>
+>Lo intenté. Por un momento me pareció que… No. No era nada. Negué con la cabeza.
+>
+>—Este es un buen sitio para un nominador. Dime por qué. Miré alrededor. 
+>
+>—Viento amplio, agua impetuosa, piedra vieja.
+>
+>—Buena respuesta. —Detecté un placer genuino en su voz—. Pero hay otra razón. En otros sitios también hay piedra, agua y viento. ¿Qué hace que este sea diferente? Pensé un momento, miré alrededor y meneé la cabeza. 
+>
+>—No lo sé. 
+>
+>—Otra buena respuesta. Recuérdala
+>
+>—¿Por qué es un buen sitio? 
+>
+>—Es un borde. Es un lugar elevado con la posibilidad de caer. Las cosas se ven más fácilmente desde los bordes. El peligro despierta la mente dormida. Hace que veamos claras algunas cosas. Para ser nominador hay que ver las cosas.
+>
+>—¿Y la caída?.
+>
+>—Si te caes, te caes —dijo Elodin encogiendo los hombros—. A veces, caer también nos enseña cosas. En los sueños, muchas veces caes antes de despertar.
+>
+>Hace mucho tiempo, cuando todos los alumnos aspiraban a ser nominadores, las cosas eran diferentes. El nombre que se animaba a buscar a la mayoría de los nominadores novatos era el del viento. 
+>Después de encontrar ese nombre, su mente dormida despertaba y era más fácil encontrar otros nombres. »Pero a algunos alumnos les costaba encontrar el nombre del viento. 
+>Aquí había pocos bordes, poco riesgo. Por eso se marchaban a tierras salvajes, incultas. Buscaban fortuna, tenían aventuras, perseguían secretos y tesoros… Pero en realidad lo que buscaban era el nombre del viento.
+>
+>—Las cosas han cambiado. Ahora todavía hay menos bordes que antes. El mundo es menos salvaje. Hay menos magia, más secretos, y solo un puñado de personas que saben el nombre del viento. —Usted lo sabe, ¿verdad? —pregunté.
+>
+>Elodin asintió. —Cambia de un lugar a otro, pero yo sé escuchar y detectar sus transformaciones. Debes irte. Persigue el viento. No temas los riesgos que puedan aparecer.
 
 
->[!Info] ### Cap ?: [Bredon regala anillos a Kvothe]  
+>[!Info] ### Cap 57: [Bredon regala anillos a Kvothe]  
 >___
->Te lo entrego sin compromiso, impedimento ni obligación (1:13)  
+>Te lo entrego sin compromiso, impedimento ni obligación 
+>Es un regalo que te hago de buen grado.
+>(1:13)  
   
-  
->[!Quote] ### Cap ?: [La diferencia entre ellos y yo]  
+
+>[!Quote] ### Cap 69: [La diferencia entre ellos y yo]  
 >___
->4:34  
+>Seguimos un rato callados, disfrutando de un silencio agradable. Yo quería decir algo. Quería decirle que no me importaba, pero habría mentido. Quería decirle que lo único que de verdad me importaba era que regresara, pero temía que eso fuera demasiado cierto. 
+>
+>Así pues, en lugar de arriesgarme y decir algo que no debía, me callé. Sabía lo que les pasaba a los hombres que se aferraban demasiado a ella. Esa era la diferencia entre ellos y yo. Yo no me aferraba a Denna, no trataba de poseerla. No entrelazaba un brazo con el suyo, ni le murmuraba al oído, ni le besaba la mejilla por sorpresa.
+>
+>Sí, lo pensaba. Todavía recordaba su calor el día que me abrazó junto al elevador. Había veces en que habría dado mi mano derecha a cambio de volver a abrazarla.
+>
+>Pero entonces pensaba en las caras de los otros hombres cuando se daban cuenta de que Denna los estaba abandonando. Pensaba en todos los que habían intentado retenerla y habían fracasado. Así que me abstuve de enseñarle las canciones y los poemas que había escrito, pues sabía que demasiada verdad puede ser demoledora.
+>
+>Y si eso significaba que Denna no era completamente mía, ¿qué? Yo siempre sería la persona a la que ella podía acudir sin temor a recriminaciones ni preguntas. 
+>
+>Así que no intentaba conquistarla y me contentaba con jugar una hermosa partida. Pero siempre había una parte de mí que deseaba algo más, y por tanto siempre había una parte de mí que deliraba.
+>
+
+
+
+
+
+
 
 
 >[!Info] ### Cap ?: [Flores en los jardines del Maere]  
@@ -413,12 +547,87 @@ ___
 
 >[!Info] ### Cap ?: [Tipos de secretos Tekam]  
 >___
->5:34  
+>En su Teofanía, Teccam habla de los secretos y los llama «tesoros dolorosos de la mente». Explica que lo que la mayoría de la gente considera secretos no lo son en realidad. Los misterios, por ejemplo, no son secretos. Tampoco lo son los hechos poco conocidos ni las verdades olvidadas.
+>
+>Un secreto, explica Teccam, es un conocimiento cierto activamente ocultado.
+>
+>Teccam expone que existen dos tipos de secretos. Hay secretos de la boca y secretos del corazón.
+>
+>La mayoría de los secretos son secretos de la boca. Chismes compartidos y pequeños escándalos susurrados. Esos secretos ansian liberarse por el mundo. Un secreto de la boca es como una china metida en la bota. Al principio apenas la notas. Luego se vuelve molesta, y al final, insoportable. Los secretos de la boca crecen cuanto más los guardas, y se hinchan hasta presionar contra tus labios. Luchan para que los liberes.
+>
+>Los secretos del corazón son diferentes. Son íntimos y dolorosos, y queremos, ante todo, escondérselos al mundo. No se hinchan ni presionan buscando una salida. Moran en el corazón, y cuanto más se los guarda, más pesados se vuelven.
+>
+>Teccam sostiene que es mejor tener la boca llena de veneno que un secreto del corazón. Cualquier idiota sabe escupir el veneno, dice, pero nosotros guardamos esos tesoros dolorosos. Tragamos para contenerlos todos los días, obligándolos a permanecer en lo más profundo de nosotros. Allí se quedan, volviéndose cada vez más pesados, enconándose. Con el tiempo, no pueden evitar aplastar el corazón que los contiene.
 
 
->[!Info] ### Cap 8?: [Tempi hablando del lethani]  
+>[!Info] ### Cap 8?: [Tempi hablando del lethani]  (Aud4 - 1:57)  
 >___
->(Aud4 - 1:57)  
+>
+>Has dicho que el que conoce el Lethani no puede perder ninguna pelea.
+>
+>—Sí. Pero no con fuegos de palabras. El Lethani es un tipo de conocimiento. — Tempi hizo una pausa y meditó sus palabras—. 
+>
+>El Lethani es lo más importante. Todos los adem aprenden. Los mercenarios aprenden dos veces. Shehyn aprende tres veces. Lo más importante. Pero complicado. Lethani es… muchas cosas. Pero nada que toques o señales. Los adem piensan toda la vida en el Lethani. Muy difícil.
+>
+>—El Lethani es hacer las cosas correctas.
+>
+>—Entonces, el Lethani es dar de comer a un niño hambriento. Tempi hizo aquel signo que significaba sí y no, haciendo oscilar la mano plana. 
+>
+>—El Lethani no es hacer una cosa. Lethani es la cosa que nos enseña. 
+>
+>—¿Lethani significa normas? ¿Leyes? 
+>
+>—No. —Tempi señaló el bosque que nos rodeaba—. La ley es de fuera, controladora. Es el… el metal en la boca del caballo. Y las correas de la cabeza. — Interrogante. 
+>
+>—¿La brida y el bocado? —pregunté, e hice como si le pusiera las riendas por la cabeza a un caballo.
+>
+>—Sí. La ley es la brida y el bocado. Controla desde fuera. El Lethani… —me señaló entre los ojos, y luego el pecho— vive dentro. Lethani ayuda a decidir. La ley existe porque muchos no entienden el Lethani. 
+>
+>—Y con el Lethani una persona no necesita obedecer las leyes.
+>
+>—Quizá. —Frustración. Tempi desenvainó su espada y la sujetó paralela al suelo, con el filo hacia arriba—. Si fueras pequeño, caminar por esta espada sería el Lethani.
+>
+—¿Doloroso para los pies? —pregunté en un intento de darle un tono menos grave a la conversación. Diversión. Ira. Desaprobación. 
+>
+>—No. Difícil caminar. Fácil caer a un lado. Difícil quedarse. 
+>
+>—¿El Lethani es muy recto? —No. —Pausa—. ¿Cómo se llama cuando hay mucha montaña y solo un sitio para andar? 
+>
+>—¿Un sendero? ¿Un desfiladero? 
+>
+>—Desfiladero. —Tempi asintió—. El Lethani es como un desfiladero en la montaña. Se dobla. Complicado. El desfiladero es un camino fácil. Único camino para pasar. Pero no es fácil verlo. El sendero que es fácil muchas veces no atraviesa las montañas. A veces no va a ningún sitio. Te mueres de hambre. Te caes en agujero. 
+>
+>—Entonces el Lethani es el camino correcto para atravesar las montañas. Acuerdo parcial. Emoción.
+>
+>—Es el camino correcto para atravesar montañas. Pero el Lethani también es saber el camino correcto. Ambas cosas. Y las montañas no son solo montañas. Las montañas son todo. 
+>
+>—Entonces el Lethani es civilización.
+>
+>Pausa. Sí y no. Tempi sacudió la cabeza. Frustración. Recordé que Tempi había dicho que los mercenarios tenían que aprender el Lethani dos veces.
+>
+—¿El Lethani es pelear? —pregunté. 
+>
+>—No. Lo dijo con una certeza tan absoluta que tuve que preguntarle lo contrario para asegurarme. 
+>
+>—¿El Lethani es no pelear? 
+>
+>—No. El que conoce el Lethani sabe cuándo pelear y cuándo no pelear. —Muy importante.
+>
+>Decidí cambiar de dirección. 
+>
+>—¿Hoy era del Lethani que pelearas? 
+>
+>—Sí. Para demostrar que el adem no tiene miedo. Sabemos que los bárbaros creen que no pelear es ser cobarde. Cobarde es débil. No es bueno que ellos piensen. Y como muchos miran, pelear. También para demostrar que un adem vale por muchos. 
+>
+>—¿Y si te hubieran ganado? —Entonces los bárbaros sabrían que Tempi no vale por muchos. —Ligera diversión. 
+>
+>—Si hubieran ganado ellos, ¿la pelea de hoy no sería del Lethani? 
+>
+>—No. Si te caes y te rompes una pierna en el desfiladero, todavía es un desfiladero. Si yo fallo siguiendo el Lethani, todavía es el Lethani. —Serio—. Por eso estamos hablando ahora. Hoy. Con tu puñal. Eso no era del Lethani. No era una cosa correcta.
+>
+>—Temía que te hicieran daño. —El Lethani no echa raíces en el miedo —dijo como si recitara. —¿Dejar que te hirieran sería del Lethani? Encogió los hombros. —Quizá. —¿Sería del Lethani dejar que te… —énfasis extremo— hirieran? —Quizá no. Pero no me hirieron. Ser el primero con el puñal no es del Lethani. Si ganas y eres el primero con el puñal, no ganas. —Inmensa desaprobación. No entendí aquella última afirmación. —No entiendo —dije. —El Lethani es acción correcta. Camino correcto. Momento correcto. —De pronto el rostro de Tempi se iluminó—. El viejo comerciante —dijo con visible entusiasmo—. En las historias con los paquetes. ¿Cómo se llama? —¿El calderero? —Sí. El calderero. ¿Cómo debes tratar a esos hombres? Lo había entendido, pero quería saber qué pensaba el adem. —¿Cómo?
+>
+>Tempi me miró y apretó los dedos: irritación. —Debes ser amable y ayudarlos. Y hablar bien. Siempre educado. Siempre. Asentí con la cabeza. —Y si te ofrecen algo, debes plantearte comprarlo. Tempi hizo un gesto triunfante. —¡Sí! Puedes hacer muchas cosas cuando te encuentras a un calderero. Pero solo una cosa correcta. —Se tranquilizó un poco. Cautela—. Pero el Lethani no es solo hacer. Primero saber, luego hacer. Eso sí es el Lethani. Reflexioné un momento sobre eso. —Entonces, ¿ser educado es del Lethani? —No educado. No amable. No bueno. No deber. El Lethani no es nada de eso. Cada momento. Cada elección. Todos diferentes. —Me lanzó una mirada penetrante —. ¿Entiendes? —No. Felicidad. Aprobación. Tempi se levantó y asintió con la cabeza. —Es bueno saber que no sabes. Es bueno decirlo. Eso también es del Lethani.
 
 
 >[!Quote] ### Cap 8? [Kvothe con Ferulean] aud4  
@@ -447,17 +656,95 @@ ___
   
 >[!Info] ### Cap 11?: [El amor y el lethani] aud5(3:29)  
 >___
-  
-  
+>—No se puede fingir que se entiende el Lethani —dijo con seguridad—. Es como nadar. Cualquiera que te vea sabe distinguir perfectamente si sabes nadar o no. 
+>
+>—También puedes fingir que sabes nadar —la contradije—. Lo único que he hecho yo ha sido mover los brazos y caminar por el fondo del río.
+>
+  >—De acuerdo. ¿Cómo has conseguido engañarnos? 
+  >
+  >Le expliqué lo de la Hoja que Gira. Que había aprendido a dirigir mis pensamientos hacia un lugar vacío, ligero e ingrávido donde las respuestas a sus preguntas llegaban fácilmente.
+  >
+  —De modo que te has robado a ti mismo las respuestas
+>—. Nos has engañado a todos extrayendo las respuestas de tu propia mente. 
+>
+>—No me has entendido. ¡No tengo ni la menor idea de qué es el Lethani! No es un camino, pero ayuda a escoger un camino. Es la vía más sencilla, pero no es fácil verlo. Sinceramente, los adem parecéis cartógrafos borrachos. Lamenté haberlo dicho tan pronto como las palabras salieron de mi boca, pero Vashet se limitó a reír. 
+>
+>—Hay muchos borrachos que están muy versados en el Lethani, dijo. Algunos, de dimensiones legendarias.
+>
+>—Yo tampoco entiendo el Lethani, o al menos no de una forma que se pueda explicar a otra persona. La enseñanza del Lethani es un arte que yo no poseo. Si Tempi ha conseguido inculcarte el Lethani, eso dice mucho en su favor.
+>
+>—En parte, el problema está en tu idioma. El atur es muy explícito. Es muy preciso y directo. Nuestra lengua es rica en insinuaciones, y por eso nos es más fácil aceptar la existencia de cosas que no pueden explicarse. El Lethani es la mayor de todas.
+>
+>—¿Puedes ponerme un ejemplo de otra cosa que no pueda explicarse, que no sea el Lethani? —pregunté—. Y no me digas «azul», por favor, o enloqueceré aquí mismo, en este banco.
+>
+>—El amor, por ejemplo. Sabes qué es, pero se resiste a una explicación detallada. 
+>—El amor es un concepto sutil —admití—. Es elusivo, como la justicia, pero puede definirse.
+>
+>—Pues defínelo, mi inteligente alumno. Dime qué es el amor. Pensé un momento, y luego otro, más largo.
+>
+>—¿Ves lo fácil que lo tendré para detectar lagunas en cualquier definición que me des? 
+>
+>—El amor es la voluntad de hacer cualquier cosa por alguien dije. Incluso en detrimento propio. 
+>
+>—En ese caso —repuso ella—, ¿en qué se diferencia el amor del deber o la lealtad?
+>
+>—En que está combinado con la atracción física —dije. 
+>—¿También el amor de una madre? —inquirió Vashet. 
+>—Pues combinado con un profundo cariño —me corregí. 
+>—Y ¿qué quieres decir exactamente con «cariño»? —dijo ella con una calma desquiciante. 
+>
+>—El cariño es… —Me estrujé el cerebro tratando de pensar cómo podía describir el amor sin recurrir a otros términos igualmente abstractos.
+>
+>—Esa es la naturaleza del amor —dijo Vashet—. Intentar describirlo volvería loca a cualquier mujer. Por eso los poetas se pasan la vida escribiendo. Si uno de ellos pudiera describirlo definitivamente en el papel, los otros tendrían que abandonar sus plumas. Pero es imposible.
+>
+>—Pero solo un necio puede afirmar que no existe el amor. Cuando ves a dos jóvenes mirándose fijamente con los ojos lagrimosos, allí está. Tan denso que podrías untarlo en el pan y comértelo. Cuando ves a una madre con su hijo en brazos, ves el amor. Cuando lo notas agitarse en tu vientre, sabes qué es. Aunque no puedas expresarlo con palabras.
+>—Lo mismo ocurre con el Lethani. Pero como es más grande, es más difícil señalarlo. Ese es el propósito de las preguntas. Hacer esas preguntas es como preguntarle a una muchacha por el chico que le gusta. Quizá no emplee la palabra en sus respuestas, pero estas revelan si hay o no amor en su corazón.
+> 
+> —¿Cómo pueden revelar mis respuestas el conocimiento del Lethani si en realidad no sé qué es? —pregunté. 
+> 
+> —Es evidente que entiendes el Lethani —repuso Vashet—. Está enraizado dentro de ti. Demasiado hondo para que lo veas. A veces ocurre lo mismo con el amor.
+>
+>—En cuanto a eso de la Hoja que Gira… Tengo entendido que otras vías practican algo parecido. Que yo sepa, en atur no hay ninguna palabra para definirlo. Es como un Ketan para tu mente. Un movimiento que haces con tus pensamientos para entrenarlos.» 
+>Sea como sea, no es un engaño. Es una forma de revelar lo que está oculto en las aguas profundas de tu mente. El hecho de que lo hayas encontrado por ti solo es sorprendente.
+
+
+
+
+
+
 >[!Info] ### Cap 113: [La música en ademre] aud5(3:39)  
 >___
+>—Vosotros consideráis intimidantes ciertas cosas. La desnudez. El contacto físico. La proximidad de un cuerpo. Los juegos amorosos. Para los adem, nada de eso es extraordinario.
+>
+>—¿Alguna vez nos has oído gritar? ¿Levantar la voz? ¿O hablar lo bastante alto para que se nos oyera desde lejos?
+>
+>—Eso se debe a que para nosotros hablar es algo privado. Algo íntimo. Igual que las expresiones faciales. Y esto… —Se tocó el cuello—. El calor que puede provocar una voz. La emoción que revela. Eso es algo muy íntimo. 
+>
+>—Y nada transmite tanta emoción como la música —dije, al entenderlo. Para mí era una idea tan extraña que no podía asimilarla de golpe.
+>
+>—Los miembros de una familia pueden cantar juntos, si están muy unidos. Una madre puede cantarle a su hijo. Una mujer puede cantarle a su hombre. —Vashet se ruborizó ligeramente cuando dijo eso—. Pero solo si están muy enamorados, y si están a solas.
+>
+>»Pero tú… Eres músico. Tú haces eso en una habitación llena de gente. Delante de muchas personas, con todas a la vez. Y ¿a cambio de qué? ¿Unos pocos peniques? ¿Una comida? —Me miró con gravedad—. Y lo haces una y otra vez. Noche tras noche. Con cualquiera.
+>
+>—Ya lo entiendo —dije por fin—. Pero muchos de vosotros habéis viajado por el mundo. Tú, por ejemplo, hablas atur perfectamente, y con mucho calor en la voz. Estoy seguro de que sabes que no hay nada intrínsecamente malo en que una persona cante. 
+>
+>—Tú también has viajado por el mundo —repuso ella con calma—. Y estoy segura de que sabes que no hay nada intrínsecamente malo en tener relaciones sexuales con tres personas, una detrás de otra, en el escalón de la chimenea de una taberna abarrotada. —Me miró a los ojos. 
+>
+>—Debe de ser muy incómodo hacerlo sobre la piedra… —dije. Vashet rio. 
+>
+>—Está bien. Supongamos que hay una manta sobre la piedra. ¿Cómo llamarías a esa persona?
+>
+>«Una puta», pensé. Y una puta barata y desvergonzada. Me alegré de no haber mencionado a nadie el interés de Tempi por aprender a tocar el laúd. Qué avergonzado debía de sentirse por haber sentido ese impulso tan inocente. Me imaginé a Tempi de joven, queriendo hacer música pero no diciéndoselo a nadie porque sabía que era algo sucio. Me partió el corazón.
+
+
 
 
 >[!Info] ### Cap 117: [La Ira y el Eros] aud5(7:46)  
 >___
 
 
->[!Quote] ### Cap 120: [Kvothe preparando huida] aus5(6:05) 
+
+>[!Quote] ### Cap 120: [Kvothe preparando huida] aud5(6:05) 
 >___
 >Que nos queda cuando nos fallan las palabras   
 
@@ -465,9 +752,15 @@ ___
 
 >[!Info] ### Cap 127: [La ira los hombres y la vida] aud5(7:59)  
 >___
+>—Debe de resultar duro ser hombre —dijo en voz baja—. Las mujeres sabemos que formamos parte del mundo. Estamos llenas de vida. Las mujeres somos la flor y el fruto. Recorremos el tiempo como parte de nuestros hijos. Pero los hombres… — Giró la cabeza y me miró; la lástima se reflejaba en sus ojos—. Vosotros sois una rama desnuda. Sabéis que cuando muráis, no dejaréis nada importante atrás.
+>
+>—Creo que por eso estáis tan llenos de ira. Quizá no tengáis más ira que las mujeres. Quizá la ira dentro de vosotros no tenga ningún sitio adonde ir, sencillamente. Quizá esté desesperada por dejar alguna huella. Golpea el mundo. Os hace actuar con precipitación. Os hace discutir, enfureceros. Pintáis y construís y peleáis y contáis historias que son mayores que la verdad. 
+>
+>—Siento tener que decirte estas cosas. Eres un buen hombre, y muy guapo. Pero no dejas de ser un hombre. Tu ira es lo único que puedes ofrecerle al mundo.
 
 
->[!Info] ### Cap 128: [Hostoria de los Adem y Chandrian] aud5(8:13)  
+
+>[!Info] ### Cap 128: [Historia de los Adem y Chandrian] aud5(8:13)  
 >___
 
   
@@ -490,6 +783,15 @@ ___
 
 >[!Quote] ### Cap 146: [Que podía ofrecer yo] aud6(4:43)  
 >___
+>No amo las palabras por las palabras. Amo las palabras por lo que son capaces de conseguir. Del mismo modo, no soy ningún aritmético. Los números que solo hablan de números me interesan muy poco.
+>
+>También dediqué parte de mi tiempo a los asuntos románticos. Era una experiencia nueva para mí, porque hasta entonces nunca había recibido mucha atención de las mujeres. Y cuando la había recibido, no había sabido qué hacer con ella.
+>
+>Pero ahora era mayor, y en cierto modo más sabio. Y gracias a las historias que circulaban, las mujeres de ambos lados del río empezaban a interesarse por mí. Todos mis romances fueron agradables y breves. No puedo explicar por qué fueron breves, sino solo expresar algo evidente: que no hay nada en mí que pueda animar a una mujer a desear prolongadamente mi compañía.
+>
+>Simmon, por ejemplo, tenía mucho que ofrecer. Era un diamante en bruto. A primera vista no deslumbraba, pero había un gran valor bajo la superficie. Sim era todo lo tierno, bondadoso y atento que una mujer podía desear. Fela estaba loca de felicidad con él. Sim era un príncipe.
+>
+>¿Qué podía ofrecer yo, en cambio? Nada, la verdad. Y menos ahora. Era como una piedra rara que coges del suelo, llevas un rato y al final vuelves a tirar al darte cuenta de que, pese a su apariencia interesante, no es más que un trozo de tierra duro.
 
 
 >[!Quote] ### Cap 147: [Reencuentro con Denna] aud6(5:21)  
@@ -505,13 +807,75 @@ ___
 
 >[!Quote] ### Cap 149: [Consejos de Fela sobre las mujeres] aud6(5:49)  
 >- - - - - - - - -  
-
-
-
-
->[!Info] LORE
-
-
-> [!Success]
+>Venga, cuéntaselo todo a tía Fela. Le hice un resumen. Describí la situación lo mejor que pude, pero lo fundamental parecía resistirse a una explicación. Cuando intentaba expresarlo con palabras, parecía estúpido.
+>
+>—Y eso es todo —dije tras varios minutos de abordar torpemente el tema—. O es todo de lo que quiero hablar. Denna me desconcierta como nada en el mundo. — Arranqué una astilla del tablero de la mesa con un dedo—. Odio no entender una cosa.
+>
+>—Muy bien —dijo Fela poniéndose seria—. Empecemos por tus puntos a favor. Eres encantador, guapo y muy cortés con las mujeres.
+>
+>—Hay maneras y maneras de mirar —le dijo Fela a Simmon—. Hay hombres que te repasan con una mirada grasienta. Te dan ganas de darte un baño. Otros lo hacen con una mirada agradable que te ayuda a saber que eres hermosa. —Se pasó una mano por el pelo distraídamente.
+>
+>—Tú no necesitas que te lo recuerden —dijo Simmon. 
+>
+>—Todos necesitamos que nos lo recuerden —lo contradijo ella—. Pero Kvothe es diferente. Él lo hace con mucha seriedad. Cuando te mira, notas que toda su atención está centrada en ti. —Se rio de mi expresión de bochorno—. Esa fue una de las cosas que me gustó de ti cuando nos conocimos.
+>
+>—Pero desde que has vuelto, se ha convertido en algo casi físico —continuó Fela 
+>
+>—. Ahora, cuando me miras, ocurre algo detrás de tus ojos. Algo con reminiscencias de fruta dulce, sombras y luz de lámparas. Algo salvaje de lo que las doncellas feéricas huyen bajo un cielo violeta. Es algo terrible. Me gusta. —Se rebulló un poco en el asiento, y aprecié en sus ojos un brillo travieso.
+>
+>—. Contigo, en cambio, no me enredaría ni por todo el oro del mundo —dijo rotundamente.
+>
+>—¿Qué quieres decir con eso? —pregunté—. ¿Y mi mirada? ¿Y mi nosequé misterioso y feérico? 
+>
+>—Ah, sí, eres fascinante. Pero una chica busca algo más que eso. Busca a un hombre que tenga devoción por ella.
+>
+>—Me niego a arrojarme a sus pies como todos los hombres que ha conocido. Lo odia. He visto lo que pasa con mis propios ojos.
+>
+>—¿Nunca se te ha ocurrido pensar que quizá ella sienta lo mismo? —me preguntó Fela—. Te recuerdo que gozas de cierta reputación entre las mujeres.
+>
+>—¿Qué quieres que haga? ¿Que me enclaustre? ¡Por el carbonizado cuerpo de Dios, la he visto en los brazos de diez docenas de hombres! ¿Y ahora ella se ofende si llevo a otra mujer a ver una obra de teatro?
+>
+>—Has hecho algo más que ir a dar paseos en coche. Las mujeres hablan.
 > 
-> Aliases: “success”, “check”, “done”
+>—Maravilloso. Y ¿qué dicen? —pregunté con amargura, bajando la vista hacia mi sopa. 
+>
+>—Que eres encantador. Y educado. Y que no se te escapan las manos, lo cual en algunos casos, por lo visto, es motivo de frustración.
+>
+>—Meradin —confesó—. Pero yo no te lo he dicho. 
+>
+>—No me dijo ni veinte palabras durante la cena. ¿Y después se queja de que no le metiera mano? Creía que me odiaba.
+>
+>—Estamos muy lejos de Modeg —dijo Fela—. En esta parte del mundo, la gente no es muy razonable respecto al sexo. Hay mujeres que no saben cómo tratar a un hombre que no hace insinuaciones audaces.
+>
+>—Muy bien —dije—. Y ¿qué más dicen? 
+>
+>—Nada excesivamente sorprendente. No eres abusón, pero tampoco es muy difícil activarte. Eres generoso, ingenioso y… —Dejó la frase sin terminar, como si se sintiera incómoda.
+>
+>—Adelante —la animé.
+> 
+>Fela suspiró y añadió: —Distante. 
+>
+>No era el duro golpe que yo esperaba. 
+>
+>—¿Distante?
+>
+>—A veces, lo único que quieres es cenar —dijo Fela—. O tener compañía. O conversación. O que alguien te dé un tiento cariñoso. Pero básicamente, lo que quieres es que un hombre… —Frunció el ceño y volvió a empezar—. Cuando estás con un hombre… —Volvió a dejar la frase colgada.
+>
+>—Si tú y yo estuviéramos juntos, algo en mí me diría que ibas a abandonarme. No enseguida. No con malicia, ni por crueldad. Pero sabría que ibas a abandonarme. No pareces la clase de hombre que sienta la cabeza y se queda con una chica para siempre. Al final, encontrarías algo más importante que yo y me dejarías.
+>
+>—Tiene que haber algo más que solo devoción —tercio Sim—. Kvothe lo pondría todo patas arriba por su chica. Supongo que de eso te das cuenta, ¿no? 
+>
+>—Supongo que sí. 
+>
+>—Pues si tú te das cuenta, Denna también debe de darse cuenta. 
+>
+>—Para mí es fácil verlo porque estoy lejos. 
+>
+>—¿El amor es ciego? —dijo Sim riendo—. ¿Ese es el único consejo que piensas darle? —Miró al techo—. ¡Por favor! 
+>
+>—Yo nunca he dicho que esté enamorado. Nunca lo he dicho. Denna me desconcierta, y le tengo cariño. Pero no hay nada más. ¿Cómo iba a haber algo más? No la conozco lo suficiente para aspirar a amarla. ¿Cómo voy a amar algo que no comprendo?
+>
+>Fela y Sim se quedaron mirándome en silencio. Entonces Sim soltó una carcajada, como si yo acabara de decir la cosa más ridícula que jamás había oído. Le cogió la mano a Fela y le plantó un beso en el anillo de piedra de múltiples facetas. 
+>
+>—Tú ganas —le dijo—. El amor es ciego, y sordomudo. Jamás volveré a poner en duda tu sabiduría.
+
