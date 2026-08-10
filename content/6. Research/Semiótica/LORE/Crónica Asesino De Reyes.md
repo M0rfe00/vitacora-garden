@@ -78,7 +78,7 @@ Es una técnica mental que Kvothe aprende y utiliza para bloquear emociones extr
 ### ==3. La hoja que gira== - Dejar la mente fluir.
 ___
 Es el estado opuesto al Corazón de Piedra y se considera una forma de meditación o "mente durmiente"
-
+Corazon de piedra: Es un estado de desapego emocional absoluto y concentración lógica extrema.
 En contraste con el Corazón de Piedra, este es un estado de meditación Adem donde la mente se libera, permitiendo que las ideas fluyan sin un pensamiento consciente excesivo. Es un estado de "ir con la corriente", útil para aprender y para captar los Nombres de las cosas.
 
 - **Función:** En lugar de forzar la mente, el usuario deja que esta divague y "fluya" sin pensar dos veces, permitiendo que las acciones ocurran de forma intuitiva.
@@ -216,8 +216,6 @@ ___
   >“Que serías capaz de ofrecerme que valga el precio de mis recuerdos”  
   >
 >“Puedo resumirlo todo en una frase; viaje, ame, perdí, confié y me traicionaron, escríbelo y haz con ello lo que quieras”  
-  
-
   
 
 >[!Quote] ### Cap 8:  Sobre sus maestros 
@@ -533,11 +531,6 @@ ___
 >
 >Así que no intentaba conquistarla y me contentaba con jugar una hermosa partida. Pero siempre había una parte de mí que deseaba algo más, y por tanto siempre había una parte de mí que deliraba.
 >
-
-
-
-
-
 
 
 

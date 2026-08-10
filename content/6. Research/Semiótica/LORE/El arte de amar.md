@@ -2,49 +2,42 @@
 tags:
   - Lore
 ---
-# El arte de amar – Erich Fromm(caída de la naturaleza)
+# El arte de amar – Erich Fromm (caída de la naturaleza)
 ___
-Lo esencial en la existencia del hombre es el hecho de que ha emergido del reino
-animal, de la adaptación instintiva, de que ha trascendido la naturaleza -si bien
-jamás la abandona y siempre forma parte de ella- y, sin embargo, una vez que se ha
-arrancado de la naturaleza, ya no puede retornar a ella, una vez arrojado del
+Lo esencial en la existencia del hombre es el hecho de que ha emergido del reino animal, de la adaptación instintiva, de que ha trascendido la naturaleza si bien jamás la abandona y siempre forma parte de ella y, sin embargo, una vez que se ha arrancado de la naturaleza, ya no puede retornar a ella, una vez arrojado del paraíso un estado de unidad original con la naturaleza.
 
-paraíso -un estado de unidad original con la naturaleza-
-El hombre sólo puede ir hacia adelante desarrollando su razón, encontrando una
+El hombre sólo puede ir hacia adelante desarrollando su razón, encontrando una nueva armonía humana en reemplazo de la prehumana que está irremediablemente perdida.
 
-nueva armonía humana en reemplazo de la prehumana que está irremediablemente
-perdida.
-Cuando el hombre nace, tanto la raza humana como el individuo, se ve arrojado de
-una situación definida, tan definida como los instintos, hacia una situación indefinida,
-incierta, abierta. Sólo existe certeza con respecto al pasado, y con respecto al
-futuro, la certeza de la muerte.
-El hombre está dotado de razón, es vida consciente de sí misma; tiene conciencia
-de sí mismo, de sus semejantes, de su pasado y de las posibilidades de su futuro.
-Esa conciencia de sí mismo como una entidad separada, la conciencia de su breve
-lapso de vida, del hecho de que nace sin que intervenga su voluntad y ha de morir
-contra su voluntad, de que morirá antes que los que ama, o éstos antes que él, la
-conciencia de su soledad y su <separatidad»,* de su desvalidez frente a las fuerzas
-de la naturaleza y de la sociedad, todo ello hace de su existencia separada y
-desunida una insoportable prisión. Se volvería loco si no pudiera liberarse de su
-prisión y extender la mano para unirse en una u otra forma con los demás hombres,
-con el mundo exterior.
-La necesidad más profunda del hombre es, entonces, la necesidad de superar su
-separatidad, de abandonar la prisión de su soledad. El fracaso absoluto en el logro
-de tal finalidad significa la locura, porque el pánico del aislamiento total sólo puede
-vencerse por medio de un retraimiento tan radical del mundo exterior que el
-sentimiento de separación se desvanece-porque el mundo exterior, del cual se está
-separado, ha desaparecido.
-El hombre de todas las edades y culturas enfrenta la solución de un problema que
-es siempre el mismo: el problema de cómo superar la separatidad, cómo lograr la
-unión, cómo trascender la propia vida individual y encontrar compensación.
+Cuando el hombre nace, tanto la raza humana como el individuo, se ve arrojado de una situación definida, tan definida como los instintos, hacia una situación indefinida, incierta, abierta. Sólo existe certeza con respecto al pasado, y con respecto al futuro, la certeza de la muerte.
+
+El hombre está dotado de razón, es vida consciente de sí misma; tiene conciencia de sí mismo, de sus semejantes, de su pasado y de las posibilidades de su futuro.
+
+Esa conciencia de sí mismo como una entidad separada, la conciencia de su breve lapso de vida, del hecho de que nace sin que intervenga su voluntad y ha de morir contra su voluntad, de que morirá antes que los que ama, o éstos antes que él, la conciencia de su soledad y su <separatidad»,* de su desvalidez frente a las fuerzas de la naturaleza y de la sociedad, todo ello hace de su existencia separada y desunida una insoportable prisión. Se volvería loco si no pudiera liberarse de su prisión y extender la mano para unirse en una u otra forma con los demás hombres, con el mundo exterior.
+-
+-
+La necesidad más profunda del hombre es, entonces, la necesidad de superar su separatidad, de abandonar la prisión de su soledad. 
+
+El fracaso absoluto en el logro de tal finalidad significa la locura, porque el pánico del aislamiento total sólo puede vencerse por medio de un retraimiento tan radical del mundo exterior que el sentimiento de separación se desvanece-porque el mundo exterior, del cual se está separado, ha desaparecido.
+
+El hombre de todas las edades y culturas enfrenta la solución de un problema que es siempre el mismo: el problema de cómo superar la separatidad, cómo lograr la unión, cómo trascender la propia vida individual y encontrar compensación.
 
 # Respuestas a la separatidad:
 ___
-La respuesta varía. La solución puede alcanzarse por medio de la adoración de animales, del sacrificio humano o las conquistas militares, por la complacencia en la lujuria, el renunciamiento ascético, el trabajo obsesivo, la creación artística, el amor a Dios y el amor al Hombre. Y si bien las respuestas son muchas -su crónica constituye la historia humana- no son, empero, innumerables.
+La respuesta varía. La solución puede alcanzarse por medio de la adoración de animales, del sacrificio humano o las conquistas militares, por la complacencia en la lujuria, el renunciamiento ascético, el trabajo obsesivo, la creación artística, el amor a Dios y el amor al Hombre. 
 
-La historia de la religión y de la filosofía es la historia de esas respuestas, de su diversidad, así como de su limitación en cuanto al número. Las respuestas dependen, en cierta medida, del grado de individualización alcanzado por el individuo. En el infante, la yoidad se ha desarrollado apenas; él aún se siente uno con su madre, no experimenta el sentimiento de separatidad mientras su madre está presente. Su sensación de soledad es creada por la presencia física de la madre, sus pechos, su piel. Sólo en el grado que el niño desarrolla su sensación de separatidad e individualidad, la presencia física de la madre deja de ser suficiente y surge la necesidad de superar de otras maneras la separatidad. 
+Y si bien las respuestas son muchas su crónica constituye la historia humana- no son, empero, innumerables.
 
-De manera similar, la raza humana, en su infancia, se siente una con la naturaleza. El suelo, los animales, las plantas, constituyen aún el mundo del hombre, quien se identifica con los animales, como lo expresa el uso que hace de máscaras animales, la adoración de un animal totémico o de dioses animales. Pero cuanto más se libera la raza humana de tales vínculos primarios, más intensa se torna la necesidad de encontrar nuevas formas de escapar del estado de separación.
+La historia de la religión y de la filosofía es la historia de esas respuestas, de su diversidad, así como de su limitación en cuanto al número. 
+
+Las respuestas dependen, en cierta medida, del grado de individualización alcanzado por el individuo. 
+
+En el infante, la yoidad se ha desarrollado apenas; él aún se siente uno con su madre, no experimenta el sentimiento de separatidad mientras su madre está presente. Su sensación de soledad es creada por la presencia física de la madre, sus pechos, su piel. 
+
+Sólo en el grado que el niño desarrolla su sensación de separatidad e individualidad, la presencia física de la madre deja de ser suficiente y surge la necesidad de superar de otras maneras la separatidad. 
+
+De manera similar, la raza humana, en su infancia, se siente una con la naturaleza. El suelo, los animales, las plantas, constituyen aún el mundo del hombre, quien se identifica con los animales, como lo expresa el uso que hace de máscaras animales, la adoración de un animal totémico o de dioses animales. 
+
+Pero cuanto más se libera la raza humana de tales vínculos primarios, más intensa se torna la necesidad de encontrar nuevas formas de escapar del estado de separación.
 
 ## 1. Respuesta orgiástica: 
 ___
