@@ -324,6 +324,27 @@ La naturaleza de las cosas no se puede describir, solo se puede experimentar y e
 
 
 
+>[!Info] Corazón Tan Blanco, las verdades y las mentiras.
+>Y ahora qué? La única forma de zafarse de esa pregunta no es repetirla, sino que no exista y no hacérsela, ni permitir que nadie se la haga a uno. 
+>
+>Pero eso es imposible, y tal vez por eso, para contestársela, hay que inventarse problemas y sufrir aprensiones y tener sospechas y pensar en el futuro abstracto, pensar con tan enfermo cerebro o tan enfermizamente con el cerebro, ‘so brainsickly of things’ como le dijeron que no hiciera a Macbeth, ver lo que no hay para que haya algo, temer a la enfermedad o a la muerte, al abandono o a la traición, y crearse amenazas, aunque sea por persona interpuesta, aunque sea analógicamente o simbólicamente, y quizá sea esto lo que nos lleva a leer novelas y crónicas y a ver peliculas, la búsqueda de la analogía, del símbolo, la búsqueda del reconocimiento, no del conocimiento. 
+>
+>Contar los hechos deforma los hechos y los tergiversa y casi los niega, todo lo que se cuenta pasa a ser irreal y aproximativo aunque sea verídico, la verdad no depende de que las cosas fueran o sucedieran, sino de que permanezcan ocultas y se desconozcan y no se cuenten, en cuanto se relatan o se manifiestan o muestran, aunque sea en lo que más real parece, en la televisión o el periódico, en lo que se llama la realidad o la vida o la vida real incluso, pasan a formar parte de la analogía y el símbolo, y ya no son hechos, sino que se convierten en reconocimiento.
+>
+>La verdad nunca resplandece, como dice la fórmula, porque la única verdad es la que no se conoce ni se transmite, la que no se traduce a palabras ni a imágenes, el encubierta y no averiguada, y quizá por eso se cuenta tanto o se cuenta todo, para que nunca haya ocurrido nada, una vez que se cuenta. 
+>___
+>Me aterró el pensamiento y no quise pensarlo, el secreto que no se transmite no hace daño a nadie, cuando tengas secretos o si ya los tienes no se los cuentes, me había dicho mi padre después de decirme y ahora qué, ahora qué.
 
-
-
+>[!Info] ### Cap ?: [Tipos de secretos Tekam]  
+>___
+>En su Teofanía, Teccam habla de los secretos y los llama «tesoros dolorosos de la mente». Explica que lo que la mayoría de la gente considera secretos no lo son en realidad. Los misterios, por ejemplo, no son secretos. Tampoco lo son los hechos poco conocidos ni las verdades olvidadas.
+>
+>Un secreto, explica Teccam, es un conocimiento cierto activamente ocultado.
+>
+>Teccam expone que existen dos tipos de secretos. Hay secretos de la boca y secretos del corazón.
+>
+>La mayoría de los secretos son secretos de la boca. Chismes compartidos y pequeños escándalos susurrados. Esos secretos ansian liberarse por el mundo. Un secreto de la boca es como una china metida en la bota. Al principio apenas la notas. Luego se vuelve molesta, y al final, insoportable. Los secretos de la boca crecen cuanto más los guardas, y se hinchan hasta presionar contra tus labios. Luchan para que los liberes.
+>
+>Los secretos del corazón son diferentes. Son íntimos y dolorosos, y queremos, ante todo, escondérselos al mundo. No se hinchan ni presionan buscando una salida. Moran en el corazón, y cuanto más se los guarda, más pesados se vuelven.
+>
+>Teccam sostiene que es mejor tener la boca llena de veneno que un secreto del corazón. Cualquier idiota sabe escupir el veneno, dice, pero nosotros guardamos esos tesoros dolorosos. Tragamos para contenerlos todos los días, obligándolos a permanecer en lo más profundo de nosotros. Allí se quedan, volviéndose cada vez más pesados, enconándose. Con el tiempo, no pueden evitar aplastar el corazón que los contiene.

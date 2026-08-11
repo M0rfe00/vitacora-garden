@@ -76,6 +76,16 @@ La autoalusión busca que el practicante dirija la atención hacia el propio act
 
 -  **Posible acceso a estados de conciencia expandida.**
 
+### Fases de observación 
+1. Observar ==respiración== 
+2. Observar ==pensamientos, cuerpo y sensaciones== unificándolos parte por parte sin juzgar, analizar hasta observar el cuerpo como una unidad observando y sintiendo simultáneamente   
+3. Activar una percepción de todo el cuerpo y sus sensaciones corporales y ==simultáneamente la respiración==
+4. Observar simultáneamente ==cuerpo, pensamientos, respiración, emociones y todos los procesos mentales  ==
+5. Observar los ==sonidos del medio ambiente== y posteriormente hacer una observación simultánea de ==medioambiente, cuerpo, emociones, pensamientos==
+6. Observar el ==mundo visual==
+
+Tras poder hacer una observación simultánea de todos los componentes de la experiencia se atraviesa un umbral que conecta con uno mismo unificado e indescriptible más allá de las concepciones previas pero más cerca de uno mismo.
+
 # **Meditación Vipassana**
 ___
 La meditación vipassana es una de las técnicas de meditación más antiguas del budismo, vinculada directamente a las enseñanzas de Siddhartha Gautama (el Buda). Su nombre en pali significa “ver las cosas tal como son”.
