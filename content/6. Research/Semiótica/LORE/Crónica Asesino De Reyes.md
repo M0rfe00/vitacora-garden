@@ -297,9 +297,13 @@ ___
 >Lo había estropeado todo, todo lo que había dicho y que en su momento me había parecido tan inteligente era en realidad lo peor y más delirante que se podía decir, Denna ya estaba su habitación respirando de alivio de haberse librado por fin de mi, pero me había sonreído, se había reído, róbame me había dicho, debi ser más atrevido y besarla, debí ser más prudente, había hablado en exceso, no había dicho suficiente  
 
 
->[!Quote] ### Cap 68 al final:  Deok sobre el fuego y las mujeres   
+>[!Quote] ### Cap 65 al final:  Deoch sobre el fuego y las mujeres   
 >___
+>—Mira, las mujeres son como el fuego, como las llamas. Algunas son como velas, luminosas e inofensivas. Algunas son como chispas, o como brasas, o como las luciérnagas que perseguimos las noches de verano. Algunas son como hogueras, un derroche de luz y de calor para una sola noche, y quieren que después las dejen en paz. Algunas son como el fuego de la chimenea: no muy espectaculares, pero por debajo tienen cálidas y rojas brasas que arden mucho tiempo.
 >
+>»Pero Dianne... Dianne es como una cascada de chispas que sale de un afilado cuchillo de hierro que Dios acerca a la piedra de afilar. No puedes evitar mirar, no puedes evitar desearla. Hasta es posible que acerques una mano durante un segundo. Pero no puedes dejarla allí. Te partirá el corazón...
+>
+>—Deoch, mi corazón es más duro que el cristal. Cuando ella lo golpee, comprobará que es fuerte como el latón al hierro, o como una mezcla de oro y adamante. No creas que no soy consciente, que soy como un ciervo asustado que se queda paralizado al oír las cornetas de los cazadores. Es ella quien debería andarse con cuidado, porque cuando lo golpee, mi corazón producirá un sonido tan hermoso y tan claro que la hará venir hacia mí volando.
 
 
 >[!Quote] ### Cap 72: Kvothe sobre los hombres con Denna (4:49:14-4:50)  
@@ -580,7 +584,7 @@ ___
 >
 >—Quizá. —Frustración. Tempi desenvainó su espada y la sujetó paralela al suelo, con el filo hacia arriba—. Si fueras pequeño, caminar por esta espada sería el Lethani.
 >
-—¿Doloroso para los pies? —pregunté en un intento de darle un tono menos grave a la conversación. Diversión. Ira. Desaprobación. 
+>—¿Doloroso para los pies? —pregunté en un intento de darle un tono menos grave a la conversación. Diversión. Ira. Desaprobación. 
 >
 >—No. Difícil caminar. Fácil caer a un lado. Difícil quedarse. 
 >
@@ -598,7 +602,7 @@ ___
 >
 >Pausa. Sí y no. Tempi sacudió la cabeza. Frustración. Recordé que Tempi había dicho que los mercenarios tenían que aprender el Lethani dos veces.
 >
-—¿El Lethani es pelear? —pregunté. 
+>—¿El Lethani es pelear? —pregunté. 
 >
 >—No. Lo dijo con una certeza tan absoluta que tuve que preguntarle lo contrario para asegurarme. 
 >
