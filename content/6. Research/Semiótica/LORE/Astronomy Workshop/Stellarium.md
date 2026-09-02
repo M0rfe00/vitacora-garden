@@ -1,3 +1,7 @@
+---
+tags:
+  - WAstronomy
+---
 Planificar nuestra noche de observación simulando el cielo que nos encontraremos por la noche 
 Simular como se verán los cuerpos celeste a través de nuestro telescopio y oculares 
 Controlar nuestro telescopio desde el ordenador

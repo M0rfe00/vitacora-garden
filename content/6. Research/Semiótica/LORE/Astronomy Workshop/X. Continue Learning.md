@@ -1,3 +1,7 @@
+---
+tags:
+  - WAstronomy
+---
 ## Cómo empezar como aficionado
 ___
 Esto puede ser un cierre muy bonito.
