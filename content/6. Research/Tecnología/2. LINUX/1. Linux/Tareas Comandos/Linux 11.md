@@ -1,3 +1,8 @@
+---
+tags:
+  - Informática
+  - Linux
+---
 1) muestra el nombre del equipo (uname)
 ![[paso1_11.jpg]]
 

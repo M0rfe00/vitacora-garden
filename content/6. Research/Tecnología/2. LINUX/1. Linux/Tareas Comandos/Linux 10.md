@@ -1,3 +1,8 @@
+---
+tags:
+  - Informática
+  - Linux
+---
 01 Averiguar uid y gid del usuario man. 
 
 02 Averiguar el nombre del grupo al que pertenece el usuario man.

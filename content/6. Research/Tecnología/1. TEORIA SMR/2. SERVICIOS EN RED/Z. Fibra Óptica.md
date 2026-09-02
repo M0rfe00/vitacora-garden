@@ -1,3 +1,8 @@
+---
+tags:
+  - Informática
+  - Teoria
+---
 # Fibra Óptica
 ___
 Los datos del mundo real son codificados mediante lógica binaria para que el ordenador pueda entenderlos.

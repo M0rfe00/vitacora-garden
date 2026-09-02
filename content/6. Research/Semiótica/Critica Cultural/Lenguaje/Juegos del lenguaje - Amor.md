@@ -1,3 +1,8 @@
+---
+tags:
+  - Critica Cultural
+  - Lenguaje
+---
 # Incapacidad, Lenguaje y Amor
 ___
 Echo todo a perder diciendo algo tan estúpido como "Te quiero"

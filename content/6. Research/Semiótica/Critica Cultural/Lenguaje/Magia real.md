@@ -1,3 +1,8 @@
+---
+tags:
+  - Critica Cultural
+  - Lenguaje
+---
 # Magia – Rodrigo Taramona
 ___
 El termino proviene del latín que a su vez del griego y podría remontarse a femenino _magikós,_ utilizado para referirse magos (miembros de la clase sacerdotal erudita)

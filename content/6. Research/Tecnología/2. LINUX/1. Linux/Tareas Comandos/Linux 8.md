@@ -1,3 +1,9 @@
+---
+tags:
+  - Informática
+  - Linux
+---
+
 ![[Captura1Linux.jpg]]
 
 ![[Captura2Linux.jpg]]

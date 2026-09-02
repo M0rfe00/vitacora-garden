@@ -1,3 +1,8 @@
+---
+tags:
+  - Critica Cultural
+  - Lenguaje
+---
 # UNHAPPINESS
 ___
 **A lot of unhappiness comes about in this world** because we can't let other people know what we mean clearly enough.

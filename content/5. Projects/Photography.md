@@ -1,3 +1,8 @@
+---
+tags:
+  - Proyectos
+  - Fotografía
+---
 # 2026
 ___
 <div class="galeria">

@@ -1,3 +1,8 @@
+---
+tags:
+  - Informática
+  - Linux
+---
 1. Busca el fichero "syslog" en el sistema mostrando la ruta en la que se encuentra.
 
 

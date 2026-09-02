@@ -1,3 +1,8 @@
+---
+tags:
+  - Critica Cultural
+  - Lenguaje
+---
 # Separatidad del hombre (caída de la naturaleza)
 ___
 ==Origen:== Lo esencial en la existencia del hombre es el hecho de que ha emergido del reino animal, de la adaptación instintiva, de que ha trascendido la naturaleza, y si bien jamás la abandona y siempre forma parte de ella, sin embargo, una vez que se ha arrancado de la naturaleza, ya no puede retornar a ella, una vez arrojado del paraíso un estado de unidad original con la naturaleza, el hombre sólo puede ir hacia adelante desarrollando su razón, encontrando una nueva armonía humana en reemplazo de la prehumana que está irremediablemente perdida.

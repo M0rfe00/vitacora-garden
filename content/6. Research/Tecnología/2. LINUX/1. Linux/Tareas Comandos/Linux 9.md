@@ -1,3 +1,8 @@
+---
+tags:
+  - Informática
+  - Linux
+---
 
 ![[Captura de pantalla 2023-04-12 115036.jpg]]
 1º Lanza un proceso de bloc de notas y otro de calculadora e identifica el número de proceso que les han sido asignados.

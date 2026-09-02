@@ -1,4 +1,8 @@
- >Quien no conoce nada, no ama nada.  
+---
+tags:
+  - Critica Cultural
+---
+>Quien no conoce nada, no ama nada.  
 > Quien no puede hacer nada, no compren-  
 > de nada. Quien nada comprende, nada  
 > vale. Pero quien comprende también ama,  

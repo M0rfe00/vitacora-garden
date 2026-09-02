@@ -1,3 +1,8 @@
+---
+tags:
+  - Informática
+  - Teoria
+---
 Desde la terminal ejecuto el comando Ipconfig para ver la ip del punto de acceso y asi acceder al menú de configuración.
 
 ![[Practica PuntoAccesoLucas-0.jpg]]
