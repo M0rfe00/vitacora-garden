@@ -1,3 +1,8 @@
+---
+tags:
+  - Simulaciones
+---
+
 ## **Pensamiento sincrónico:** 
 mientras que filósofos como Nietzsche sostenían que para conocer las cosas había que estudiar su historia, por ejemplo para entender la libertad no Valia únicamente con buscar la palabra en un diccionario, sino que habría que estudiar su historia, como se ha luchado por ella, que partes han sido marginadas y reprimidas lo que es una visión diacrónica, Baudrillard al contrario pensaba que esto no era suficiente y para entender la libertad había que entender su contexto como parte de una red de otros conceptos como servidumbre, esclavitud, despotismo, liberalismo, según el las palabras estaban unidas que un contexto que les daba significado.
 
@@ -51,4 +56,3 @@ Pese a su interpretación cínica y pesimista del mundo, Baudrillard teoriza una
 Dice que una sociedad verdaderamente libre opresión seria aquella en la que las personas regalasen cosas cuando quisiesen, cuando viesen algo que creen que le va a gustar a la otra persona y no una en la que se piensa racionalmente que si se le regala algo alguien pueda recibir una recompensa en el futuro, señala a la aristocracia como modelo de esto ya que los ricos simplemente expelen energía, beben cuando quieren, se autodestruyen cuando sienten que lo necesitan, hacen arte un minuto y se dedican a otra cosa después sin pedir nada a cambio, defendiendo que los seres humanos no son criaturas utilitarias, sino excesivas, con deseos creativos e impulsos y pulsiones irreconciliables.
 
 
-#Research

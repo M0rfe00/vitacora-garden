@@ -1,3 +1,8 @@
+---
+tags:
+  - MusicaClasica
+---
+
 ¿EN QUÉ PELÍCULA APARECE ESTA OBRA?
 
 Esta es la lista de las películas y series más conocidas en las que se han utilizado las obras que hemos visto en el curso. Están ordenadas en orden el orden que hemos seguido en el curso, desde el Barroco hasta el siglo XX, terminando con la Música para contar historias. 

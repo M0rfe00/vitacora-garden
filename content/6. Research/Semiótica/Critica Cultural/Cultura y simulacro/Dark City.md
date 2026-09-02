@@ -1,3 +1,8 @@
+---
+tags:
+  - Simulaciones
+---
+
 # Resumen Dark city:
 
 una raza extraterrestre, los ocultos, ha alcanzado tal evolución tecnológica que es capaz de modificar la realidad a su voluntad, sintonizar como lo llaman ellos, sin embargo su raza esta al borde de la extinción para evitar esto intentan de todo, hasta que encuentran el planeta tierra y creen que su salvación esta en el alma humana, por lo que deciden experimentar con ellos hasta descubrir como salvarse.
@@ -32,4 +37,3 @@ Quizás la trama esta mas desaprovechada que en Matrix una vez se destapa el mis
 	3) Culturas que se adaptan para ser mas accesibles a turísticas hasta el punto de reinterpretarse en base a la simulación perdiendo su esencia 	original.
 
 
-#Research 

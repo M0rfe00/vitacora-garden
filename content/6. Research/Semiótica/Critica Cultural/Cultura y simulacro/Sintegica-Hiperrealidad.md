@@ -1,3 +1,8 @@
+---
+tags:
+  - Simulaciones
+---
+
 # **REVIEW MATRIX**
 En su día me voló la cabeza sobredimensionadamente, no estoy orgulloso de lo insoportable que estuve en esa época, pero en honor a ello voy a hacer esta review.
 

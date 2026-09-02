@@ -1,3 +1,8 @@
+---
+tags:
+  - Simulaciones
+---
+
 # Diálogos de la peli Truman show:
 
 **- - - - - - - - -Intro: (00:00:00)**
@@ -85,4 +90,3 @@ Si, una mas sobre simulaciones, en este enfoque se plantea una miniaturización 
 Quizá es el enfoque menos distópico dentro del genero y mas cercano a la realidad, consiguiendo hacer presente muchas conceptos presentes en el día a día, como la ingeniería social utilizada para manipular a las personas, la instrumentalización y capitalización de individuos en medios de comunicación, y el elemento mas presente y reconocible, la telerrealidad, el morbo que genera y como representa comportamientos artificiales que acaban asimilándose en la audiencia transformando comportamientos que inicialmente simulaban la realidad en 
 
 
-#Research

@@ -1,3 +1,8 @@
+---
+tags:
+  - Simulaciones
+---
+
 # Resumen:
 
 En este mundo la humanidad ha sido capaz de crear una subrealidad que simula la década de los años 30, en este simulacro la realidad esta hecha a imagen y semejanza de su referencia original siendo independiente de la misma, hasta el punto que es indistinguible realidad de simulación.
@@ -44,4 +49,3 @@ Es así, como estas simulaciones o miniaturizaciones adquieren el mismo carácte
 
 Las comparaciones con otras obras del mismo genero son inevitables, mientras que otras destacan por su acción y efectos especiales, esta tiene un estilo mas enfocado al thriller policiaco, guion que funciona, sobre todo, al no tratar de complicar la trama pretenciosamente y tener una duración amena, pero es pero es cierto que peca de ser un poco plana narrativamente y los efectos no han envejecido bien.
 
-#Research

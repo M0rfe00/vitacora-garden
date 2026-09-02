@@ -1,3 +1,7 @@
+---
+tags:
+  - MusicaClasica
+---
 # Acorde 
 ___
 Del latín accordare, "poner de acuerdo" 

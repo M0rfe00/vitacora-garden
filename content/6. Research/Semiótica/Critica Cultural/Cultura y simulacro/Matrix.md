@@ -1,3 +1,8 @@
+---
+tags:
+  - Simulaciones
+---
+
 # Resumen:
 Los humanos desarrollaron inteligencias artificiales, las cuales terminaron volviéndose en contra de sus propios creadores, lo que dio lugar a una guerra, los humanos destruyeron la atmosfera para privar de energía solar a las maquinas, pero estas encontraron una nueva forma de alimentarse, la energía producida por los propios humanos, así que una vez acabo la guerra y habían acabado con los humanos crearon granjas para cultivarlos, y a su vez una simulación digital de finales de los 90 para mantenerlos dormidos a la que llamaron Matrix.
 
@@ -38,4 +43,3 @@ Muy sintetizadamente la teoría sostiene que no somos capaces de percibir la rea
 
 De esta forma, si la percepción de la realidad depende de la capacidad del observador de percibirla, de su consciencia, podrían existir personas que ya sea de forma natural o mediante estados alterados de conciencia pudiesen percibir la realidad de forma diferente y por ello mas cercano a como es.
 
-#Research

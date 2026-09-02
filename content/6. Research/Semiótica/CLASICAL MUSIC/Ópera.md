@@ -1,4 +1,7 @@
-
+---
+tags:
+  - MusicaClasica
+---
 
 A la hora de introducirse a la opera es complicado entender la musica, historia, idioma, por ello intentar entender la obra por completo al principio es un error.
 
