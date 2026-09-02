@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Cred că - Creo que  
 ___
 Eu cred că e bine - Yo creo que está bien  

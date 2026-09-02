@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Genitivo  
   
 El rumano tiene 5 casos; nominativo, acusativo, genitivo, vocativo, dativo  

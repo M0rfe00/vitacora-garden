@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Imperativo  
 Sunt grăbit - Tengo prisa  
 Fugi! - Corre  

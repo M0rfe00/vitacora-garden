@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Plural  
 # ==Sustantivo plural masculino==  
 ## ==Por defecto + (I)==  

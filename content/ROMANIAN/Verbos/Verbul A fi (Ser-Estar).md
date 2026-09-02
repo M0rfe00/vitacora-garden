@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Verbul "A fi"
 ___
 - Eu ==sunt==  (Eu îs/Eu mi-s  )

@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 - Eu mă uit - Yo miro
 - Tu te uiți - Tu miras
 - El/Ea se uița - Él/Ella mira

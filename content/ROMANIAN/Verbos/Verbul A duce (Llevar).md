@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 - Eu duc - Yo llevo
 - Tu duci - Tú llevas
 - El/Ea duce - Él/Ella lleva

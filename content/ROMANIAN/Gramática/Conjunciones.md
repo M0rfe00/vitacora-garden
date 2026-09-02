@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 ## Copulativas (Añaden información)
 ____
 **și** → y

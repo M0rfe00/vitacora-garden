@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Grados de comparación  
 # Grado positivo (Denota cualidad en el grado más simple)  
 ___

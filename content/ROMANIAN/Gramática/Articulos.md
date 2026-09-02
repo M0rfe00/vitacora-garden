@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Artículo Definido Singular  
 ## ==Masculino (u)l==  
 * Ministru - Ministru(l) [El ministro]  

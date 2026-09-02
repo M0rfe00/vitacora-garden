@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Adjetivos opuestos  
 Scund/ă - Bajo  
 Înalt/ă - Alto  

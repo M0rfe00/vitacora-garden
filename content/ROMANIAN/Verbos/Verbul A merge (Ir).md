@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Verbul A merger (Ir)  
 ___
 - Eu ==merg== - Yo voy  

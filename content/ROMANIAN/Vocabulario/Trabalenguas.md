@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # ==Trabalenguas==  
 ## ==#Ci==  
 ==Ciubotarul are o ciubotărie unde ciubotărește ciubote și ciuboțele==  

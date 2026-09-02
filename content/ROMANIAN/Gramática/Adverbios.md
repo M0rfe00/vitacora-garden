@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 Palabras que complementan un verbo, adjetivo, otros advervios e incluso oraciones.
 
 Expresan circunstancias, como puede ser modo, lugar, tiempo, cantidad, afirmación, duda... responden preguntas como: cuándo? dónde? cómo? de qué manera?

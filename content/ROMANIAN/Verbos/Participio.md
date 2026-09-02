@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 Se reconoce por sus terminaciones -S o -T
 
 A merge - Mers (ir - Ido)

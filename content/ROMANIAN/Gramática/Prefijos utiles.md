@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 Prefijos utiles  
 Letras o grupos de letras que se añaden delante de la raíz de una palabra para obteneter una nueva con un sentido diferente. (En rumano hay unos 100 aprox)  
   

@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 En rumano hay 4 conjugaciones en función de la terminación del verbo (-a, -ea, -e, -i/î)  
   
 # Verbos acabados en A

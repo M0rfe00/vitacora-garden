@@ -1,3 +1,7 @@
+---
+tags:
+  - Romanian
+---
 # Verbul "A avea"  
 ## FORMA POSITIVA:  
 ___
