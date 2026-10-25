@@ -263,8 +263,6 @@ Eso sería **mucho más potente para tu CV** que simplemente tener un certificad
 ___
 ## 1. Simuladores C-UAS que puedes probar
 
-![Electronic Warfare Operations (EWO)](https://images.openai.com/static-rsc-4/WcV9TBOtkE1KhsPTCe0-zWUx1YsgK0WFuIvIF0UvQD-haet_bjWhyVELd5Zx5ydb-hJiJ-oUnXv8xqz_pjlygaVCntmBWrb_J2KuLccmAKXnfrFRmjR4bs10zflysS79DWhrzLq5UEkpjX9dM4_wcDukYtMVFzjSrbGxAB-LEVs?purpose=inline)
-
 ### 1. OpenSentry
 Simulador de navegador centrado en la cadena Detectar → Seguir → Identificar → Responder. Incluye escenarios de aeropuertos, instalaciones y espacios concurridos, con decisiones sobre sensores y seguridad.
 
@@ -275,7 +273,7 @@ Simulador de navegador centrado en la cadena Detectar → Seguir → Identificar
 >[!Info] 
 >Es un simulador formativo, no una acreditación profesional ni una prueba de competencia con sistemas reales. [Abrir OpenSentry](https://opensentry.org/?utm_source=chatgpt.com) · [Fuente y descripción](https://opensentry.org/?utm_source=chatgpt.com)
 
-![Products | Simlat](https://images.openai.com/static-rsc-4/fS7QliN5wpVwBFRM3AMKmVOzp0c8Wyb_Ju3jiAWRaFYn8aylpruV_u1Plp8_OIHcXwBuX3PoAfEHn9vNtQ87kexrBZLamaIZE9eWrtObRM4Ztv9dMSd_x6PLCaE7EhyL4YHrMPYO0RTQa-YX48FwDeNkoi9SGa6kJq1oiLlDPzM?purpose=inline)
+![Electronic Warfare Operations (EWO)](https://images.openai.com/static-rsc-4/WcV9TBOtkE1KhsPTCe0-zWUx1YsgK0WFuIvIF0UvQD-haet_bjWhyVELd5Zx5ydb-hJiJ-oUnXv8xqz_pjlygaVCntmBWrb_J2KuLccmAKXnfrFRmjR4bs10zflysS79DWhrzLq5UEkpjX9dM4_wcDukYtMVFzjSrbGxAB-LEVs?purpose=inline)
 
 ### 2. SENTINEL Counter-UAS Simulator
 Simulador web que combina radar, RF/ESM y sensores electroópticos e infrarrojos. Permite explorar cómo se fusionan detecciones imperfectas, cómo se siguen los objetivos mediante filtros de Kalman y cómo se generan alertas de amenaza.
@@ -288,7 +286,7 @@ Simulador web que combina radar, RF/ESM y sensores electroópticos e infrarrojos
 >Muy recomendable para informática
 >Es especialmente interesante para aprender la parte de software, análisis de datos y fusión de sensores sin empezar por la electrónica. [Probar la demo](https://counter-uas-simulator.vercel.app?utm_source=chatgpt.com) · [Repositorio y documentación](https://github.com/ryanwelchtech/counter-uas-simulator?utm_source=chatgpt.com)
 
-![Drone Guardian® Counter-UAS Protection | L3Harris® Fast. Forward.](https://images.openai.com/static-rsc-4/H5PXKH-jSejbtfxqlE5TofPlEW0zyvXZ2TwtcBxF5f8liPhgCe4Y8RV1INXyzElAVD1wVuBceLelzNoPDRKpEp2qAQN30HkFb-Gb0Yj0g9pzypZmR4sUbcsMFAZNNhP5n3uJV4SShedaebZyFSK-pBwofIqNUHWKGsGde7ACcyI?purpose=inline)
+![Products | Simlat](https://images.openai.com/static-rsc-4/fS7QliN5wpVwBFRM3AMKmVOzp0c8Wyb_Ju3jiAWRaFYn8aylpruV_u1Plp8_OIHcXwBuX3PoAfEHn9vNtQ87kexrBZLamaIZE9eWrtObRM4Ztv9dMSd_x6PLCaE7EhyL4YHrMPYO0RTQa-YX48FwDeNkoi9SGa6kJq1oiLlDPzM?purpose=inline)
 
 ### 3. Counter-UAS Perception-to-Intercept
 Proyecto de código abierto que combina simulación de vuelo, visión artificial, detección mediante YOLO, seguimiento de objetivos y una interfaz de operador usando Cosys-AirSim.
@@ -300,12 +298,11 @@ Proyecto de código abierto que combina simulación de vuelo, visión artificial
 >[!Info] 
 >Para tu portátil con RTX 3050, empezaría revisando los requisitos y probando primero los módulos individuales; no asumiría que toda la simulación funcionará con fluidez sin ajustes. [Repositorio en GitHub](https://github.com/hilariie/Counter-UAS?utm_source=chatgpt.com)
 
+![Drone Guardian® Counter-UAS Protection | L3Harris® Fast. Forward.](https://images.openai.com/static-rsc-4/H5PXKH-jSejbtfxqlE5TofPlEW0zyvXZ2TwtcBxF5f8liPhgCe4Y8RV1INXyzElAVD1wVuBceLelzNoPDRKpEp2qAQN30HkFb-Gb0Yj0g9pzypZmR4sUbcsMFAZNNhP5n3uJV4SShedaebZyFSK-pBwofIqNUHWKGsGde7ACcyI?purpose=inline)
 
 ## 2. Laboratorios para aprender la parte de RF y detección
 
 Los simuladores anteriores trabajan principalmente con escenarios sintéticos. Para acercarte a la parte técnica de C-UAS, te recomiendo complementarlos con estos recursos.
-
-![Radio Frequency Signal-Based Drone Classification with Frequency Domain Gramian Angular Field and Convolutional Neural Network](https://images.openai.com/static-rsc-4/5LGGZ98rH01MuGhEFUTVBJwvg7apZP9wbg7pWMyEOOKlTFgYg_SM_0OR6P7Myw2tiRQ0Xf3vVbQDQg5fORsv_YBtgJBYDF1A8dBNaCSBoJYAU6i23ElJAz9RElEoglO89qo24kzQYRvRc2I0sKK0hAb_e8RX2dFxm4yssQs48AY?purpose=inline)
 
 ### 4. RFUAV
 Dataset y código de análisis para estudiar señales RF de drones, transformarlas en representaciones tiempo-frecuencia y experimentar con clasificación mediante aprendizaje automático. Es un puente entre programación, procesamiento de señales y detección de drones. [Repositorio en GitHub](https://github.com/alimp5/drone-rf-dataset?utm_source=chatgpt.com)
@@ -313,7 +310,7 @@ Dataset y código de análisis para estudiar señales RF de drones, transformarl
 >[!Info] 
 >Antes de empezar, comprueba qué archivos de datos están realmente disponibles: el repositorio puede incluir código sin ofrecer todavía todos los datos originales.
 
-![How To Make Your Own SDR Software With GNU Radio Companion - SWL QSL](https://images.openai.com/static-rsc-4/IA4xRjEIpc2FqNP7rSdf1sfTeqDYfJhzFLiKcipW_uyX8e6Bxo6sp8hwCFnEjeqPMl0P05W03ra4wvK4Fa1LhjGNGa0fp7ARxW0Z_lJz0tDxXhVHQ93KnoOji9vVkJewrgHepP2efZtEe6KXfGLNmmrumEXxSaw5HzZSCsJmsSI?purpose=inline)
+![Radio Frequency Signal-Based Drone Classification with Frequency Domain Gramian Angular Field and Convolutional Neural Network](https://images.openai.com/static-rsc-4/5LGGZ98rH01MuGhEFUTVBJwvg7apZP9wbg7pWMyEOOKlTFgYg_SM_0OR6P7Myw2tiRQ0Xf3vVbQDQg5fORsv_YBtgJBYDF1A8dBNaCSBoJYAU6i23ElJAz9RElEoglO89qo24kzQYRvRc2I0sKK0hAb_e8RX2dFxm4yssQs48AY?purpose=inline)
 
 ### 5. GNU Radio + señales grabadas
 No es un laboratorio específico de C-UAS, sino una plataforma para construir experimentos de procesamiento digital de señales. Puedes empezar sin comprar un SDR utilizando grabaciones I/Q disponibles públicamente y crear flujos de análisis con filtros, FFT y espectrogramas. [Web oficial](https://www.gnuradio.org/?utm_source=chatgpt.com)
@@ -321,13 +318,15 @@ No es un laboratorio específico de C-UAS, sino una plataforma para construir ex
 >[!Info] 
 >Qué aprenderías: cómo representar señales, distinguir actividad espectral, analizar ruido e interferencias y automatizar mediciones.
 
-![AirSim: A Simulator to Help AI Research for Use in Drones | Commercial UAV News](https://images.openai.com/static-rsc-4/MmDsDZYvjz0he09k1lxFrd8gNagIrPguZBclGb_JwTVaeKst8mRWSPGcsyf9J2WYmD0vRRE5SR7VixowysmnzZuo2FCxQvUnU3PG9TZf2zBr6CnlXFGHxKBlJr-mP2WP1N5o9fDPZgBIQcPG48b5ldZd6cTUOWtIHUt0dCE2_2A?purpose=inline)
+![How To Make Your Own SDR Software With GNU Radio Companion - SWL QSL](https://images.openai.com/static-rsc-4/IA4xRjEIpc2FqNP7rSdf1sfTeqDYfJhzFLiKcipW_uyX8e6Bxo6sp8hwCFnEjeqPMl0P05W03ra4wvK4Fa1LhjGNGa0fp7ARxW0Z_lJz0tDxXhVHQ93KnoOji9vVkJewrgHepP2efZtEe6KXfGLNmmrumEXxSaw5HzZSCsJmsSI?purpose=inline)
 
 ### 6. Cosys-AirSim
 Un entorno de simulación de drones útil para practicar visión artificial, percepción y generación de escenarios controlados. Combinado con Python y OpenCV, te permite desarrollar un detector visual y medir sus falsos positivos. [Proyecto en GitHub](https://github.com/Cosys-Lab/Cosys-AirSim?utm_source=chatgpt.com)
 
 >[!Info] 
 >Es más útil para la vertiente de sensores ópticos y software que para aprender directamente radiofrecuencia.
+
+![AirSim: A Simulator to Help AI Research for Use in Drones | Commercial UAV News](https://images.openai.com/static-rsc-4/MmDsDZYvjz0he09k1lxFrd8gNagIrPguZBclGb_JwTVaeKst8mRWSPGcsyf9J2WYmD0vRRE5SR7VixowysmnzZuo2FCxQvUnU3PG9TZf2zBr6CnlXFGHxKBlJr-mP2WP1N5o9fDPZgBIQcPG48b5ldZd6cTUOWtIHUt0dCE2_2A?purpose=inline)
 
 ## ¿Qué tipo de laboratorio cubre cada recurso?
 

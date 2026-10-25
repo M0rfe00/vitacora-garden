@@ -301,8 +301,6 @@ Así descubrirás qué rama de la radioafición te interesa de verdad antes de i
 ___
 ## 1. Laboratorios virtuales: lo más parecido a TryHackMe
 
-![How To Make Your Own SDR Software With GNU Radio Companion - SWL QSL](https://images.openai.com/static-rsc-4/IA4xRjEIpc2FqNP7rSdf1sfTeqDYfJhzFLiKcipW_uyX8e6Bxo6sp8hwCFnEjeqPMl0P05W03ra4wvK4Fa1LhjGNGa0fp7ARxW0Z_lJz0tDxXhVHQ93KnoOji9vVkJewrgHepP2efZtEe6KXfGLNmmrumEXxSaw5HzZSCsJmsSI?purpose=inline)
-
 ### 1. GNU Radio World
 Permite construir circuitos de procesamiento de señales mediante bloques visuales y trabajar con grabaciones reales de señales de radio. Incluye ejemplos y retos, sin necesidad de comprar un receptor SDR.
 
@@ -310,7 +308,9 @@ Permite construir circuitos de procesamiento de señales mediante bloques visual
 >Gratis · Navegador · Retos prácticos 
 >Es probablemente lo más parecido a un laboratorio interactivo para aprender cómo se generan, analizan, modulan y demodulan las señales. [Abrir GNU Radio World](https://gnuradioworld.com/?utm_source=chatgpt.com)
 
-![Как собрать собственный SDR-приёмник в GnuRadio без паяльника / Хабр](https://images.openai.com/static-rsc-4/rBOiIvT7g1sxRVBRgvyst4HtrSm4x4JsItDD9zmlAqHpdoBBKoPOL17y4r7520AseRiXYmmmZwXQOqkPFhzgFQpWiqKSaTC5aFxBAhqCfpBAyg-aSZr2CWIWg-oFyyq7GmRyK6tcLEp11I5408Z4s1b82APeS8mZaAK96gyA7zc?purpose=inline)
+![How To Make Your Own SDR Software With GNU Radio Companion - SWL QSL](https://images.openai.com/static-rsc-4/IA4xRjEIpc2FqNP7rSdf1sfTeqDYfJhzFLiKcipW_uyX8e6Bxo6sp8hwCFnEjeqPMl0P05W03ra4wvK4Fa1LhjGNGa0fp7ARxW0Z_lJz0tDxXhVHQ93KnoOji9vVkJewrgHepP2efZtEe6KXfGLNmmrumEXxSaw5HzZSCsJmsSI?purpose=inline)
+
+
 
 ### 2. GNU Radio
 Es una herramienta profesional y educativa para construir sistemas de radio mediante bloques. Puedes simular transmisores y receptores completos, estudiar modulaciones y experimentar con señales sin hardware físico.
@@ -319,7 +319,9 @@ Es una herramienta profesional y educativa para construir sistemas de radio medi
 >Gratis · Aplicación de escritorio · Simulación y DSP
 >No tiene una progresión de retos tan estructurada como TryHackMe, pero puedes seguir sus tutoriales guiados y montar tus propios experimentos. [Tutoriales oficiales](https://wiki.gnuradio.org/index.php?title=NewTutorial&utm_source=chatgpt.com)
 
-![GNU Radio: An Open Source Software Radio Ecosystem - Electronics For You – Official Site ElectronicsForU.com](https://images.openai.com/static-rsc-4/VXB5xjFvobUa4Qr_n7dYnfQfgLGYm92ztbXAdVsX2henHUxZ-JfVEPCKvKUL9y3lN3uFPztTeBHZZjsttCfvT9bhNH1WGZ02BLN5rwXU474NSoPrs7iT3kH2IYdNLDuszjM6u1pyR30ypG14S85AYRxBrhEgaYJG0aU9B_IQJ14?purpose=inline)
+![Как собрать собственный SDR-приёмник в GnuRadio без паяльника / Хабр](https://images.openai.com/static-rsc-4/rBOiIvT7g1sxRVBRgvyst4HtrSm4x4JsItDD9zmlAqHpdoBBKoPOL17y4r7520AseRiXYmmmZwXQOqkPFhzgFQpWiqKSaTC5aFxBAhqCfpBAyg-aSZr2CWIWg-oFyyq7GmRyK6tcLEp11I5408Z4s1b82APeS8mZaAK96gyA7zc?purpose=inline)
+
+
 
 ### 3. PySDR
 Un recurso educativo para aprender SDR y procesamiento digital de señales. Explica conceptos como señales I/Q, espectros, modulación digital y recepción de señales con ejemplos.
@@ -328,10 +330,13 @@ Un recurso educativo para aprender SDR y procesamiento digital de señales. Expl
 >Gratis · Tutorial práctico · Código y señales
 >Es útil para pasar de saber utilizar una radio a comprender qué está sucediendo matemáticamente con la señal. [Abrir PySDR](https://pysdr.org/?utm_source=chatgpt.com)
 
+![GNU Radio: An Open Source Software Radio Ecosystem - Electronics For You – Official Site ElectronicsForU.com](https://images.openai.com/static-rsc-4/VXB5xjFvobUa4Qr_n7dYnfQfgLGYm92ztbXAdVsX2henHUxZ-JfVEPCKvKUL9y3lN3uFPztTeBHZZjsttCfvT9bhNH1WGZ02BLN5rwXU474NSoPrs7iT3kH2IYdNLDuszjM6u1pyR30ypG14S85AYRxBrhEgaYJG0aU9B_IQJ14?purpose=inline)
+
+
 ## 2. Laboratorios con señales de radio reales, sin comprar equipo
 Aquí la experiencia cambia: en lugar de simularlo todo, utilizas receptores conectados a Internet para explorar el espectro electromagnético real.
 
-![T2FD mit 1:16 BalUn für einen KiwiSDR](https://images.openai.com/static-rsc-4/OH5w_HPIR0hZA46LFVug2gaj0VyXF4xyo6gswxOQdB0CJryIHMBIoLfHYG20qigx9lilnTYIGETHjnCTFCyVow7YU-F9YGk8ZnstWVeUlD9kgA3SP7tldP29ePloFfGrl641DTdUshbfQIg0nCPFmXt6O4KiVVglZp9hpk13Paw?purpose=inline)
+
 
 ### 4. WebSDR
 Son receptores de radio controlados a distancia. Puedes seleccionar frecuencias, escuchar emisiones y observar señales en un espectrograma o cascada (waterfall).
@@ -339,9 +344,13 @@ Son receptores de radio controlados a distancia. Puedes seleccionar frecuencias,
 >[!Info]
 >Es excelente para comenzar a reconocer bandas, señales, interferencias y emisiones de radioaficionados sin instalar una antena. [Acceder a receptores WebSDR](https://www.websdr.org/?utm_source=chatgpt.com)
 
-![Radiowave sensing with KiwiSDR · Satoshi Takahashi](https://images.openai.com/static-rsc-4/PD30j32Q4so1hej6H9MHmP47uOgXcNHETxL4HnfjTnaUy39sP0GSrBxhJ96YC5Qs86Zm7LO4EgDMJwKa2WraWXi4gqPlm_V1tWHMmwMu7z_tDt6_VaaXNI4Rcn1EMGbOfiK8AKorLkJQbD-YBxzwSDPt30pzeLSG38SAbcbS4dY?purpose=inline)
+![T2FD mit 1:16 BalUn für einen KiwiSDR](https://images.openai.com/static-rsc-4/OH5w_HPIR0hZA46LFVug2gaj0VyXF4xyo6gswxOQdB0CJryIHMBIoLfHYG20qigx9lilnTYIGETHjnCTFCyVow7YU-F9YGk8ZnstWVeUlD9kgA3SP7tldP29ePloFfGrl641DTdUshbfQIg0nCPFmXt6O4KiVVglZp9hpk13Paw?purpose=inline)
+
+
 
 ### 5. KiwiSDR
 Una red de receptores remotos, especialmente interesante para explorar frecuencias de onda corta. Puedes comparar lo que recibe una estación en distintos lugares del mundo y escuchar emisiones reales.
 
 >[!Info] Es especialmente útil para practicar propagación, bandas de radioaficionado y recepción de señales débiles. [Encontrar receptores KiwiSDR](http://rx.linkfanel.net/?utm_source=chatgpt.com)
+
+![Radiowave sensing with KiwiSDR · Satoshi Takahashi](https://images.openai.com/static-rsc-4/PD30j32Q4so1hej6H9MHmP47uOgXcNHETxL4HnfjTnaUy39sP0GSrBxhJ96YC5Qs86Zm7LO4EgDMJwKa2WraWXi4gqPlm_V1tWHMmwMu7z_tDt6_VaaXNI4Rcn1EMGbOfiK8AKorLkJQbD-YBxzwSDPt30pzeLSG38SAbcbS4dY?purpose=inline)
