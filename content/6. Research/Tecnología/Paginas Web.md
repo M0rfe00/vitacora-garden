@@ -8,22 +8,12 @@ tags:
 <link rel="stylesheet" href="styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
-<!-----------Aqui voy a probar a hacer el filtro de busqueda-------------->
-<!----------------Aqui acaba el codigo del filtro------------------->
-                <article class="post seguridad-post">
-            <a href="https://hackforums.net/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Hack Forums</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/hforum.jpg" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Hack Forums es un foro de Internet similar a Reddit 
-                dedicado a debates relacionados con la cultura hacker 
-                y la seguridad informática.
-            </p>
-        </article>
-        <article class="post seguridad-post">
+<!-------------------------N/A---------------------------->
+
+
+# Cybersecurity Labs
+___
+ <article class="post seguridad-post">
             <a href="https://www.hackthebox.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Hack the box</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/htb.jpg" class="img-post">
@@ -62,7 +52,46 @@ tags:
                 TryHackMe Wreath network (Machines that required learning lateral movement and tunneling) TryHackMe Throwback network (Machines lab based in active directory)
             </p>
         </article>
-        <article class="post seguridad-post">
+        <article class="post redes-post">
+            <a href="https://sadservers.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>SadServers</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/SadServers.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Simulación de escenarios realistas del trabajo que realiza un administrador de sistemas, al contrario que OverTheWire, permite correr un servidor en modo terminal en el propio navegador, similar a Leet code pero para DevOps de Linux. 
+                <br>
+                Master Linux & DevOps troubleshooting on live servers.Fun, real-world challenges for engineers and powerful assessments for hiring teams.
+            </p>
+        </article>
+                <article class="post redes-post">
+            <a href="https://picoctf.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Pico CTF</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/PICOCTF.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Plataforma gratuita de retos, de la Academia de ciberseguridad Cylab de la universidad Mellon.
+                Diseñada para aprender desde los fundamentos de la seguridad hasta  AI security, blockchain integrity... 
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://google-gruyere.appspot.com/">
+                <h2 class="titulo-post">Gruyere Codelab</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Gruyere.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks. The best way to learn things is by doing, so you'll get a chance to do some real penetration testing, actually exploiting a real application.
+            </p>
+        </article>
+
+# Linux Training & Programming
+___
+<article class="post seguridad-post">
             <a href="https://overthewire.org/wargames/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Over the wire Wargames</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/otw.png" class="img-post">
@@ -79,20 +108,7 @@ tags:
                 siendo más complicado hacerse con ellas. Requiere un mínimo 
                 conocimiento de sistemas Linux y redes
             </p>
-        </article>
-        <article class="post redes-post">
-            <a href="https://sadservers.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>SadServers</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/SadServers.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Simulación de escenarios realistas del trabajo que realiza un administrador de sistemas, al contrario que OverTheWire, permite correr un servidor en modo terminal en el propio navegador, similar a Leet code pero para DevOps de Linux. 
-                <br>
-                Master Linux & DevOps troubleshooting on live servers.Fun, real-world challenges for engineers and powerful assessments for hiring teams.
-            </p>
-        </article>
+        </article> 
         <article class="post redes-post">
             <a href="https://cmdchallenge.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Command Challenge</b></h2>
@@ -102,29 +118,6 @@ tags:
             </p>
             <p class="parrafo-post">
                 Plataforma web educativa gratuita y de código abierto diseñada para poner a prueba y mejorar tus habilidades con comandos en la terminal de Linux.
-            </p>
-        </article>
-        <article class="post redes-post">
-            <a href="https://picoctf.org/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Pico CTF</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/PICOCTF.jpg" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Plataforma gratuita de retos, de la Academia de ciberseguridad Cylab de la universidad Mellon.
-                Diseñada para aprender desde los fundamentos de la seguridad hasta  AI security, blockchain integrity... 
-            </p>
-        </article>
-        <article class="post redes-post">
-            <a href="https://microcorruption.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Microcorruption</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Microcorruption.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Plataforma centrada en aprender hacking de bajo nivel, para entencer conceptos como memoria, registros, ejecución...  
             </p>
         </article>
         <article class="post redes-post">
@@ -139,43 +132,17 @@ tags:
             </p>
         </article>
         <article class="post redes-post">
-            <a href="https://clockworkcomputerip.blogspot.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>CLOCKWORK COMPUTER</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Clockwork.png" class="img-post">
+            <a href="https://microcorruption.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Microcorruption</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Microcorruption.png" class="img-post">
         </a>
             <p class="info-post">
             </p>
             <p class="parrafo-post">
-                Blog dedicado a la enseñanza en el sector del mundo de la informática, en concreto a la implantación y administración de sistemas operativos y los servicios que estos tienen en red, tanto Windows como Ubuntu. Explicando de manera visual ciertas prácticas que se dan hoy en día en ciclos informáticos.
-            </p>
-        </article>
-                <article class="post programacion-post">
-            <a href="https://google-gruyere.appspot.com/">
-                <h2 class="titulo-post">Gruyere Codelab</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Gruyere.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks. The best way to learn things is by doing, so you'll get a chance to do some real penetration testing, actually exploiting a real application.
+                Plataforma centrada en aprender hacking de bajo nivel, para entencer conceptos como memoria, registros, ejecución...  
             </p>
         </article>
         <article class="post programacion-post">
-            <a href="https://www.w3schools.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">W3c School</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/w3c.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                W3School es un sitio web para aprender tecnologías web en línea, 
-                contiene tutoriales de HTML, Python, CSS, JavaScript, SQL, 
-                PHP, XML y otras tecnologías. Muy útil para todos aquellos 
-                que quieran aprender lenguajes de programación. el contenido 
-                viene desglosado en apartados, cuenta con ejemplos y ejercicios.
-            </p>
-        </article>
-         <article class="post programacion-post">
             <a href="https://codember.dev/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Codember</h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/codember(1).png" class="img-post">
@@ -199,6 +166,64 @@ tags:
             ser resueltas en diferentes legunjes de programacion
         </p>
     </article>
+
+# Foros & Blogs & Apuntes
+___
+ <article class="post programacion-post">
+            <a href="https://www.w3schools.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">W3c School</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/w3c.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                W3School es un sitio web para aprender tecnologías web en línea, 
+                contiene tutoriales de HTML, Python, CSS, JavaScript, SQL, 
+                PHP, XML y otras tecnologías. Muy útil para todos aquellos 
+                que quieran aprender lenguajes de programación. el contenido 
+                viene desglosado en apartados, cuenta con ejemplos y ejercicios.
+            </p>
+        </article>
+<article class="post seguridad-post">
+            <a href="https://hackforums.net/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Hack Forums</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/hforum.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Hack Forums es un foro de Internet similar a Reddit 
+                dedicado a debates relacionados con la cultura hacker 
+                y la seguridad informática.
+            </p>
+        </article> 
+        <article class="post redes-post">
+            <a href="https://clockworkcomputerip.blogspot.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>CLOCKWORK COMPUTER</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/Clockwork.png" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Blog dedicado a la enseñanza en el sector del mundo de la informática, en concreto a la implantación y administración de sistemas operativos y los servicios que estos tienen en red, tanto Windows como Ubuntu. Explicando de manera visual ciertas prácticas que se dan hoy en día en ciclos informáticos.
+            </p>
+        </article>
+        <article class="post otros-post">
+            <a href="https://computerhoy.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Computerhoy</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/choy.jpg" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Revista de tecnología que cuenta con un canal de YouTube 
+                en el que encontrarás todos los análisis, unboxings, 
+                trucos y videotutoriales que publicamos a diario en 
+                nuestra web. Todo sobre tecnología, smartphones, tablets, 
+                ordenadores, Mac, Android, iOS, estilo de vida y wearables. 
+                Las mejores reviews para estar al día en el mundo tecnológico.
+            </p>
+        </article>
         <article class="post programacion-post">
             <a href="https://pypi.org/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">CSS ZEN Garden</h2>
@@ -276,79 +301,10 @@ tags:
                  plataforma ideal para obtener conocimiento de forma gratuita.
             </p>
         </article>
-        <article class="post programacion-post">
-            <a href="https://typings.gg/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Typings (navegador)</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/typing.png" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Typings al igual que el juego anterior es un juego de navegador, 
-                de mecanografía, en este debemos escribir el texto lo más rápido 
-                posible sin equivocarnos, podemos seleccionar el número de 
-                palabras para elegir la dificultad, además nos mostrara el 
-                numero de palabras por minuto y errores que hemos tenido
-            </p>
-        </article>
-        <article class="post otros-post">
-            <a href="https://computerhoy.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Computerhoy</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/choy.jpg" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Revista de tecnología que cuenta con un canal de YouTube 
-                en el que encontrarás todos los análisis, unboxings, 
-                trucos y videotutoriales que publicamos a diario en 
-                nuestra web. Todo sobre tecnología, smartphones, tablets, 
-                ordenadores, Mac, Android, iOS, estilo de vida y wearables. 
-                Las mejores reviews para estar al día en el mundo tecnológico.
-            </p>
-        </article>
-        <article class="post otros-post">
-            <a href="https://miro.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Miro</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/mirologo.png" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                plataforma de diseño visual intuitiva, util para hacer
-                mokups de paginas web, modelos entidad relacion...
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://app.diagrams.net/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Diagrams.Net</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Pagina onlina para crear diagramas de bases de datos
-            </p>
-        </article>
-        <article class="post seguridad-post">
-            <a href="https://www.virustotal.com/gui/home/upload" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Virus total</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/virustt.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Virus total es una pagina web que nos permite subir archivos
-                para que esta los compare con su base de datos y los analice 
-                en busca de posibles coincidencias con malwere registrado.    
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Conversor Unidades</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Util para realizar operaciones de binario a decimal y de bytes a otras unidades.
-            </p>
-        </article>
-        <article class="post programacion-post">
+        
+# Redes
+___ 
+ <article class="post programacion-post">
             <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Cisco Packet Tracer</h2>
             <img src="N/A" class="img-post">
@@ -505,7 +461,66 @@ tags:
                 Install PiVPN and vpn the home network to learn routing and tunneling, monitorize the trafic.
             </p>
         </article>
-    <article class="post otros-post">
+
+# Otros
+___
+<article class="post programacion-post">
+            <a href="https://typings.gg/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Typings (navegador)</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/typing.png" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Typings al igual que el juego anterior es un juego de navegador, 
+                de mecanografía, en este debemos escribir el texto lo más rápido 
+                posible sin equivocarnos, podemos seleccionar el número de 
+                palabras para elegir la dificultad, además nos mostrara el 
+                numero de palabras por minuto y errores que hemos tenido
+            </p>
+        </article>
+        <article class="post otros-post">
+            <a href="https://miro.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Miro</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/mirologo.png" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                plataforma de diseño visual intuitiva, util para hacer
+                mokups de paginas web, modelos entidad relacion...
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://app.diagrams.net/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Diagrams.Net</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Pagina onlina para crear diagramas de bases de datos
+            </p>
+        </article>
+        <article class="post seguridad-post">
+            <a href="https://www.virustotal.com/gui/home/upload" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Virus total</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/virustt.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Virus total es una pagina web que nos permite subir archivos
+                para que esta los compare con su base de datos y los analice 
+                en busca de posibles coincidencias con malwere registrado.    
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Conversor Unidades</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Util para realizar operaciones de binario a decimal y de bytes a otras unidades.
+            </p>
+        </article>
+        <article class="post otros-post">
         <a href="https://pixlr.com/es/suite/" class="enlace-post" target="_blank">
             <h2 class="titulo-post">Pixlr</h2>
         <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/pirxlr.png" class="img-post">

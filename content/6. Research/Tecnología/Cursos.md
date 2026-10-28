@@ -4,225 +4,11 @@ tags:
   - hideInExplorer
 ---
 
-# CURSOS HACKING
-___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=muMottcAm2MmooX2&amp;list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V&si=Npc80vZIlW-K3qSp
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=78DT0iR4reVSnIf-&amp;list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u&si=boQQ4pieg4bmKKSZ
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RFuW65bytxdr_RTr&amp;list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi&si=V0nVJhJ_wSllVVe8
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxghML8aprSl8nGi&amp;list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5&si=3u9f66pPQSeNIbxE
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=q90q5g7JOTSW23tD&amp;list=PLHjuPxrwcdsZuMRWmZa-BAbT-QZCOmir2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## TRY HACK ME
-___
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=dluz0G0ZCOwgBiM3&amp;list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz&si=EJn6ZteKWP37ArsC
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=KDXwCMI4tDJPOnPA&amp;list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk&si=rTK69B-cQmlnp6nd
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=349NGzQPOHrHXTQ9&amp;list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9&si=dLD_cLlTLyyY2kAg
-
-## HACK THE BOX
-___
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=w8gtbeS8XwYaGGcW&amp;list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p&si=suA0quYF7-IOlcfd
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=1CdZJQLV-nLvPNqd&amp;list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Playlist: https://youtube.com/playlist?list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt&si=5oj5hc57OzO_bHT5
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=x7JsZ_L52W4d3uxJ&amp;list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Playlist: https://youtube.com/playlist?list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b&si=gqEZ9o4DQsgK5XbZ
-
-
-# LINUX
-___
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/6WatcfENsOU?si=3gS4C_sV8NtsQpP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/cqfl38Ip1ho?si=i10lxSPZv-kygEkF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/ZtqBQ68cfJc?si=KZdHuHLel6RN-P_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/ug8W0sFiVJo?si=LnbKQAPBHCThEVTj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh&si=5QqyZNdiTQUvWmHO
-
-# CMD
-___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM&si=bVYKAZtBuaikAfVQ
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni&si=xvLxr6-n90HnZGlX
-
-# CURSOS CYBERSEGURIDAD - MASTERMING
-___
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/ubuntu-server/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Introducción a Ingeniería Social</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Curso online de SQL
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://mastermind.ac/curso/introduccion-ingenieria-social">
-                <h2 class="titulo-post">Introducción a Ingeniería Social</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Aprende los principios y fundamentos de la Ingeniería Social, su impacto en la seguridad informática y cómo protegerte contra el fraude. Descubre cómo detectar y prevenir riesgos tanto en tu vida cotidiana como en tu organización.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://mastermind.ac/curso/seguridad-en-internet">
-                <h2 class="titulo-post">Cómo protegerse en la red</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                En este curso se enseñarán formas y métodos para navegar por internet de forma segura o incluso anónimamente. También se mostrará cómo identificar sitios web o archivos maliciosos y cómo podemos fortificar nuestro PC y contraseñas.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://mastermind.ac/curso/introduccion-a-tecnicas-osint">
-                <h2 class="titulo-post">Introducción a técnicas OSINT</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                ¿Te gustaría aprender a aplicar técnicas y herramientas para llevar a cabo investigaciones OSINT? En este curso, aprenderás a utilizar recursos de acceso público para realizar investigaciones efectivas.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://mastermind.ac/curso/hacking-y-fortificacion-web">
-                <h2 class="titulo-post">Hacking y fortificación web</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                ¿Te gustaría aprender a aplicar técnicas y herramientas para llevar a cabo investigaciones OSINT? En este curso, aprenderás a utilizar recursos de acceso público para realizar investigaciones efectivas.
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-# CURSOS CYBERSEGURIDAD - HACK4U
-___
-<section id="principal"> <!--Secion general, post y sidebar-->
-    <section id="publicaciones"> <!--secion de los post-->
-        <article class="post programacion-post">
-            <a href="https://hack4u.io/curso/personalizacion-de-entorno-en-linux">
-                <h2 class="titulo-post">Personalización de Linux</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Este curso te guiará paso a paso en la personalización completa de tu entorno Linux, replicando el setup profesional que usa S4vitar en sus vídeos.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://hack4u.io/curso/introduccion-a-linux">
-                <h2 class="titulo-post">Introducción a Linux</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Este curso te ofrece una base sólida y completa en Linux, cubriendo todos los fundamentos necesarios para que puedas desenvolverte con confianza en el resto de módulos de la academia.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://hack4u.io/curso/introduccion-al-hacking">
-                <h2 class="titulo-post">Introducción al Hacking</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                ¿Quieres adentrarte al fascinante mundo del Hacking?, disfruta de este maravilloso curso de 53 horas donde serás guiado paso a paso por S4vitar con el objetivo de que aprendas a detectar y explotar vulnerabilidades.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://hack4u.io/curso/python-ofensivo">
-                <h2 class="titulo-post">Python Ofensivo</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Domina Python desde cero y crea tu propio arsenal de herramientas ofensivas para enfrentarte a los retos más complejos en ciberseguridad, con este curso de 35 horas.
-            </p>
-        </article>
-        <article class="post programacion-post">
-            <a href="https://hack4u.io/curso/hacking-web">
-                <h2 class="titulo-post">Hacking Web</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Este curso ofrece al alumnado una base técnica sólida y un recorrido profundo por las principales áreas del hacking web moderno. A lo largo de 51 horas de contenido, se abordan en profundidad un total de 31 vulnerabilidades, combinando teoría y práctica con 269 laboratorios reales y cuidadosamente seleccionados.
-            </p>
-        </article>
-    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
-</section> <!--Esta etiqueta cierra la seccion del main-->
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=fqfAECvBq4JG_J1a&amp;list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS&si=NMZGDdEh943RXr6l
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=eZuxyidXSU7K-j4k&amp;list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=zvadpMkJLAvQ9HKR
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PUZzWV26BM5pr5Jr&amp;list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&si=R0AGt5NZkWFCirKw
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=LvAQneUZAop79NC3&amp;list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&si=pndF2MeczydSEwaO
-
-
-
-# CURSOS REDES
+# TEXTO
 ___
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9_2bAmdKBJ9PoAAp&amp;list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X0bn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X0bn&si=BfJbq_weSailyJ9W
-Website: https://www.professormesser.com/network-plus/
-
+## Redes
+___
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
         <article class="post programacion-post">
@@ -305,12 +91,7 @@ Website: https://www.professormesser.com/network-plus/
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Mrr6_OPE7xa8lCLO&amp;list=PLG1hKOHdoXkvFy_6g4_zf7mgq4kEu8V9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-# CURSOS BASES DE DATOS
+## CURSOS BASES DE DATOS
 ___
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
@@ -339,6 +120,246 @@ ___
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
 </section> <!--Esta etiqueta cierra la seccion del main-->
 
+## CURSOS CYBERSEGURIDAD - MASTERMING
+___
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://www.ionos.es/digitalguide/servidores/configuracion/ubuntu-server/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Introducción a Ingeniería Social</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Curso online de SQL
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://mastermind.ac/curso/introduccion-ingenieria-social">
+                <h2 class="titulo-post">Introducción a Ingeniería Social</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Aprende los principios y fundamentos de la Ingeniería Social, su impacto en la seguridad informática y cómo protegerte contra el fraude. Descubre cómo detectar y prevenir riesgos tanto en tu vida cotidiana como en tu organización.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://mastermind.ac/curso/seguridad-en-internet">
+                <h2 class="titulo-post">Cómo protegerse en la red</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                En este curso se enseñarán formas y métodos para navegar por internet de forma segura o incluso anónimamente. También se mostrará cómo identificar sitios web o archivos maliciosos y cómo podemos fortificar nuestro PC y contraseñas.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://mastermind.ac/curso/introduccion-a-tecnicas-osint">
+                <h2 class="titulo-post">Introducción a técnicas OSINT</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                ¿Te gustaría aprender a aplicar técnicas y herramientas para llevar a cabo investigaciones OSINT? En este curso, aprenderás a utilizar recursos de acceso público para realizar investigaciones efectivas.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://mastermind.ac/curso/hacking-y-fortificacion-web">
+                <h2 class="titulo-post">Hacking y fortificación web</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                ¿Te gustaría aprender a aplicar técnicas y herramientas para llevar a cabo investigaciones OSINT? En este curso, aprenderás a utilizar recursos de acceso público para realizar investigaciones efectivas.
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->
+
+## CURSOS CYBERSEGURIDAD - HACK4U
+___
+<section id="principal"> <!--Secion general, post y sidebar-->
+    <section id="publicaciones"> <!--secion de los post-->
+        <article class="post programacion-post">
+            <a href="https://hack4u.io/curso/personalizacion-de-entorno-en-linux">
+                <h2 class="titulo-post">Personalización de Linux</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Este curso te guiará paso a paso en la personalización completa de tu entorno Linux, replicando el setup profesional que usa S4vitar en sus vídeos.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://hack4u.io/curso/introduccion-a-linux">
+                <h2 class="titulo-post">Introducción a Linux</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Este curso te ofrece una base sólida y completa en Linux, cubriendo todos los fundamentos necesarios para que puedas desenvolverte con confianza en el resto de módulos de la academia.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://hack4u.io/curso/introduccion-al-hacking">
+                <h2 class="titulo-post">Introducción al Hacking</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                ¿Quieres adentrarte al fascinante mundo del Hacking?, disfruta de este maravilloso curso de 53 horas donde serás guiado paso a paso por S4vitar con el objetivo de que aprendas a detectar y explotar vulnerabilidades.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://hack4u.io/curso/python-ofensivo">
+                <h2 class="titulo-post">Python Ofensivo</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Domina Python desde cero y crea tu propio arsenal de herramientas ofensivas para enfrentarte a los retos más complejos en ciberseguridad, con este curso de 35 horas.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://hack4u.io/curso/hacking-web">
+                <h2 class="titulo-post">Hacking Web</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Este curso ofrece al alumnado una base técnica sólida y un recorrido profundo por las principales áreas del hacking web moderno. A lo largo de 51 horas de contenido, se abordan en profundidad un total de 31 vulnerabilidades, combinando teoría y práctica con 269 laboratorios reales y cuidadosamente seleccionados.
+            </p>
+        </article>
+    </section><!--Esta etiqueta cierra la seccion de publicaciones -->
+</section> <!--Esta etiqueta cierra la seccion del main-->
+
+
+
+
+# VIDEO
+___
+
+## CURSOS REDES
+___
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PUZzWV26BM5pr5Jr&amp;list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&si=R0AGt5NZkWFCirKw
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=LvAQneUZAop79NC3&amp;list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&si=pndF2MeczydSEwaO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9_2bAmdKBJ9PoAAp&amp;list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X0bn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X0bn&si=BfJbq_weSailyJ9W
+Website: https://www.professormesser.com/network-plus/
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Mrr6_OPE7xa8lCLO&amp;list=PLG1hKOHdoXkvFy_6g4_zf7mgq4kEu8V9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## LINUX
+___
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=fqfAECvBq4JG_J1a&amp;list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS&si=NMZGDdEh943RXr6l
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=eZuxyidXSU7K-j4k&amp;list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=zvadpMkJLAvQ9HKR
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/6WatcfENsOU?si=3gS4C_sV8NtsQpP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/cqfl38Ip1ho?si=i10lxSPZv-kygEkF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/ZtqBQ68cfJc?si=KZdHuHLel6RN-P_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/ug8W0sFiVJo?si=LnbKQAPBHCThEVTj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh&si=5QqyZNdiTQUvWmHO
+
+
+
+
+## CURSOS HACKING
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=muMottcAm2MmooX2&amp;list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V&si=Npc80vZIlW-K3qSp
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=78DT0iR4reVSnIf-&amp;list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u&si=boQQ4pieg4bmKKSZ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RFuW65bytxdr_RTr&amp;list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi&si=V0nVJhJ_wSllVVe8
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxghML8aprSl8nGi&amp;list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5&si=3u9f66pPQSeNIbxE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=q90q5g7JOTSW23tD&amp;list=PLHjuPxrwcdsZuMRWmZa-BAbT-QZCOmir2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## TRY HACK ME
+___
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=dluz0G0ZCOwgBiM3&amp;list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktsJJKzbJgXEhexL9CdNAPz&si=EJn6ZteKWP37ArsC
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=KDXwCMI4tDJPOnPA&amp;list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktykoQoDEbKh9ac6dtOV7Qk&si=rTK69B-cQmlnp6nd
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=349NGzQPOHrHXTQ9&amp;list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEjCs-EXOddy-aM8Qotp11M9&si=dLD_cLlTLyyY2kAg
+
+## HACK THE BOX
+___
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=w8gtbeS8XwYaGGcW&amp;list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEjsw9gwI9H8nSfJKKObKH8p&si=suA0quYF7-IOlcfd
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=1CdZJQLV-nLvPNqd&amp;list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLDDlXGEVHjAHTgUgaknJ5Bb_XOYLvpkDt&si=5oj5hc57OzO_bHT5
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=x7JsZ_L52W4d3uxJ&amp;list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Playlist: https://youtube.com/playlist?list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b&si=gqEZ9o4DQsgK5XbZ
+
+
+
+
+
+
+
+
+
+<!--
+# CMD
+___
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM&si=bVYKAZtBuaikAfVQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni&si=xvLxr6-n90HnZGlX
+-->
+
+
+<!--
 
 # CURSOS SISTEMAS
 ___
@@ -348,7 +369,7 @@ Playlist: https://youtube.com/playlist?list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU&s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=BZ4nG3szRQi_NtP0&amp;list=PLF_pZD82-R87XsldJzA67oxMM9ucXFgbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Playlis: https://youtube.com/playlist?list=PLTd5ehIj0goPCodyeh2ThX37Ceh-2torY&si=T0pwatHsVLm7uG2o
 
-
+-->
 ___
 <!--
 # REDES
