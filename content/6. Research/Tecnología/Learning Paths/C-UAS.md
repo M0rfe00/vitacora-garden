@@ -12,30 +12,6 @@ Por ejemplo, imagina que un dron aparece cerca de un aeropuerto. Un sistema C-UA
 4. Mostrar los datos a un operador en un sistema de mando y control.
 5. Facilitar una respuesta proporcionada y legal, como alertar a seguridad, restringir operaciones o activar medidas de mitigación autorizadas.
 
->[!Info] **UAS fundamentals**
->- arquitectura de drones
->- flight controllers
->- telemetry
->- MAVLink
->- PX4 / ArduPilot
->- ground control stations
->- GPS/GNSS
->- radio communications
->- FPV
-
->[!Info] Conexión entre disciplinas
->Esto conecta: **Cybersecurity + RF + networking + drones + seguridad física**
->
->y puede abrir puertas en:
->- critical infrastructure
->- airports
->- telecommunications
->- defence
->- border security
->- energy
->- industrial security
->- research
-
 
 # ESPECIALIDADES C-UAS
 ___
