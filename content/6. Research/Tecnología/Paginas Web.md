@@ -166,6 +166,29 @@ ___
             ser resueltas en diferentes legunjes de programacion
         </p>
     </article>
+            <article class="post programacion-post">
+            <a href="https://pypi.org/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Python Package Index</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Índice de paquetes de Python (PyPI) es un repositorio de software para el lenguaje de programación Python.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://codepen.io/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Codepen io</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+            </p>
+        </article>
+
 
 # Foros & Blogs & Apuntes
 ___
@@ -235,29 +258,28 @@ ___
                 A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
             </p>
         </article>
-            <article class="post programacion-post">
-            <a href="https://pypi.org/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Python Package Index</h2>
-            <img src="N/A" class="img-post">
+        <article class="post otros-post">
+            <a href="https://wuolah.com/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Wuolah</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/wuolah.png" class="img-post">
         </a>
             <p class="info-post">
             </p>
             <p class="parrafo-post">
-                Índice de paquetes de Python (PyPI) es un repositorio de software para el lenguaje de programación Python.
+                Wuolah es una plataforma de apuntes en las que puedes 
+                subir tus propios apuntes recibiendo una pequeña cantidad
+                 por cada descarga y acceder a los apuntes subidos por otras 
+                 personas de forma gratuita. Mi recomendación es buscar 
+                 apuntes de SMR, DAW, DAM, ASIR e Ingeniería informática, 
+                 de esta forma podréis acceder a apuntes, ejercicios, 
+                 exámenes, preguntas frecuentes, etc. Lo que la hace una 
+                 plataforma ideal para obtener conocimiento de forma gratuita.
             </p>
         </article>
-        <article class="post programacion-post">
-            <a href="https://codepen.io/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Codepen io</h2>
-            <img src="N/A" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
-            </p>
-        </article>
-        <article class="post redes-post">
+        
+# Redes
+___ 
+ <article class="post redes-post">
             <a href="https://naseros.com/" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Naseros</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/naseros.jpg" class="img-post">
@@ -283,27 +305,6 @@ ___
                 y de pago para prepararse las certificaciones cisco.
             </p>
         </article>
-        <article class="post otros-post">
-            <a href="https://wuolah.com/" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Wuolah</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/wuolah.png" class="img-post">
-        </a>
-            <p class="info-post">
-            </p>
-            <p class="parrafo-post">
-                Wuolah es una plataforma de apuntes en las que puedes 
-                subir tus propios apuntes recibiendo una pequeña cantidad
-                 por cada descarga y acceder a los apuntes subidos por otras 
-                 personas de forma gratuita. Mi recomendación es buscar 
-                 apuntes de SMR, DAW, DAM, ASIR e Ingeniería informática, 
-                 de esta forma podréis acceder a apuntes, ejercicios, 
-                 exámenes, preguntas frecuentes, etc. Lo que la hace una 
-                 plataforma ideal para obtener conocimiento de forma gratuita.
-            </p>
-        </article>
-        
-# Redes
-___ 
  <article class="post programacion-post">
             <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Cisco Packet Tracer</h2>
@@ -520,17 +521,6 @@ ___
                 Util para realizar operaciones de binario a decimal y de bytes a otras unidades.
             </p>
         </article>
-        <article class="post otros-post">
-        <a href="https://pixlr.com/es/suite/" class="enlace-post" target="_blank">
-            <h2 class="titulo-post">Pixlr</h2>
-        <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/pirxlr.png" class="img-post">
-    </a>
-        <p class="info-post">
-        </p>
-        <p class="parrafo-post">
-            Editor de imagen en linea gratuito
-        </p>
-</article>
 <!--   separación  -->
 
   <!--   separación  -->

@@ -4,11 +4,13 @@ tags:
   - Recursos-Smr
   - hideInExplorer
 ---
-
 <link rel="stylesheet" href="styles/custom.css">
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
-    <article class="post seguridad-post">
+
+# Hacking
+___
+ <article class="post seguridad-post">
             <a href="https://www.youtube.com/@s4vitar" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>S4vitar</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/s4vi.jpg" class="img-post">
@@ -77,18 +79,6 @@ tags:
                 sobre redes, sistemas, Bash entre otras tecnologías.
             </p>
         </article>
-        <article class="post programacion-post">
-            <a href="https://www.youtube.com/@devopsea" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>DevOpsea</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/devops.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal especializado en la cultura DevOps, en el cual puedes encontrar contenido 
-                para estar actualizado en cuanto a DevOps y las últimas tecnologías integradas, 
-                el canal trata temas como Kubernetes, Docker, Git y Github, Python, 
-                Shell scripting en Bash, etc.
-            </p>
-        </article>
         <article class="post seguridad-post">
             <a href="https://www.youtube.com/@MalignoAlonso" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Jose Maria Alonso</h2>
@@ -100,7 +90,10 @@ tags:
                 el conocido informático español.
             </p>
         </article>
-        <article class="post redes-post">
+
+# Redes
+___
+  <article class="post redes-post">
             <a href="https://www.youtube.com/@AcademiaRedesIP" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Academia de redes IP</h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/redsip.jpg" class="img-post">
@@ -152,7 +145,10 @@ tags:
                 contenido tambien como index.
             </p>
         </article>
-        <article class="post hardware-post">
+
+# Tecnologia
+___
+<article class="post hardware-post">
             <a href="https://www.youtube.com/@NateGentile7" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Nate Gentile</h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/natg2.jpg" class="img-post">
@@ -165,7 +161,72 @@ tags:
                 sobre ciberseguridad, ofimática, sistemas, redes, hardware, etc.
             </p>
         </article>
-        <article class="post programacion-post">
+<article class="post otros-post">
+            <a href="https://www.youtube.com/@AlbertoLopezVLOG" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>AlbertoLopez Tech Tips</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/albtt.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal que trata temas sobre tecnología y ciberseguridad explicados de manera sencilla
+                 y fácil, en canal esta destinado a todos los públicos transmitiendo conocimientos 
+                 y cultura general dentro del ámbito de la tecnología y la ciberseguridad, 
+                 mediante exposición de conceptos, recomendaciones, reviews, unboxings, etc.
+            </p>
+        </article>
+        <article class="post otros-post">
+            <a href="https://www.youtube.com/@xMigma" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>Migma</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/migma.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal orientado al mundo de la informática y lo que lo rodea, 
+                si bien no es un canal especializado, trata y expone los temas 
+                de manera amena e interesante/entretenida
+            </p>
+        </article>
+ <article class="post hardware-post">
+            <a href="https://www.youtube.com/@TechnoReviewsPlay" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>TechnoReviews</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/technrws.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal de gaming enfocado en hardware, periféricos, consolas, 
+                gaming y tecnología, destinado tanto a expertos como principiantes, 
+                en el canal encontraras videos como análisis, reviews 
+                y recomendaciones de hardware principalmente.
+            </p>
+        </article>
+        <article class="post otros-post">
+            <a href="https://www.youtube.com/@Computerhoycom" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Compuerhoycom</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/choy.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal de la web homónima, en la cual encontraras análisis, 
+                trucos, explicaciones y videotutoriales sobre tecnología, 
+                recomiendo la lista de reproducción “¿Qué es…?”
+            </p>
+        </article>
+
+# IA
+___
+<article class="post programacion-post">
+            <a href="https://www.youtube.com/@devopsea" class="enlace-post" target="_blank">
+                <h2 class="titulo-post"><b>DevOpsea</b></h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/devops.jpg" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal especializado en la cultura DevOps, en el cual puedes encontrar contenido 
+                para estar actualizado en cuanto a DevOps y las últimas tecnologías integradas, 
+                el canal trata temas como Kubernetes, Docker, Git y Github, Python, 
+                Shell scripting en Bash, etc.
+            </p>
+        </article>
+        
+
+# Programacion
+___ 
+<article class="post programacion-post">
             <a href="https://www.youtube.com/@FaztCode" class="enlace-post" target="_blank">
                 <h2 class="titulo-post"><b>Fatz Code</b></h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/fatz.jpg" class="img-post">
@@ -196,30 +257,7 @@ tags:
             <p class="parrafo-post">
             Programación
             </p>
-        </article>
-        <article class="post otros-post">
-            <a href="https://www.youtube.com/@AlbertoLopezVLOG" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>AlbertoLopez Tech Tips</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/albtt.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal que trata temas sobre tecnología y ciberseguridad explicados de manera sencilla
-                 y fácil, en canal esta destinado a todos los públicos transmitiendo conocimientos 
-                 y cultura general dentro del ámbito de la tecnología y la ciberseguridad, 
-                 mediante exposición de conceptos, recomendaciones, reviews, unboxings, etc.
-            </p>
-        </article>
-        <article class="post otros-post">
-            <a href="https://www.youtube.com/@xMigma" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>Migma</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/migma.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal orientado al mundo de la informática y lo que lo rodea, 
-                si bien no es un canal especializado, trata y expone los temas 
-                de manera amena e interesante/entretenida
-            </p>
-        </article>
+        </article> 
         <article class="post programacion-post">
             <a href="https://www.youtube.com/@makigas" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Makigas</h2>
@@ -242,39 +280,6 @@ tags:
                 como Python, PHP, Java, etc.
             </p>
         </article>
-        <article class="post otros-post">
-            <a href="https://www.youtube.com/@DotCSV" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Dot Csv</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/channels4_profile.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal enfocado al ámbito de la inteligencia artificial, 
-                tecnología y ciencia, muy recomendable para todos 
-                aquellos interesados en el mundo de la IA
-            </p>
-        </article>
-        <article class="post hardware-post">
-            <a href="https://www.youtube.com/@TechnoReviewsPlay" class="enlace-post" target="_blank">
-                <h2 class="titulo-post"><b>TechnoReviews</b></h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/technrws.jpg" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal de gaming enfocado en hardware, periféricos, consolas, 
-                gaming y tecnología, destinado tanto a expertos como principiantes, 
-                en el canal encontraras videos como análisis, reviews 
-                y recomendaciones de hardware principalmente.
-            </p>
-        </article>
-        <article class="post otros-post">
-            <a href="https://www.youtube.com/@EDteam" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">EDteam</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/edteam.png" class="img-post">
-        </a>
-            <p class="parrafo-post">
-                Canal enfocado a la programación e inteligencia artificial en 
-                el cual puedes encontrar múltiples videos y cursos gratuitos.
-            </p>
-        </article>
         <article class="post programacion-post">
             <a href="https://www.youtube.com/@HolaMundoDev" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Hola mundo</h2>
@@ -287,17 +292,30 @@ tags:
             </p>
         </article>
         <article class="post otros-post">
-            <a href="https://www.youtube.com/@Computerhoycom" class="enlace-post" target="_blank">
-                <h2 class="titulo-post">Compuerhoycom</h2>
-            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/choy.jpg" class="img-post">
+            <a href="https://www.youtube.com/@DotCSV" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Dot Csv</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/channels4_profile.jpg" class="img-post">
         </a>
             <p class="parrafo-post">
-                Canal de la web homónima, en la cual encontraras análisis, 
-                trucos, explicaciones y videotutoriales sobre tecnología, 
-                recomiendo la lista de reproducción “¿Qué es…?”
+                Canal enfocado al ámbito de la inteligencia artificial, 
+                tecnología y ciencia, muy recomendable para todos 
+                aquellos interesados en el mundo de la IA
             </p>
         </article>
-        <article class="post videojuegos-post">
+                <article class="post otros-post">
+            <a href="https://www.youtube.com/@EDteam" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">EDteam</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/canales%20yt/edteam.png" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal enfocado a la programación e inteligencia artificial en 
+                el cual puedes encontrar múltiples videos y cursos gratuitos.
+            </p>
+        </article>
+
+# Otros
+___
+ <article class="post videojuegos-post">
             <a href="https://www.youtube.com/@Guinxu" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Guinxu</h2>
             <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/guinxu.jpg" class="img-post">
