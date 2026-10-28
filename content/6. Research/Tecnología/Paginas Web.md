@@ -58,6 +58,8 @@ tags:
                 Try hack me, al igual que Hack the box es una plataforma 
                 online con multitud de maquinas vulnerables para poder 
                 entrenar tus capacidades y conocimientos en ciberseguridad.
+                Redes:
+                TryHackMe Wreath network (Machines that required learning lateral movement and tunneling) TryHackMe Throwback network (Machines lab based in active directory)
             </p>
         </article>
         <article class="post seguridad-post">
@@ -335,7 +337,7 @@ tags:
                 en busca de posibles coincidencias con malwere registrado.    
             </p>
         </article>
-                <article class="post programacion-post">
+        <article class="post programacion-post">
             <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Conversor Unidades</h2>
             <img src="N/A" class="img-post">
@@ -344,6 +346,163 @@ tags:
             </p>
             <p class="parrafo-post">
                 Util para realizar operaciones de binario a decimal y de bytes a otras unidades.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Cisco Packet Tracer</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Practice networking concepts
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Wireshark</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Practice networking concepts
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="Root-Me.org" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Root-Me</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Challenges to exploit protocols in a low level
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Scapy</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                To learn how craft packtes by hand, Build packets in python
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Mitmproxy</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Route trafic throught mitmproxy, use apps normally and analize the trafic to get use to how normal/malicious trafic looks like
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Burp Suite</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Burp Suite to intercept trafic, not only websites, route apps trought Burp, observe what API they call, modify the request, see what they break (You can find API keys hardcoded in apps, authentication bypasses, admin endpoints not protected just watching trafic and changing values)
+            </p>
+        </article>
+         <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Wireshark Samplecaptures</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                download captures, filter for interesting things and learn from each packt capture as a puzzle teaching you
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Malware Traffic Analysis </h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Real-world traffic analysis exercises: https://www.malware-traffic-analysis
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">TCPDump</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                like Wireshark in command-line
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Netcat</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                 Swiss army knife for connecting to any port and poking at it
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">GNS3</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                 Free tool to build entire virtual networks (Use free appliances like psSense and OpenWRT)
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">EVE-NG community edition</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                 Free lab platform to build networks
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Hacker1, Bugcrowd & Integrity</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                 Bug bounty platfoms to hunt vulnerabilities in real company systems with actual payouts
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://www.to-convert.com/es/index.php#body" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">HomeLab</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Create a homelab to practice networking  and system concepts.
+                Create a lab with virtual machines and capture the trafic using wireshark firewall rules, nmap.
+                RasberryPi running Pi-hole and block adds to learn dns and dhcp.
+                Install PiVPN and vpn the home network to learn routing and tunneling, monitorize the trafic.
             </p>
         </article>
     <article class="post otros-post">

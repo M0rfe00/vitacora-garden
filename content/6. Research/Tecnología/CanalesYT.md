@@ -132,6 +132,26 @@ tags:
                 de rendimiento de los últimos modelos equipos del mercado
             </p>
         </article>
+        <article class="post redes-post">
+            <a href="https://www.youtube.com/@naseros" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Professor Messor</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal con muy buenos cursos de networking, usar 
+                contenido tambien como index.
+            </p>
+        </article>
+        <article class="post redes-post">
+            <a href="https://www.youtube.com/@naseros" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">NetworkChuck</h2>
+            <img src="https://m0rfe00.github.io/Blog-Lucas/imagenes/" class="img-post">
+        </a>
+            <p class="parrafo-post">
+                Canal con muy buenos cursos de networking y linux, usar 
+                contenido tambien como index.
+            </p>
+        </article>
         <article class="post hardware-post">
             <a href="https://www.youtube.com/@NateGentile7" class="enlace-post" target="_blank">
                 <h2 class="titulo-post">Nate Gentile</h2>

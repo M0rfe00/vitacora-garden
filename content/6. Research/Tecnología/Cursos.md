@@ -7,15 +7,19 @@ tags:
 # CURSOS HACKING
 ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=muMottcAm2MmooX2&amp;list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V&si=Npc80vZIlW-K3qSp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=78DT0iR4reVSnIf-&amp;list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u&si=boQQ4pieg4bmKKSZ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RFuW65bytxdr_RTr&amp;list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktIX6AYe-rKCglJQSJCqDxi&si=V0nVJhJ_wSllVVe8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxghML8aprSl8nGi&amp;list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5&si=3u9f66pPQSeNIbxE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=q90q5g7JOTSW23tD&amp;list=PLHjuPxrwcdsZuMRWmZa-BAbT-QZCOmir2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -45,15 +49,26 @@ Playlist: https://youtube.com/playlist?list=PLwDy-UjR-HbvP4l7IVr2B9UcKxQI6VB3b&s
 
 # LINUX
 ___
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/6WatcfENsOU?si=3gS4C_sV8NtsQpP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/cqfl38Ip1ho?si=i10lxSPZv-kygEkF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/ZtqBQ68cfJc?si=KZdHuHLel6RN-P_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/videoseries?si=bxBz1vgjPDFtUypE&amp;list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe style="width:100%; aspect-ratio:16/9; height:auto;" src="https://www.youtube.com/embed/ug8W0sFiVJo?si=LnbKQAPBHCThEVTj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh&si=5QqyZNdiTQUvWmHO
 
 # CMD
 ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JSgOfLEXxcM-_adI&amp;list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM&si=bVYKAZtBuaikAfVQ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDCluJmhX_3nLvGD&amp;list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Playlist: https://youtube.com/playlist?list=PL1UnfB2evouE1IgBu0CP9H-ANBOmahbni&si=xvLxr6-n90HnZGlX
 
 # CURSOS CYBERSEGURIDAD - MASTERMING
@@ -182,10 +197,32 @@ ___
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=fqfAECvBq4JG_J1a&amp;list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS&si=NMZGDdEh943RXr6l
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=eZuxyidXSU7K-j4k&amp;list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=zvadpMkJLAvQ9HKR
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PUZzWV26BM5pr5Jr&amp;list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&si=R0AGt5NZkWFCirKw
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=LvAQneUZAop79NC3&amp;list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&si=pndF2MeczydSEwaO
+
 
 
 # CURSOS REDES
 ___
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9_2bAmdKBJ9PoAAp&amp;list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X0bn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkixh3B2qU_tkzZri-3X0bn&si=BfJbq_weSailyJ9W
+Website: https://www.professormesser.com/network-plus/
+
 <section id="principal"> <!--Secion general, post y sidebar-->
     <section id="publicaciones"> <!--secion de los post-->
         <article class="post programacion-post">
@@ -230,6 +267,39 @@ ___
             </p>
             <p class="parrafo-post">
                 Comandos básicos para trabajar con Packet Tracer.
+            </p>
+        </article>
+        <article class="post programacion-post">
+            <a href="https://elportafoliodelasredes.wordpress.com/2015/07/29/comandos-basicos-para-trabajar-con-packet-tracer/" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">CyberFlow academy</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Academia de cursos, tambien videos gratis en youtube
+            </p>
+        </article>
+                <article class="post programacion-post">
+            <a href="N/A" class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Cisco networking academy courses</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Cursos oficiales de Cisco
+            </p>
+        </article>
+                       <article class="post programacion-post">
+            <a href="https://linuxjourney.com/ " class="enlace-post" target="_blank">
+                <h2 class="titulo-post">Linux Journey</h2>
+            <img src="N/A" class="img-post">
+        </a>
+            <p class="info-post">
+            </p>
+            <p class="parrafo-post">
+                Cursos practicos de linux
             </p>
         </article>
     </section><!--Esta etiqueta cierra la seccion de publicaciones -->
