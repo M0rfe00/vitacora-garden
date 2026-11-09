@@ -52,7 +52,7 @@ ___
 
 ==Hechizo:== Un **hechizo** se entiende como un conjunto de símbolos y palabras que al ser dichas, leídas o cantadas en un orden especifico alteran la realidad, el comportamiento y el destino de las personas.
 
-==**Des-esoterización de los rituales:**== La magia no es algo esotérico/inexplicable como es representada en la fantasia, si no que al contrario, a diario realizamos multitud de rituales mágicos que no consideramos como tal al no estar envueltas en un aura mística y ser cosas cotidianas sin embargo cambian de igual forma el destino, el comportamiento y la realidad.
+**==Des-esoterización de los rituales:==** La magia no es algo esotérico/inexplicable como es representada en la fantasia, si no que al contrario, a diario realizamos multitud de rituales mágicos que no consideramos como tal al no estar envueltas en un aura mística y ser cosas cotidianas sin embargo cambian de igual forma el destino, el comportamiento y la realidad.
 
 ==Palabras cambiando el mundo:== Cuando un juez golpea la mesa con su mazo, ese ritual y la sentencia bendicen o maldicen a un acusado, cuando un artista como un cantante en concierto realiza su ritual (baila, canta o actúa) y el público pierde el control y entran en éxtasis han sido hechizados, si alguien te provoca insultándote o te susurra unas palabras que te seducen modificando tu comportamiento, tu estado de animo y tus sentimientos has sido hechizado, cuando un notario firma un documento y un bien pasa a ser propiedad de alguien o crea una entidad de la nada, la propia realidad ha sido alterada por un contrato y sus letras, firmas y formalismos, lo que no deja de ser un conjunto de símbolos o una especie de conjuro.
 
@@ -105,13 +105,13 @@ En resumen, lo que pide es que; ==de lo que no se puede hablar hay que callar.==
 
 ## Valor del Silencio
 ___
-==**Significado:**== La frase "De lo que no se puede hablar es mejor callar" quiere decir que  El lenguaje humano solo sirve para describir hechos del mundo real. La filosofía no debería existir, es decir, que todo lo que esta más allá de la lógica, como ética, estética, metafísica, sentido de la vida..., todas esas preguntas de las que no vamos a conocer la respuesta nunca, no se puede hablar ya que no puede explicarse con palabras y debemos aceptarlo en silencio.
+**==Significado:==** La frase "De lo que no se puede hablar es mejor callar" quiere decir que  El lenguaje humano solo sirve para describir hechos del mundo real. La filosofía no debería existir, es decir, que todo lo que esta más allá de la lógica, como ética, estética, metafísica, sentido de la vida..., todas esas preguntas de las que no vamos a conocer la respuesta nunca, no se puede hablar ya que no puede explicarse con palabras y debemos aceptarlo en silencio.
 
-==**Limites del lenguaje:**== Solo podemos dar sentido a lo que se puede decir de forma clara mediante hechos.
+**==Limites del lenguaje:==** Solo podemos dar sentido a lo que se puede decir de forma clara mediante hechos.
 
-==**Lo inexpresable:**== Cosas importantes como Dios, el bien o el valor de la vida no entran en la lógica de las palabras.
+**==Lo inexpresable:==** Cosas importantes como Dios, el bien o el valor de la vida no entran en la lógica de las palabras.
 
-==**Valor del silencio:**== Callar no es olvidar, sino reconocer que hay verdades profundas que se sienten o se muestran, pero no se explican hablando.
+**==Valor del silencio:==** Callar no es olvidar, sino reconocer que hay verdades profundas que se sienten o se muestran, pero no se explican hablando.
 
 ## Juegos del lenguaje
 ___
@@ -234,14 +234,14 @@ La naturaleza de las cosas no se puede describir, solo se puede experimentar y e
 >
 >Ni difícil ni imposible. Meramente inútil. Hay cosas que solo pueden deducirse. . Por cierto, tu respuesta debería haber sido «la música».
 >
-—La música se explica por sí sola. Es el camino y es el mapa que enseña el camino. Es ambas cosas a la vez. 
+>—La música se explica por sí sola. Es el camino y es el mapa que enseña el camino. Es ambas cosas a la vez. 
 >
 >—Pero ¿puedes explicar cómo funciona la música?
 > —Por supuesto, afirmé, aunque no estaba seguro, ni mucho menos.
 >
 >—¿Puedes explicar cómo funciona la música sin utilizar la música? Me quedé cortado. Mientras pensaba qué podía contestar, Elodin se volvió hacia Fela.
 >
-—¿El amor? —preguntó ella. Elodin arqueó una ceja, como si esa respuesta lo escandalizara ligeramente; entonces asintió en señal de aprobación.
+>—¿El amor? —preguntó ella. Elodin arqueó una ceja, como si esa respuesta lo escandalizara ligeramente; entonces asintió en señal de aprobación.
 >
 >—Tenemos tres caminos 
 >—==Primero:== nuestros jóvenes enamorados pueden intentar expresar lo que sienten. Pueden intentar cantar eso que han oído cantar a sus corazones. 
@@ -283,7 +283,7 @@ La naturaleza de las cosas no se puede describir, solo se puede experimentar y e
   >
   >Le expliqué lo de la Hoja que Gira. Que había aprendido a dirigir mis pensamientos hacia un lugar vacío, ligero e ingrávido donde las respuestas a sus preguntas llegaban fácilmente.
   >
-  —De modo que te has robado a ti mismo las respuestas
+>—De modo que te has robado a ti mismo las respuestas
 >—. Nos has engañado a todos extrayendo las respuestas de tu propia mente. 
 >
 >—No me has entendido. ¡No tengo ni la menor idea de qué es el Lethani! No es un camino, pero ayuda a escoger un camino. Es la vía más sencilla, pero no es fácil verlo. Sinceramente, los adem parecéis cartógrafos borrachos. Lamenté haberlo dicho tan pronto como las palabras salieron de mi boca, pero Vashet se limitó a reír. 
