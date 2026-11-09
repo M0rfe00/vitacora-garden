@@ -7,7 +7,7 @@ Jackson Pollock would clear his mind, and his hand would go wherever it wanted; 
 _““If he had reversed his approach, the challenge, if instead of making art without thinking he had decided not to paint anything unless he knew exactly why he was doing it, not a single stroke would have been painted, the challenge isn’t to act automatically; it’s to find an action that isn’t automatic, from painting, acting, and speaking to falling in love.””_ (Movie dialogue: Ex Machina)
 
 
-# The conscious and the mind
+# The conscious and the mind - KK Chronicles
 ___
 ### The heart of stone
 It is a state of absolute emotional detachment and extreme logical focus.
